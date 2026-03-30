@@ -88,7 +88,7 @@ header .subtitle { color: var(--text-secondary); font-size: 0.95rem; margin-top:
 /* ── Date Navigator ─────────────────── */
 .date-nav {
   display: flex; align-items: center; justify-content: center; gap: 16px;
-  margin-bottom: 36px; flex-wrap: wrap;
+  margin-bottom: 36px; flex-wrap: wrap; position: relative; z-index: 100;
 }
 .date-nav .nav-btn {
   width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--border);
@@ -107,8 +107,8 @@ header .subtitle { color: var(--text-secondary); font-size: 0.95rem; margin-top:
 .date-nav .date-list {
   position: absolute; top: 48px; left: 50%; transform: translateX(-50%);
   background: var(--bg-secondary); border: 1px solid var(--border); border-radius: var(--radius-sm);
-  padding: 8px 0; min-width: 180px; max-height: 320px; overflow-y: auto; z-index: 50;
-  display: none; box-shadow: 0 12px 40px rgba(0,0,0,0.5);
+  padding: 8px 0; min-width: 200px; max-height: 320px; overflow-y: auto; z-index: 999;
+  display: none; box-shadow: 0 12px 40px rgba(0,0,0,0.6);
 }
 .date-nav .date-list.open { display: block; }
 .date-nav .date-list button {
@@ -401,17 +401,20 @@ function buildDateList() {
     const dt = new Date(d + 'T00:00:00');
     btn.textContent = d + ' 周' + weekdays[dt.getDay()];
     if (i === currentIdx) btn.classList.add('active');
-    btn.onclick = () => { list.classList.remove('open'); loadDay(d); };
+    btn.onclick = (e) => { e.stopPropagation(); list.classList.remove('open'); loadDay(d); };
     list.appendChild(btn);
   });
 }
 
 // ── Navigation ──
-document.getElementById('currentDate').onclick = () => {
+document.getElementById('currentDate').onclick = (e) => {
+  e.stopPropagation();
   document.getElementById('dateList').classList.toggle('open');
 };
 document.addEventListener('click', e => {
-  if (!e.target.closest('.date-nav')) document.getElementById('dateList').classList.remove('open');
+  if (!e.target.closest('#dateList') && !e.target.closest('#currentDate')) {
+    document.getElementById('dateList').classList.remove('open');
+  }
 });
 document.getElementById('prevBtn').onclick = () => {
   if (currentIdx < manifest.dates.length - 1) loadDay(manifest.dates[currentIdx + 1]);
