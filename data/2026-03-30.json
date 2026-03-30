@@ -1,19 +1,18 @@
 {
  "date": "2026-03-30",
- "generated_at": "2026-03-30 11:44",
- "total": 67,
+ "generated_at": "2026-03-30 12:26",
+ "total": 53,
  "sources": [
-  "36氪",
+  "InfoQ 中文",
+  "TechCrunch AI",
+  "量子位",
   "The Verge AI",
   "MIT Tech Review",
-  "量子位",
-  "InfoQ 中文",
-  "36氪 AI",
-  "TechCrunch AI",
+  "36氪",
   "Wired AI"
  ],
  "summary": {
-  "overview": "今日共采集 67 篇 AI 相关资讯（国内 44 篇，海外 23 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI 视频与多模态、开源与社区。最受关注：「「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作...」。",
+  "overview": "今日共采集 53 篇 AI 相关资讯（国内 30 篇，海外 23 篇）。热门话题集中在：大模型发布、AI Agent、AI 硬件与芯片、AI 视频与多模态。最受关注：「「微元合成」获3亿元A+轮融资，联合发布AI生物计算开放合作...」。",
   "highlights": [
    {
     "tag": "🔴",
@@ -37,21 +36,32 @@
    },
    {
     "tag": "🔴",
+    "text": "**[36氪]** 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复 — 36氪获悉，3月30日，据GitHub社区最新消息，蚂蚁AI安全实验室近期对开源自主智能体框架OpenClaw进行了专项安全审计。在为期三天的深度检测中，团队共提交了33个安全漏洞报告。其中，OpenClaw已在最新发布的2026.3.28版本中确认并修复了8个漏洞，包括1个严重级别漏洞、4个高危漏"
+   },
+   {
+    "tag": "🔴",
     "text": "**[The Verge AI]** Suno leans into customization with v5.5 — Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and cre"
    },
    {
     "tag": "🔵",
     "text": "**[Wired AI]** AI Research Is Getting Harder to Separate From Geopolitics — A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then"
-   },
-   {
-    "tag": "🟠",
-    "text": "**[TechCrunch AI]** Elon Musk’s last co-founder reportedly leaves xAI — All but two of Musk's 11 xAI co-founders departed before this week."
    }
   ],
-  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI 视频与多模态展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
-  "raw_text": "[智能提取摘要] 基于 67 篇文章的关键词分析和重要性排序自动生成。"
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent、AI 硬件与芯片展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 53 篇文章的关键词分析和重要性排序自动生成。"
  },
  "items": [
+  {
+   "title": "记忆驱动的 DevOps Agent：从经验沉淀到自动化技能进化的工程实践｜QCon北京",
+   "url": "https://www.infoq.cn/article/sxxIEeo332F2st6I1RwC?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-30T11:56:30+00:00",
+   "age_label": "-449分钟前",
+   "tags": [],
+   "image": ""
+  },
   {
    "title": "全网疯传！Claude最新模型意外曝光：全面碾压Opus 4.6，强到让Anthropic不敢发布",
    "url": "https://www.infoq.cn/article/xqbRhE3BteB7wqJKIhI1?utm_source=rss&utm_medium=article",
@@ -59,7 +69,7 @@
    "platform": "infoq",
    "summary": "点击查看原文>",
    "published": "2026-03-30T10:46:08+00:00",
-   "age_label": "-421分钟前",
+   "age_label": "-379分钟前",
    "tags": [],
    "image": ""
   },
@@ -70,7 +80,7 @@
    "platform": "infoq",
    "summary": "点击查看原文>",
    "published": "2026-03-30T10:03:26+00:00",
-   "age_label": "-379分钟前",
+   "age_label": "-336分钟前",
    "tags": [],
    "image": ""
   },
@@ -81,8 +91,60 @@
    "platform": "infoq",
    "summary": "点击查看原文>",
    "published": "2026-03-30T10:00:00+00:00",
-   "age_label": "-375分钟前",
+   "age_label": "-333分钟前",
    "tags": [],
+   "image": ""
+  },
+  {
+   "title": "蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复",
+   "url": "https://36kr.com/newsflashes/3744930102149120?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，3月30日，据GitHub社区最新消息，蚂蚁AI安全实验室近期对开源自主智能体框架OpenClaw进行了专项安全审计。在为期三天的深度检测中，团队共提交了33个安全漏洞报告。其中，OpenClaw已在最新发布的2026.3.28版本中确认并修复了8个漏洞，包括1个严重级别漏洞、4个高危漏洞和3个中危漏洞。蚂蚁集团表示，将持续关注OpenClaw的安全风险，为产业界安全、稳健地应用AI智能体提供支持。",
+   "published": "2026-03-30T04:19:53+00:00",
+   "age_label": "6分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "人工智能赋能监测监管，生态环境治理迈入智能化新阶段",
+   "url": "https://36kr.com/newsflashes/3744905783050498?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "人工智能正在成为生态环境保护的好帮手。生态环境部今天（3月30日）在新闻发布会上介绍，近年来，我国已将人工智能、大数据等技术深度应用到生态监测和环境执法中，取得实实在在的成效。（央视新闻）",
+   "published": "2026-03-30T03:55:09+00:00",
+   "age_label": "31分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "60%用户还在乱养虾！9位大神亮招：有人多赚一笔钱，有人多睡1小时｜量子位沙龙",
+   "url": "https://www.qbitai.com/2026/03/393244.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "最野生最新鲜的实战方案奉上",
+   "published": "2026-03-30T03:49:08+00:00",
+   "age_label": "37分钟前",
+   "tags": [
+    "资讯",
+    "OpenClaw",
+    "养虾",
+    "龙虾"
+   ],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek网页版大升级！随后宕机11小时崩上热搜，新模型真的来了",
+   "url": "https://www.qbitai.com/2026/03/393235.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "在龙虾时代沉默了好久的DeepSeek，似乎在憋个大的",
+   "published": "2026-03-30T03:33:58+00:00",
+   "age_label": "52分钟前",
+   "tags": [
+    "资讯",
+    "Deepseek"
+   ],
    "image": ""
   },
   {
@@ -92,7 +154,7 @@
    "platform": "36kr",
    "summary": "36氪获悉，领益智造发布《致股东信》称，2026年，公司将继续深耕智能制造核心赛道，巩固在AI硬件领域的领先优势，加速AI终端、人形机器人、AI服务器、汽车及低空经济等新赛道布局，推动新的增长引擎。",
    "published": "2026-03-30T03:22:58+00:00",
-   "age_label": "21分钟前",
+   "age_label": "1小时前",
    "tags": [],
    "image": ""
   },
@@ -103,7 +165,7 @@
    "platform": "36kr",
    "summary": "36氪获悉，爱企查App显示，近日，纪元创新（深圳）科技技术有限公司成立，法定代表人为杨进，注册资本为2亿元人民币，经营范围包括人工智能双创服务平台、人工智能基础软件开发、软件开发、人工智能应用软件开发等。股东信息显示，该公司由TCL王牌电器（惠州）有限公司、TCL科技集团股份有限公司等共同持股。",
    "published": "2026-03-30T03:13:08+00:00",
-   "age_label": "31分钟前",
+   "age_label": "1小时前",
    "tags": [],
    "image": ""
   },
@@ -114,7 +176,7 @@
    "platform": "techcrunch",
    "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
    "published": "2026-03-30T03:09:38+00:00",
-   "age_label": "34分钟前",
+   "age_label": "1小时前",
    "tags": [
     "AI",
     "TC",
@@ -148,17 +210,6 @@
     "安全",
     "通付盾"
    ],
-   "image": ""
-  },
-  {
-   "title": "千问开启AI体验活动，邀用户评价反馈、推动AI进化",
-   "url": "https://36kr.com/newsflashes/3744811291312131?f=rss",
-   "source": "36氪",
-   "platform": "36kr",
-   "summary": "近期，千问密集上线AI打车、AI充话费等一系列“AI办事”新能力。3月30日，千问启动AI体验活动，邀请用户成为AI体验官，对新上线的“AI办事”做出反馈，共同推动AI能力的持续进化。以AI充话费为例，用户只需说一句“帮我手机充200”，即可完成充值。未来，千问还会提供更多记忆与主动服务，如记住全家手机号、在余额不足时自动充值，或每月定时充值。",
-   "published": "2026-03-30T02:19:02+00:00",
-   "age_label": "1小时前",
-   "tags": [],
    "image": ""
   },
   {
@@ -199,7 +250,7 @@
    "platform": "36kr",
    "summary": "36氪获悉，2026年3月，「微元合成」完成3亿元A+轮融资，由河南投资集团汇融基金和谭瑞清先生参与投资。本轮融资将助力微元合成拓宽AI生物计算应用边界，加大核心技术研发投入与场景化落地。 据介绍，此前，河南投资集团已完成AI基础设施产业的深度布局，从投资芯片、控股超大规模算力，到全面整合HALO资产，为AI场景应用的落地提供了电力与算力支持。值得关注的是，本轮投资人谭瑞清为复旦大学校董及化学系校友会会长、A股知名上市公司龙佰集团联合创始人、前任副董事长，深耕化工行业创业、投资三十余年。 在生命科学全面迈入AI4S时代，蛋白质结构预测与设计等底层技术突破，正改变着生物制造行业的研发范式。当前，...",
    "published": "2026-03-30T00:00:00+00:00",
-   "age_label": "3小时前",
+   "age_label": "4小时前",
    "tags": [],
    "image": ""
   },
@@ -210,7 +261,7 @@
    "platform": "theverge",
    "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protoc...",
    "published": "2026-03-29T21:44:41+00:00",
-   "age_label": "5小时前",
+   "age_label": "6小时前",
    "tags": [
     "AI",
     "News",
@@ -242,7 +293,7 @@
    "platform": "qbitai",
    "summary": "相关能力已远超人们预期，且正在指数级增长",
    "published": "2026-03-29T16:17:28+00:00",
-   "age_label": "11小时前",
+   "age_label": "12小时前",
    "tags": [
     "资讯",
     "Claude",
@@ -257,7 +308,7 @@
    "platform": "qbitai",
    "summary": "用34条经验破解现代代码模型训练瓶颈",
    "published": "2026-03-29T16:11:35+00:00",
-   "age_label": "11小时前",
+   "age_label": "12小时前",
    "tags": [
     "资讯",
     "模型训练"
@@ -271,7 +322,7 @@
    "platform": "qbitai",
    "summary": "还能2D、3D无缝联动",
    "published": "2026-03-29T16:08:53+00:00",
-   "age_label": "11小时前",
+   "age_label": "12小时前",
    "tags": [
     "资讯",
     "3D设计",
@@ -286,7 +337,7 @@
    "platform": "qbitai",
    "summary": "属于全民Agent的时代，才算真正拉开了序幕",
    "published": "2026-03-29T15:21:42+00:00",
-   "age_label": "12小时前",
+   "age_label": "13小时前",
    "tags": [
     "资讯",
     "首页轮播",
@@ -302,7 +353,7 @@
    "platform": "infoq",
    "summary": "点击查看原文>",
    "published": "2026-03-29T15:00:00+00:00",
-   "age_label": "12小时前",
+   "age_label": "13小时前",
    "tags": [],
    "image": ""
   },
@@ -313,7 +364,7 @@
    "platform": "36kr",
    "summary": "在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。 长期以来，国际会议翻译领域始终受困于部署繁琐、成本高昂、语种覆盖有限、实时传递滞后等核心痛点。尤其在大型论坛、专业峰会等高端跨语言交流场景中，传统同传模式更受限于包厢搭建、接收设备调试、专业人工译员稀缺及会场信号不稳定等多重因素...",
    "published": "2026-03-29T10:07:47+00:00",
-   "age_label": "17小时前",
+   "age_label": "18小时前",
    "tags": [],
    "image": ""
   },
@@ -324,7 +375,7 @@
    "platform": "infoq",
    "summary": "点击查看原文>",
    "published": "2026-03-29T10:00:00+00:00",
-   "age_label": "17小时前",
+   "age_label": "18小时前",
    "tags": [],
    "image": ""
   },
@@ -354,35 +405,6 @@
     "资讯",
     "AI for EDA",
     "论芯科技"
-   ],
-   "image": ""
-  },
-  {
-   "title": "海淀AI，集体开弓：少年极客、中年创客与ICU归来者",
-   "url": "https://www.qbitai.com/2026/03/392996.html",
-   "source": "量子位",
-   "platform": "qbitai",
-   "summary": "最强大脑，海淀集结",
-   "published": "2026-03-29T01:09:41+00:00",
-   "age_label": "1天前",
-   "tags": [
-    "资讯",
-    "首页轮播",
-    "海淀AI"
-   ],
-   "image": ""
-  },
-  {
-   "title": "风云G会圆满落幕 共绘GEO行业可信协同发展新蓝图",
-   "url": "https://www.qbitai.com/2026/03/393079.html",
-   "source": "量子位",
-   "platform": "qbitai",
-   "summary": "为数字经济繁荣与AI时代信息文明建设贡献更大力量。",
-   "published": "2026-03-29T01:07:49+00:00",
-   "age_label": "1天前",
-   "tags": [
-    "资讯",
-    "信通院"
    ],
    "image": ""
   },
@@ -659,17 +681,6 @@
    "image": ""
   },
   {
-   "title": "AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌",
-   "url": "https://www.infoq.cn/article/xic3EKabhq6RYYa9mNIP?utm_source=rss&utm_medium=article",
-   "source": "InfoQ 中文",
-   "platform": "infoq",
-   "summary": "点击查看原文>",
-   "published": "2026-03-27T16:20:05+00:00",
-   "age_label": "2天前",
-   "tags": [],
-   "image": ""
-  },
-  {
    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
    "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
    "source": "TechCrunch AI",
@@ -780,171 +791,6 @@
     "App",
     "The Checkup"
    ],
-   "image": ""
-  },
-  {
-   "title": "「龙虾之父」吐槽人类互联网后，终于有人把这当个事儿办了",
-   "url": "https://36kr.com/p/3744856216846339",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "DeepSeek修复故障，此前“已读不回”上热搜",
-   "url": "https://36kr.com/p/3744868940726278",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "一组隐秘的数据，揭开了Sora失败的真相",
-   "url": "https://36kr.com/p/3744851838451712",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "从Sora关停说起：内容创作死于2026",
-   "url": "https://36kr.com/p/3741171749106178",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "“养虾热”终于还是要退潮了",
-   "url": "https://36kr.com/p/3741149502685447",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "机器人行业的终局，不是寡头，而是生态",
-   "url": "https://36kr.com/p/3744819563393792",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "美国开源AI最后的旗帜，也倒了",
-   "url": "https://36kr.com/p/3744774263095560",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "被21家顶级VC拒绝的Anthropic：AI史上最昂贵的一次「看走眼」",
-   "url": "https://36kr.com/p/3744768786841865",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "裁员这个锅，AI表示不背",
-   "url": "https://36kr.com/p/3741847154835458",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "这次，我们不再需要海外对标",
-   "url": "https://36kr.com/p/3744821877342217",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "谷歌的龙虾，名叫“史密斯特工”，《黑客帝国》真降临了？",
-   "url": "https://36kr.com/p/3742472729244421",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "机器人开源革命：“免费大脑”背后的四派力量与博弈",
-   "url": "https://36kr.com/p/3741913909474056",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "Token 要成新货币了，但你真的知道它是什么吗？",
-   "url": "https://36kr.com/p/3744751375315716",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "哈萨比斯为何能率领谷歌DeepMind反超OpenAI？",
-   "url": "https://36kr.com/p/3742411296354822",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
-   "image": ""
-  },
-  {
-   "title": "飞书、钉钉开源CLI，Agent开放路径走向分岔",
-   "url": "https://36kr.com/p/3743341769945861",
-   "source": "36氪 AI",
-   "platform": "36kr",
-   "summary": "",
-   "published": null,
-   "age_label": "",
-   "tags": [],
    "image": ""
   }
  ]
