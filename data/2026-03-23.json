@@ -1,0 +1,100 @@
+{
+ "date": "2026-03-23",
+ "generated_at": "2026-03-30 14:56",
+ "total": 4,
+ "sources": [
+  "IEEE Spectrum",
+  "The Guardian Tech"
+ ],
+ "summary": {
+  "overview": "今日共采集 4 篇 AI 相关资讯（国内 0 篇，海外 4 篇）。最受关注：「iPhone 17e review: Apple upgra...」。",
+  "highlights": [
+   {
+    "tag": "🔵",
+    "text": "**[The Guardian Tech]** iPhone 17e review: Apple upgrades its cheapest new smartphone — Mid-range handset gets chip, storage and MagSafe upgrades to offer more essential iOS features for less The cheapest new iPhone has been upgraded for "
+   },
+   {
+    "tag": "🔵",
+    "text": "**[IEEE Spectrum]** Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation Edition — This is a sponsored article brought to you by PNY Technologies . In today’s data-driven world, data scientists face mounting challenges in preparing, "
+   },
+   {
+    "tag": "🔵",
+    "text": "**[IEEE Spectrum]** Why Thermal Metrology Must Evolve for Next-Generation Semiconductors — An in-depth examination of how rising power density, 3D integration, and novel materials are outpacing legacy thermal measurement — and what advanced "
+   },
+   {
+    "tag": "🔵",
+    "text": "**[The Guardian Tech]** We Know You Can Pay a Million by Anja Shortland review – the terrifying new world of ransomware — Criminals extorting money online have created huge businesses, complete with branding and HR The birth of ransomware was a stunt that got out of hand."
+   }
+  ],
+  "trend": "海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 4 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "Transforming Data Science With NVIDIA RTX PRO 6000 Blackwell Workstation Edition",
+   "url": "https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "This is a sponsored article brought to you by PNY Technologies . In today’s data-driven world, data scientists face mounting challenges in preparing, scaling, and processing massive datasets. Traditional CPU-based systems are no longer sufficient to meet the demands of modern AI and analytics workfl...",
+   "published": "2026-03-23T13:00:04+00:00",
+   "age_label": "6天前",
+   "tags": [
+    "Artificial-intelligence",
+    "Computing",
+    "Data-science",
+    "Gpu-acceleration",
+    "Ai-workstations"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/computer-setup-with-a-monitor-displaying-forest-graphics-keyboard-mouse-and-a-sleek-cpu-design.png?id=65315285&width=980"
+  },
+  {
+   "title": "Why Thermal Metrology Must Evolve for Next-Generation Semiconductors",
+   "url": "https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "An in-depth examination of how rising power density, 3D integration, and novel materials are outpacing legacy thermal measurement — and what advanced metrology must deliver. What Attendees will Learn Why heat is now the dominant constraint on semiconductor scaling — Explore how heterogeneous integra...",
+   "published": "2026-03-23T10:00:04+00:00",
+   "age_label": "6天前",
+   "tags": [
+    "Semiconductors",
+    "Thermal-management",
+    "Scaling",
+    "Type-whitepaper"
+   ],
+   "image": "https://assets.rbl.ms/65320713/origin.png"
+  },
+  {
+   "title": "We Know You Can Pay a Million by Anja Shortland review – the terrifying new world of ransomware",
+   "url": "https://www.theguardian.com/books/2026/mar/23/we-know-you-can-pay-a-million-by-anja-shortland-review-the-terrifying-new-world-of-ransomware",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Criminals extorting money online have created huge businesses, complete with branding and HR The birth of ransomware was a stunt that got out of hand. In 1989, an evolutionary biologist called Joseph L Popp Jr was working part time for the World Health Organisation on the Aids epidemic. He was a dif...",
+   "published": "2026-03-23T07:00:44+00:00",
+   "age_label": "6天前",
+   "tags": [
+    "Science and nature books",
+    "Books",
+    "Technology",
+    "Cybercrime"
+   ],
+   "image": "https://i.guim.co.uk/img/media/39b7f9c9fe1cf38923e690460a5e5da0f04c36ad/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=0916b718eea70ebe1ddcc47f0ed9113f"
+  },
+  {
+   "title": "iPhone 17e review: Apple upgrades its cheapest new smartphone",
+   "url": "https://www.theguardian.com/technology/2026/mar/23/iphone-17e-review-apple-cheapest-new-smartphone-chip-magsafe-storage",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Mid-range handset gets chip, storage and MagSafe upgrades to offer more essential iOS features for less The cheapest new iPhone has been upgraded for this year with a faster chip, double the storage, automatic portraits and MagSafe, providing even more of the core Apple smartphone experience for les...",
+   "published": "2026-03-23T07:00:44+00:00",
+   "age_label": "6天前",
+   "tags": [
+    "iPhone",
+    "Apple",
+    "Smartphones",
+    "Technology",
+    "iOS"
+   ],
+   "image": "https://i.guim.co.uk/img/media/c24cd1991237dc4ded988fa709ca35c97de9c9ab/857_272_5250_4198/master/5250.jpg?width=140&quality=85&auto=format&fit=max&s=9256f50bf7ef150da0825bd66bf18521"
+  }
+ ]
+}

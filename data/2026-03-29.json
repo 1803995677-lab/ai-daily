@@ -1,13 +1,15 @@
 {
  "date": "2026-03-29",
  "generated_at": "2026-03-30 12:48",
- "total": 11,
+ "total": 25,
  "sources": [
-  "量子位",
-  "36氪",
-  "InfoQ 中文",
   "The Verge AI",
-  "TechCrunch AI"
+  "TechCrunch AI",
+  "量子位",
+  "Wired AI",
+  "MIT Tech Review",
+  "InfoQ 中文",
+  "36氪"
  ],
  "summary": {
   "overview": "今日共采集 11 篇 AI 相关资讯（国内 9 篇，海外 2 篇）。热门话题集中在：大模型发布、AI Agent、AI 视频与多模态。最受关注：「Bluesky’s new app is an AI for...」。",
@@ -200,6 +202,220 @@
     "资讯",
     "AI for EDA",
     "论芯科技"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+   "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+   "published": "2026-03-27T21:46:39+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Business",
+    "Made in China",
+    "China",
+    "research",
+    "artificial intelligence"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+   "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+   "published": "2026-03-27T21:44:45+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Venture",
+    "Goldman Sachs",
+    "IPO",
+    "jp morgan"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+   "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+   "published": "2026-03-27T19:11:28+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "Hardware",
+    "IPOs",
+    "memory"
+   ],
+   "image": ""
+  },
+  {
+   "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
+   "url": "https://www.infoq.cn/article/cuHaMeYSqw3dOYHW1P8A?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-27T18:52:19+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The latest in data centers, AI, and energy",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.  From...",
+   "published": "2026-03-27T18:35:53+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Energy",
+    "Environment",
+    "News",
+    "Science"
+   ],
+   "image": ""
+  },
+  {
+   "title": "1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码",
+   "url": "https://www.infoq.cn/article/WryxXgBQWKB29rkoxuLo?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-27T18:30:30+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦",
+   "url": "https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-27T16:37:20+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+   "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting t...",
+   "published": "2026-03-27T15:40:19+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Fundraising",
+    "Startups",
+    "drones",
+    "Kleiner Perkins"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Apple Still Plans to Sell iPhones When It Turns 100",
+   "url": "https://www.wired.com/story/apple-50-year-anniversary-artificial-intelligence-iphone/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "As the tech giant turns 50, WIRED spoke to executives about how they plan to win in the AI era.",
+   "published": "2026-03-27T15:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Business",
+    "Business / Tech Culture",
+    "Backchannel - NL",
+    "apple",
+    "tim cook"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+   "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting t...",
+   "published": "2026-03-27T13:30:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Social",
+    "Startups",
+    "app shutdown",
+    "drones"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+   "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app  The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’...",
+   "published": "2026-03-27T12:32:54+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "The Download"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
+   "url": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
+   "published": "2026-03-27T11:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Culture",
+    "Culture / Movies",
+    "artificial intelligence",
+    "Movies",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+   "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+   "published": "2026-03-27T10:30:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Gear",
+    "Gear / Gear News and Events",
+    "Gear / Products / Apps",
+    "artificial intelligence",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+   "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And before he died, he decided to have his brain preserve...",
+   "published": "2026-03-27T09:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Biotechnology and health",
+    "App",
+    "The Checkup"
    ],
    "image": ""
   }

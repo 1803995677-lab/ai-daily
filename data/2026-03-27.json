@@ -1,20 +1,29 @@
 {
  "date": "2026-03-27",
- "generated_at": "2026-03-30 12:48",
- "total": 14,
+ "generated_at": "2026-03-30 14:56",
+ "total": 47,
  "sources": [
-  "MIT Tech Review",
-  "InfoQ 中文",
-  "The Verge AI",
+  "Hacker News",
+  "IEEE Spectrum",
   "Wired AI",
-  "TechCrunch AI"
+  "The Guardian Tech",
+  "The Verge AI",
+  "Engadget",
+  "MIT Tech Review",
+  "TechCrunch AI",
+  "InfoQ 中文",
+  "CNBC Tech"
  ],
  "summary": {
-  "overview": "今日共采集 14 篇 AI 相关资讯（国内 3 篇，海外 11 篇）。热门话题集中在：AI 监管与政策、大模型发布、开源与社区、AI 硬件与芯片。最受关注：「Memory chip giant SK hynix cou...」。",
+  "overview": "今日共采集 47 篇 AI 相关资讯（国内 2 篇，海外 45 篇）。热门话题集中在：大模型发布、AI 监管与政策、AI 视频与多模态、AI Agent。最受关注：「Memory chip giant SK hynix cou...」。",
   "highlights": [
    {
     "tag": "🔴",
     "text": "**[TechCrunch AI]** Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO — SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' me"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[The Verge AI]** Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban — After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its laws"
    },
    {
     "tag": "🔵",
@@ -33,22 +42,57 @@
     "text": "**[TechCrunch AI]** VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora? — When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that "
    },
    {
-    "tag": "🔵",
-    "text": "**[Wired AI]** The Latest AI Documentary Asks: Just How Scared Should We Be? — The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off th"
-   },
-   {
     "tag": "🟠",
-    "text": "**[TechCrunch AI]** OpenAI shuts down Sora while Meta gets shut out in court — When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that "
+    "text": "**[TechCrunch AI]** Anthropic wins injunction against Trump administration over Defense Department saga — A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company."
    },
    {
-    "tag": "🟡",
-    "text": "**[InfoQ 中文]** 1.9 万行 Claude 写的代码进入 Node.js 核心库！社区当场吵翻天，反对者呼吁封杀AI代码"
+    "tag": "🔴",
+    "text": "**[Hacker News]** A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\" — Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-c"
    }
   ],
-  "trend": "今日 AI 资讯主要围绕AI 监管与政策、大模型发布、开源与社区展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
-  "raw_text": "[智能提取摘要] 基于 14 篇文章的关键词分析和重要性排序自动生成。"
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 监管与政策、AI 视频与多模态展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 47 篇文章的关键词分析和重要性排序自动生成。"
  },
  "items": [
+  {
+   "title": "Why are executives enamored with AI, but ICs aren't?",
+   "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/ Comments URL: https://news.ycombinator.com/item?id=47549649 Points: 105 # Comments: 168",
+   "published": "2026-03-27T23:19:18+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Trump's Iran extension, DHS funding deal, Anthropic's injunction and more in Morning Squawk",
+   "url": "https://www.cnbc.com/2026/03/27/5-things-to-know-before-the-market-opens.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Here are five key things investors need to know to start the trading day.",
+   "published": "2026-03-27T22:56:14+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Verizon waives late fees for federal workers affected by partial DHS shutdown",
+   "url": "https://www.engadget.com/mobile/verizon-waives-late-fees-for-federal-workers-affected-by-partial-dhs-shutdown-221814382.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "Verizon will waive late fees and offer flexible payment arrangements for workers affected by the partial government shutdown. The carrier has made similar offers in the past, like during the COVID-19 pandemic when it gave customers extra mobile data at no additional cost. The Department of Homeland ...",
+   "published": "2026-03-27T22:18:14+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Politics & Government",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F067d716c-ff3e-45b9-a2d3-d7380c7a55a4&resize=1400%2C933&client=19f2b5e49a271b2bde77&signature=026fdfc5598500a406eaa45d9f92bae2e902d889"
+  },
   {
    "title": "AI Research Is Getting Harder to Separate From Geopolitics",
    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
@@ -84,6 +128,73 @@
    "image": ""
   },
   {
+   "title": "Kash Patel's personal email account was accessed by hackers linked to Iran",
+   "url": "https://www.engadget.com/cybersecurity/kash-patels-personal-email-account-was-accessed-by-hackers-linked-to-iran-212618474.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "A hacking group called Handala has gained access to FBI Director Kash Patel's email account, Reuters reports . The group published content from Patel's email on their website as proof, including photos of Patel \"sniffing and smoking cigars\" and \"making a face while taking a picture of himself in the...",
+   "published": "2026-03-27T21:26:18+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Internet & Networking Technology",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F333b3481-e921-4744-aff1-bdf1aca5a6ff&resize=1400%2C933&client=19f2b5e49a271b2bde77&signature=b429a26714394ef0b787559c085fadf9d0c3032c"
+  },
+  {
+   "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
+   "url": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/ Comments URL: https://news.ycombinator.com/item?id=47547849 Points: 57 # Comments: 4",
+   "published": "2026-03-27T20:30:35+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
+   "url": "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.",
+   "published": "2026-03-27T20:04:22+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "European Commission confirms data breach",
+   "url": "https://www.engadget.com/cybersecurity/european-commission-confirms-data-breach-200000982.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "The European Commission has announced that it suffered a cyber attack that affected \"cloud infrastructure hosting the Commission's web presence on the Europea.eu platform.\" While the attack has been contained, Bleeping Computer reports that the threat actor claiming to be behind it was able to take ...",
+   "published": "2026-03-27T20:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Internet & Networking Technology",
+    "Technology & Electronics",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2F4d93e9ba-59a0-41d5-8683-e13a248b887b&resize=1400%2C933&client=19f2b5e49a271b2bde77&signature=09a12a03f7ea27dc2fbf32a727d65cab2392a6a3"
+  },
+  {
+   "title": "Epstein victims sue Google and the Trump administration over alleged disclosure of personal information",
+   "url": "https://www.cnbc.com/2026/03/27/jeffrey-epstein-victims-sue-trump-administration-google.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "A lawsuit filed in Northern California alleges that Google's AI features generated contact information for Epstein victims.",
+   "published": "2026-03-27T19:57:35+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
    "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
    "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
    "source": "TechCrunch AI",
@@ -99,6 +210,40 @@
     "memory"
    ],
    "image": ""
+  },
+  {
+   "title": "Sony to hike PS5 prices by $100 as AI and Iran war push up memory chip costs",
+   "url": "https://www.theguardian.com/technology/2026/mar/27/sony-playstation-5-price-hike-ai-iran-war",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Updated prices of PlayStation 5 consoles to go into effect on 2 April as electronics makers face rising cost pressures Sony is raising global prices of its PlayStation 5 consoles, including a $100 increase in the US, marking its second hike in less than a year as the entertainment giant grapples wit...",
+   "published": "2026-03-27T19:08:06+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Technology",
+    "PlayStation 5",
+    "Sony",
+    "PlayStation",
+    "Games"
+   ],
+   "image": "https://i.guim.co.uk/img/media/44e536c78d72b9c878dcec3a6ef4dfefc36e0c89/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2cb17a243784b1699fc796e13704f6e"
+  },
+  {
+   "title": "Social Media Addiction Trial Should Lead to Platform Redesigns",
+   "url": "https://spectrum.ieee.org/social-media-trial",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "In a landmark case, a jury found this week that Meta and YouTube negligently designed their platforms and harmed the plaintiff, a 20-year-old woman referred to as Kaley G.M. The jury agreed with the plaintiff that social media is addictive and harmful and was deliberately designed to be that way. Th...",
+   "published": "2026-03-27T19:05:59+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Addiction",
+    "Screen-addiction",
+    "Internet-addiction",
+    "Facebook",
+    "Google"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/a-woman-in-a-pink-jacket-with-a-large-button-of-a-teenage-girl-affixed-to-it-stands-in-front-of-a-large-banner-with-the-names-an.jpg?id=65404697&width=980"
   },
   {
    "title": "非营利组织上线首个“AI 失业补助”：每月发 1000 美元，持续 1 年",
@@ -140,15 +285,122 @@
    "image": ""
   },
   {
-   "title": "AI 已能写 80% 代码，但 Agent 也有致命短板！OpenAI Codex 技术总监：问错了，比不会写更麻烦",
-   "url": "https://www.infoq.cn/article/bycqtv38Ng71KoUjC0bH?utm_source=rss&utm_medium=article",
-   "source": "InfoQ 中文",
-   "platform": "infoq",
-   "summary": "点击查看原文>",
-   "published": "2026-03-27T16:37:20+00:00",
+   "title": "Crunchyroll is now available as a channel in the Apple TV app",
+   "url": "https://www.engadget.com/entertainment/streaming/crunchyroll-is-now-available-as-a-channel-in-the-apple-tv-app-182500579.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "If you're still using Crunchyroll after its AI subtitle fiasco and subsequent price increase, there's a new way to watch. The anime streaming service is now available as a channel in the Apple TV app. That means you can subscribe and stream your favorite anime titles, all within Apple's video app. N...",
+   "published": "2026-03-27T18:25:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Software",
+    "Mobile Apps",
+    "Technology & Electronics",
+    "site|engadget",
+    "provider_name|Engadget"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fimg_0943-tp-edit_6124.jpg&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=ab01eba4b8e1abf69e46504520ce64e053dc252d"
+  },
+  {
+   "title": "IEEE Professional Development Suite Teaches In-Demand Skills",
+   "url": "https://spectrum.ieee.org/ieee-professional-development-suite",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "In today’s technological landscape, the only constant is the rate of obsolescence. As engineers move deeper into the eras of 6G, ubiquitous artificial intelligence, and hyper-miniaturized electronics, a traditional degree is only a starting point. To remain competitive in today’s job market, technic...",
+   "published": "2026-03-27T18:00:04+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Ieee-products-and-services",
+    "Education",
+    "Training",
+    "Ieee-educational-activities",
+    "Careers"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/a-woman-in-a-cleansuit-carefully-inspecting-a-semiconductor-wafer-in-a-lab.jpg?id=65416186&width=980"
+  },
+  {
+   "title": "It looks like we're finally getting an Ocarina of Time remake",
+   "url": "https://www.engadget.com/gaming/nintendo/it-looks-like-were-finally-getting-an-ocarina-of-time-remake-175546356.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "After years of rumors and countless fan-made Unreal Engine tech demos of varying quality, it sounds like we might finally be getting a ground-up remake of The Legend of Zelda: Ocarina of Time . That’s according to Nintendo insider NatetheHate, who said in the latest edition of his podcast that a rem...",
+   "published": "2026-03-27T17:55:47+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Media",
+    "Arts & Entertainment",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-03%2F04312a10-2a05-11f1-be29-dbed947283bd&resize=1400%2C775&client=19f2b5e49a271b2bde77&signature=f89b9a4e5fdf798d3d43d038ff8cc0182ec6ce29"
+  },
+  {
+   "title": "Some uncomfortable truths about AI coding agents",
+   "url": "https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://standupforme.app/blog/some-uncomfortable-truths-about-ai-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47545748 Points: 79 # Comments: 101",
+   "published": "2026-03-27T17:32:48+00:00",
    "age_label": "2天前",
    "tags": [],
    "image": ""
+  },
+  {
+   "title": "I am leaving the AI party after one drink",
+   "url": "https://lara-aigmueller.at/thoughts/leaving-the-ai-party/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://lara-aigmueller.at/thoughts/leaving-the-ai-party/ Comments URL: https://news.ycombinator.com/item?id=47545030 Points: 120 # Comments: 129",
+   "published": "2026-03-27T16:41:59+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+   "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying Comments URL: https://news.ycombinator.com/item?id=47544980 Points: 405 # Comments: 377",
+   "published": "2026-03-27T16:39:32+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Video Friday: Beep! Beep! Roadrunner Bipedal Bot Breaks the Mold",
+   "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July...",
+   "published": "2026-03-27T16:30:03+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Video-friday",
+    "Nasa",
+    "Bipedal-robots",
+    "Quadruped-robots",
+    "Artificial-muscles"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/two-wheeled-balancing-robot-leans-while-rolling-in-an-indoor-testing-lab.png?id=65415603&width=980"
+  },
+  {
+   "title": "The AI Doc explores how we can survive an uncertain AI future",
+   "url": "https://www.engadget.com/entertainment/tv-movies/the-ai-doc-explores-how-we-can-survive-an-uncertain-ai-future-154341735.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "Anxiety, more so than technological rigor, sits at the heart of The AI Doc: Or How I Became an Apocaloptimist. Director Daniel Roher is anxious about the future he's bringing a child into — will it be an AI-driven utopia? Or does it spell certain doom, something explored in countless sci-fi stories....",
+   "published": "2026-03-27T15:43:41+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Arts & Entertainment",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fai_fp_00001_4872.jpg&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=53a0bb4903d9b3fe8b6f5d91440f6ee91117f346"
   },
   {
    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
@@ -185,6 +437,60 @@
    "image": ""
   },
   {
+   "title": "A New Way to Spray Paint Color",
+   "url": "https://spectrum.ieee.org/spray-paint-color-creator",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "We’re all familiar with mixing red, yellow, and blue paint in various ratios to instantly make all kinds of colors. This works great for oils or watercolors, but fails when it comes to cans of spray paint. The paint droplets can’t be blended once they are aerosolized. Consequently, although spray ca...",
+   "published": "2026-03-27T14:41:42+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Spray-paint",
+    "Arduino",
+    "Mechatronics"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/a-portable-device-with-four-spray-paint-canisters-at-the-bottom-and-tubing-and-electronics-mounted-on-a-frame-above-them.png?id=65404484&width=980"
+  },
+  {
+   "title": "Sony hikes PS5 prices by up to $150 citing 'pressures' in global economy",
+   "url": "https://www.cnbc.com/2026/03/27/sony-playstation-5-ps5-price-rise.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Sony, like other console makers, is contending with surging memory chip prices which have forced the company to raise prices.",
+   "published": "2026-03-27T14:08:46+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Elon Musk’s Grok ordered to stop creating AI nudes by Dutch court as legal pressure mounts",
+   "url": "https://www.cnbc.com/2026/03/27/grok-elon-musk-dutch-court-ban-ai-nudes.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "A Dutch court issued a $115,000 penalty for every day xAI fails to remove non-consensual AI-generated nude images created by its chatbot Grok.",
+   "published": "2026-03-27T13:44:11+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The PS5 is getting more expensive... again",
+   "url": "https://www.engadget.com/gaming/playstation/the-ps5-is-getting-more-expensive-again-133141514.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "It was only last August that Sony raised PS5 console prices in the US, blaming a \"challenging economic environment\" at the time. Today it has slightly tweaked the phrasing to \"continued pressures in the global economic landscape,\" but the outcome is the same: price rises across the board, this time ...",
+   "published": "2026-03-27T13:31:42+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Technology & Electronics",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-03%2Fc5faa660-29df-11f1-bff7-4695e9a3d287&resize=1400%2C839&client=19f2b5e49a271b2bde77&signature=1d407ae10bcb39392f1cacae5a80cf76db16241f"
+  },
+  {
    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
    "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
    "source": "TechCrunch AI",
@@ -213,6 +519,51 @@
     "The Download"
    ],
    "image": ""
+  },
+  {
+   "title": "Engadget Podcast: Can Microsoft fix Windows 11 by dumping AI?",
+   "url": "https://www.engadget.com/computing/engadget-podcast-can-microsoft-fix-windows-11-by-dumping-ai-122601592.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "It turns out people don't actually love having Copilot shoved into their faces. This week, Devindra and PCWorld Senior Editor Mark Hachman discuss Microsoft's surprising plan to \"fix\" Windows 11 by refocusing on customization and core features, instead of bringing Copilot AI into tons of apps. Is th...",
+   "published": "2026-03-27T12:26:01+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Arts & Entertainment",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F02_vertical-taskbar-1024x621_7180.jpg&resize=1400%2C828&client=19f2b5e49a271b2bde77&signature=4489089dd3ae38c657ff189db0afbcd988ceb8b3"
+  },
+  {
+   "title": "The Tech Download: How Russia could profit from Iran war helium supply chain disruption in the chip sector",
+   "url": "https://www.cnbc.com/2026/03/27/russia-helium-supply-crunch-iran-war.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Helium has emerged as a key focus for the tech sector as industry watchers cast their minds to the implications of a prolonged Iran war.",
+   "published": "2026-03-27T12:11:12+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "RGG's Stranger Than Heaven game will span five time periods",
+   "url": "https://www.engadget.com/gaming/rggs-stranger-than-heaven-game-will-span-five-time-periods-114554699.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "Ryu Ga Gotoku Studio has revealed more details about its upcoming title, Stranger Than Heaven , at the Xbox Partner Preview stream . While previous teasers showed that it was going to be set in the 1910s and 1940s, it turns out its gameplay will span five different time periods: 1915, 1929, 1943, 19...",
+   "published": "2026-03-27T11:45:54+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Media",
+    "Arts & Entertainment",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Frgg-stranger-than-heaven-lede_4581.jpg&resize=1400%2C795&client=19f2b5e49a271b2bde77&signature=976921a6ae154b33a290f1e7bf19047f183bf5e4"
   },
   {
    "title": "The Latest AI Documentary Asks: Just How Scared Should We Be?",
@@ -249,6 +600,22 @@
    "image": ""
   },
   {
+   "title": "Stop the world, I want to get off and run a video rental store in the 1990s | Dominik Diamond",
+   "url": "https://www.theguardian.com/games/2026/mar/27/retro-rewind-video-rental-retail-sim",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Retail sims aren’t my thing, but the tactile, nostalgic pleasures of hit indie title Retro Rewind have me yearning for the era of physical media, smoking indoors and uncomplicated geopolitics It’s early doors, but 2026 may be the biggest bin fire of a year in my lifetime. Wars starting, then ending,...",
+   "published": "2026-03-27T10:00:02+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Simulation games",
+    "Games",
+    "Culture",
+    "Steam"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f676cbf5223de89f03f448afde220ddf8568e7bd/101_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=bb68c49871acf0c8187a597aaec3e912"
+  },
+  {
    "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
    "url": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
    "source": "MIT Tech Review",
@@ -262,6 +629,128 @@
     "The Checkup"
    ],
    "image": ""
+  },
+  {
+   "title": "Court temporarily blocks US government from labeling Anthropic as a 'supply chain risk'",
+   "url": "https://www.engadget.com/ai/court-temporarily-blocks-us-government-from-labeling-anthropic-as-a-supply-chain-risk-083857528.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "The court has granted Anthropic’s request for a preliminary injunction, preventing the government from banning its products for federal use and from formally labeling it as a “supply chain risk,” at least for now. If you’ll recall, things turned sour between the company and the Trump administration ...",
+   "published": "2026-03-27T08:38:57+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Politics & Government",
+    "Business",
+    "Government",
+    "site|engadget",
+    "provider_name|Engadget"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-03%2Fa43f5a1c-6615-4e2b-9145-5be49c8f2472&resize=1400%2C933&client=19f2b5e49a271b2bde77&signature=2125a3fbdbab3dbfe52e98cf6d6cb91887dcbbfb"
+  },
+  {
+   "title": "I was paid to write fake Google reviews – then my ‘bosses’ tried to scam me",
+   "url": "https://www.theguardian.com/technology/2026/mar/27/paid-write-fake-google-reviews-scammer-cryptocurrency",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Undercover reporter gets a taste of the sprawling fraud industry in which cryptocurrencies play a crucial role Five firms including Autotrader and Just Eat investigated over fake review failings The holiday flat near(ish) the Roman ruins of Pompeii was “disgusting”, and smelled of “a mix of dampness...",
+   "published": "2026-03-27T08:31:48+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Scams",
+    "Google",
+    "Cryptocurrencies",
+    "Money",
+    "E-commerce"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e5a161a901b7d6cb5504f31628a8f41c65e214aa/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f3afb77b3254748210f8d29ef8c43dbd"
+  },
+  {
+   "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+   "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/ Comments URL: https://news.ycombinator.com/item?id=47538795 Points: 64 # Comments: 22",
+   "published": "2026-03-27T03:21:35+00:00",
+   "age_label": "3天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'",
+   "url": "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "A federal judge in San Francisco granted Anthropic's request for a preliminary injunction in its lawsuit against the Trump administration.",
+   "published": "2026-03-27T02:20:02+00:00",
+   "age_label": "3天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+   "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
+   "published": "2026-03-27T01:26:40+00:00",
+   "age_label": "3天前",
+   "tags": [
+    "TC",
+    "Government & Policy",
+    "AI",
+    "david sacks"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+   "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+   "published": "2026-03-27T01:18:38+00:00",
+   "age_label": "3天前",
+   "tags": [
+    "AI",
+    "TC",
+    "Anthropic",
+    "defense",
+    "pete hegseth"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designate...",
+   "published": "2026-03-27T00:33:44+00:00",
+   "age_label": "3天前",
+   "tags": [
+    "AI",
+    "Analysis",
+    "Anthropic",
+    "Report"
+   ],
+   "image": ""
+  },
+  {
+   "title": "‘Accountability has arrived’: dual US court losses show shifting tide against Meta and co",
+   "url": "https://www.theguardian.com/technology/2026/mar/26/us-court-social-media-meta-youtube",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "With two unprecedented trial defeats, big tech firms face crisis akin to that faced by cigarette makers in the 1990s In the span of just two days, the most powerful social media company in the world faced a more severe public reckoning than it has in years. Jurors in California and New Mexico gave b...",
+   "published": "2026-03-27T00:25:47+00:00",
+   "age_label": "3天前",
+   "tags": [
+    "Meta",
+    "Technology",
+    "YouTube",
+    "Social media",
+    "Media"
+   ],
+   "image": "https://i.guim.co.uk/img/media/461b1826dc556ad43b560088b0a77907f72cd394/420_0_4202_3361/master/4202.jpg?width=140&quality=85&auto=format&fit=max&s=8b8c8c898ab2a00d5944e166db087dfc"
   }
  ]
 }
