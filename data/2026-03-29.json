@@ -1,0 +1,207 @@
+{
+ "date": "2026-03-29",
+ "generated_at": "2026-03-30 12:48",
+ "total": 11,
+ "sources": [
+  "量子位",
+  "36氪",
+  "InfoQ 中文",
+  "The Verge AI",
+  "TechCrunch AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 11 篇 AI 相关资讯（国内 9 篇，海外 2 篇）。热门话题集中在：大模型发布、AI Agent、AI 视频与多模态。最受关注：「Bluesky’s new app is an AI for...」。",
+  "highlights": [
+   {
+    "tag": "🔵",
+    "text": "**[The Verge AI]** Bluesky’s new app is an AI for customizing your feed — The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's "
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛 — 在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[InfoQ 中文]** Vercel 发布生成式 UI 框架 JSON-Render"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[量子位]** 小沓AI・智能营销产品 2026GDPS重磅发布 — 数据・解析・营销三位一体"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[TechCrunch AI]** Sora’s shutdown could be a reality check moment for AI video — Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?"
+   },
+   {
+    "tag": "🟡",
+    "text": "**[量子位]** 打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级 — 用34条经验破解现代代码模型训练瓶颈"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[量子位]** Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛 — 相关能力已远超人们预期，且正在指数级增长"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[量子位]** Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖 — 还能2D、3D无缝联动"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent、AI 视频与多模态展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 11 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "Bluesky’s new app is an AI for customizing your feed",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protoc...",
+   "published": "2026-03-29T21:44:41+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "News",
+    "Social Media",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Sora’s shutdown could be a reality check moment for AI video",
+   "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+   "published": "2026-03-29T16:30:00+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "AI",
+    "Media & Entertainment",
+    "Equity podcast",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛",
+   "url": "https://www.qbitai.com/2026/03/393186.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "相关能力已远超人们预期，且正在指数级增长",
+   "published": "2026-03-29T16:17:28+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "资讯",
+    "Claude",
+    "安全漏洞"
+   ],
+   "image": ""
+  },
+  {
+   "title": "打破代码大模型训练瓶颈：MicroCoder将算法数据框架训练经验升级",
+   "url": "https://www.qbitai.com/2026/03/393164.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "用34条经验破解现代代码模型训练瓶颈",
+   "published": "2026-03-29T16:11:35+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "资讯",
+    "模型训练"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Claude手搓3D建筑编辑器火爆GitHub！数万年费的专业软件瑟瑟发抖",
+   "url": "https://www.qbitai.com/2026/03/393125.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "还能2D、3D无缝联动",
+   "published": "2026-03-29T16:08:53+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "资讯",
+    "3D设计",
+    "Claude"
+   ],
+   "image": ""
+  },
+  {
+   "title": "何同学会玩：让龙虾自己3D打印自己",
+   "url": "https://www.qbitai.com/2026/03/393085.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "属于全民Agent的时代，才算真正拉开了序幕",
+   "published": "2026-03-29T15:21:42+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "ArkClaw",
+    "OpenClaw"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Vercel 发布生成式 UI 框架 JSON-Render",
+   "url": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-29T15:00:00+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+   "url": "https://36kr.com/p/3743855989587971?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。 长期以来，国际会议翻译领域始终受困于部署繁琐、成本高昂、语种覆盖有限、实时传递滞后等核心痛点。尤其在大型论坛、专业峰会等高端跨语言交流场景中，传统同传模式更受限于包厢搭建、接收设备调试、专业人工译员稀缺及会场信号不稳定等多重因素...",
+   "published": "2026-03-29T10:07:47+00:00",
+   "age_label": "18小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
+   "url": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-29T10:00:00+00:00",
+   "age_label": "18小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小沓AI・智能营销产品 2026GDPS重磅发布",
+   "url": "https://www.qbitai.com/2026/03/393064.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "数据・解析・营销三位一体",
+   "published": "2026-03-29T02:49:35+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "资讯",
+    "壹沓科技"
+   ],
+   "image": ""
+  },
+  {
+   "title": "论芯率先跑进AI for EDA产线：读芯片协议文档速度25倍，揪出respin级bug",
+   "url": "https://www.qbitai.com/2026/03/393045.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "自动输出可用验证代码",
+   "published": "2026-03-29T01:27:39+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "资讯",
+    "AI for EDA",
+    "论芯科技"
+   ],
+   "image": ""
+  }
+ ]
+}
