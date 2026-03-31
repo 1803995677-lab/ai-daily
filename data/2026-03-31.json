@@ -1,0 +1,214 @@
+{
+ "date": "2026-03-31",
+ "generated_at": "2026-03-31 08:00",
+ "total": 15,
+ "sources": [
+  "36氪 AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 15 篇 AI 相关资讯（国内 15 篇，海外 0 篇）。热门话题集中在：大模型发布、AI Agent、开源与社区。最受关注：「AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[36氪 AI]** 1.9万行Claude Code代码引发百人联名“封杀”，Node.js核心成员请愿：项目里应禁止AI辅助开发"
+   },
+   {
+    "tag": "🟡",
+    "text": "**[36氪 AI]** AI PC硬件，进入更大的涨价风暴眼"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[36氪 AI]** 带崩全球存储股，谷歌论文引发争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性"
+   },
+   {
+    "tag": "🟡",
+    "text": "**[36氪 AI]** AI在加速自我进化：终身学习才能适者生存"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 多Agent 狂吞token，Claude 顶不住了：一人月烧15万美元，免费AI正在退场"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 爆火的“龙虾”被PUA到崩溃？一群Agent变身“员工”后开始失控：有自毁的、有泄密的，还有要找媒体投诉的"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent、开源与社区展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 15 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "AI在加速自我进化：终身学习才能适者生存",
+   "url": "https://36kr.com/p/3717919828899461",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "全行业都狂卷 Harness，Anthropic 还在加码，Codex 负责人却说它正在退场",
+   "url": "https://36kr.com/p/3745269787770881",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI PC硬件，进入更大的涨价风暴眼",
+   "url": "https://36kr.com/p/3745271634739205",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小龙虾，众生相",
+   "url": "https://36kr.com/p/3745274034307073",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "多Agent 狂吞token，Claude 顶不住了：一人月烧15万美元，免费AI正在退场",
+   "url": "https://36kr.com/p/3745280423133441",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 正在毁掉开源：从“协作圣地”到“垃圾洪水”，维护者士气跌至谷底，开始集体掀桌",
+   "url": "https://36kr.com/p/3745380227973888",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "带崩全球存储股，谷歌论文引发争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
+   "url": "https://36kr.com/p/3745380249518592",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "1.9万行Claude Code代码引发百人联名“封杀”，Node.js核心成员请愿：项目里应禁止AI辅助开发",
+   "url": "https://36kr.com/p/3745344255213572",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "爆火的“龙虾”被PUA到崩溃？一群Agent变身“员工”后开始失控：有自毁的、有泄密的，还有要找媒体投诉的",
+   "url": "https://36kr.com/p/3745344155926791",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "前端圈沸腾，Claude造出15KB引擎，渲染狂飙1200倍：文字里能跑马里奥",
+   "url": "https://36kr.com/p/3745323103092744",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic联创：两年内，AI将像孢子一样自我繁殖",
+   "url": "https://36kr.com/p/3745322627284994",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "VLM解几何题总翻车？GEODPO从「看」入手：用结构化表示+DPO优化，让模型先看懂再推理",
+   "url": "https://36kr.com/p/3745344269893891",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Odaily专访余弦：Anthropic核弹级新模型泄漏，如何影响加密安全攻防？",
+   "url": "https://36kr.com/p/3745236845773058",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "餐饮AI炒菜机器人研究报告2026：后厨革命， AI炒菜机器人驱动餐饮生态重构",
+   "url": "https://36kr.com/p/3745222976778753",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 迎来青年危机，给中国大模型敲响三记警钟",
+   "url": "https://36kr.com/p/3745190625374723",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}

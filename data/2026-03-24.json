@@ -1,0 +1,96 @@
+{
+ "date": "2026-03-24",
+ "generated_at": "2026-03-31 08:00",
+ "total": 4,
+ "sources": [
+  "The Guardian Tech",
+  "BBC Tech"
+ ],
+ "summary": {
+  "overview": "今日共采集 4 篇 AI 相关资讯（国内 0 篇，海外 4 篇）。热门话题集中在：大模型发布、AI 监管与政策、AI 视频与多模态。最受关注：「OpenAI shutters AI video gener...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[The Guardian Tech]** OpenAI shutters AI video generator Sora in abrupt announcement — Tech firm ‘says goodbye’ to Sora, made publicly available in 2024, just six months after its launch of a stand-alone app In an abrupt announcement on "
+   },
+   {
+    "tag": "🟠",
+    "text": "**[The Guardian Tech]** Anthropic and Pentagon face off in court over ban on company’s AI model — After Anthropic refused to let its AI to be used in autonomous weapons systems, Trump ordered US agencies to quit using it Sign up for the Breaking Ne"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[The Guardian Tech]** Divide between Silicon Valley and ordinary people grows ever larger — Big tech believes the future is AI while everyday Americans remain wary; and the dangers of riding in a Tesla Cybertruck Hello, and welcome to TechSca"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[BBC Tech]** Tech Life — Artificial intelligence is already in use in many areas of healthcare."
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 监管与政策、AI 视频与多模态展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 4 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "OpenAI shutters AI video generator Sora in abrupt announcement",
+   "url": "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Tech firm ‘says goodbye’ to Sora, made publicly available in 2024, just six months after its launch of a stand-alone app In an abrupt announcement on Tuesday, OpenAI said it was “saying goodbye” to its AI video generator Sora. The move comes just six months after the company’s splashy launch of a st...",
+   "published": "2026-03-24T22:34:10+00:00",
+   "age_label": "6天前",
+   "tags": [
+    "OpenAI",
+    "AI (artificial intelligence)",
+    "Silicon Valley",
+    "Computing",
+    "Technology"
+   ],
+   "image": "https://i.guim.co.uk/img/media/3d9cc6f1553853f0e0f1c48699fd6ae57e012bf4/610_0_3979_3185/master/3979.jpg?width=140&quality=85&auto=format&fit=max&s=edb05efddadabed54d3637a9e6ed1309"
+  },
+  {
+   "title": "Anthropic and Pentagon face off in court over ban on company’s AI model",
+   "url": "https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "After Anthropic refused to let its AI to be used in autonomous weapons systems, Trump ordered US agencies to quit using it Sign up for the Breaking News US email to get newsletter alerts in your inbox Anthropic faced off against the Department of Defense in a federal court on Tuesday afternoon, as t...",
+   "published": "2026-03-24T21:09:40+00:00",
+   "age_label": "6天前",
+   "tags": [
+    "US military",
+    "AI (artificial intelligence)",
+    "Chatbots",
+    "Technology",
+    "Law (US)"
+   ],
+   "image": "https://i.guim.co.uk/img/media/af4915a6ba1caec426b216d6719dab95157d0ad3/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=d57cf15c93a782fa7eda2fdba7dbaaea"
+  },
+  {
+   "title": "Tech Life",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct6zq9?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "platform": "bbc",
+   "summary": "Artificial intelligence is already in use in many areas of healthcare.",
+   "published": "2026-03-24T20:30:00+00:00",
+   "age_label": "6天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Divide between Silicon Valley and ordinary people grows ever larger",
+   "url": "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Big tech believes the future is AI while everyday Americans remain wary; and the dangers of riding in a Tesla Cybertruck Hello, and welcome to TechScape. I’m your host, Blake Montgomery. This week in tech, we discuss a moment of divergence between Silicon Valley and everyday people; deep cuts at Met...",
+   "published": "2026-03-24T13:58:47+00:00",
+   "age_label": "6天前",
+   "tags": [
+    "Technology",
+    "Silicon Valley",
+    "AI (artificial intelligence)",
+    "Computing",
+    "Nvidia"
+   ],
+   "image": "https://i.guim.co.uk/img/media/33b11539ba53c3319b8e079458592ca7a6586bf4/787_0_6665_5335/master/6665.jpg?width=140&quality=85&auto=format&fit=max&s=2a7019cf2141d7f0bb36e41e2ca4d761"
+  }
+ ]
+}

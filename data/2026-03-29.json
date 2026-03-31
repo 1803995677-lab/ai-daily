@@ -1,0 +1,245 @@
+{
+ "date": "2026-03-29",
+ "generated_at": "2026-03-31 08:00",
+ "total": 14,
+ "sources": [
+  "Engadget",
+  "36氪",
+  "The Guardian Tech",
+  "TechCrunch AI",
+  "The Verge AI",
+  "CNBC Tech",
+  "少数派",
+  "InfoQ 中文",
+  "BBC Tech"
+ ],
+ "summary": {
+  "overview": "今日共采集 14 篇 AI 相关资讯（国内 4 篇，海外 10 篇）。热门话题集中在：大模型发布、AI 监管与政策、AI 视频与多模态。最受关注：「派早报：英文维基百科正式禁止 AI 参与编写」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[少数派]** 派早报：英文维基百科正式禁止 AI 参与编写 — 英文维基百科正式禁止 AI 参与编写 美国法院认定广告商联合抵制 X 合法 PS5 涨价 100 美元起 长期低头导致的颈部横纹成为美容新赛道 研究显示 AI 对话会削弱社交判断并加深依赖 Spotify 联合唱片公司向 Anna’s Archive 索赔三亿美元 看看就行的简讯 少数派的近期动态 "
+   },
+   {
+    "tag": "🔴",
+    "text": "**[Engadget]** The Avatar fighting game will release on July 2 for PC and consoles — The fighting game community is going to have their hands full this summer between the release of Marvel Tōkon: Fighting Souls and Avatar Legends: The "
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Guardian Tech]** The OnlyFans inheritance: how its owner’s death could reshape the porn money-making machine — Leonid Radvinsky’s widow has been left with a crucial role in deciding what happens to the business that made her husband a billionaire Yekaterina Chu"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[The Verge AI]** Bluesky’s new app is an AI for customizing your feed — The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's "
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛 — 在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[InfoQ 中文]** Vercel 发布生成式 UI 框架 JSON-Render"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[TechCrunch AI]** Sora’s shutdown could be a reality check moment for AI video — Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Guardian Tech]** ‘Soon publishers won’t stand a chance’: literary world in struggle to detect AI-written books — US release of horror novel Shy Girl cancelled and UK book discontinued after suspected AI use, as publishers feel ‘cold shiver’ Recently, the literary"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 监管与政策、AI 视频与多模态展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 14 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "Why Chinese tech companies are racing to set up in Hong Kong",
+   "url": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "platform": "bbc",
+   "summary": "Mainland firms are using the territory to test products and as a springboard for global expansion.",
+   "published": "2026-03-29T23:07:12+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
+   "url": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "platform": "bbc",
+   "summary": "More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.",
+   "published": "2026-03-29T23:07:04+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "派早报：英文维基百科正式禁止 AI 参与编写",
+   "url": "https://sspai.com/post/108044",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "英文维基百科正式禁止 AI 参与编写 美国法院认定广告商联合抵制 X 合法 PS5 涨价 100 美元起 长期低头导致的颈部横纹成为美容新赛道 研究显示 AI 对话会削弱社交判断并加深依赖 Spotify 联合唱片公司向 Anna’s Archive 索赔三亿美元 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-03-29T22:56:11+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Bluesky’s new app is an AI for customizing your feed",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protoc...",
+   "published": "2026-03-29T21:44:41+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "News",
+    "Social Media",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The Avatar fighting game will release on July 2 for PC and consoles",
+   "url": "https://www.engadget.com/gaming/the-avatar-fighting-game-will-release-on-july-2-for-pc-and-consoles-174614552.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "The fighting game community is going to have their hands full this summer between the release of Marvel Tōkon: Fighting Souls and Avatar Legends: The Fighting Game . The studio behind the 2D fighting game based in the Avatar universe announced that a July 2 release date with a trailer that shows off...",
+   "published": "2026-03-29T17:46:14+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Media",
+    "Video Games",
+    "Arts & Entertainment",
+    "site|engadget",
+    "provider_name|Engadget"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-03%2F33204b10-2b92-11f1-b7bf-1ccd8a9faa1e&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=a5ba8bce3e8774a6377810b515a2a5f24a899a56"
+  },
+  {
+   "title": "Meta's court losses spell potential trouble for AI research, consumer safety",
+   "url": "https://www.cnbc.com/2026/03/29/metas-court-losses-spell-trouble-for-ai-research-consumer-safety.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Meta's two courtroom defeats centered on different cases but both involved allegations that the company knew about its products' harms.",
+   "published": "2026-03-29T17:15:02+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Bluesky's next product is an AI assistant that helps build custom social media feeds",
+   "url": "https://www.engadget.com/ai/blueskys-next-product-is-an-ai-assistant-that-helps-build-custom-social-media-feeds-163140902.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "Bluesky is the latest social media platform to throw its hat into the AI chatbot ring. Bluesky, but specifically its chief innovation officer Jay Graber and her new Exploration team, built a new AI assistant called Attie that's designed to help users create custom feeds. Graber called Attie an \"agen...",
+   "published": "2026-03-29T16:31:40+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Software",
+    "Technology & Electronics",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-03%2F07810a80-2b88-11f1-bedf-164636ce6b5f&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=e09ca9ac8df3b18ad1e55fb6d40cb4684b5dbe5f"
+  },
+  {
+   "title": "Sora’s shutdown could be a reality check moment for AI video",
+   "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+   "published": "2026-03-29T16:30:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Media & Entertainment",
+    "Equity podcast",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Vercel 发布生成式 UI 框架 JSON-Render",
+   "url": "https://www.infoq.cn/article/oUFPIuuKIsT8UFEYVkTG?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-29T15:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Rust 的独特之处不只内存安全：来自自主机器人的启示",
+   "url": "https://www.infoq.cn/article/Ru7tUbogi8Rek26YPeGN?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-29T11:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛",
+   "url": "https://36kr.com/p/3743855989587971?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。 长期以来，国际会议翻译领域始终受困于部署繁琐、成本高昂、语种覆盖有限、实时传递滞后等核心痛点。尤其在大型论坛、专业峰会等高端跨语言交流场景中，传统同传模式更受限于包厢搭建、接收设备调试、专业人工译员稀缺及会场信号不稳定等多重因素...",
+   "published": "2026-03-29T10:07:47+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "面向生产的 AgentOps：小红书 AI Agent 应用工程化实践｜QCon北京",
+   "url": "https://www.infoq.cn/article/dl0kKEXKi8PSDB6xP53B?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-29T10:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "‘Soon publishers won’t stand a chance’: literary world in struggle to detect AI-written books",
+   "url": "https://www.theguardian.com/technology/2026/mar/29/ai-written-books-novel-shy-girl-publishers",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "US release of horror novel Shy Girl cancelled and UK book discontinued after suspected AI use, as publishers feel ‘cold shiver’ Recently, the literary agent Kate Nash started noticing that the submission letters she was receiving from authors were becoming more thorough – albeit also more formulaic....",
+   "published": "2026-03-29T09:00:51+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Books",
+    "Publishing",
+    "Culture",
+    "Technology"
+   ],
+   "image": "https://i.guim.co.uk/img/media/afaa3fc95e83972c212efc38990efd58420f7582/371_0_5971_4781/master/5971.jpg?width=140&quality=85&auto=format&fit=max&s=dbfd7be39cdd7ef96db8159f4ceec839"
+  },
+  {
+   "title": "The OnlyFans inheritance: how its owner’s death could reshape the porn money-making machine",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/29/onlyfans-owners-leonid-radvinsky-death-porn-money-making-machine",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Leonid Radvinsky’s widow has been left with a crucial role in deciding what happens to the business that made her husband a billionaire Yekaterina Chudnovsky, online biographies say, is a mother-of-four who “enjoys spending time with her family and teaching them the importance of giving back and hel...",
+   "published": "2026-03-29T05:00:47+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Pornography",
+    "Internet",
+    "Technology",
+    "Digital media",
+    "Media"
+   ],
+   "image": "https://i.guim.co.uk/img/media/6e74bd37dfdf85c25c830546badd4f8486c71601/0_900_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=c00299a23af25c08ed14900ca05e1ad1"
+  }
+ ]
+}

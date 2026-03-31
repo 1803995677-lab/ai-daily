@@ -1,0 +1,116 @@
+{
+ "date": "2026-03-25",
+ "generated_at": "2026-03-31 08:00",
+ "total": 5,
+ "sources": [
+  "The Guardian Tech",
+  "Wired AI",
+  "BBC Tech"
+ ],
+ "summary": {
+  "overview": "今日共采集 5 篇 AI 相关资讯（国内 0 篇，海外 5 篇）。最受关注：「The creator of Fortnite has la...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[The Guardian Tech]** The creator of Fortnite has laid off more than 1,000 staff – despite billions in revenue — Huge cuts announced this week show that truly no developer working in games is safe from corporate whims The video game industry is currently experien"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Guardian Tech]** My ​quest to ​preserve VHS-​era ​gaming ​culture​, one eBay bid at a time — As physical media makes an unlikely comebac​k​ among younger gamers, the humble VHS emerges as an unexpected archive of gaming’s messy, magical evolut"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[Wired AI]** There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos — With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they ap"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[BBC Tech]** Apple brings in age checks for UK iPhone users — Customers who do not confirm how old they are or are underage will have web content filters turned on automatically."
+   },
+   {
+    "tag": "🔵",
+    "text": "**[The Guardian Tech]** Wordle inventor gets ahead of the game | Letters — Julius Pursaill , Andy Roberts and Jane Oberman respond to Polly Hudson’s article that decried Josh Wardle for creating a new game Josh Wardle, the in"
+   }
+  ],
+  "trend": "海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 5 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+   "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+   "published": "2026-03-25T18:49:40+00:00",
+   "age_label": "5天前",
+   "tags": [
+    "Culture",
+    "Culture / Digital Culture",
+    "YouTube",
+    "artificial intelligence",
+    "Social Media"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Apple brings in age checks for UK iPhone users",
+   "url": "https://www.bbc.com/news/articles/c20qwz9xzr9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Tech",
+   "platform": "bbc",
+   "summary": "Customers who do not confirm how old they are or are underage will have web content filters turned on automatically.",
+   "published": "2026-03-25T17:41:20+00:00",
+   "age_label": "5天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Wordle inventor gets ahead of the game | Letters",
+   "url": "https://www.theguardian.com/games/2026/mar/25/wordle-inventor-gets-ahead-of-the-game",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Julius Pursaill , Andy Roberts and Jane Oberman respond to Polly Hudson’s article that decried Josh Wardle for creating a new game Josh Wardle, the inventor of Wordle, a game that gave huge pleasure to so many people during lockdown, reportedly sold it for a seven-figure sum . According to Polly Hud...",
+   "published": "2026-03-25T16:33:47+00:00",
+   "age_label": "5天前",
+   "tags": [
+    "Puzzle games",
+    "Timothée Chalamet",
+    "Film",
+    "Culture",
+    "Mobile games"
+   ],
+   "image": "https://i.guim.co.uk/img/media/3704376a8a2eb843eca85f2943e03c2c48e9eb8c/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=0e1de386f1c72d15b870670179a70583"
+  },
+  {
+   "title": "My ​quest to ​preserve VHS-​era ​gaming ​culture​, one eBay bid at a time",
+   "url": "https://www.theguardian.com/games/2026/mar/25/my-quest-to-preserve-vhs-era-video-culture-one-ebay-bid-at-a-time",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "As physical media makes an unlikely comebac​k​ among younger gamers, the humble VHS emerges as an unexpected archive of gaming’s messy, magical evolution​ that I saw first time around • Don’t get Pushing Buttons delivered to your inbox? Sign up here As I am nostalgic and of a certain age, I recently...",
+   "published": "2026-03-25T12:40:07+00:00",
+   "age_label": "5天前",
+   "tags": [
+    "Games",
+    "Culture",
+    "Retro games",
+    "Super Mario",
+    "Game culture"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2925221df421c81e487e31fc945afbd31c3289cb/108_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=c6f95ac1d17d11de514b12b83f1e0705"
+  },
+  {
+   "title": "The creator of Fortnite has laid off more than 1,000 staff – despite billions in revenue",
+   "url": "https://www.theguardian.com/games/2026/mar/25/fortnite-staff-layoffs-redundancies-epic-games",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Huge cuts announced this week show that truly no developer working in games is safe from corporate whims The video game industry is currently experiencing a seemingly endless bout of ruinous deja vu. Every month, another publisher posts an all too familiar statement about job losses in its developme...",
+   "published": "2026-03-25T12:30:07+00:00",
+   "age_label": "5天前",
+   "tags": [
+    "Games",
+    "Fortnite",
+    "Culture"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ca4550204bcca54e08f26c264fc17b5fa8fe8a0d/497_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=55c682bb8adb30c6acdc1dacacc4dce1"
+  }
+ ]
+}

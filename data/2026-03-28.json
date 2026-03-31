@@ -1,0 +1,348 @@
+{
+ "date": "2026-03-28",
+ "generated_at": "2026-03-31 08:00",
+ "total": 18,
+ "sources": [
+  "Engadget",
+  "The Guardian Tech",
+  "TechCrunch AI",
+  "The Verge AI",
+  "InfoQ 中文",
+  "MIT Tech Review"
+ ],
+ "summary": {
+  "overview": "今日共采集 18 篇 AI 相关资讯（国内 1 篇，海外 17 篇）。热门话题集中在：大模型发布、AI 视频与多模态、人事变动。最受关注：「Why OpenAI killed Sora」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Why OpenAI killed Sora — On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generat"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[Engadget]** Austria is pursuing a social media ban for kids under 14 — Austria is the latest country to prepare a social media ban for its children, but it's going even further than others by including anyone under 14. In"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Suno leans into customization with v5.5 — Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and cre"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[Engadget]** Meta's next AI glasses are reportedly designed with prescription lenses in mind — Two new models of Meta Ray-Ban AI glasses are on the way, and they're going to be catered towards those who use prescription lenses, according to a Bl"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[TechCrunch AI]** Elon Musk’s last co-founder reportedly leaves xAI — All but two of Musk's 11 xAI co-founders departed before this week."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[MIT Tech Review]** A woman’s uterus has been kept alive outside the body for the first time — “Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it r"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** Bluesky leans into AI with Attie, an app for building custom feeds — Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto."
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** Stanford study outlines dangers of asking AI chatbots for personal advice — While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency mig"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 视频与多模态、人事变动展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 18 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+   "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+   "published": "2026-03-28T23:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Social",
+    "ai apps",
+    "Bluesky"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Watch the trailer for Science Saru's Ghost in the Shell anime series",
+   "url": "https://www.engadget.com/entertainment/streaming/watch-the-trailer-for-science-sarus-ghost-in-the-shell-anime-series-210147477.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "A new trailer has given us our best look yet at the upcoming The Ghost in the Shell anime. While it might not tell us all that much about the direction the show will go in plot-wise, it sure is aesthetically pleasing, with a throwback art style that looks a lot more like the original manga than we'v...",
+   "published": "2026-03-28T21:01:47+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Animation",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fghostintheshell_3862.jpg&resize=1400%2C792&client=19f2b5e49a271b2bde77&signature=4085e71d51e60e8f19b6ad8560a1baee9583b061"
+  },
+  {
+   "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+   "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+   "published": "2026-03-28T20:45:54+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "ai safety",
+    "chatbots",
+    "stanford"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Austria is pursuing a social media ban for kids under 14",
+   "url": "https://www.engadget.com/social-media/austria-is-pursuing-a-social-media-ban-for-kids-under-14-190755295.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "Austria is the latest country to prepare a social media ban for its children, but it's going even further than others by including anyone under 14. In a press release , the Austrian government said it has introduced a comprehensive catalogue of measures meant to shield minors from the harms of socia...",
+   "published": "2026-03-28T19:07:55+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Politics & Government",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-03%2F6ccc2eb0-2ad4-11f1-af37-46b417b5f12f&resize=1400%2C933&client=19f2b5e49a271b2bde77&signature=884004a790479f2b146861b2935ce8686f17498a"
+  },
+  {
+   "title": "Two in five Australian GPs use AI scribes to record patient notes – but do they trade care for convenience?",
+   "url": "https://www.theguardian.com/australia-news/2026/mar/29/doctors-using-ai-for-notes-australia",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Some doctors argue it allows them to better connect with patients, but advocates warn the AI technology risks the opposite Get our breaking news email , free app or daily news podcast When a patient walks into a GP’s office in Australia today, the doctor may begin with a question: “Do you give conse...",
+   "published": "2026-03-28T19:00:36+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Australia news",
+    "Technology",
+    "Health",
+    "AI (artificial intelligence)",
+    "Consumer affairs"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f8c1f9acd5fb39737b29fc7b7afca41efc694acd/814_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=130cd8975a884539904ebaed571112e2"
+  },
+  {
+   "title": "Suno leans into customization with v5.5",
+   "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the releas...",
+   "published": "2026-03-28T18:33:10+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Entertainment",
+    "Music",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The White House app is just as weird and unnecessary as you'd expect",
+   "url": "https://www.engadget.com/apps/the-white-house-app-is-just-as-weird-and-unnecessary-as-youd-expect-175354004.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "President Donald Trump may have a tendency to put his name on everything, but his administration decided to go with the more authoritative The White House App for his latest pursuit. Now available on the App Store and Google Play store, the official White House App claims to gives Americans \"a direc...",
+   "published": "2026-03-28T17:53:54+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Software",
+    "Politics & Government",
+    "Mobile Apps",
+    "Technology & Electronics",
+    "site|engadget"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-03%2F541daca0-2ac9-11f1-9fbf-6b22fa399b86&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=c8fd1afdfbd20ff3082cc32f1abac3c12f0a802b"
+  },
+  {
+   "title": "Meta's next AI glasses are reportedly designed with prescription lenses in mind",
+   "url": "https://www.engadget.com/wearables/metas-next-ai-glasses-are-reportedly-designed-with-prescription-lenses-in-mind-162730768.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "Two new models of Meta Ray-Ban AI glasses are on the way, and they're going to be catered towards those who use prescription lenses, according to a Bloomberg report. While these are supposed to be announced next week, Bloomberg noted that these won't be a \"new generation\" of Meta's smart glasses. Yo...",
+   "published": "2026-03-28T16:27:30+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Technology & Electronics",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-03%2F76499220-2abb-11f1-bfbc-2a3870a58d2f&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=b2ecfc40c195aac1868a0dae0c8bfa441c0d960d"
+  },
+  {
+   "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+   "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+   "published": "2026-03-28T16:11:16+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Startups",
+    "Elon Musk",
+    "In Brief",
+    "manuel kroiss"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Wanderstop developer Ivy Road is shutting down",
+   "url": "https://www.engadget.com/gaming/wanderstop-developer-ivy-road-is-shutting-down-153655278.html?src=rss",
+   "source": "Engadget",
+   "platform": "engadget",
+   "summary": "Ivy Road, the video game developer behind Annapurna-published cozy game Wanderstop , is shutting down on March 31. While Wanderstop was well-received and even critically acclaimed, it seems like it wasn’t enough of a hit to sustain the studio while it develops a new game without getting investors in...",
+   "published": "2026-03-28T15:36:55+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Video Games",
+    "site|engadget",
+    "provider_name|Engadget",
+    "region|US",
+    "language|en-US"
+   ],
+   "image": "https://o.aolcdn.com/images/dims?image_uri=https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fwonderstop_9303.jpg&resize=1400%2C787&client=19f2b5e49a271b2bde77&signature=999d906f14a58719fff45e5ecf59b45d9aa93533"
+  },
+  {
+   "title": "绿色 IT ：如何减轻 AI 对环境的影响",
+   "url": "https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-03-28T15:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+   "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+   "published": "2026-03-28T14:15:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Anthropic Claude"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Why can’t TikTok identify AI generated ads when I can?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definit...",
+   "published": "2026-03-28T14:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Creators",
+    "Report",
+    "Tech",
+    "TikTok"
+   ],
+   "image": ""
+  },
+  {
+   "title": "‘Our assumptions are broken’: how fraudulent church data revealed AI’s threat to polling",
+   "url": "https://www.theguardian.com/technology/2026/mar/28/how-fraudulent-church-data-revealed-ais-threat-to-polling",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Experts say paid participants are using automated tools to generate unreliable survey responses at scale If you had been keeping tabs on the news about church attendance in Britain lately, you would be forgiven for thinking the country was in the midst of a Christian revival . Stories of swelling co...",
+   "published": "2026-03-28T12:00:32+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Social trends",
+    "Computing",
+    "Technology",
+    "Religion"
+   ],
+   "image": "https://i.guim.co.uk/img/media/05d485a9ecfc61ef80d79798d616ab5fe4b2073c/647_0_6140_4912/master/6140.jpg?width=140&quality=85&auto=format&fit=max&s=3fb0ad6a8abe79b348911718a55c04b2"
+  },
+  {
+   "title": "Why OpenAI killed Sora",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high...",
+   "published": "2026-03-28T12:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI",
+    "Analysis",
+    "OpenAI",
+    "Report"
+   ],
+   "image": ""
+  },
+  {
+   "title": "‘They feel true’: political deepfakes are growing in influence – even if people know they aren’t real",
+   "url": "https://www.theguardian.com/technology/2026/mar/28/military-deepfakes-ai-propaganda-money",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "AI images of people – such as women in military contexts – are making money and serving as propaganda, researchers say Online content creators are not just building fake images and videos of prominent public figures, they are also fabricating people and using them in military contexts, which can mak...",
+   "published": "2026-03-28T11:00:25+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "US military",
+    "Technology",
+    "US news",
+    "Psychology"
+   ],
+   "image": "https://i.guim.co.uk/img/media/adfc9047ef95c6debfd906ed43de220492368392/609_0_6142_4912/master/6142.jpg?width=140&quality=85&auto=format&fit=max&s=7edb4a69bdd1a84e91723b581d49e639"
+  },
+  {
+   "title": "A woman’s uterus has been kept alive outside the body for the first time",
+   "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a ...",
+   "published": "2026-03-28T09:00:00+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Biotechnology and health",
+    "App",
+    "Summary"
+   ],
+   "image": ""
+  },
+  {
+   "title": "These CEOs want a starring role in our lives – and there’s not much we can do about it | Larry Ryan",
+   "url": "https://www.theguardian.com/commentisfree/2026/mar/28/ceo-mcdonalds-gianni-infantino-trump-boss-class",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Do we really need a McDonald’s CEO fronting ads or a Gianni Infantino Panini sticker? No. But in the age of Trump, the boss class feels emboldened A few weeks ago, the CEO of McDonald’s appeared in a video sampling the chain’s new “Big Arch burger”. In the clip, Chris Kempczinski, or “Chris K” as he...",
+   "published": "2026-03-28T08:00:23+00:00",
+   "age_label": "2天前",
+   "tags": [
+    "Business",
+    "McDonald's",
+    "Gianni Infantino",
+    "Business",
+    "Technology"
+   ],
+   "image": "https://i.guim.co.uk/img/media/46c51e7130eca384a29052c483a429cf6ca70002/347_126_4057_3246/master/4057.jpg?width=140&quality=85&auto=format&fit=max&s=463bca97a906e028b37f31777542961f"
+  }
+ ]
+}
