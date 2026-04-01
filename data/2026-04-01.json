@@ -1,0 +1,214 @@
+{
+ "date": "2026-04-01",
+ "generated_at": "2026-04-01 08:00",
+ "total": 15,
+ "sources": [
+  "36氪 AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 15 篇 AI 相关资讯（国内 15 篇，海外 0 篇）。热门话题集中在：大模型发布、AI 视频与多模态。最受关注：「炸裂：疑似Claude Code原生源码被扒光泄露？连开发手...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 炸裂：疑似Claude Code原生源码被扒光泄露？连开发手写注释都有"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 大模型第一股交卷：3000亿市值和三个关键变量"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 刚刚，Claude Code开源了，51万行代码，全网狂欢"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** Claude Code源码泄露，下一个王牌提前曝光"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 四家机器人厂商，一起投了一家数据公司丨涌现新项目"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 你的Office被两个AI接管了：GPT写稿Claude审稿，微软默认开启"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 硬撑15年、仅1台服务器、8GB内存：他用一堆“淘汰” 技术，让50+万人敲下人生第一条Linux命令"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 氛围编程惹的祸，App Store也在被AI垃圾淹没"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 视频与多模态展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。",
+  "raw_text": "[智能提取摘要] 基于 15 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "四家机器人厂商，一起投了一家数据公司丨涌现新项目",
+   "url": "https://36kr.com/p/3746889894461960",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "炸裂：疑似Claude Code原生源码被扒光泄露？连开发手写注释都有",
+   "url": "https://36kr.com/p/3746797496877829",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "大模型第一股交卷：3000亿市值和三个关键变量",
+   "url": "https://36kr.com/p/3746797444448769",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "刚刚，Claude Code开源了，51万行代码，全网狂欢",
+   "url": "https://36kr.com/p/3746797195117063",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "你的Office被两个AI接管了：GPT写稿Claude审稿，微软默认开启",
+   "url": "https://36kr.com/p/3746797166428675",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "硬撑15年、仅1台服务器、8GB内存：他用一堆“淘汰” 技术，让50+万人敲下人生第一条Linux命令",
+   "url": "https://36kr.com/p/3746785463845376",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "氛围编程惹的祸，App Store也在被AI垃圾淹没",
+   "url": "https://36kr.com/p/3746764444025608",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "一场没有硝烟的\"围猎\"：造家电的想变成机器人，造机器人的想掌管家电",
+   "url": "https://36kr.com/p/3746692585325318",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI超节点时代的交换机革命",
+   "url": "https://36kr.com/p/3746673844454150",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 焦虑别乱投，3 个问题秒懂要不要养「虾」",
+   "url": "https://36kr.com/p/3746672921641477",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "近12小时大宕机后仅隔一天，DeepSeek再崩一小时后恢复",
+   "url": "https://36kr.com/p/3746760162689799",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "1次操作莫名背上10.6万元账单、Gemini API密钥被盗、项目濒临崩溃，独立开发者无奈：10分钟就删除旧密钥，Google账单却延迟30小时",
+   "url": "https://36kr.com/p/3746785625178886",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Sora跌倒，字节吃饱：国内大厂接管AI视频下半场？",
+   "url": "https://36kr.com/p/3746785722958599",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude Code源码泄露，下一个王牌提前曝光",
+   "url": "https://36kr.com/p/3746770616627968",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI放弃Sora背后是AI无限使用幻想的落幕",
+   "url": "https://36kr.com/p/3746568760443401",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
