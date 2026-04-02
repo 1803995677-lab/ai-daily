@@ -1,0 +1,214 @@
+{
+ "date": "2026-04-02",
+ "generated_at": "2026-04-02 08:00",
+ "total": 15,
+ "sources": [
+  "36氪 AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 15 篇 AI 相关资讯（国内 15 篇，海外 0 篇）。热门话题集中在：大模型发布。最受关注：「Anthropic王炸Claude基准测试泄露，卡皮巴拉细节...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** Anthropic王炸Claude基准测试泄露，卡皮巴拉细节曝光，还在代码里下毒"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 揪出 Claude Code 源码泄露的人，是个自嘲「门外汉」的华人小哥"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** Claude Code开源第一人，竟是华人辍学博士，CC之父回应：纯手误"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 我以为我在跟老板沟通，其实是两个 AI 在对话"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 斯坦福MIT天团出手，1美元养龙虾，图文视频全包，打工人神外挂"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** AI萌娃、宠物跳舞火了后，加码舞蹈模板的AI视频App，如何接住这“泼天的富贵”？"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 刚刚，龙虾学会画画了，阿里甩出Wan2.7生图王牌，捏脸精确到骨相"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 一个月突变，Linux内核大佬懵了：上个月还是“AI垃圾”，这个月AI Bug报告却突然靠谱？"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。",
+  "raw_text": "[智能提取摘要] 基于 15 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "我以为我在跟老板沟通，其实是两个 AI 在对话",
+   "url": "https://36kr.com/p/3748861978379009",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "斯坦福MIT天团出手，1美元养龙虾，图文视频全包，打工人神外挂",
+   "url": "https://36kr.com/p/3748842413966080",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI萌娃、宠物跳舞火了后，加码舞蹈模板的AI视频App，如何接住这“泼天的富贵”？",
+   "url": "https://36kr.com/p/3748867433906696",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "揪出 Claude Code 源码泄露的人，是个自嘲「门外汉」的华人小哥",
+   "url": "https://36kr.com/p/3748861741957897",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude Code开源第一人，竟是华人辍学博士，CC之父回应：纯手误",
+   "url": "https://36kr.com/p/3748834328429321",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic王炸Claude基准测试泄露，卡皮巴拉细节曝光，还在代码里下毒",
+   "url": "https://36kr.com/p/3748834123448840",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "刚刚，龙虾学会画画了，阿里甩出Wan2.7生图王牌，捏脸精确到骨相",
+   "url": "https://36kr.com/p/3748838483100166",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "一个月突变，Linux内核大佬懵了：上个月还是“AI垃圾”，这个月AI Bug报告却突然靠谱？",
+   "url": "https://36kr.com/p/3748150234989061",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI卖广告到底卖得怎么样了？",
+   "url": "https://36kr.com/p/3748152711103240",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "暴涨31.8%背后，智谱卖API这事跑通了？",
+   "url": "https://36kr.com/p/3748204011651586",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic首席产品官万字分享：AI时代的“现象级产品”为什么难产？",
+   "url": "https://36kr.com/p/3748204044092165",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "全球投资者正把大模型公司推向“市梦率”",
+   "url": "https://36kr.com/p/3748129288782343",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "智谱手握定价权，客户先慌了",
+   "url": "https://36kr.com/p/3748109157249798",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "国产独立大模型公司的未来，估计是出海+垂类To B",
+   "url": "https://36kr.com/p/3748106298524422",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI时代，教育何往？",
+   "url": "https://36kr.com/p/3748081382638337",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
