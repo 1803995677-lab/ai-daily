@@ -1,0 +1,214 @@
+{
+ "date": "2026-04-04",
+ "generated_at": "2026-04-04 08:00",
+ "total": 15,
+ "sources": [
+  "36氪 AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 15 篇 AI 相关资讯（国内 15 篇，海外 0 篇）。热门话题集中在：大模型发布、AI Agent、AI 硬件与芯片。最受关注：「一人干翻2000人大厂，41岁程序员靠AI年入4亿美元，奥特...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 一人干翻2000人大厂，41岁程序员靠AI年入4亿美元，奥特曼：我想见他"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 三万亿美元IPO即将上演，市场在激动同时也在颤栗"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 斯坦福揭秘：ChatGPT骗了你，你却用五星好评杀死了诚实的AI"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 卡帕西解锁大模型新玩法，构建个人知识库，“大部分Token已经不跑代码了”"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 全网炸锅，Anthropic万字曝光Claude情绪代码，被人类逼疯哐哐撞墙"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** AI竞技场上演“死间计”：GPT-5被DS和Gemini玩坏了"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 一颗导弹击中亚马逊数据中心之后"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent、AI 硬件与芯片展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。",
+  "raw_text": "[智能提取摘要] 基于 15 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "一人干翻2000人大厂，41岁程序员靠AI年入4亿美元，奥特曼：我想见他",
+   "url": "https://36kr.com/p/3751033979093760",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "斯坦福揭秘：ChatGPT骗了你，你却用五星好评杀死了诚实的AI",
+   "url": "https://36kr.com/p/3751033882296834",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "卡帕西解锁大模型新玩法，构建个人知识库，“大部分Token已经不跑代码了”",
+   "url": "https://36kr.com/p/3751033456263943",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "全网炸锅，Anthropic万字曝光Claude情绪代码，被人类逼疯哐哐撞墙",
+   "url": "https://36kr.com/p/3751021139002113",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI竞技场上演“死间计”：GPT-5被DS和Gemini玩坏了",
+   "url": "https://36kr.com/p/3751021137494537",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "一颗导弹击中亚马逊数据中心之后",
+   "url": "https://36kr.com/p/3751021118915332",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "奥特曼想了又想，还是不敢碰马斯克玩的这条高压线",
+   "url": "https://36kr.com/p/3751020334531330",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“AI照骗”流行，居然是视频作者的法宝？",
+   "url": "https://36kr.com/p/3751003580547846",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenClaw，是不是凉了",
+   "url": "https://36kr.com/p/3750996061422340",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "普通人怎么读懂Token经济学？",
+   "url": "https://36kr.com/p/3750930859868929",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "龙虾本纪",
+   "url": "https://36kr.com/p/3750917106319878",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek瘫痪12小时，国产大模型的算力已经跟不上野心了？",
+   "url": "https://36kr.com/p/3750856080863749",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "神州数码2025年营收超1400亿，AI相关业务增长近五成｜最前线",
+   "url": "https://36kr.com/p/3751046517129735",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "五年增速超50%，Rokid的“终局之战”到来了",
+   "url": "https://36kr.com/p/3750807372296709",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "三万亿美元IPO即将上演，市场在激动同时也在颤栗",
+   "url": "https://36kr.com/p/3750803196801545",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
