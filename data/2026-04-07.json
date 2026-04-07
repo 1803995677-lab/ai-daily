@@ -1,0 +1,214 @@
+{
+ "date": "2026-04-07",
+ "generated_at": "2026-04-07 08:00",
+ "total": 15,
+ "sources": [
+  "36氪 AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 15 篇 AI 相关资讯（国内 15 篇，海外 0 篇）。热门话题集中在：大模型发布、机器人。最受关注：「GPT-6抢先发布？Mythos被曝难产，算力惊人烧垮Ant...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** GPT-6抢先发布？Mythos被曝难产，算力惊人烧垮Anthropic"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 停止和大模型聊天：产品经理的AI工作流重构指南"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 罗福莉：Claude订阅封杀龙虾背后，真正的出路不是更便宜的token"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** OpenAI又曝出内讧了！IPO前夜高层大换血"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** iPhone本地跑Gemma 4火了，0 token时代还有多远？"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** Claude 4小时血洗全球最安全系统，人类最后防线失守"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 黄仁勋最新访谈：要想成事，这4点远比智力更重要"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 下一个十年，决定你贫富的，不再是努力，而是它"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、机器人展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。",
+  "raw_text": "[智能提取摘要] 基于 15 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "停止和大模型聊天：产品经理的AI工作流重构指南",
+   "url": "https://36kr.com/p/3754709600535298",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "罗福莉：Claude订阅封杀龙虾背后，真正的出路不是更便宜的token",
+   "url": "https://36kr.com/p/3754978719220486",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "GPT-6抢先发布？Mythos被曝难产，算力惊人烧垮Anthropic",
+   "url": "https://36kr.com/p/3754937730908674",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+   "url": "https://36kr.com/p/3754937384436484",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "iPhone本地跑Gemma 4火了，0 token时代还有多远？",
+   "url": "https://36kr.com/p/3754860403294985",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude 4小时血洗全球最安全系统，人类最后防线失守",
+   "url": "https://36kr.com/p/3754727404389121",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "GPT-6，曝光了",
+   "url": "https://36kr.com/p/3754726863012361",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "大学专业死亡潮",
+   "url": "https://36kr.com/p/3753606445187586",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "黄仁勋最新访谈：要想成事，这4点远比智力更重要",
+   "url": "https://36kr.com/p/3753985100432131",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "下一个十年，决定你贫富的，不再是努力，而是它",
+   "url": "https://36kr.com/p/3753912965399045",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "算力基建提速，电子玻纤布又要起飞了？",
+   "url": "https://36kr.com/p/3753630523294472",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "社交媒体撕裂的世界，能被ChatGPT们缝合吗？",
+   "url": "https://36kr.com/p/3753449545445896",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "如果有一天周杰伦用 AI 写歌，你还会听吗？",
+   "url": "https://36kr.com/p/3753413995741954",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "大厂只需要Token，不需要活人",
+   "url": "https://36kr.com/p/3753347893719810",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "一场机器人黑客松，让具身智能的差距与机会同时显形",
+   "url": "https://36kr.com/p/3753345845903872",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
