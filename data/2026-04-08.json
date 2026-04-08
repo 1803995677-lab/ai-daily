@@ -1,0 +1,214 @@
+{
+ "date": "2026-04-08",
+ "generated_at": "2026-04-08 08:00",
+ "total": 15,
+ "sources": [
+  "36氪 AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 15 篇 AI 相关资讯（国内 15 篇，海外 0 篇）。热门话题集中在：大模型发布、AI Agent。最受关注：「扎堆发布AI视频工具，大厂争当创作者的“缪斯”」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 扎堆发布AI视频工具，大厂争当创作者的“缪斯”"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 别被6亿利润“骗”了，最赚钱的硬件，恰恰是宇树的最大风险"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** Meta员工空转AI只为浪费token，烧的多挣的多，日均消耗2万亿"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[36氪 AI]** 完球了，GPT-4o之母宣布离职OpenAI"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** Anthropic封杀48小时，逼出OpenClaw最强反击，龙虾首次会生视频了"
+   },
+   {
+    "tag": "🟡",
+    "text": "**[36氪 AI]** 刚刚，DeepSeek大升级，V4真的不远了｜附体验细节"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** Netflix也发视频模型了：不只是“擦除”，而是“重写”物理世界"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** Claude爆火研究漏引华人团队成果，已挨打立正道歉"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。",
+  "raw_text": "[智能提取摘要] 基于 15 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "刚刚，DeepSeek大升级，V4真的不远了｜附体验细节",
+   "url": "https://36kr.com/p/3757399317283593",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Netflix也发视频模型了：不只是“擦除”，而是“重写”物理世界",
+   "url": "https://36kr.com/p/3756719276835586",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "扎堆发布AI视频工具，大厂争当创作者的“缪斯”",
+   "url": "https://36kr.com/p/3756670078927624",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
+   "url": "https://36kr.com/p/3756573700735492",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI洗牌音乐界，但创作者还没赚到钱",
+   "url": "https://36kr.com/p/3756683077677568",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "别被6亿利润“骗”了，最赚钱的硬件，恰恰是宇树的最大风险",
+   "url": "https://36kr.com/p/3756656728752900",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta员工空转AI只为浪费token，烧的多挣的多，日均消耗2万亿",
+   "url": "https://36kr.com/p/3756573545693703",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude灾难级大宕机，全球开发者集体炸锅，Anthropic三连翻车被怒喷",
+   "url": "https://36kr.com/p/3756568883151368",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "抢打工人饭碗的，真是AI吗？",
+   "url": "https://36kr.com/p/3756629408956937",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "完球了，GPT-4o之母宣布离职OpenAI",
+   "url": "https://36kr.com/p/3756573443588609",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "2026企业AI大考：别秀PPT，亮出你的「用虾」真功夫",
+   "url": "https://36kr.com/p/3756720060793347",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "腾讯AI还有一张暗牌",
+   "url": "https://36kr.com/p/3756594368430600",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "省token神器3天狂揽4.1k星，19岁小哥开发，信息无损最高省87%",
+   "url": "https://36kr.com/p/3756573503963912",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude越更越废？AMD AI负责人甩出23万次调用记录：已“变蠢+摆烂”，复杂工程根本干不了",
+   "url": "https://36kr.com/p/3756572218376964",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic封杀48小时，逼出OpenClaw最强反击，龙虾首次会生视频了",
+   "url": "https://36kr.com/p/3756316944925445",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
