@@ -28,11 +28,11 @@
   --theverge: #E5127D; --arstechnica: #FF6600; --venturebeat: #2563EB;
   --wired: #BFBFBF; --mit: #A31F34; --jiqizhixin: #2196F3;
   --qbitai: #8B5CF6; --36kr: #0078FF; --infoq: #007ACC;
-  --reuters: #FF8000; --bbc: #BB1919; --cnbc: #005594;
-  --guardian: #052962; --zdnet: #E00000; --engadget: #00bfff;
-  --ieee: #006699; --hackernews: #FF6600; --google: #4285F4;
-  --ithome: #D32F2F; --sspai: #DA282A; --csdn: #FC5531;
-  --thepaper: #1A73E8; --general: #6C63FF;
+  --cnbc: #005594; --guardian: #052962; --zdnet: #E00000;
+  --wsj: #0080C3; --ieee: #006699; --hackernews: #FF6600;
+  --google: #4285F4; --deepmind: #4285F4; --microsoft: #00A4EF;
+  --nvidia: #76B900; --sciencedaily: #2E86AB;
+  --ithome: #D32F2F; --sspai: #DA282A; --general: #6C63FF;
 }
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif;
@@ -323,8 +323,8 @@ footer { text-align: center; padding: 40px 0 20px; color: var(--text-muted); fon
 //  CONFIG — change the hash to set your password
 // ══════════════════════════════════════════════════
 const PW_HASH = 'f0873a474ae2b0e2b2dfe85bcff6b86ece9b2a849d07ed2be9de31f9a5b579bf'; // "aidaily2026"
-const CN_PLATFORMS = new Set(['jiqizhixin','qbitai','36kr','infoq','weibo','xiaohongshu','douyin','ithome','sspai','csdn','thepaper']);
-const PLATFORM_LABELS = {techcrunch:'TechCrunch',theverge:'The Verge',arstechnica:'Ars Technica',venturebeat:'VentureBeat',wired:'Wired',mit:'MIT Tech',reuters:'Reuters',bbc:'BBC',cnbc:'CNBC',guardian:'Guardian',zdnet:'ZDNet',engadget:'Engadget',ieee:'IEEE',hackernews:'Hacker News',google:'Google AI',jiqizhixin:'机器之心',qbitai:'量子位','36kr':'36氪',infoq:'InfoQ',ithome:'IT之家',sspai:'少数派',csdn:'CSDN',thepaper:'澎湃',weibo:'微博'};
+const CN_PLATFORMS = new Set(['jiqizhixin','qbitai','36kr','infoq','weibo','xiaohongshu','douyin','ithome','sspai']);
+const PLATFORM_LABELS = {techcrunch:'TechCrunch',theverge:'The Verge',arstechnica:'Ars Technica',venturebeat:'VentureBeat',wired:'Wired',mit:'MIT Tech',cnbc:'CNBC',guardian:'Guardian',wsj:'WSJ',zdnet:'ZDNet',ieee:'IEEE',hackernews:'Hacker News',google:'Google AI',deepmind:'DeepMind',microsoft:'Microsoft AI',nvidia:'NVIDIA',sciencedaily:'Science Daily',jiqizhixin:'机器之心',qbitai:'量子位','36kr':'36氪',infoq:'InfoQ',ithome:'IT之家',sspai:'少数派',weibo:'微博'};
 
 let manifest = null;
 let currentIdx = 0;
