@@ -1,0 +1,802 @@
+{
+ "date": "2026-04-09",
+ "generated_at": "2026-04-09 08:00",
+ "total": 56,
+ "sources": [
+  "Wired AI",
+  "The Guardian Tech",
+  "MIT Tech Review",
+  "NVIDIA Blog",
+  "ZDNet AI",
+  "TechCrunch AI",
+  "CNBC Tech",
+  "The Verge AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 56 篇 AI 相关资讯（国内 0 篇，海外 56 篇）。热门话题集中在：大模型发布、AI Agent、AI 监管与政策、AI 硬件与芯片。最受关注：「Meta is reentering the AI race...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Meta is reentering the AI race with a new model called Muse Spark — Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark,"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Tubi is the first streamer to launch a native app within ChatGPT — Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Google quietly launched an AI dictation app that works offline — Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict — AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[CNBC Tech]** Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions — Meta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** OpenAI releases a new safety blueprint to address the rise in child sexual exploitation — OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** The vibes are off at OpenAI — OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in fundin"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Atlassian launches visual AI tools and third-party agents in Confluence — Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma."
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent、AI 监管与政策展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 56 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "Anthropic loses appeals court bid to temporarily block Pentagon blacklisting",
+   "url": "https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "A federal appeals on denied Anthropic's request for a stay in its lawsuit against the Department of Defense.",
+   "published": "2026-04-08T23:52:04+00:00",
+   "age_label": "8分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta debuts new AI model, attempting to catch Google, OpenAI after spending billions",
+   "url": "https://www.cnbc.com/2026/04/08/meta-debuts-first-major-ai-model-since-14-billion-deal-to-bring-in-alexandr-wang.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Meta debuted its first major large language model, Muse Spark, spearheaded by chief AI officer Alexandr Wang, who leads Meta Superintelligence Labs.",
+   "published": "2026-04-08T23:21:25+00:00",
+   "age_label": "38分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI will allocate IPO shares to retail investors as it preps for debut, CFO says",
+   "url": "https://www.cnbc.com/2026/04/08/openai-ipo-sarah-friar-retail-investors.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CRO Denise Dresser said enterprise is now 40% of the company's revenue and is set to equal consumer by the end of 2026.",
+   "published": "2026-04-08T23:16:15+00:00",
+   "age_label": "44分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
+   "url": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+   "published": "2026-04-08T22:27:26+00:00",
+   "age_label": "1小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Anthropic",
+    "lawsuit",
+    "department of defense"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Alphabet, Meta, Amazon, Nvidia lead tech rally after Trump announces ceasefire with Iran",
+   "url": "https://www.cnbc.com/2026/04/08/alphabet-nvidia-microsoft-tech-stocks-iran-ceasefire.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "President Donald Trump's Iran ceasefire announcement provided some relief to Wall Street and tech stocks shared in the rally.",
+   "published": "2026-04-08T21:28:06+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "You can read PDFs and articles on your Kindle: How to send all kinds of files to your device",
+   "url": "https://www.zdnet.com/article/how-to-send-articles-and-files-kindle/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Ever wish you could read that long article or a PDF on your Kindle? Here's how you can do that in seconds.",
+   "published": "2026-04-08T21:06:00+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI agent Poke makes setting up automations as easy as sending a text",
+   "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+   "published": "2026-04-08T21:05:13+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "TC",
+    "AI agents",
+    "ai automation"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI made economic proposals — here’s what DC thinks of them",
+   "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but my only request is that you sign up before Donald Trump decides to revisit his previous threats towar...",
+   "published": "2026-04-08T20:14:00+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Column",
+    "OpenAI",
+    "Policy",
+    "Politics"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+   "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+   "published": "2026-04-08T20:09:14+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "TC",
+    "AWS",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "This AirTag alternative with a 130dB siren and strobe light has my name written all over it",
+   "url": "https://www.zdnet.com/article/pebblebee-halo-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The Pebblebee Halo isn't your ordinary Bluetooth tracker; it's a full-fledged personal safety device.",
+   "published": "2026-04-08T19:41:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How to quickly convert EPUB files to Kindle format - and why it matters",
+   "url": "https://www.zdnet.com/article/how-to-convert-epub-files-to-kindle-format/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Think you're stuck using only Amazon's Kindle format? Think again. Here's how to convert e-book formats, giving you more control over your digital library.",
+   "published": "2026-04-08T19:29:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Your Kindle's not obsolete, it just needs a jailbreak - and I'll show you how it's done",
+   "url": "https://www.zdnet.com/article/your-kindles-not-obsolete-it-needs-a-jailbreak-ill-show-you-how-its-done/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "You can transform your old Kindle - even a bricked device - into the ultimate open-source reader. Here's how.",
+   "published": "2026-04-08T19:24:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How to add EPUB, MOBI, and PDF files to your Kindle - follow my easy step-by-step",
+   "url": "https://www.zdnet.com/article/how-to-add-epub-mobi-and-pdf-files-to-your-kindle-no-converting-required/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Struggling to transfer ebooks to your Kindle? Here's the step-by-step process for moving EPUB, MOBI, and PDF files to both new and old Kindle devices via both USB and Amazon's cloud.",
+   "published": "2026-04-08T19:24:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Got an old Kindle? How to resurrect your e-reader with new books",
+   "url": "https://www.zdnet.com/article/old-kindle-how-to-resurrect-your-e-reader-with-new-books/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I added new books to an ancient Kindle DX. Here's how you can breathe new life into your outdated e-reader.",
+   "published": "2026-04-08T19:24:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta’s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid’s Table",
+   "url": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Muse Spark is Meta’s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+   "published": "2026-04-08T18:51:09+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Meta",
+    "generative AI",
+    "models"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+   "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+   "published": "2026-04-08T18:23:06+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Media & Entertainment",
+    "ChatGPT",
+    "streaming service",
+    "tubi"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The US Army Is Building Its Own Chatbot for Combat",
+   "url": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+   "published": "2026-04-08T18:00:00+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "AI Lab",
+    "artificial intelligence",
+    "Military"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Android users can get up to $100 each from this class action suit - see if you're eligible",
+   "url": "https://www.zdnet.com/article/android-users-google-class-action-suit/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The suit alleges that Google sent data over cellular connections without your permission. Here's how to file for your share.",
+   "published": "2026-04-08T17:55:38+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "E-books are more expensive now, too - 5 ways I find good free Kindle reads in 2026",
+   "url": "https://www.zdnet.com/article/how-to-get-free-books-on-kindle/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I have a growing library of free ebooks on my Kindle, and you can too. Here's how.",
+   "published": "2026-04-08T17:48:00+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Amazon is ending support for 8 Kindle models next month: Is yours on the list?",
+   "url": "https://www.zdnet.com/article/amazon-ending-support-for-older-kindle-e-readers-in-may/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Starting in May, you won't be able to access the Kindle Store from your older device. Here are your best alternatives.",
+   "published": "2026-04-08T17:27:00+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "5 Burning Questions About Elon Musk’s Terafab Chip Partnership with Intel",
+   "url": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Intel’s role in Elon Musk’s ambitious chip venture is still murky, raising questions about what the partnership actually entails—and whether it can work at all.",
+   "published": "2026-04-08T17:13:33+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Tesla",
+    "Elon Musk",
+    "artificial intelligence"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Home Depot's Spring Black Friday sale starts this week: Here's what to know",
+   "url": "https://www.zdnet.com/article/home-depot-spring-black-friday-sale-faq/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Home Depot is discounting everything from grills to patio furniture to outdoor power equipment. Here's everything to know before you shop.",
+   "published": "2026-04-08T17:00:59+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic’s New Product Aims to Handle the Hard Part of Building AI Agents",
+   "url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
+   "published": "2026-04-08T17:00:00+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Anthropic",
+    "models",
+    "agentic AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "After two years of testing, wind power still can't replace solar for me - here's why",
+   "url": "https://www.zdnet.com/article/portable-wind-turbine-test-solar-backup-not-replacement/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "My years of hands-on testing show that while solar energy is straightforward, portable wind turbines require ongoing maintenance to remain efficient.",
+   "published": "2026-04-08T16:52:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The 10 most popular products ZDNET readers bought last month (including a tiny storage option)",
+   "url": "https://www.zdnet.com/article/most-popular-products-zdnet-readers-bought-last-month-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "From phone cases to USB-C gear, these are the top tech gadgets and useful items our readers actually purchased last month.",
+   "published": "2026-04-08T16:49:10+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How a burner email can protect your inbox - setting one up one is easy and free",
+   "url": "https://www.zdnet.com/article/burner-email-address-spam-phishing/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Using your primary email address everywhere can be risky. A temporary and disposable burner email address offers a safer alternative.",
+   "published": "2026-04-08T16:42:07+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta is reentering the AI race with a new model called Muse Spark",
+   "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta AI website in the US, per the company's announcement. In the coming weeks, Meta says, it will appea...",
+   "published": "2026-04-08T16:12:54+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "Meta",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic gives our cyber stocks and other big tech names an AI stamp of approval",
+   "url": "https://www.cnbc.com/2026/04/08/anthropic-gives-our-cyber-stocks-and-other-big-tech-names-an-ai-stamp-of-approval.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Unlike past Anthropic announcements that resulted in cyber and tech selling, this one was a breath of fresh air.",
+   "published": "2026-04-08T16:02:15+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+   "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+   "published": "2026-04-08T16:01:09+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "TC",
+    "AI agents",
+    "Astropad"
+   ],
+   "image": ""
+  },
+  {
+   "title": "How I sync my smart thermostat with off-peak hour rates to reduce electricity costs",
+   "url": "https://www.zdnet.com/article/how-to-use-smart-thermostat-to-get-ahead-of-temperature-spikes/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "It's easy to stay comfortable while saving money thanks to these helpful IFTTT automations.",
+   "published": "2026-04-08T15:38:00+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+   "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+   "published": "2026-04-08T15:23:44+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "ChatGPT",
+    "online child safety",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+   "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+   "published": "2026-04-08T15:00:00+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "Startups",
+    "ACM",
+    "AGI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I tested the Suunto Spark earbuds for a month: Why air conduction audio is a winner",
+   "url": "https://www.zdnet.com/article/suunto-spark-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Suunto's new air conduction earbuds have replaced my bone conduction headphones during workouts, especially when I want a better audio experience.",
+   "published": "2026-04-08T14:00:36+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+   "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I ...",
+   "published": "2026-04-08T14:00:00+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "Artificial intelligence",
+    "AI",
+    "App",
+    "artificial intelligence",
+    "Opinion"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The vibes are off at OpenAI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's potentially planning for an IPO later this year. ChatGPT's longtime lead in consumer-facing AI led i...",
+   "published": "2026-04-08T13:47:38+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Analysis",
+    "OpenAI",
+    "Report"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Sonos Play vs. Sonos Move 2: Why I'd go with the $200 cheaper Bluetooth speaker",
+   "url": "https://www.zdnet.com/article/sonos-play-vs-sonos-move-2/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Can't decide between the Sonos Play and Move 2? It's easy for me. One is far less expensive, has a 24-hour battery, and a IP67 rating.",
+   "published": "2026-04-08T13:28:00+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Alibaba launches data center with 10,000 of its own chips as China ramps up AI push",
+   "url": "https://www.cnbc.com/2026/04/08/china-alibaba-data-center-ai-chips-zhenwu.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Alibaba and China Telecom launched a data center in China designed for AI training and inferencing.",
+   "published": "2026-04-08T13:06:39+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+   "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+   "published": "2026-04-08T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Enterprise",
+    "AI agents",
+    "artificial intelligence"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI's next bottleneck: Why even the best chips made in the U.S. take a round trip to Taiwan",
+   "url": "https://www.cnbc.com/2026/04/08/tsmc-nvidia-advanced-packaging-intel.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Nvidia has reserved the majority of TSMC’s most advanced packaging capacity. The lesser-known chipmaking step may become the next bottleneck for AI.",
+   "published": "2026-04-08T12:41:22+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I just found a hidden Google Photos tool that clears storage in seconds - how it works",
+   "url": "https://www.zdnet.com/article/google-photos-clean-up-this-day-how-it-works/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Google Photos now lets you swipe left and right to keep or delete photos and clear up space, though it's Android-only.",
+   "published": "2026-04-08T12:24:00+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Iran ceasefire, Delta earnings, the Navy's retail woes and more in Morning Squawk",
+   "url": "https://www.cnbc.com/2026/04/08/5-things-to-know-before-the-market-opens.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Here are five key things investors need to know to start the trading day.",
+   "published": "2026-04-08T12:22:13+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+   "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable  As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization te...",
+   "published": "2026-04-08T12:10:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "The Download"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
+   "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line. The roughly 150 members of the ProPublica Guild are in the midst of negotiating a collective bargaining agre...",
+   "published": "2026-04-08T11:53:28+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "AI",
+    "Creators",
+    "Labor",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "How games capture the awe and terror of cosmic isolation",
+   "url": "https://www.theguardian.com/games/2026/apr/08/how-games-capture-the-humanity-in-the-loneliness-of-space-exploration",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "As real astronauts vanish behind the moon, games have long tried to evoke the fragile quiet of drifting through space • Don’t get Pushing Buttons delivered to your inbox? Sign up here Last week’s launch of the Artemis II space mission was a stunning spectacle, the 17-storey-high rockets erupting int...",
+   "published": "2026-04-08T11:40:30+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "Games",
+    "Culture",
+    "Artemis II",
+    "Space"
+   ],
+   "image": "https://i.guim.co.uk/img/media/931c6080a17d7f6a8266c72a599d2f1aa6c52d33/588_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=588fbed895a58cdbe94100dfa80b6764"
+  },
+  {
+   "title": "Britons warned about Russian hackers targeting internet routers for espionage",
+   "url": "https://www.theguardian.com/technology/2026/apr/08/britons-warned-russian-hackers-internet-routers-cyber-security-espionage",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Expert stresses importance of staying alert for unusual activity, as hackers could ‘take you to fake sites’ UK politics live – latest updates Russian hackers are exploiting commonly sold internet routers to harvest information for espionage purposes, the UK’s cybersecurity agency has said. The hack ...",
+   "published": "2026-04-08T11:20:45+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "Cybercrime",
+    "Hacking",
+    "Espionage",
+    "Russia",
+    "Internet"
+   ],
+   "image": "https://i.guim.co.uk/img/media/1a338c7a6f73a8f5f02d588067658bc14e9dcfb0/873_0_4634_3708/master/4634.jpg?width=140&quality=85&auto=format&fit=max&s=883abf976f735b90dd14489a1f9c3748"
+  },
+  {
+   "title": "I found a 'DISM' command that reclaims Windows 11 system storage - but you'll have to use it wisely",
+   "url": "https://www.zdnet.com/article/windows-reserved-storage-setting-turn-off-and-why/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "A feature called Reserved Storage retains a small amount of storage for updates - here's how to disable it, and when it makes the most sense to do so.",
+   "published": "2026-04-08T11:16:43+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Why you shouldn't buy cheap DisplayPort cables - the 'Death Pin' can put your GPU at serious risk",
+   "url": "https://www.zdnet.com/article/dont-buy-cheap-displayport-cables-or-they-can-brick-your-pc/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The tiniest manufacturing mistake can cause huge issues with your PC. Here's how to prevent it from happening.",
+   "published": "2026-04-08T10:30:39+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+   "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation mode...",
+   "published": "2026-04-08T09:45:59+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Robotics",
+    "Computer Vision",
+    "Inception",
+    "Physical AI",
+    "Simulation and Design"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg"
+  },
+  {
+   "title": "Countries around the world are considering teen social media bans – why experts warn it’s a ‘lazy’ fix",
+   "url": "https://www.cnbc.com/2026/04/08/teen-social-media-ban-countries-tech-experts-warning.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "\"I think the argument for a ban is an admission of failure that we cannot regulate companies, so we can only restrict children,\" one expert told CNBC.",
+   "published": "2026-04-08T09:20:20+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The best Windows laptops of 2026: Expert tested and reviewed",
+   "url": "https://www.zdnet.com/article/best-windows-laptop/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "We've gone hands-on with dozens of Windows laptops, evaluating their performance, portability, and value. Here are our top picks.",
+   "published": "2026-04-08T09:01:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Broadcom's stock jumps 6% after chipmaker expands Google, Anthropic deals",
+   "url": "https://www.cnbc.com/2026/04/07/broadcom-shares-jump-before-bell-google-deal.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Broadcom's stock had its second-best day of the year after the chip designer announced an extension to its deal with Google.",
+   "published": "2026-04-08T06:43:20+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google quietly launched an AI dictation app that works offline",
+   "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+   "published": "2026-04-08T05:40:19+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Google",
+    "Dictation",
+    "voice AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Google CEO Sundar Pichai says 'AI shift' opens opportunities to invest in startups",
+   "url": "https://www.cnbc.com/2026/04/07/google-ceo-pichai-says-ai-shift-opens-opportunities-invest-startups.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Alphabet is in investor in some of the highest-valued private companies, including SpaceX, Anthropic and Stripe.",
+   "published": "2026-04-07T23:37:42+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Elon Musk seeks ouster of OpenAI CEO Sam Altman as part of lawsuit",
+   "url": "https://www.cnbc.com/2026/04/07/elon-musk-seeks-ouster-of-openai-ceo-sam-altman-as-part-of-lawsuit.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Elon Musk is seeking to have OpenAI CEO Sam Altman and President Greg Brockman removed from their roles as officers in the company as part of a lawsuit.",
+   "published": "2026-04-07T23:34:15+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+   "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+   "published": "2026-04-07T21:35:02+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Startups",
+    "TC",
+    "Arcee AI",
+    "chinese ai"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AWS teams working around the clock to keep Middle East services up after drone strikes, CEO says",
+   "url": "https://www.cnbc.com/2026/04/07/aws-iran-threats-us-tech-data-centers.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "The Iran war has hit Amazon data centers in the region, and the company is working around the clock on availability, cloud chief Matt Garman said.",
+   "published": "2026-04-07T20:16:18+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
