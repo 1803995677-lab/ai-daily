@@ -1,0 +1,676 @@
+{
+ "date": "2026-04-14",
+ "generated_at": "2026-04-14 08:00",
+ "total": 49,
+ "sources": [
+  "Wired AI",
+  "MIT Tech Review",
+  "InfoQ 中文",
+  "36氪 AI",
+  "The Verge AI",
+  "CNBC Tech",
+  "TechCrunch AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 49 篇 AI 相关资讯（国内 24 篇，海外 25 篇）。热门话题集中在：大模型发布、AI Agent、机器人、AI 监管与政策。最受关注：「Trump officials may be encoura...」。",
+  "highlights": [
+   {
+    "tag": "🟠",
+    "text": "**[TechCrunch AI]** Trump officials may be encouraging banks to test Anthropic’s Mythos model — The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** Microsoft is working on yet another OpenClaw-like agent — The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[CNBC Tech]** OpenAI announces first permanent London office after halting UK Stargate project — In February, the company said it would make London its largest research hub outside of the U.S."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[MIT Tech Review]** Why opinion on AI is so divided — This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an indust"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[InfoQ 中文]** Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[MIT Tech Review]** Job titles of the future: Wildlife first responder — Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife bi"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** Stanford report highlights growing disconnect between AI insiders and everyone else — Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy."
+   },
+   {
+    "tag": "🔵",
+    "text": "**[The Verge AI]** Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic — OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the "
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent、机器人展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 49 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+   "url": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
+   "published": "2026-04-13T23:37:38+00:00",
+   "age_label": "22分钟前",
+   "tags": [
+    "Gear",
+    "Gear / Gear News and Events",
+    "robots",
+    "artificial intelligence",
+    "robotics"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI",
+   "url": "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "San Francisco Police Department officers recovered a document from the suspect that detailed his intentions, according to a filing.",
+   "published": "2026-04-13T23:27:13+00:00",
+   "age_label": "32分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Jim Cramer says this is the real reason why stocks are shrugging off Iran war fears",
+   "url": "https://www.cnbc.com/2026/04/13/jim-cramer-stocks-rallying-despite-iran-war-why.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "\"If interest rates were spiking, this market would be very different,\" CNBC's Jim Cramer said Monday.",
+   "published": "2026-04-13T23:06:21+00:00",
+   "age_label": "53分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Oracle pops nearly 13%, leading bounce back rally in software stocks",
+   "url": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
+   "published": "2026-04-13T22:38:17+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Intel's stock on historic 9-day winning streak, up 58% over that run",
+   "url": "https://www.cnbc.com/2026/04/13/intel-stock-historic-winning-streak.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "The U.S. chipmaker has announced recent deals with Google and Elon Musk as it continues to gain investments.",
+   "published": "2026-04-13T20:09:04+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI influencers are ‘everywhere’ at Coachella",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds has already shown me many uncannily attractive figures in glitzy outfits, posing for perfectly stage...",
+   "published": "2026-04-13T19:53:46+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "Entertainment",
+    "Music",
+    "Report"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Microsoft is working on yet another OpenClaw-like agent",
+   "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+   "published": "2026-04-13T19:05:19+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "ai agent",
+    "Copilot",
+    "Microsoft"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+   "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+   "published": "2026-04-13T18:55:37+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "public sentiment",
+    "sam altman",
+    "stanford ai report"
+   ],
+   "image": ""
+  },
+  {
+   "title": "不会写代码也能用 AI 干活了：OpenAI 正在做一个“替你用电脑”的 Super App，新模型Spud 几周内登场",
+   "url": "https://www.infoq.cn/article/lAmhJxwuoPLvsKAF8WCV?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T18:48:30+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude 吞噬一切？“Vibe Coding 公司的最大错觉是以为自己有护城河”",
+   "url": "https://www.infoq.cn/article/F88ML5vdJkc4dkreyamI?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T18:03:01+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "不用则废：开发者直面 AI 编码工具的隐性代价",
+   "url": "https://www.infoq.cn/article/bLageDSMAujcPRLriJi5?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T16:59:11+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Read OpenAI&#8217;s latest internal memo about beating the competition — including Anthropic",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise business. The memo, which was viewed by The Verge, repeatedly underlines the importance of building a mo...",
+   "published": "2026-04-13T16:21:08+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "OpenAI",
+    "Report"
+   ],
+   "image": ""
+  },
+  {
+   "title": "从拒绝 AI 到一切先问 Agent，DHH：这是我最爽的编程时刻之一，但程序员黄金时代到头了",
+   "url": "https://www.infoq.cn/article/dOey7eV1T9p3dtPWTPCV?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T16:19:48+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+   "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "More than 70 organizations, including the ACLU, EPIC, and Fight for the Future, say the AI smart glasses feature would endanger abuse victims, immigrants, and LGBTQ+ people.",
+   "published": "2026-04-13T16:01:30+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "Security",
+    "Security / Privacy",
+    "Security / Security News",
+    "Business / Artificial Intelligence",
+    "Business / Social Media"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Why opinion on AI is so divided",
+   "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a s...",
+   "published": "2026-04-13T15:48:28+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Artificial intelligence",
+    "App",
+    "artificial intelligence",
+    "The Algorithm"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 不想写 spec 了：Codex 只留 10 条要点，把执行交给 skills",
+   "url": "https://www.infoq.cn/article/C2fWkH2EgBlDPNUNlcZX?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T15:43:50+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
+   "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make Microsoft 365 Copilot \"run autonomously around the clock\" while completing tasks on behalf of users....",
+   "published": "2026-04-13T15:41:09+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Microsoft",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients",
+   "url": "https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "In an internal memo, OpenAI's new revenue chief pointed to the artificial intelligence company's ongoing effort to reduce its reliance on Microsoft.",
+   "published": "2026-04-13T15:40:42+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks",
+   "url": "https://www.cnbc.com/2026/04/10/powell-bessent-us-bank-ceos-anthropic-mythos-ai-cyber.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Anthropic rolled out the new Mythos AI model to a select group of companies over concerns that hackers could exploit its capabilities.",
+   "published": "2026-04-13T15:39:42+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+   "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+   "published": "2026-04-13T15:22:29+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "Venture",
+    "agents",
+    "hosting"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Cloudflare发布Dynamic Workers公开测试版：基于Isolates的沙箱环境执行AI智能体代码",
+   "url": "https://www.infoq.cn/article/71XfFmTWWDmIhtqjoZED?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T15:00:00+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌推出AppFunctions连接AI智能体和Android应用",
+   "url": "https://www.infoq.cn/article/y8lHXFCpi7jOcK5mspSd?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T14:00:00+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+   "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is training the AI avatar on Zuckerberg's image and voice, along with his mannerisms, tone, and public...",
+   "published": "2026-04-13T13:40:03+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Meta",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Want to understand the current state of AI? Check out these charts.",
+   "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts th...",
+   "published": "2026-04-13T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "Artificial intelligence",
+    "App",
+    "Summary"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Strait of Hormuz blockade, Goldman Sachs earnings, AI cybersecurity and more in Morning Squawk",
+   "url": "https://www.cnbc.com/2026/04/13/5-things-to-know-before-the-market-opens.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Here are five key things investors need to know to start the trading day.",
+   "published": "2026-04-13T12:10:54+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+   "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in his early twen...",
+   "published": "2026-04-13T12:10:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "The Download"
+   ],
+   "image": ""
+  },
+  {
+   "title": "曝京东全面拦截员工使用外部 AI；红帽裁撤中国区研发团队迁至印度，最高赔偿 N+6；传梁文峰内部发声：DeepSeek V4 本月下旬发布 | AI周报",
+   "url": "https://www.infoq.cn/article/pp8VUCpuJENbkWr169ec?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T10:25:17+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI Agents Are Coming for Your Dating Life",
+   "url": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The developers of Pixel Societies are using AI agents to simulate social interactions. It's an attempt optimize the process of choosing new colleagues, friends, and even romantic partners.",
+   "published": "2026-04-13T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "artificial intelligence",
+    "agentic AI",
+    "Startups"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Job titles of the future: Wildlife first responder",
+   "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento.  For some seven years, Sarmento worked to keep both the bears, which are still listed as threatened under the Endangered Spec...",
+   "published": "2026-04-13T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Climate change and energy",
+    "App"
+   ],
+   "image": ""
+  },
+  {
+   "title": "You have no choice in reading this article—maybe",
+   "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion.  Then his professor asked him to deliver an undergrad lectur...",
+   "published": "2026-04-13T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Culture",
+    "App"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Kubescape 4.0为Kubernetes带来运行时安全和AI智能体扫描",
+   "url": "https://www.infoq.cn/article/FA7cwRtSJMI63GFiHFDX?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-13T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI announces first permanent London office after halting UK Stargate project",
+   "url": "https://www.cnbc.com/2026/04/13/openai-london-office-sam-altman-uk-stargate.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "In February, the company said it would make London its largest research hub outside of the U.S.",
+   "published": "2026-04-13T09:03:40+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The largest orbital compute cluster is open for business",
+   "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space.",
+   "published": "2026-04-13T07:01:00+00:00",
+   "age_label": "16小时前",
+   "tags": [
+    "AI",
+    "Space",
+    "Kepler Communications",
+    "Satellites"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+   "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+   "published": "2026-04-12T21:14:38+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "Anthropic",
+    "In Brief",
+    "jerome powell"
+   ],
+   "image": ""
+  },
+  {
+   "title": "荣耀做了个“养虾本”，预制5大主虾，要重新定义AI PC｜最前线",
+   "url": "https://36kr.com/p/3765331768967686",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 也把工程师经验“蒸馏”进 skill 了，Harness 爆文作者曝内部玩法：一个百万行代码系统，全程零人工编码和审核",
+   "url": "https://36kr.com/p/3765104802349574",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从AI监管到内容生态重构：平台正在重新定价“真实”",
+   "url": "https://36kr.com/p/3765102752252424",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "人形机器人有了泰森的身体，却还在等霍金的大脑",
+   "url": "https://36kr.com/p/3765099547849480",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude 吞噬整个AI编程栈？“Vibe Coding 公司的最大错觉是以为自己有护城河”",
+   "url": "https://36kr.com/p/3764989164307202",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "1270万应届毕业生，狂卷AI“金饭碗”",
+   "url": "https://36kr.com/p/3765189807882754",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "给AI砸了万亿Capex，投资人却开始不买账了",
+   "url": "https://36kr.com/p/3765196964610825",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "当AI开始「开发」自己",
+   "url": "https://36kr.com/p/3765201356325384",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "清华2年前预言，正成为全球共识Meta等三大AI机构已得出同一结论",
+   "url": "https://36kr.com/p/3765157269684738",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "图速科技发布三款新品：其具身打磨机器人全栈自研，打磨效率为人工3-4倍丨最前线",
+   "url": "https://36kr.com/p/3765207394009602",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic Mythos这么强，安全厂商还有活路吗？",
+   "url": "https://36kr.com/p/3765117296128771",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "具身智能：大航海号角吹响，用空间换时间",
+   "url": "https://36kr.com/p/3765146479555077",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude降智，是自杀还是装死？",
+   "url": "https://36kr.com/p/3765157386191617",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
+   "url": "https://36kr.com/p/3765157512741377",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "入职Meta的吴翼，清华叉院官网已撤其教职信息",
+   "url": "https://36kr.com/p/3765157532091136",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
