@@ -1,0 +1,972 @@
+{
+ "date": "2026-04-19",
+ "generated_at": "2026-04-19 08:00",
+ "total": 75,
+ "sources": [
+  "CNBC Tech",
+  "IT之家",
+  "TechCrunch AI",
+  "36氪 AI",
+  "The Guardian Tech",
+  "Ars Technica",
+  "量子位",
+  "ZDNet AI",
+  "Hacker News",
+  "InfoQ 中文",
+  "Science Daily AI",
+  "36氪",
+  "Wired AI",
+  "The Verge AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 75 篇 AI 相关资讯（国内 25 篇，海外 50 篇）。热门话题集中在：AI 硬件与芯片、大模型发布、AI Agent、AI 视频与多模态。最受关注：「高德首款动量机器人“途途”明日亮相北京亦庄机器人马拉松大赛」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 高德首款动量机器人“途途”明日亮相北京亦庄机器人马拉松大赛 — IT之家 4 月 18 日消息，高德地图今日公布旗下首款动量机器人，明天将在北京亦庄机器人马拉松大赛上首次亮相。从官方海报来看，该产品为“机器狗”产品。 IT之家注意到，4 月 14 日有报道称， 阿里巴巴旗下高德的具身业务部即将发布首款产品 —— 一款四足机器人。据悉，这是阿里巴巴集团推出的首款具"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder. — World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 微软优化 Win11 文件资源管理器：修复白屏闪烁，提升运行流畅度 — IT之家 4 月 19 日消息，微软承诺，将通过缩减 Copilot 集成、聚焦核心组件的方式，引领 Windows 11 朝着正确方向发展。还有什么能比文件资源管理器更“核心”的呢？据 Windows Latest 报道，微软目前表示，正准备为文件资源管理器推出一次重大更新，使其运行更流畅、修复“"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 人工智能芯片制造商 Cerebras 启动美股 IPO，挑战英伟达 — IT之家 4 月 18 日消息，据路透社报道，人工智能芯片制造商 Cerebras Systems 昨天披露美股 IPO（首次公开募股）申请文件， 试图进入公开资本市场挑战 AI 巨头英伟达 。 据报道，Cerebras 曾在去年 10 月申请 IPO，但在完成 10 亿美元（IT之家注：现汇率约合"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** OpenAI 剥离“副业项目”：公司科学研究项目负责人与 Sora 研究员双双离职 — IT之家 4 月 19 日消息，OpenAI 旗下两大核心项目的关键负责人双双离职。该公司科学研究项目负责人凯文 · 威尔，以及人工智能视频工具 Sora 背后的研究员比尔 · 皮布尔斯，均于当地时间周五宣布离职。此次人事变动正值 OpenAI 聚焦企业级人工智能业务，并筹备推出其即将面世的“超级应"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** AI chip startup Cerebras files for IPO — In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with Ope"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** DeepSeek 被曝启动首次外部融资，国资消息人士称完全投不进去 — IT之家 4 月 18 日消息，昨日，一则关于国内 AI 大模型独角兽企业 DeepSeek（深度求索）启动首次外部融资的消息在投资圈和科技界迅速传播。 据 The Information 报道，DeepSeek 正与投资者洽谈首轮外部股权融资，计划以不低于 100 亿美元（IT之家注：现汇率约合 "
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 智元机器人，要做AI大模型平台和开放生态 — 文｜王毓婵 编辑｜杨轩 当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？ 上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕AI 硬件与芯片、大模型发布、AI Agent展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 75 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "AI 编程工具盛行，代码产量提升却暗藏高返工率困境",
+   "url": "https://www.ithome.com/0/940/817.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，几十年来，软件工程师们一直在争论生产力衡量指标，最早就是从代码行数开始的。但随着新一代 AI 编程助手生成的代码量远超以往，管理者究竟应该衡量什么，反而变得不那么清晰了。 IT之家注意到，庞大的词元（Token）额度 —— 本质上就是开发者被授权使用的 AI 算力总量，已经成了硅谷开发者之间的荣誉勋章。但 Techcrunch 称，用这种方式衡量生产力实在很奇怪。如果你更关心产出，却去衡量流程中的投入，这基本没什么意义。除非你是想鼓励更多人使用 AI（或是销售 Token），否则对提升效率毫无帮助。 我们可以看看一批新兴的「开发者生产力分析」公司给出的证据。他们...",
+   "published": "2026-04-18T23:49:55+00:00",
+   "age_label": "10分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "2026 人形机器人半马在北京亦庄鸣枪开跑，荣耀“闪电”率先出场",
+   "url": "https://www.ithome.com/0/940/816.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，今日 7:30，由北京市人民政府、中央广播电视总台等联合主办的 2026 人形机器人半程马拉松在北京亦庄正式开跑。来自北京荣耀的绝影赤兔队率先开跑，该战队的参赛机器人为“闪电”。 据荣耀技术团队此前介绍，荣耀机器人“闪电”集成了荣耀在智能制造与具身 AI 领域的最新成果，高性能高爆发稳定的本体、高动态运控算法、实时感知理解与自主决策能力。 值得一提的是，来自荣耀的机器人“闪电”被看作是今年赛事的一大黑马，在 4 月 11 日夜间举行的全要素测试赛中，21 公里跑下来用时一小时左右。4 月 16 日举行的排位赛， “闪电”获得了第一顺位的出发资格 。 IT之家注意...",
+   "published": "2026-04-18T23:41:58+00:00",
+   "age_label": "18分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称 AI 编程初创企业 Cursor 即将完成 20 亿美元融资，估值达 500 亿美元",
+   "url": "https://www.ithome.com/0/940/814.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，据 Techcrunch 报道，四位知情人士透露，人工智能编程初创企业 Cursor 即将完成新一轮融资，这家成立四年的公司将筹集至少 20 亿美元（IT之家注：现汇率约合 136.68 亿元人民币）新资金。 知情人士称，现有投资方 Thrive 和安德森 · 霍洛维茨基金（Andreessen Horowitz）预计将牵头此次融资，融资前估值为 500 亿美元（现汇率约合 3417.05 亿元人民币）。 据两位消息源透露，新晋投资方 Battery Ventures 也可能参与本轮融资。另有一人表示，战略投资方英伟达（Nvidia）亦计划出资。 尽管本轮融资已...",
+   "published": "2026-04-18T23:27:10+00:00",
+   "age_label": "33分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 剥离“副业项目”：公司科学研究项目负责人与 Sora 研究员双双离职",
+   "url": "https://www.ithome.com/0/940/812.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，OpenAI 旗下两大核心项目的关键负责人双双离职。该公司科学研究项目负责人凯文 · 威尔，以及人工智能视频工具 Sora 背后的研究员比尔 · 皮布尔斯，均于当地时间周五宣布离职。此次人事变动正值 OpenAI 聚焦企业级人工智能业务，并筹备推出其即将面世的“超级应用”之际。 此前，OpenAI 已决定缩减各类“次要项目”，其中就包括面向用户的 Sora 和 OpenAI 科学研究项目。据估算，Sora 每日算力成本高达 100 万美元（IT之家注：现汇率约合 683.4 万元人民币），已于上月关停。 OpenAI 科学研究部门是人工智能平台 Prism 的研...",
+   "published": "2026-04-18T23:20:49+00:00",
+   "age_label": "39分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "微软优化 Win11 文件资源管理器：修复白屏闪烁，提升运行流畅度",
+   "url": "https://www.ithome.com/0/940/811.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，微软承诺，将通过缩减 Copilot 集成、聚焦核心组件的方式，引领 Windows 11 朝着正确方向发展。还有什么能比文件资源管理器更“核心”的呢？据 Windows Latest 报道，微软目前表示，正准备为文件资源管理器推出一次重大更新，使其运行更流畅、修复“白屏闪烁”问题、新增压缩包格式支持等。 微软已向发布预览频道的测试用户推送了 Windows 11 预览版本 26200.8313，Windows Latest 在测试中发现，文件资源管理器的表现较以往有所提升，加载速度更快，且在深色模式下不再出现白底闪烁问题。 版本 26200.8313 目前仅面...",
+   "published": "2026-04-18T23:12:04+00:00",
+   "age_label": "48分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "特斯拉 Robotaxi 无人驾驶出租车服务扩展至达拉斯和休斯顿",
+   "url": "https://www.ithome.com/0/940/808.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，根据特斯拉官方社交媒体发布的消息，该公司正将其 Robotaxi 无人驾驶出租车服务拓展至达拉斯和休斯顿。 IT之家注意到，该帖子仅简单写道：“Robotaxi 现已在达拉斯和休斯顿推出🤠”，并附带一段 14 秒的视频，视频中特斯拉车辆在驾驶座无人监控、无人驾驶的情况下自动行驶。 继去年在奥斯汀推出服务、并于 2026 年 1 月开始提供无安全驾驶员的乘车服务后，特斯拉目前已在三座城市运营 Robotaxi 业务，且这三座城市均位于得克萨斯州。在 2 月份提交的一份文件中，特斯拉表示，其奥斯汀无人驾驶出租车自上线以来已发生 14 起碰撞事故。 此外，特斯拉还在旧...",
+   "published": "2026-04-18T22:52:15+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Tesla brings its robotaxi service to Dallas and Houston",
+   "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front...",
+   "published": "2026-04-18T21:37:15+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "Transportation",
+    "Houston",
+    "robotaxi",
+    "Tesla"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The RAM shortage could last years",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all work...",
+   "published": "2026-04-18T21:08:45+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI chip startup Cerebras files for IPO",
+   "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+   "published": "2026-04-18T19:19:11+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "andrew feldman",
+    "cerebras systems"
+   ],
+   "image": ""
+  },
+  {
+   "title": "College instructor turns to typewriters to curb AI-written work",
+   "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/ Comments URL: https://news.ycombinator.com/item?id=47818485 Points: 89 # Comments: 87",
+   "published": "2026-04-18T19:00:00+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Graphs that explain the state of AI in 2026",
+   "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://spectrum.ieee.org/state-of-ai-index-2026 Comments URL: https://news.ycombinator.com/item?id=47817581 Points: 68 # Comments: 47",
+   "published": "2026-04-18T17:12:44+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI开始接管实验室了！玻尔·跃迁实验室：试剂、设备、数据一个入口搞定，1800+设备即插即用",
+   "url": "https://www.qbitai.com/2026/04/402988.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "自然语言控制设备，零编程编排流程",
+   "published": "2026-04-18T15:58:07+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "资讯",
+    "深势科技"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenClaw的风，已经吹进了奶茶圈",
+   "url": "https://www.qbitai.com/2026/04/402965.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "企业如何安全落地龙虾？",
+   "published": "2026-04-18T15:48:50+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "资讯",
+    "养龙虾"
+   ],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek 被曝启动首次外部融资，国资消息人士称完全投不进去",
+   "url": "https://www.ithome.com/0/940/804.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，昨日，一则关于国内 AI 大模型独角兽企业 DeepSeek（深度求索）启动首次外部融资的消息在投资圈和科技界迅速传播。 据 The Information 报道，DeepSeek 正与投资者洽谈首轮外部股权融资，计划以不低于 100 亿美元（IT之家注：现汇率约合 683.41 亿元人民币）的估值，募集不少于 3 亿美元资金。若该消息属实，这将标志着这家长期以“不融资”著称的 AI 明星公司，正式向资本市场敞开大门。 对于该传闻，DeepSeek 及幻方量化方面目前尚未作出官方回应。不过，某大型国资股权机构人士向中国证券报透露，该消息“很可能属实”，但“目前完...",
+   "published": "2026-04-18T15:08:51+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+   "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+   "published": "2026-04-18T14:56:48+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "Anthropic",
+    "dario amodei",
+    "susie wiles"
+   ],
+   "image": ""
+  },
+  {
+   "title": "曝 Stripe 曾意图 12 亿美元收购 Airwallex 空中云汇，如今却正面交锋",
+   "url": "https://www.ithome.com/0/940/800.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，据科技媒体 TechCrunch 昨天报道，支付服务提供商 Stripe 曾在几年前试图收购 Airwallex 空中云汇，但最终并未成交。 据报道，Airwallex 创始人 Jack Zhang 当年 34 岁，创业三年半。他有一天受邀前往 Stripe CEO 帕特里克 · 科里森（Patrick Collison）位于硅谷的豪宅。 当时科里森提出以 12 亿美元（IT之家注：现汇率约合 82.01 亿元人民币）收购 Airwallex，并认为这次交易“回报非凡”。Jack Zhang 听了，也动摇了。 他在旧金山徘徊两周心神不宁 ， 一度答应了收购 。 ...",
+   "published": "2026-04-18T14:37:05+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "天工 3.0 机器人斩获北京亦庄勇士挑战赛冠军，实现“全自主”通关",
+   "url": "https://www.ithome.com/0/940/799.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，首届北京亦庄机器人勇士挑战赛今日落下帷幕，北京人形机器人创新中心（以下简称“北京人形”）携其研发的“具身天工 3.0”全尺寸通用人形机器人参赛，并以全自主方式完赛，成功通关摆锤穿越、开拓前行、破门清障等基于现实高危场景设计的赛项，以最高积分斩获全球首个全自主机器人勇士挑战赛冠军，同时赢得勇士智行奖。 这是继 2025 年“具身天工”夺得全球首个人形机器人半程马拉松冠军后，该团队再次登顶，实现“双冠王”成就。 本届挑战赛赛道高度还原真实灾害现场，涵盖非结构化地形、动态障碍、精细操作、高动态冲击等极限考验。比赛场地总面积约 3500 平方米，主赛场规划面积约 220...",
+   "published": "2026-04-18T14:32:16+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "这可能是近十年最重要的 C++ 版本更新，反射、契约、并发模型全面进化",
+   "url": "https://www.infoq.cn/article/mTR5V1FNI2HdcxOxB8fW?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-18T14:12:37+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic MCP 协议被指存在设计缺陷，服务器可被诱导执行任意代码",
+   "url": "https://www.ithome.com/0/940/797.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，安全研究团队 OX Security 本周（4 月 15 日）发现，Anthropic 创建、维护的行业标准 AI 通信协议 MCP（IT之家注：Model Context Protocol）存在设计缺陷， 可导致服务器被诱导执行任意代码（RCE） 。 据介绍，该漏洞并非普通的疏忽，而是架构层面的设计缺陷并存在于官方 MCP SDK 中。影响 Python、TypeScript、Java 和 Rust 等所有支持语言，等于说任何基于 MCP 构建的项目都存在这一风险。 研究人员主要识别出未认证 UI 注入攻击、安全加固绕过、提示词注入、恶意插件分发等四种主流攻击...",
+   "published": "2026-04-18T14:07:29+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "沉寂多年，消息称育碧将推《幽灵行动》正统续作",
+   "url": "https://www.ithome.com/0/940/795.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，据科技媒体 Wccftech 今天报道，爆料人士 Tom Henderson 最近透露，预计将在近期发售《刺客信条：黑旗重制版》，之后公布的新作则是《幽灵行动》。 作为参考， 育碧曾在 2019 年推出《幽灵行动：断点》 ，但口碑、销量表现平平。此后该系列便一直沉寂。虽然育碧后来试图通过更新“沉浸模式”和加入 AI 队友进行补救， 但收效有限 。 同时，育碧原计划推出大逃杀衍生作《幽灵行动：火线》（IT之家注：Ghost Recon Frontline），但在 2022 年遭到玩家强烈反对，最终取消。 Tom Henderson 此前认为《幽灵行动》新作目标 2...",
+   "published": "2026-04-18T13:45:15+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "可提升自动对焦性能，消息称佳能 EOS R7 Mark II 相机搭载 DIGIC Accelerator Lite 处理器",
+   "url": "https://www.ithome.com/0/940/791.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，消息源 Canon Rumors 前天发文称，佳能可能会为 EOS R7 Mark II 无反相机引入 DIGIC Accelerator Lite 精简版处理器。 据报道，佳能已经在 EOS R1 和 R5 Mark II 相机中使用过 DIGIC Accelerator 处理器，用于提升相机的数据处理能力。该芯片可与高速背照式 / 堆栈式传感器配合，带来更快的电子快门速度、自动对焦性能， 大幅降低果冻效应 ， 还可以同时记录照片和视频 。 IT之家注意到，EOS R6 Mark III 并没有搭载这枚处理器，原因可能不只是成本问题，也与该机采用前照式 CMO...",
+   "published": "2026-04-18T13:18:37+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The App Store is booming again, and AI may be why",
+   "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+   "published": "2026-04-18T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Apple",
+    "Google",
+    "developers"
+   ],
+   "image": ""
+  },
+  {
+   "title": "首款雷电 5 认证四盘位 M.2 固态硬盘盒，OWC 发布 Express 4M2 Ultra",
+   "url": "https://www.ithome.com/0/940/788.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，OWC（Other World Computing）今天在 NAB 2026 广播电视展会，推出首款雷电 5 认证四盘位 M.2 固态硬盘盒 Express 4M2 Ultra。 据介绍，这款硬盘盒专为追求极致性能的专业用户设计， 用户可自行选购 NVMe 固态硬盘并配置 RAID 0、1、4、5、10 或 JBOD 。 规格方面，该硬盘盒最高传输速度可达 6622MB/s，满足 8K+ 视频工作流和高速传输需求。机身采用航空级铝合金材质，配备自适应风扇，可实现高效且安静的散热。 同时，这款硬盘盒还带有两个雷电 5 接口，支持菊花链，可串联最多 5 台额外雷电设...",
+   "published": "2026-04-18T12:48:02+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic CEO 达里奥 · 阿莫迪：AI 发展永无止境，未来五年或取代半数初级白领岗位",
+   "url": "https://www.ithome.com/0/940/785.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，据科技媒体 The Decoder 今天报道，Anthropic CEO 达里奥 · 阿莫迪（Dario Amodei）最近在接受采访时认为， AI 仍存在巨大发展空间 ， 如彩虹一般没有尽头 ，并且算力还有很长的增长路径。 IT之家援引 The Decoder，阿莫迪在谈到 AI 对就业市场的影响时表示，当前社会对 AI 的信任仍然不足，导致这项技术只能以信任的速度扩散。这其中的部分问题在于，行业并未兑现以前的乐观承诺，但各种风险警告已经不断累积。 他对此解释道：“人们会怀疑我们吹的东西只是空中楼阁，因此我们必须真正把想的东西做出来”。 同时他坚信，AI 将在...",
+   "published": "2026-04-18T12:12:44+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "时隔 35 年 SNK 复活 NeoGeo AES+ 主机：11 月 12 日发售，兼容原版卡带",
+   "url": "https://www.ithome.com/0/940/784.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，SNK 与 Plaion 旗下复古游戏品牌 Plaion Replai 宣布推出复刻版 NeoGeo AES+ 主机，将于 2026 年 11 月 12 日发售，同时还将推出一系列游戏卡带。 这款主机是对 1990 年发售的 NeoGeo AES（Advanced Entertainment System）的现代化复刻，号称提供“无与伦比的原真性”，售价 249.99 美元（IT之家注：现汇率约合 1708 元人民币）起。 与市面上多数复古主机采用软件模拟器或 FPGA 芯片不同，NeoGeo AES+ 复刻版使用了重新设计的 ASIC，从硬件层面精准还原了原版...",
+   "published": "2026-04-18T12:01:07+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The best TV antenna of 2026: Expert tested",
+   "url": "https://www.zdnet.com/article/best-tv-antenna/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "An indoor or outdoor TV antenna gives you access to dozens of free, local news, sports, and entertainment channels so you can say goodbye to pricey cable contracts and subscriptions.",
+   "published": "2026-04-18T12:00:49+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'",
+   "url": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.",
+   "published": "2026-04-18T12:00:01+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+   "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
+   "published": "2026-04-18T10:30:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Security",
+    "Security / Cyberattacks and Hacks",
+    "Security / National Security",
+    "Security / Privacy",
+    "Security / Security News"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+   "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
+   "published": "2026-04-18T10:30:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Gear",
+    "Gear / Gear News and Events",
+    "design",
+    "artificial intelligence",
+    "Hardware"
+   ],
+   "image": ""
+  },
+  {
+   "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
+   "url": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-18T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "人工智能芯片制造商 Cerebras 启动美股 IPO，挑战英伟达",
+   "url": "https://www.ithome.com/0/940/720.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，据路透社报道，人工智能芯片制造商 Cerebras Systems 昨天披露美股 IPO（首次公开募股）申请文件， 试图进入公开资本市场挑战 AI 巨头英伟达 。 据报道，Cerebras 曾在去年 10 月申请 IPO，但在完成 10 亿美元（IT之家注：现汇率约合 68.34 亿元人民币）融资后不久撤回了申请。 同时，Cerebras 致力于“走英伟达没走过的路”，旗下 AI 芯片设计避免依赖 HBM 内存。公司致力于布局推理领域，目前已与 OpenAI 达成价值 200 亿美元（现汇率约合 1366.82 亿元人民币）的多年协议，将为 OpenAI 部署 ...",
+   "published": "2026-04-18T09:58:03+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "日本政府为索尼集团提供最高 600 亿日元补贴，助力生产 AI 图像传感器",
+   "url": "https://www.ithome.com/0/940/718.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，据《日经》今天报道，日本政府已批准向索尼提供最高 600 亿日元（IT之家注：现汇率约合 25.84 亿元人民币）补贴， 助力生产 AI 图像传感器（CMOS） 。 据报道，这笔资金由日本经济产业省依据《经济安全保障推进法》批准，旨在支持日本国产图像传感器扩大生产。 同时， 索尼半导体将投资 1800 亿日元（现汇率约合 77.51 亿元人民币），在熊本县合志市设立新工厂 。目前已经动工，建设完成后目标每月生产 1 万片 300mm 晶圆，预计 2029 年 5 月开始向市场供货。 日本经济产业大臣 赤泽亮正对此表示，图像传感器是 AI 产业的重要组成部分，对自...",
+   "published": "2026-04-18T09:34:42+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高德动量机器人官宣将首次亮相亦庄机器人马拉松",
+   "url": "https://36kr.com/newsflashes/3772117939864073?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "4月18日，高德发布官方海报，首次曝光旗下首款具身机器人。据介绍，这款名叫“途途”的四足机器人，明天（19日）将在亦庄机器人马拉松大赛上首次亮相。（财联社）",
+   "published": "2026-04-18T09:16:47+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高德首款动量机器人“途途”明日亮相北京亦庄机器人马拉松大赛",
+   "url": "https://www.ithome.com/0/940/710.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，高德地图今日公布旗下首款动量机器人，明天将在北京亦庄机器人马拉松大赛上首次亮相。从官方海报来看，该产品为“机器狗”产品。 IT之家注意到，4 月 14 日有报道称， 阿里巴巴旗下高德的具身业务部即将发布首款产品 —— 一款四足机器人。据悉，这是阿里巴巴集团推出的首款具身机器人产品。 知情人士透露， 人形机器人、机器狗等产品形态均在高德具身业务部的探索方向之中 。同时，高德已构建业内最大规模的具身导航数据引擎，并在长程复杂任务处理能力上，取得了突破性进展。",
+   "published": "2026-04-18T08:40:26+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Linux 全新 NTFS 驱动已并入 7.1 版主线内核，支持写入",
+   "url": "https://www.ithome.com/0/940/708.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，据科技媒体 Phoronix 昨天报道，Linux 全新 NTFS 驱动现已正式并入 7.1 版本主线内核， 旨在解决当前 Paragon NTFS3 driver 驱动存在的不足 。 过去四年前，开发者 Namjae Jeon 一直在重构 Linux 原有的 NTFS 内核驱动。 他用更简洁的代码加入了写入支持 ，在改进兼容性的同时引入更多现代特性。这些变动使其优于几年前停滞的 NTFS3 驱动。 这名开发者本周提交全新 NTFS 驱动 Pull Request 后，Linux 创始人 Linus Torvalds 曾一度因 Git 结构问题撤回代码。不过他很...",
+   "published": "2026-04-18T08:27:47+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "咸阳清渭楼美术博物馆回应：“捷途汽车攀爬楼梯”：系 AI 合成，非真实拍摄场景",
+   "url": "https://www.ithome.com/0/940/707.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，咸阳清渭楼美术博物馆今日发布声明：近日，视频号账号“捷途山海一咸阳捷盛昌店”于 2026 年 4 月 17 日发布题为《旅行者 CDM 挑战清渭楼楼梯》的商业宣传视频。该视频通过 AI 技术合成制作，虚构了捷途汽车攀爬清渭楼楼梯的场景，并配以“XWD 智能四驱轻松拿捏任何路况”“封闭路段安全拍摄，请勿模仿”等误导性文字。 声明称，视频发布后，在网络平台迅速传播，引发广大网民误解与强烈批评， 严重损害了清渭楼作为咸阳市重要文化地标与城市窗口的声誉 ，同时误导公众认为该商业行为已获得我单位授权，造成了恶劣的社会影响。 咸阳清渭楼美术博物馆在声明中提到，该视频系账号运...",
+   "published": "2026-04-18T08:23:09+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 政策主管：行业领袖面临人身攻击，AI 公司需要“把 AI 讲好”",
+   "url": "https://www.ithome.com/0/940/705.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，据《财富》杂志网站 4 月 17 日报道，科技大佬们关于 AI 如何影响就业和生活的密集表态，在一定程度上支撑了公司的高估值，同时也加剧了公众反感情绪。NBC News 一项调查显示， 仅 26% 的美国选民对 AI 持正面看法，46% 持负面看法 。 在这一背景下，OpenAI 全球事务负责人克里斯 · 勒哈恩呼吁外界在相关讨论中保持克制。 他在接受《旧金山标准报》采访时表示，目前一些关于 AI 的说法“ 并不负责任 ”，这些观点一旦被传播，往往会带来现实后果。他强调，这并非无关紧要的话题，而是 极为严肃 的问题。 围绕 AI 可能冲击就业、推高电力成本以及对...",
+   "published": "2026-04-18T08:14:49+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "全国首个消费品以旧换新地方自主品类补贴政策落地江苏，含智能马桶、人形机器人等",
+   "url": "https://www.ithome.com/0/940/702.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，据央视新闻援引江苏省商务厅消息称，近日，江苏省在全国率先实施消费品以旧换新地方自主品类补贴政策。 此次政策立足江苏产业特色和消费升级实际需求，将 智能家居 （IT之家注：含适老化家居产品）、 人工智能终端、消费医疗等产品 纳入补贴范围。 新增补贴产品包括：干衣机、洗碗机、吸油烟机、家用燃气灶、净水器、智能马桶，扫地机器人、数码相机（含运动相机、无人机）、具身智能机器人（含人形机器人、机器狗、外骨骼助力机器人）、电动轮椅等 10 类。 政策自通告发布之日起实施，持续至 2026 年 12 月 31 日。补贴标准方面，按产品最终销售价格的 15% 给予补贴，每人每类...",
+   "published": "2026-04-18T08:02:08+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Counterpoint：今年 Q1 全球 PC 出货微增 3.2%，Win10 停止支持及涨价前购机为主因",
+   "url": "https://www.ithome.com/0/940/697.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 18 日消息，在人工智能需求推动下，内存和存储价格上涨预期正在改变消费节奏，部分用户选择提前购置电脑。Counterpoint Research 数据显示，2026 年第一季度全球 PC 出货量 同比增长约 3.2% ，达到 6330 万台。 增长主要由两大因素推动：一是内存价格上涨预期下的提前采购，二是 Windows 10 停止支持带来的硬件换代需求。 市场竞争格局中，主要厂商普遍受益于这一轮换机周期，多家实现两位数增长： 联想继续保持领先地位，出货量同比增长 9% 至 1650 万台，市场份额达 26%，创下历史最高第一季度表现。 惠普出货量同比下降 5%，但仍稳居第二...",
+   "published": "2026-04-18T07:45:52+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "直接砍到脚脖子：追觅 MOVA 上下水扫拖机器人 866 元，100°C 洗 + 26000Pa 吸",
+   "url": "https://www.ithome.com/0/940/696.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "MOVA（魔法原子）是追觅科技旗下的独立子品牌，主打高性价比，同一集团，共享核心技术、算法、工厂、售后体系。 MOVA P60 于 2025 年 2 月上市，标准版官方定价 3999 元， 上下水版 4599 元 。 升级的 P60 甄选版于 2025 年 10 月上市，相较标准版，主要升级点为： 60℃ 热水洗拖布 → 100℃ 高温灭菌洗 24000Pa 吸力 → 26000Pa 大吸力 基础尘盒设计 → 大容量尘袋（官方宣称 100 天免倒污） 今日下单选择“以旧换新”（可选加湿器）， P60 甄选上下水版 实付 1066 元破冰新低。 如果选择的是 生活电器 → 美的 / 石头 / 云...",
+   "published": "2026-04-18T07:37:25+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Artificial neurons successfully communicate with living brain cells",
+   "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm",
+   "source": "Science Daily AI",
+   "platform": "sciencedaily",
+   "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These flexible, low-cost devices generate lifelike electrical signals capable of activating living brain cells, a ...",
+   "published": "2026-04-18T07:32:36+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
+   "url": "https://mas.to/@carnage4life/116422881496195720",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://mas.to/@carnage4life/116422881496195720 Comments URL: https://news.ycombinator.com/item?id=47813428 Points: 77 # Comments: 13",
+   "published": "2026-04-18T05:41:15+00:00",
+   "age_label": "18小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta计划于5月20日启动今年首轮大规模裁员",
+   "url": "https://36kr.com/newsflashes/3771824203530756?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "消息人士称，Meta将在5月20日开始的首轮裁员中裁撤全球约10%的员工，相当于近8000人。这家拥有Facebook与Instagram的科技巨头还计划在今年下半年实施进一步裁员，不过包括具体时间与规模的相关细节，目前尚未最终确定。消息人士补充称，管理层或将根据人工智能技术进展情况调整相关计划。（第一财经）",
+   "published": "2026-04-18T04:17:59+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信证券：看好激光器芯片龙头公司未来发展潜力",
+   "url": "https://36kr.com/newsflashes/3771813145756418?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "中信证券研报指出，目前AI计算集群已从“堆算力”走向“拼网络效率”，高性能、高带宽、低延迟的网络成为数据中心性能提升的关键。激光器芯片是光模块的核心器件，决定光模块的电光转换效率和产品代际。中信证券认为激光器芯片行业将受益于Scale-out/Scale-up网络超节点扩容和技术代际带来的价值量上升，迎来巨大的发展机遇。同时由于市场需求旺盛且产能短期存在刚性，激光器芯片市场正处于快速增长且供需失衡的结构。而头部厂商的优势正不断凸显。看好激光器芯片龙头公司未来的发展潜力。（界面新闻）",
+   "published": "2026-04-18T04:06:44+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Quantum AI just got shockingly good at predicting chaos",
+   "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm",
+   "source": "Science Daily AI",
+   "platform": "sciencedaily",
+   "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI becomes more accurate and stable over time. The method outperformed standard models while using far ...",
+   "published": "2026-04-18T03:51:09+00:00",
+   "age_label": "20小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "FF：获4500万美元新融资",
+   "url": "https://36kr.com/newsflashes/3771782347751942?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "4月18日，Faraday Future（简称“FF”）官微宣布，公司已获得美国某机构投资者4500万美元新融资，这是公司近年来达成的最低成本融资交易。截至4月12日，FF已累计出货34台机器人，2026年累计出货目标为超1000台。此外，FF计划于5月22日召开年度股东大会，审议一系列旨在支持公司全球EAI战略执行与长期增长的提案。（界面新闻）",
+   "published": "2026-04-18T03:35:24+00:00",
+   "age_label": "20小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "智元机器人，要做AI大模型平台和开放生态",
+   "url": "https://36kr.com/p/3770721219035649?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "文｜王毓婵 编辑｜杨轩 当一家机器人公司决定做AI大模型平台和开放生态，它会给行业带来什么？ 上个月，智元刚刚跨过“机器人量产下线一万台”的门槛。4月17日，这家由前华为“天才少年”彭志辉与前华为副总裁邓泰华共同创立的机器人公司在合作伙伴大会上，花了大量的时间和篇幅介绍软件上的新产品。相较之下，硬件的篇幅反倒很少。 智元推出了六大AI模型、七大生产力解决方案，并首次公开AIMA（AI Machine Architecture）全栈生态技术体系。这些软件产品将与硬件机器人一起，组成智元“一体三智”的架构。 所谓“一体三智”，“一体”指的是机器人本体；\"三智\"则包括：运动智能（基础智能，承担物理载...",
+   "published": "2026-04-18T02:00:00+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
+   "url": "https://www.qbitai.com/2026/04/402636.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "不以尺寸定义汽车平台",
+   "published": "2026-04-18T01:10:09+00:00",
+   "age_label": "22小时前",
+   "tags": [
+    "智能车参考",
+    "车圈最新认知",
+    "长城汽车",
+    "魏牌V9X"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Your old iPad or Android tablet can be your new smart home panel - here's how",
+   "url": "https://www.zdnet.com/article/how-to-use-an-old-tablet-as-a-smart-home-control-panel/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Do you have an old tablet tucked away in a drawer somewhere? It's easy to turn it into a control panel for your smart home devices.",
+   "published": "2026-04-18T01:00:38+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI loses multiple executives in latest leadership shakeup",
+   "url": "https://www.cnbc.com/2026/04/17/openai-executives-leave.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Their exits come just weeks after Fidji Simo, OpenAI's product and business chief, announced she would take a medical leave.",
+   "published": "2026-04-17T23:45:15+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
+   "url": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
+   "published": "2026-04-17T23:23:42+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
+   "url": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
+   "published": "2026-04-17T23:22:57+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+   "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+   "published": "2026-04-17T22:34:02+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "DocuSign",
+    "sam altman",
+    "Tinder",
+    "World"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Clair Obscur and Dispatch share top honours at Bafta games awards",
+   "url": "https://www.theguardian.com/games/2026/apr/17/clair-obscur-and-dispatch-share-top-honours-at-bafta-games-awards",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Role-playing adventure and superhero comedy among big winners on a varied night in London With 12 nominations, acclaimed role-playing adventure Clair Obscur: Expedition 33 was expected to be the runaway success at the 2026 Bafta games awards, held in London on Friday evening. And while it couldn’t q...",
+   "published": "2026-04-17T22:11:59+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Games",
+    "Gaming awards",
+    "Culture"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e919ec0494c4314d9ff49eca64d9a525f85dac4b/442_0_6338_5073/master/6338.jpg?width=140&quality=85&auto=format&fit=max&s=36a9b299b9639dda0d58fef5aa8b8242"
+  },
+  {
+   "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+   "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
+   "source": "Ars Technica",
+   "platform": "arstechnica",
+   "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+   "published": "2026-04-17T21:28:35+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Biz & IT",
+    "Security",
+    "cryptocurrency exchange",
+    "cyberattack",
+    "Grinex"
+   ],
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/cryptocurrency-1152x648.jpg"
+  },
+  {
+   "title": "OpenAI’s former Sora boss is leaving",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as part of an effort to avoid \"side quests,\" and Peebles' departure is just one of many recent changes ...",
+   "published": "2026-04-17T21:13:25+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "News",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Apple's original AirTag still tracks effectively, and you can get a 4-pack for its best price ever",
+   "url": "https://www.zdnet.com/article/apple-airtag-gen-1-deal/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The AirTag Gen 1 isn't the latest and greatest anymore, but it still offers reliable Bluetooth tracking at almost half the cost of the newer Gen 2 model.",
+   "published": "2026-04-17T21:00:42+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, which was co-founded by OpenAI CEO Sam Altman, initially tested Tinder verification using its facial s...",
+   "published": "2026-04-17T20:42:47+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+   "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+   "published": "2026-04-17T20:38:17+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Kevin Weil",
+    "OpenAI",
+    "sora",
+    "OpenAI For Science"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national security. But some of the ice may reportedly be melting between the two, thanks to Anthropic's buzzy ne...",
+   "published": "2026-04-17T20:14:21+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "News",
+    "Policy"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic 要亲手杀死 Figma 了吗？",
+   "url": "https://36kr.com/p/3771736819647233",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI芯片初创公司，进入“斩杀线”",
+   "url": "https://36kr.com/p/3771770656359173",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "3个月5.5亿订单，光轮刷新具身数据纪录",
+   "url": "https://36kr.com/p/3771991146447365",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "万字拆解：AI五大门派的底牌、命门与终极赌局",
+   "url": "https://36kr.com/p/3771730656477956",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "突发：OpenAI连失大将，Sora之父离职，IPO前夜风波不断",
+   "url": "https://36kr.com/p/3771701475394308",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "龙虾上身 Codex",
+   "url": "https://36kr.com/p/3771691809321734",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "设计行业的“棺材板”，要被Claude Design盖上了",
+   "url": "https://36kr.com/p/3771690585223689",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "刚刚，Claude推出“Figma杀手”，设计软件股暴跌",
+   "url": "https://36kr.com/p/3771756155077127",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "不缺钱的梁文锋，为什么要融资？",
+   "url": "https://36kr.com/p/3771647835615745",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“有了AI，人们却过得越来越累了”",
+   "url": "https://36kr.com/p/3770863566009094",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI时代，音乐行业的钱会流向哪里？",
+   "url": "https://36kr.com/p/3770844964504327",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Token热，他们赚麻了",
+   "url": "https://36kr.com/p/3770838478553601",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "宇树科技的招股书里，藏着对工程奇迹“保质期”的焦虑",
+   "url": "https://36kr.com/p/3770664265986569",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI眼镜“渡江”：百镜大战的下一程",
+   "url": "https://36kr.com/p/3770774501736964",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Transformer与RNN合体，谷歌打下显存门槛，解锁超长上下文",
+   "url": "https://36kr.com/p/3770765015991049",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
