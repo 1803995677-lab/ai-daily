@@ -1,0 +1,872 @@
+{
+ "date": "2026-04-20",
+ "generated_at": "2026-04-20 08:01",
+ "total": 68,
+ "sources": [
+  "InfoQ 中文",
+  "少数派",
+  "ZDNet AI",
+  "量子位",
+  "36氪 AI",
+  "TechCrunch AI",
+  "The Verge AI",
+  "36氪",
+  "CNBC Tech",
+  "Science Daily AI",
+  "IT之家"
+ ],
+ "summary": {
+  "overview": "今日共采集 68 篇 AI 相关资讯（国内 34 篇，海外 34 篇）。热门话题集中在：大模型发布、AI 应用与商业化、AI Agent、机器人。最受关注：「主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口 — IT之家 4 月 20 日消息，主流网页应用托管与部署开发平台 Vercel 遭黑客入侵，涉事黑客正试图出售窃取的数据。一名自称是近期入侵 Rockstar Games 幕后组织 ShinyHunters 成员的人士在网上发布了部分数据，其中包括员工姓名、电子邮箱地址以及操作时间戳。 Vercel "
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** OpenAI’s existential questions — On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[InfoQ 中文]** Cursor 3 推出智能体优先界面，突破传统 IDE 模式"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 比Nano Banana还夯的生图模型泄露，截图不再是证据了 | 附提示词"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[CNBC Tech]** AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion — Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the i"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 华为靳玉志：乾崑智驾累计辅助驾驶总里程，率先在中国突破 100 亿公里 — IT之家 4 月 19 日消息，华为智能汽车解决方案 BU CEO 靳玉志刚刚宣布： 华为乾崑智驾累计辅助驾驶总里程，率先在中国突破 100 亿公里！ 华为乾崑智能汽车解决方案在 4 月 11 日公布数据：截止 2025 年底，华为乾崑智驾累计装载量达 140 万套。华为方面表示， 坚信 L3 级有"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Tesla brings its robotaxi service to Dallas and Houston — The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** AI算力引爆高端PCB需求，基金经理称PCB行业迎结构性增长机遇 — 素有“电子产品之母”称誉的印制电路板（PCB），过去长期被划归强周期、低成长的传统制造业。然而，随着生成式AI爆发式增长，AI服务器对PCB的极致需求正在重塑这个行业的估值逻辑与增长曲线，万亿市场空间更是吸引着一众基金经理扎堆布局。接受记者采访的多位基金经理均表示，在AI算力浪潮下，算力基础设施建设"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 应用与商业化、AI Agent展开。",
+  "raw_text": "[智能提取摘要] 基于 68 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "SK海力士将开始生产用于Nvidia Vera Rubin芯片的SOCAMM2服务器模块",
+   "url": "https://36kr.com/newsflashes/3774391996728064?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "SK海力士周一表示，该公司将开始量产专为Nvidia公司的Vera Rubin芯片设计的Small Outline Compression Attached Memory Module2(SOCAMM2)。SOCAMM2 是一种将以前主要用于智能手机等移动产品的低功耗内存改用于服务器环境的模块。它旨在成为下一代人工智能服务器的主要内存解决方案。（新浪财经）",
+   "published": "2026-04-19T23:58:02+00:00",
+   "age_label": "3分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "机器人ToB规模化提速，数据短板仍是核心卡点",
+   "url": "https://36kr.com/newsflashes/3774391299949064?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "从仓储环节的拆码垛自主决策，到车厂流利架分拣、工程螺栓保护软套剥离，再到药店场景的货架识别、精准抓药打包……近来，机器人正加速向ToB（面向企业）领域渗透，并逐渐成为驱动产业增长的核心力量。不过，业内人士指出，机器人的通用能力才是实现大规模商业化落地的关键所在。当前，大模型的算力与算法发展已日趋成熟，真正制约机器人场景泛化能力的核心卡点，仍是数据短板。对此，业界期盼政策能从开放应用场景、补贴数据建设、降低企业落地风险、打通市场准入等多个维度提供有力支撑，推动机器人更快走进真实生产生活场景。（经济参考报）",
+   "published": "2026-04-19T23:56:20+00:00",
+   "age_label": "5分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "北斗时空智能装备助力人形机器人“自主奔跑”",
+   "url": "https://36kr.com/newsflashes/3774355662832129?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "2026北京亦庄半程马拉松暨人形机器人半程马拉松比赛4月19日鸣枪开跑。参赛的人形机器人整体能力显著提升，不仅奔跑速度大幅加快，“认路”能力也明显增强。据悉，本届赛事中有超过三分之二的“自主跑”赛队搭载了北斗时空智能套件装备。回顾2025年首届比赛，绝大部分机器人都依赖遥控，技术人员一边跟随一边操控。而在今年的赛事中，更多参赛队伍选择了以自主导航模式参赛。（上证报）",
+   "published": "2026-04-19T23:50:01+00:00",
+   "age_label": "11分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌正与Marvell Technology洽谈开发两款新芯片",
+   "url": "https://36kr.com/newsflashes/3774367149392643?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "当地时间4月19日，据报道，两位知情人士透露，谷歌正在与Marvell Technology洽谈开发两款新型芯片，旨在更高效地运行人工智能模型。其中一款芯片是内存处理单元，旨在与谷歌的张量处理单元（TPU）配合使用，另一款芯片是专为运行人工智能模型而打造的新型TPU。（界面）",
+   "published": "2026-04-19T23:48:37+00:00",
+   "age_label": "12分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI算力引爆高端PCB需求，基金经理称PCB行业迎结构性增长机遇",
+   "url": "https://36kr.com/newsflashes/3774366290543113?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "素有“电子产品之母”称誉的印制电路板（PCB），过去长期被划归强周期、低成长的传统制造业。然而，随着生成式AI爆发式增长，AI服务器对PCB的极致需求正在重塑这个行业的估值逻辑与增长曲线，万亿市场空间更是吸引着一众基金经理扎堆布局。接受记者采访的多位基金经理均表示，在AI算力浪潮下，算力基础设施建设全面提速，PCB行业迎来显著的结构性增长机遇。（证券时报）",
+   "published": "2026-04-19T23:45:48+00:00",
+   "age_label": "15分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "发改委：加强新兴领域安全治理，完善人工智能相关法律法规、政策制度、应用规范、伦理准则",
+   "url": "https://36kr.com/newsflashes/3774385992303366?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "国家发展改革委党组书记、主任郑栅洁在人民日报撰文《持续提升国家经济安全保障能力 以新安全格局保障新发展格局》。文章称，加强新兴领域安全治理。完善网络安全战略，深化网络空间综合治理，保护关键信息基础设施免受攻击、侵入、干扰和破坏。强化数据分类分级保护，促进和规范数据跨境流动。因地制宜推动低空经济安全健康发展，加强无人驾驶航空器管控。完善生物安全风险防控体制，加强对生物技术研究、开发与应用活动的安全管理。完善人工智能相关法律法规、政策制度、应用规范、伦理准则，综合应对新技术发展对就业、社会治理的影响，推动模型算法、数据资源、基础设施、应用系统等安全能力建设，深化人工智能国际合作，在对外开放中切实维...",
+   "published": "2026-04-19T23:43:58+00:00",
+   "age_label": "17分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "荣耀“闪电”机器人破人类半马纪录夺冠，研发工程师姚彬称仅研发半年",
+   "url": "https://www.ithome.com/0/940/972.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 20 日消息，2026 人形机器人半马昨日在北京亦庄举行，荣耀的“闪电”机器人夺得冠军、亚军、季军，净用时分别为 50 分 26 秒、50 分 56 秒、53 分 01 秒。 赛后，亚军“雷霆闪电队”的队长、荣耀研发工程师姚彬接受凤凰网科技采访。他透露， 参加比赛的“闪电”机器人研发仅半年 ，经历了大量原型机迭代。冠亚季军的机器人在结构和算法上没有区别，但在比赛策略上相应做了自己的调整。 值得一提的是，荣耀冠军、亚军、季军三支战队的参赛机器人均为自主导航机器人，均打破 56 分 42 秒的人类半程马拉松世界纪录。 此前，来自荣耀的绝影赤兔队遥控机器人“闪电”以 48 分 19...",
+   "published": "2026-04-19T23:42:09+00:00",
+   "age_label": "19分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "主流网页部署平台 Vercel 遭黑客入侵，第三方 AI 工具成攻击突破口",
+   "url": "https://www.ithome.com/0/940/971.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 20 日消息，主流网页应用托管与部署开发平台 Vercel 遭黑客入侵，涉事黑客正试图出售窃取的数据。一名自称是近期入侵 Rockstar Games 幕后组织 ShinyHunters 成员的人士在网上发布了部分数据，其中包括员工姓名、电子邮箱地址以及操作时间戳。 Vercel 在社交平台 X 上发布公告证实发生了一起安全事件，仅影响其少量客户。该公司表示，此次攻击是通过一款遭入侵的第三方 AI 工具实施的，但未披露具体涉及哪家第三方厂商。 IT之家注意到，Vercel 建议管理员检查操作日志，排查可疑行为。同时，为防范 API 密钥、令牌或其他敏感数据泄露，还建议采取核查...",
+   "published": "2026-04-19T23:36:55+00:00",
+   "age_label": "24分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0420：2026 北京亦庄机器人半马开跑；曝苹果 WWDC 26 海报暗示全新 Siri 界面；微信朋友圈初代界面曝光；长城魏建军痛批魏牌团队不会营销...",
+   "url": "https://www.ithome.com/0/940/969.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 4 月 20 日星期一，今天的重要科技资讯有： 1、2026 北京亦庄机器人半马开跑，荣耀“闪电”率先冲线 首届北京亦庄机器人半程马拉松 4 月 19 日举行，105 支人形机器人队伍与真人同场竞技。荣耀“闪电”以 48 分 19 秒的净成绩率先冲线，成为赛事冠军。比赛规则为自主导航与遥控队伍统一排名，但成绩按不同加权系数核算。>> 查看详情 2、古尔曼：苹果 WWDC 26 海报暗藏玄机，暗示 iOS 27 系统全新 Siri 界面 彭博社记者古尔曼解读苹果 WWDC 26 海报，认为其暗示了 iOS 27 系统 Siri 将迎来重大更新。新版...",
+   "published": "2026-04-19T23:26:39+00:00",
+   "age_label": "34分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "外围扰动正逐步钝化，机构看好科技主线热度延续",
+   "url": "https://36kr.com/newsflashes/3774346692707076?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "过去一周，中东局势缓和预期发酵，市场情绪逐渐回暖，创业板指走出强势独立行情。展望后市，券商策略报告认为，虽然中东局势处于拉锯博弈状态，其走向仍存诸多变数，但地缘冲击最大的阶段已经过去，市场对外围因素扰动的反应正逐步钝化。当前正值A股财报密集披露期，算力、储能、光通信等科技成长赛道龙头公司盈利确定性突出。后续资金向高景气度成长板块集中的趋势仍将持续一段时间。 （上证报）",
+   "published": "2026-04-19T23:24:53+00:00",
+   "age_label": "36分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称谷歌正与 Marvell 洽谈合作开发两款 AI 芯片，挑战英伟达霸主地位",
+   "url": "https://www.ithome.com/0/940/965.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 20 日消息，据 The Information 援引两位知情人士消息报道，Alphabet 旗下谷歌正与 Marvell Technology 洽谈合作，研发两款全新芯片，旨在更高效地运行人工智能模型。 报道称，其中一款芯片为内存处理单元，设计用于配合谷歌的张量处理单元（TPU）使用；另一款则是专为运行人工智能模型打造的全新张量处理单元。 IT之家注意到，谷歌一直致力于推动其张量处理单元成为英伟达主流图形处理器的可行替代品。随着谷歌希望向投资者证明其人工智能投资正在产生回报，张量处理单元的销量已成为谷歌云业务收入增长的关键驱动力。 报道还称，两家公司计划最快于明年完成这款内...",
+   "published": "2026-04-19T23:16:27+00:00",
+   "age_label": "45分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I hid 4 Bluetooth trackers (including AirTags) to test their reliability - here's how Android rivals compared",
+   "url": "https://www.zdnet.com/article/retested-apple-airtags-after-five-years-how-they-compare/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "AirTags were released in April 2021, and since then, it's never been easier to find your lost gear. Years later, here's how they hold up.",
+   "published": "2026-04-19T23:00:43+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果 iOS 27 主屏幕编辑将加入撤销 / 重做快捷开关",
+   "url": "https://www.ithome.com/0/940/962.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 20 日消息，距离苹果全球开发者大会（WWDC26）仅剩不到两个月的时间，届时苹果将发布新一代的 iOS、macOS、watchOS 等系统。截至目前，关于 iOS 27 的传闻显示，今年的系统更新将主要聚焦于稳定性，除苹果最终兑现其人工智能相关承诺外，新增功能较为有限。 尽管 iOS 27 不会带来重大革新，但仍会加入一些轻度的自定义功能，其中一项功能将支持你快速撤销和重做主屏幕上的各项修改。 IT之家注意到，据彭博社记者马克 · 古尔曼在最新《Power On》时事通讯中透露，iOS 27 将新增主屏幕快捷开关，用户可通过该开关撤销和重做对主屏幕的修改。该操作按钮将集成在...",
+   "published": "2026-04-19T22:50:18+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI’s existential questions",
+   "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+   "published": "2026-04-19T21:24:06+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Equity podcast",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
+   "url": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.",
+   "published": "2026-04-19T21:19:57+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Cloud development platform Vercel was hacked",
+   "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email ad...",
+   "published": "2026-04-19T19:54:52+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "News",
+    "Security",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The 12-month window",
+   "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+   "published": "2026-04-19T19:30:00+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "Venture",
+    "Elad Gil",
+    "No Priors"
+   ],
+   "image": ""
+  },
+  {
+   "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+   "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+   "published": "2026-04-19T16:01:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Transportation",
+    "AI",
+    "jeff bezos",
+    "slate",
+    "Tesla"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I stopped using my iPhone's hotspot after testing this 5G router - and that won't change",
+   "url": "https://www.zdnet.com/article/acer-connect-m6e-mobile-hotspot-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The Acer Connect M6E mobile hotspot delivers high-speed connectivity without draining your phone's battery. But is it worth it?",
+   "published": "2026-04-19T16:00:49+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "行业内存短缺波及苹果：Mac Studio 预计推迟至 10 月，OLED 触控屏 MacBook Pro 恐延至明年",
+   "url": "https://www.ithome.com/0/940/959.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）在今天最新一期《Power On》通讯中表示，苹果 WWDC 26 宣传海报已经提前暗示了 iOS 27 系统中升级版 Siri 的全新 UI 设计。 与此同时，受全行业内存短缺影响，苹果两款备受期待的 Mac 新品 —— 新款 Mac Studio 和搭载触控屏的 MacBook Pro—— 可能面临推迟。 古尔曼表示，苹果原计划在年中推出搭载 M5 Max 和 M5 Ultra 芯片的新款 Mac Studio，以接替去年的 M4 Max 和 M3 Ultra 版本。然而，由于内存短缺已导致部分高配机型发货...",
+   "published": "2026-04-19T15:57:03+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果 WWDC 26 海报暗藏玄机，暗示 iOS 27 系统全新 Siri 界面",
+   "url": "https://www.ithome.com/0/940/955.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，彭博社记者马克 · 古尔曼今天在最新一期《Power On》通讯指出，苹果 WWDC 26 的宣传海报暗藏玄机， 暗示 iOS 27 系统 Siri 语音助手将发生重要变化 。 古尔曼透露，尽管改版 Siri 经历数次跳票，但改进规模相当可观，将提供类似 ChatGPT 等聊天机器人应用的全新交互界面、独立应用，支持同时处理多个指令。 并且全新 Siri 还将支持第三方 AI 智能体 ，苹果此前承诺的“上下文感知”功能也会出现。 根据他的解读，WWDC 26 预热海报其实已经暗示了 iOS 27 系统全新 Siri 的形态。首先，该语音助手会集成在手机的“灵动岛...",
+   "published": "2026-04-19T15:04:17+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "德国法院裁定：用 AI 将版权照片二创成漫画未必构成侵权",
+   "url": "https://www.ithome.com/0/940/947.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，据科技媒体 The Decoder 今天报道，德国杜塞尔多夫高等法院最近宣判，将他人版权照片用 AI 二创成漫画未必构成侵权。 ▲ 左：摄影师的版权图片，右：被告 AI 二创漫画 IT之家从报道中获悉，本案起因是一位拍摄水下狗狗照片并出售作品的摄影师，起诉其前商业合作伙伴。 摄影师称被告将她拍摄的“潜水狗”照片输入 AI 软件 ， 并将输出的二创漫画风格图片发布到网上 。 法院审理后驳回上诉，庭审人员认为， AI 二创图片并未复制原作品的构图、视角、光线等受版权保护要素 ， 至于摄影主题和狗狗本身则不属于版权保护范围 。 法官还引用了欧洲法院的最新裁决，强调界定...",
+   "published": "2026-04-19T13:58:25+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为眼镜 App“悄悄”推送 1.0.1.349 版本更新，支持发现、连接、管理 AI 眼镜设备",
+   "url": "https://www.ithome.com/0/940/945.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，华为应用市场 App Gallery 最近“悄悄”推送了 华为眼镜 App 的 1.0.1.349 版本更新 。华为官方并未描述具体的更新内容。 目前，华为应用市场 App Gallery 也已隐藏了该 App 的信息和更新记录。不过IT之家从设置里还是找到了该 App 的存在。 据用户反馈的截图来看，华为眼镜 App 是华为 AI 眼镜设备的管理应用，可以发现、连接和管理华为 AI 眼镜。该应用的主要功能包括： 发现与连接：可以通过 App 提供的靠近发现能力方便的连接眼镜设备。 设备管理：可以在 App 中设置与管理您的眼镜，包括相机设置、音频设置、AI 设...",
+   "published": "2026-04-19T13:53:03+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "奇瑞星途 EX7 汽车上市：纯电 / 增程双版本、首搭航空级线控制动，指导价 19.99 万元起",
+   "url": "https://www.ithome.com/0/940/944.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，奇瑞星途 EX7 汽车今天上市，提供增程 / 纯电两种版本，首搭航空级纯机电线控制动系统（EMB），拥有 AI 灵犀智舱 2.0， 可选 6 种配置 。 IT之家附该车各配置官方指导价如下： 增程两驱 Max：19.99 万元 增程四驱 Max：21.39 万元 增程四驱 EMB Ultra：23.69 万元 77kWh 纯电两驱 Max：21.39 万元 100kWh 纯电两驱 Max：23.39 万元 100kWh 纯电四驱 Ultra：26.39 万元 外观方面，星途 EX7 采用星途最新家族化设计语言，前脸配备分体式大灯组，上部为贯穿式 LED 灯带，下...",
+   "published": "2026-04-19T13:36:31+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How I share audio from my Android phone to multiple earbuds (and why it's a big deal)",
+   "url": "https://www.zdnet.com/article/how-to-share-audio-from-android-phone-to-multiple-earbuds/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Android's Audio sharing lets two people listen on separate earbuds - so long as your devices support it.",
+   "published": "2026-04-19T13:00:39+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为靳玉志：乾崑智驾累计辅助驾驶总里程，率先在中国突破 100 亿公里",
+   "url": "https://www.ithome.com/0/940/939.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，华为智能汽车解决方案 BU CEO 靳玉志刚刚宣布： 华为乾崑智驾累计辅助驾驶总里程，率先在中国突破 100 亿公里！ 华为乾崑智能汽车解决方案在 4 月 11 日公布数据：截止 2025 年底，华为乾崑智驾累计装载量达 140 万套。华为方面表示， 坚信 L3 级有条件自动驾驶是走向 L4 和 L5 完全自动驾驶的必经阶段 ，让数据持续积累、用户适应角色变化、法律法规与保险积累经验。 据IT之家此前报道，华为智能汽车解决方案 BU CEO 靳玉志在智能电动汽车发展高层论坛（2026）期间作出预测： L3 是走向完全自动驾驶中无法跳过的必经阶段，2026 年或为...",
+   "published": "2026-04-19T12:41:51+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic 新模型强到打脸，美国政府顶着“国家风险”禁令也要部署 Claude Mythos",
+   "url": "https://www.ithome.com/0/940/933.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "前一阵特朗普刚下令五角大楼禁用 Claude，现在 Anthropic 最强新模型 Claude Mythos 的强大网络攻防能力，让白宫无法忽视这把双刃剑，顶着自己下的禁令，宁可打自己脸也要全面部署 Mythos 了。 美国政府正准备向多个主要联邦机构开放 Anthropic 新模型 Mythos 的一个「修改版」。 就在昨天，白宫秘密召见 Anthropic CEO Dario Amodei。 Anthropic 也在主动释放求和信号。 最新披露文件显示，公司在 3 月花费了 13 万美元，聘请了与特朗普团队关系极其密切的重量级说客 Brian Ballard。 会晤后，白宫表示，他们与 ...",
+   "published": "2026-04-19T12:04:30+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "SiIicon Valley's AI agent hiccups: Wasted tokens and 'chaotic' systems",
+   "url": "https://www.cnbc.com/2026/04/19/siiicon-valley-ai-agent-openclaw-problems.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Nvidia CEO Jensen Huang told CNBC's Jim Cramer in March that AI agents are \"definitely the next ChatGPT.\"",
+   "published": "2026-04-19T12:00:01+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Nvidia's once-tight bond with gamers is cracking over AI",
+   "url": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.",
+   "published": "2026-04-19T11:37:41+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "继人形机器人“闪电”后，荣耀正打造四足机器狗“安仔”和灵巧手“鲁班”",
+   "url": "https://www.ithome.com/0/940/929.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，据《科创板日报》，在今日举行的机器人生态峰会暨投资人大会上，荣耀具身智能首席战略官王皑透露，荣耀正在打造两款新的机器人产品 —— 四足机器狗“安仔”和灵巧手“鲁班”。 2026 中国人形机器人生态大会于 4 月 17 日至 19 日在上海汽车会展中心举行，吸引了宇树、乐聚、众擎、银河通用等行业头部本体品牌参展，被业界称为机器人界的“全明星阵容”。 目前，荣耀已在具身智能领域进行了系统性布局。此前，荣耀于今年 3 月的世界移动通信大会期间推出了其首款人形机器人，并在 4 月 19 日的 2026 北京亦庄人形机器人半程马拉松赛事中，以自研机器人“闪电”夺得自主导航...",
+   "published": "2026-04-19T10:59:51+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "索尼持续整顿 PS Store 商店，山寨版《GT 赛车》被迫改名",
+   "url": "https://www.ithome.com/0/940/925.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，俗话说“模仿就是最高境界的赞美”，而索尼 PS Store 游戏商店近年来一直存在不少低质量山寨游戏，《神秘海域》《生化危机》等知名大作都未能幸免。 据游戏媒体 The Gamer 前天报道，一款名为《Gran Carismo》的山寨游戏在这其中有些越界，不仅用 AI 山寨画面、演示图片，甚至连游戏名都是明显抄袭《GT 赛车》（IT之家注：英文名 Gran Turismo）。 不过从目前的情况来看，索尼显然已经无法容忍。 该作已经在 PS Store 商店被迫更名为《Grand Car Racing》 。 不过这一更名仅仅发生于 PS 平台。Steam、Swit...",
+   "published": "2026-04-19T10:28:49+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Kimi新论文：把KVCache玩成新商业模式了",
+   "url": "https://www.qbitai.com/2026/04/403528.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "超长上下文福音",
+   "published": "2026-04-19T10:19:45+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "KVCache",
+    "月之暗面",
+    "清华大学"
+   ],
+   "image": ""
+  },
+  {
+   "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
+   "url": "https://www.qbitai.com/2026/04/403226.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "当行业在底层基础设施上开始成型，局面就会迅速收敛",
+   "published": "2026-04-19T10:13:54+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "首页轮播"
+   ],
+   "image": ""
+  },
+  {
+   "title": "大模型架构的下半场",
+   "url": "https://www.qbitai.com/2026/04/403515.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力",
+   "published": "2026-04-19T10:12:10+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "大模型"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Why I'm recommending last year's phones over 2026 models - with one exception",
+   "url": "https://www.zdnet.com/article/the-best-phones-you-can-buy-in-2026-are-from-2025/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Older models, like the Google Pixel 10 and Samsung Galaxy S25 Plus, are now more appealing than ever. Here's why.",
+   "published": "2026-04-19T10:00:58+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This powerful Gemini setting made my AI results way more personal and accurate",
+   "url": "https://www.zdnet.com/article/gemini-personal-intelligence-hands-on/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I enabled Personal Intelligence, connected my Google apps, and now Gemini guesses what I want without me saying it.",
+   "published": "2026-04-19T10:00:41+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Cursor 3 推出智能体优先界面，突破传统 IDE 模式",
+   "url": "https://www.infoq.cn/article/G6hkU9pDHzwd6GCWQ0BH?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-19T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小米“龙虾”Xiaomi miclaw 首批通过中国信通院手机端智能助手（Claw）评估，可自主执行复杂指令",
+   "url": "https://www.ithome.com/0/940/915.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，小米技术官方宣布， Xiaomi miclaw 已正式通过中国信通院手机端智能助手（Claw）评估 ，成为国内首批通过该权威评测的手机端智能体。 据介绍，依托 Xiaomi MiMo 自研大模型与端侧优先架构，Xiaomi miclaw 具备全生态底层支撑、深度记忆理解、跨域生态互联、持续自进化四大核心能力， 打通手机、PC、座舱、AIoT 全设备，自主执行复杂指令 。 参考IT之家此前报道，Xiaomi miclaw 目前面向科技发烧友、极客用户开放了小规模测试。部分高复杂度任务可能存在执行效率波动或阶段性失败，因此小米不推荐普通用户在日常主力设备上升级。Xi...",
+   "published": "2026-04-19T09:34:47+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "燃油成本飙升冲击航空业，多家航司上调附加费用削减航线",
+   "url": "https://www.ithome.com/0/940/910.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 19 日消息，据央视新闻今天报道，因霍尔木兹海峡推高航空燃油价格，多家航空公司正通过上调行李托运费用和削减航线来应对成本上升压力。 美国航空组织“美国航空协会”（Airlines for America）首席执行官克里斯 · 苏努努表示，燃油成本大约占航司运营成本的 25%-30%。当前全球油价上涨正在持续挤压行业利润空间， 预计全年行业亏损可能达到 250 亿美元（IT之家注：现汇率约合 1709.47 亿元人民币） 。 苏努努认为， 美国航司相比欧洲航司压力相对较小 ，但仍需要密切关注局势变化。为避免机票价格大幅上涨，多家航司已经通过提高附加费用弥补成本。 此外，由于旅客...",
+   "published": "2026-04-19T09:03:04+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How I boosted my portable solar panels' power by up to 30% - 11 expert-approved tips",
+   "url": "https://www.zdnet.com/article/portable-solar-panels-how-to-get-more-power/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "After years of testing portable solar panels, I've found several small adjustments that can yield massive efficiency gains.",
+   "published": "2026-04-19T09:00:46+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "科氪 | 荣耀齐天大圣队机器人“闪电”夺冠  领跑2026亦庄人形机器人马拉松赛场",
+   "url": "https://36kr.com/p/3773492357169920?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "4月19日，2026北京亦庄人形机器人半程马拉松比赛成功举办。荣耀齐天大圣队参赛选手机器人“闪电”以50分26秒（净用时）的成绩斩获赛事冠军，另一款参赛机器人“元气仔”以优美的跑姿同步完成赛事，展现了荣耀在人形机器人领域的深厚技术积淀与领先实力。 现场图片 据了解，本次赛道全长21.0975公里，涵盖多种复杂路况，对机器人的运动稳定性、续航能力及散热性能提出了极高要求，是对人形机器人技术实力的全面检验。荣耀参赛的两款机器人中，“闪电”身高169cm，外观采用潮酷机甲风设计；“元气仔”身高136.9cm，采用银色亲和化设计，两款机器人外观简约大气，贴合赛事运动属性。 此次参赛是荣耀人形机器人技术...",
+   "published": "2026-04-19T08:35:02+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Think AI \"knows\" what it’s doing? Scientists say think again",
+   "url": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm",
+   "source": "Science Daily AI",
+   "platform": "sciencedaily",
+   "summary": "Calling AI things like “smart” or saying it “knows” something might sound harmless, but it can quietly mislead people about what AI actually does. A new study shows that news writers are more careful than expected, rarely using strongly human-like language. When they do, it often falls on a spectrum...",
+   "published": "2026-04-19T08:02:23+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "多云时代AI Agent治理难题，亚马逊云科技想用一个注册表解决",
+   "url": "https://www.infoq.cn/article/gL44mioSTWOY6WAClSAl?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-19T08:00:00+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 写代码太快，人类测试跟不上了，Meta 用新方法把 bug 检出率提升 4 倍",
+   "url": "https://www.infoq.cn/article/IEaQFYPKeZwDKNFuYY4D?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-19T08:00:00+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高德发布全球首个面向AGI的全栈具身技术体系“ABot”：15项SOTA，构建持续进化的具身智能闭环",
+   "url": "https://www.qbitai.com/2026/04/403505.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "打造出全球首个面向AGI的全栈具身技术体系。",
+   "published": "2026-04-19T07:50:32+00:00",
+   "age_label": "16小时前",
+   "tags": [
+    "资讯",
+    "高德地图"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI 输出中的 ** 是怎么来的：谈中文 Markdown 强调标记的渲染问题",
+   "url": "https://sspai.com/post/108768",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "在与AI对话的过程中，你一定见过这样不伦不类的输出：换言之，那些本该加粗的部分并没有加粗，周围却多了一堆星号。有一定技术背景的读者都知道，这些星号是Markdown中的强调标记。Markdown是一种 ... 查看全文",
+   "published": "2026-04-19T06:10:43+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克来抖音卖老干妈了？？",
+   "url": "https://www.qbitai.com/2026/04/403308.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "这将是一个虚拟与现实，彻底融合的世界",
+   "published": "2026-04-19T04:47:09+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "首页轮播"
+   ],
+   "image": ""
+  },
+  {
+   "title": "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
+   "url": "https://www.qbitai.com/2026/04/403214.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "没有人工干预，没有预设脚本",
+   "published": "2026-04-19T04:25:19+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "GUI",
+    "龙虾"
+   ],
+   "image": ""
+  },
+  {
+   "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
+   "url": "https://www.qbitai.com/2026/04/403210.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "万字实录在此",
+   "published": "2026-04-19T04:14:11+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "芯片",
+    "英伟达",
+    "黄仁勋"
+   ],
+   "image": ""
+  },
+  {
+   "title": "王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况",
+   "url": "https://www.qbitai.com/2026/04/403126.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "魏建军回应“接地气”：我农民出身",
+   "published": "2026-04-19T03:24:56+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "智能车参考",
+    "哈弗猛龙PLUS",
+    "车圈最新认知",
+    "长城汽车"
+   ],
+   "image": ""
+  },
+  {
+   "title": "After testing this HP laptop, I get why its 'boring' design is adored by business users",
+   "url": "https://www.zdnet.com/article/hp-zbook-8-g1i-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "HP's ZBook 8 G1i eschews a breezy build and marathon battery for a traditional business workstation approach.",
+   "published": "2026-04-19T02:00:44+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Tesla brings its robotaxi service to Dallas and Houston",
+   "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
+   "published": "2026-04-18T21:37:15+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Transportation",
+    "Houston",
+    "robotaxi",
+    "Tesla"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The RAM shortage could last years",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030. The world's largest memory makers - Samsung, SK Hynix, and Micron - are all work...",
+   "published": "2026-04-18T21:08:45+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI厂商的Token经济学：先养龙虾再养马",
+   "url": "https://36kr.com/p/3773626643694081",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "更新越频繁，Claude Code与Codex越像",
+   "url": "https://36kr.com/p/3773678223262467",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "核电的价值重估：从电力基荷到AI终极能源",
+   "url": "https://36kr.com/p/3773456925377026",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "果然，最恨 AI 的人，是大学毕业生",
+   "url": "https://36kr.com/p/3773230505820930",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华人数学家封神，王虹、唐云清斩获数学界「奥斯卡」",
+   "url": "https://36kr.com/p/3773501645259269",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "十一个为什么，看懂亦庄机器人马拉松",
+   "url": "https://36kr.com/p/3773382357971713",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "梁文锋想通了",
+   "url": "https://36kr.com/p/3773160330248960",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "宇树证明了自己，现在轮到智元了",
+   "url": "https://36kr.com/p/3773109807985159",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“Claude僧人”的奇幻漂流：弃码出家三十年后，回业界调教AI",
+   "url": "https://36kr.com/p/3773150630490880",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "本地 AI 人人能用？我们拿千元机测了一下，结果太拉了",
+   "url": "https://36kr.com/p/3772252212855561",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek梁文锋的大动作，黄仁勋慌了",
+   "url": "https://36kr.com/p/3772465098588676",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "安全专家纷纷离职，谁为AI竞赛踩刹车",
+   "url": "https://36kr.com/p/3773021416538880",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "一天审完两万篇，AAAI 2026首次实装AI审稿，单篇成本不到1美元",
+   "url": "https://36kr.com/p/3773078234268168",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "比Nano Banana还夯的生图模型泄露，截图不再是证据了 | 附提示词",
+   "url": "https://36kr.com/p/3773044974453509",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic 要亲手杀死 Figma 了吗？",
+   "url": "https://36kr.com/p/3771736819647233",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
