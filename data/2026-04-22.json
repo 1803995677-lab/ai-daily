@@ -1,0 +1,481 @@
+{
+ "date": "2026-04-22",
+ "generated_at": "2026-04-24 08:01",
+ "total": 30,
+ "sources": [
+  "InfoQ 中文",
+  "CNBC Tech",
+  "少数派",
+  "The Verge AI",
+  "Ars Technica",
+  "NVIDIA Blog",
+  "TechCrunch AI",
+  "Wired AI",
+  "MIT Tech Review"
+ ],
+ "summary": {
+  "overview": "今日共采集 30 篇 AI 相关资讯（国内 7 篇，海外 23 篇）。热门话题集中在：大模型发布、AI Agent。最受关注：「How SpaceX preempted a $2B fun...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** How SpaceX preempted a $2B fundraise with a $60B buyout offer — Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\""
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Google Cloud launches two new AI chips to compete with Nvidia — Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Watch Sony’s elite ping-pong robot beat top-ranked players — Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ac"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[MIT Tech Review]** The Download: introducing the 10 Things That Matter in AI Right Now — This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[InfoQ 中文]** 百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力"
+   },
+   {
+    "tag": "🟡",
+    "text": "**[Wired AI]** The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims — Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds."
+   },
+   {
+    "tag": "🟡",
+    "text": "**[Ars Technica]** Microsoft issues emergency update for macOS and Linux ASP.NET threat — When authentication fails, things can go very, very wrong."
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** Google turns Chrome into an AI co-worker for the workplace — Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and "
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 30 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+   "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+   "published": "2026-04-22T19:51:51+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Startups",
+    "cursor",
+    "Mergers and Acquisitions",
+    "SpaceX"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+   "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/",
+   "source": "Ars Technica",
+   "platform": "arstechnica",
+   "summary": "When authentication fails, things can go very, very wrong.",
+   "published": "2026-04-22T19:32:56+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Biz & IT",
+    "Security",
+    "ASP.NET",
+    "microsoft",
+    "vulnerabilities"
+   ],
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+  },
+  {
+   "title": "高能研讨会｜端侧 AI 正在重写实时感知效率上限",
+   "url": "https://www.infoq.cn/video/UJySiBqf8hEsjBTWqpHS?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-22T19:15:10+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+   "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+   "published": "2026-04-22T18:39:27+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "AI chips",
+    "Google",
+    "google cloud"
+   ],
+   "image": ""
+  },
+  {
+   "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+   "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+   "published": "2026-04-22T18:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "AI Lab",
+    "artificial intelligence",
+    "cyberattacks"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Watch Sony’s elite ping-pong robot beat top-ranked players",
+   "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was developed by Sony's AI division, is the first that can hold its own against top-ranked human player...",
+   "published": "2026-04-22T17:43:38+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "News",
+    "Robot",
+    "Science",
+    "Sony"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Microsoft's LinkedIn names longtime exec Dan Shapero its new CEO",
+   "url": "https://www.cnbc.com/2026/04/22/microsofts-linkedin-makes-executive-daniel-shapero-its-new-ceo.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Microsoft said Daniel Shapero will be the new CEO of LinkedIn, reporting to Ryan Roslansky, who held the job since 2020 and now has added responsibility.",
+   "published": "2026-04-22T17:42:53+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google turns Chrome into an AI co-worker for the workplace",
+   "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+   "published": "2026-04-22T17:30:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Enterprise",
+    "AI",
+    "Chrome",
+    "Google",
+    "gemini"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+   "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+   "published": "2026-04-22T16:58:27+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "TC",
+    "AI agents",
+    "Google"
+   ],
+   "image": ""
+  },
+  {
+   "title": "金融智能的架构编排：基于 Snowflake Cortex Agents 实现结构化与非结构化数据统一分析 ｜ 技术实践",
+   "url": "https://www.infoq.cn/article/LIb7POBCMo8213s9lk0T?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-22T16:56:38+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI Overviews are coming to your Gmail at work",
+   "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+   "published": "2026-04-22T16:46:10+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "ai overviews",
+    "gemini",
+    "gmail"
+   ],
+   "image": ""
+  },
+  {
+   "title": "在AK大神爆火的任务里，摸清国产AI真实水平",
+   "url": "https://www.infoq.cn/article/IPZaVe2hAKCougHa1zAm?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-22T16:31:23+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Lawmakers seek to override state data privacy laws with new bill",
+   "url": "https://www.cnbc.com/2026/04/22/data-privacy-bill-congress-states.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Pair of bills would create a national standard and prevent individuals from suing companies.",
+   "published": "2026-04-22T16:24:25+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google unveils chips for AI training and inference in latest shot at Nvidia",
+   "url": "https://www.cnbc.com/2026/04/22/google-launches-training-and-inference-tpus-in-latest-shot-at-nvidia.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Google is packing ample amounts of static random access memory into a dedicated chip for running artificial intelligence models, following Nvidia's plans.",
+   "published": "2026-04-22T16:19:51+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+   "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+   "published": "2026-04-22T16:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Security",
+    "Security / Cyberattacks and Hacks",
+    "Security / Security News",
+    "Business / Artificial Intelligence",
+    "north korea"
+   ],
+   "image": ""
+  },
+  {
+   "title": "百灵Ling-2.6-flash 正式发布：高 Token 效率，以 1/10 消耗实现 SOTA 级 Agent 能力",
+   "url": "https://www.infoq.cn/article/haZgR6XNQhh7r448wxPP?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-22T15:48:37+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "当 PM 懂AI，当技术懂产品：AI 时代产品力的双向进化｜PM x AI产品力领航者大会即将开幕",
+   "url": "https://www.infoq.cn/article/PGUEKqa88emfLiIL1Mwz?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-22T14:43:36+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+   "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+   "published": "2026-04-22T14:22:10+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Enterprise",
+    "AI",
+    "infosys",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "From Rainforests to Recycling Plants: 5 Ways NVIDIA AI Is Protecting the Planet",
+   "url": "https://blogs.nvidia.com/blog/earth-day-2026-ai-accelerated-computing/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "Across climate, conservation, disaster monitoring and recycling, NVIDIA AI is enabling applications protecting the planet.",
+   "published": "2026-04-22T13:00:42+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "AI for Good",
+    "Artificial Intelligence",
+    "Climate",
+    "Inception"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/Earth-2_thumbnail.png"
+  },
+  {
+   "title": "Retail traders can now get long OpenAI as Robinhood's venture fund takes a stake",
+   "url": "https://www.cnbc.com/2026/04/22/retail-traders-can-now-get-long-openai-as-robinhoods-venture-fund-takes-a-stake.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Robinhood's proprietary investment vehicle has taken a $75 million stake in OpenAI, the trading company announced Wednesday.",
+   "published": "2026-04-22T12:13:01+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+   "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnin...",
+   "published": "2026-04-22T12:10:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "The Download"
+   ],
+   "image": ""
+  },
+  {
+   "title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
+   "url": "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "NVIDIA and Google Cloud have collaborated for more than a decade, co‑engineering a full‑stack AI platform that spans every technology layer — from performance‑optimized libraries and frameworks to enterprise‑grade cloud services.  This foundation enables developers, startups and enterprises to push ...",
+   "published": "2026-04-22T12:00:42+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI Infrastructure",
+    "Cloud",
+    "Agentic AI",
+    "Artificial Intelligence",
+    "Cloud Services"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/google-cloud-nvidia.jpg"
+  },
+  {
+   "title": "为 AI 智能体设计记忆机制：揭秘 LinkedIn 的认知记忆智能体",
+   "url": "https://www.infoq.cn/article/SCh9qpVmgQ1ObT3eVR17?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-22T12:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI needs a strong data fabric to deliver business value",
+   "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t...",
+   "published": "2026-04-22T10:05:06+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Artificial intelligence",
+    "sponsored"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Join Our Livestream: Musk v. Altman and the Future of OpenAI",
+   "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "On May 8, we’re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
+   "published": "2026-04-22T10:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Business",
+    "Business / Big Tech",
+    "livestreams",
+    "OpenAI",
+    "Elon Musk"
+   ],
+   "image": ""
+  },
+  {
+   "title": "There is no nature anymore",
+   "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scien...",
+   "published": "2026-04-22T10:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Culture",
+    "App"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Los Angeles is finally going underground",
+   "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolley...",
+   "published": "2026-04-22T10:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Policy",
+    "App"
+   ],
+   "image": ""
+  },
+  {
+   "title": "亚马逊云科技宣布DevOps Agent正式可用，可自动化开展事件排查",
+   "url": "https://www.infoq.cn/article/kqX8oCFVhIJG2pXR7dix?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-22T10:00:00+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Pope’s Warnings About AI Were AI-Generated, a Detection Tool Claims",
+   "url": "https://www.wired.com/story/pope-tweets-ai-generated-pangram-chrome-extension/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Pangram Labs’ updated Chrome extension puts warning labels on AI slop as you scroll your social feeds.",
+   "published": "2026-04-22T09:30:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Culture",
+    "Culture / Digital Culture",
+    "artificial intelligence",
+    "Social Media",
+    "twitter"
+   ],
+   "image": ""
+  },
+  {
+   "title": "派早报：OPPO Find X9 Ultra 发布等",
+   "url": "https://sspai.com/post/108962",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "OpenAI 发布 ChatGPT Images 2.0，宁德时代发布神行超充与多款动力电池等。 查看全文",
+   "published": "2026-04-22T00:21:51+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
