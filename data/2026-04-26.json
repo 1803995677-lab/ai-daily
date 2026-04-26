@@ -1,0 +1,795 @@
+{
+ "date": "2026-04-26",
+ "generated_at": "2026-04-26 08:00",
+ "total": 60,
+ "sources": [
+  "CNBC Tech",
+  "Wired AI",
+  "ZDNet AI",
+  "MIT Tech Review",
+  "Hacker News",
+  "36氪",
+  "InfoQ 中文",
+  "36氪 AI",
+  "TechCrunch AI",
+  "The Guardian Tech",
+  "量子位"
+ ],
+ "summary": {
+  "overview": "今日共采集 60 篇 AI 相关资讯（国内 33 篇，海外 27 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI 应用与商业化、AI 视频与多模态。最受关注：「9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元 — 整理 ｜孟孟 今日热点导览 铁路部门将实行老年旅客购票优惠 哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元 网友称用豆包提前查到事业编成绩，官方回应 耐克将裁减1400个公司职位，主要集中在技术部门 中国再发现两种月球新矿物，嫦娥五号样品研究获新突破 TOP3大新闻 马斯克花4000多亿买"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局 — 作者 | 乔钰杰 编辑 | 袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 元戎启行全面押注大模型自动驾驶 — 4月25日，北京车展上，前DeepSeek多模态技术核心研究员阮翀以元戎启行首席科学家身份首次公开亮相。元戎启行CEO周光表示，多模态大模型能力在2026年初取得突破性进展，大模型自动驾驶路线起点已远优于上一代技术，小模型自动驾驶存在“跷跷板效应”，无法实现全场景安全覆盖，公司已全面转向大模型路线。"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里 — 作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。 这已是智用开物"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[量子位]** 华为发布ADS 5！强化世界模型路线，今年投入180亿 — “为自动驾驶而来”"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Maine’s governor vetoes data center moratorium — L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** Momenta一年间量产搭载量逾80万台 — Momenta在北京车展披露最新量产进展，一年间其智驾方案搭载量从近30万台增至逾80万台，近期每新增10万台用时不到40天。目前已交付量产车型超70款，累计定点车型超200款，量产落地覆盖十余个国家和地区。本届北京车展有60余款车型搭载Momenta方案，包括奔驰、奥迪、宝马新发布车型。Robot"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[MIT Tech Review]** Three reasons why DeepSeek’s new model matters — On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts "
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI 应用与商业化展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 60 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+   "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+   "published": "2026-04-25T21:43:37+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "Commerce",
+    "Anthropic",
+    "project deal"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The AI Industry Is Discovering That the Public Hates It",
+   "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash Comments URL: https://news.ycombinator.com/item?id=47904568 Points: 187 # Comments: 256",
+   "published": "2026-04-25T21:11:11+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "北京车展直击：斑马智能甩出车载Agent短剧，比亚迪率先落地，AI让智能座舱又热起来了",
+   "url": "https://www.infoq.cn/article/WjIGlEGAJUmNw8e3JeXO?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-25T21:04:46+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Maine’s governor vetoes data center moratorium",
+   "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+   "published": "2026-04-25T20:57:08+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Government & Policy"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+   "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+   "published": "2026-04-25T17:17:56+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "Jesse Van Rootselaar",
+    "OpenAI",
+    "sam altman"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I'm not giving up on DJI cameras yet - not when they can upset my GoPro like this",
+   "url": "https://www.zdnet.com/article/dji-osmo-nano-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The DJI Osmo Nano is modular, powerful, and everything I need for recording my adventures.",
+   "published": "2026-04-25T16:00:38+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Why Cohere is merging with Aleph Alpha",
+   "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+   "published": "2026-04-25T16:00:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Aleph Alpha",
+    "Cohere",
+    "digital sovereignty"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Snowflake 作为智能体运行时：从静态管道迈向自主数据系统 ｜ 技术实践",
+   "url": "https://www.infoq.cn/article/GL7YlM38mlEarquKkSE9?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-25T16:00:00+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+   "url": "https://www.qbitai.com/2026/04/407363.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "“为自动驾驶而来”",
+   "published": "2026-04-25T15:38:18+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "智能车参考",
+    "华为"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Why Tokyo is the most important tech destination of 2026",
+   "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+   "published": "2026-04-25T15:03:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Startups",
+    "Media & Entertainment",
+    "AI",
+    "Robotics",
+    "Startup Battlefield 200"
+   ],
+   "image": ""
+  },
+  {
+   "title": "From car and phone to tractor owners, a populist wave is rising to end the 'captive' repair economy",
+   "url": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging.",
+   "published": "2026-04-25T14:17:59+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "GPT‑5.5 Bio Bug Bounty",
+   "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://openai.com/index/gpt-5-5-bio-bug-bounty/ Comments URL: https://news.ycombinator.com/item?id=47901734 Points: 125 # Comments: 94",
+   "published": "2026-04-25T14:17:31+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I saw the 'MacBook Pro for Linux users' for the first time, and it's a legit Windows threat",
+   "url": "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The latest Framework Laptop 13 Pro is an ultraportable device that's both modular and premium. But is there a market for it?",
+   "published": "2026-04-25T13:00:46+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+   "url": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.",
+   "published": "2026-04-25T12:43:39+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I drove a bulldozer over this SSD enclosure so you don't have to - here's the result",
+   "url": "https://www.zdnet.com/article/terramaster-d1-ssd-enclosure-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The Terramaster D1 SSD enclosure is built for speed, but it can also survive anything you (or Mother Nature) throw at it.",
+   "published": "2026-04-25T12:15:41+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "卡尔动力发布KargoBot Inside",
+   "url": "https://36kr.com/newsflashes/3782201831742724?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，4月24日，在2026北京国际车展上，卡尔动力正式发布面向L4货运下一个十年的核心战略——KargoBot Inside。据介绍，这是全球首个面向干线货运的“AI+Robot+Service”全栈赋能战略。",
+   "published": "2026-04-25T12:14:39+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Wall Street is getting bullish on neoclouds. These stocks hold more risk than other AI plays",
+   "url": "https://www.cnbc.com/2026/04/25/wall-street-is-getting-bullish-on-neoclouds-these-stocks-hold-more-risk-than-other-ai-plays.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Neoclouds emerged as stopgaps to address the GPU shortage, but their economics are fragile, McKinsey has warned.",
+   "published": "2026-04-25T12:13:49+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs When Ashley Terrell graduated from the University of Hawaii in 2024, she planned to find a job in marketing, maybe for a tech company. She had a bachelor’s degree in business admin...",
+   "published": "2026-04-25T12:00:45+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "US work & careers",
+    "AI (artificial intelligence)",
+    "Business",
+    "Entrepreneurs",
+    "Technology"
+   ],
+   "image": "https://i.guim.co.uk/img/media/b8b8b576847e5fb244a46b5bd8d34cdc5ac36501/0_722_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=ebedca5101cc802e0610e17ecfb1dbcb"
+  },
+  {
+   "title": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
+   "url": "https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and  how it integrates into Tesla's Full Self-Driving (Supervised).",
+   "published": "2026-04-25T12:00:01+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Lambda Calculus Benchmark for AI",
+   "url": "https://victortaelin.github.io/lambench/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://victortaelin.github.io/lambench/ Comments URL: https://news.ycombinator.com/item?id=47900506 Points: 128 # Comments: 38",
+   "published": "2026-04-25T11:16:23+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "最前线｜2025年全年营收超64亿，海康机器人表示将继续推进AI融合与具身智能布局",
+   "url": "https://36kr.com/p/3782137908403457?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者 | 乔钰杰 编辑 | 袁斯来 当前，制造业正站在从“自动化”向“智能化”跨越的关键节点。 2026年是海康机器人成立十周年。作为工业智能化领域的创新者与实践者，海康机器人近年持续推进机器视觉、移动机器人与柔性制造技术的深度融合，构建起“眼、脚、手”一体化的全栈技术能力，形成了以机器视觉、关节机器人和移动机器人为核心的三大业务体系。 2025年全年，海康机器人营收突破64.52亿元，其中机器视觉类产品累计出货量超 1000 万台，移动机器人累计下线突破 18 万台。基于完善的硬件产品线，其自研工业软件授权用户超60万人次，全球服务客户超2万家。 2026年4月22日至24日，「海康机器人·...",
+   "published": "2026-04-25T11:15:26+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Apple Music student discount saves you $5/month and gives you free Apple TV - here's how",
+   "url": "https://www.zdnet.com/article/how-to-get-an-apple-music-student-discount-subscription/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Students can save big on an Apple Music subscription. Here's how to get it.",
+   "published": "2026-04-25T11:00:50+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+   "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+   "published": "2026-04-25T10:30:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Security",
+    "Security / Cyberattacks and Hacks",
+    "Security / Privacy",
+    "Security / Security News",
+    "security roundup"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Zorin OS vs. Solus: I tested two great Linux distros for beginners to find out which is best",
+   "url": "https://www.zdnet.com/article/solus-vs-zorin-best-distro-depends-on-your-linux-priorities/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "After Zorin OS 18.1 took my breath away, I wondered how well the latest Solus Linux would fare against it. My comparison proved very interesting indeed.",
+   "published": "2026-04-25T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+   "url": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+   "published": "2026-04-25T09:30:00+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Gear",
+    "Gear / Gear News and Events",
+    "robots",
+    "Sports",
+    "artificial intelligence"
+   ],
+   "image": ""
+  },
+  {
+   "title": "元戎启行全面押注大模型自动驾驶",
+   "url": "https://36kr.com/newsflashes/3782028988882178?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "4月25日，北京车展上，前DeepSeek多模态技术核心研究员阮翀以元戎启行首席科学家身份首次公开亮相。元戎启行CEO周光表示，多模态大模型能力在2026年初取得突破性进展，大模型自动驾驶路线起点已远优于上一代技术，小模型自动驾驶存在“跷跷板效应”，无法实现全场景安全覆盖，公司已全面转向大模型路线。（证券时报）",
+   "published": "2026-04-25T09:18:50+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+   "url": "https://github.com/nex-crm/wuphf",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "I shipped a wiki layer for AI agents that uses markdown + git as the source of truth, with a bleve (BM25) + SQLite index on top. No vector or graph db yet. It runs locally in ~/.wuphf/wiki/ and you can git clone it out if you want to take your knowledge with you. The shape is the one Karpathy has be...",
+   "published": "2026-04-25T08:53:53+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Momenta一年间量产搭载量逾80万台",
+   "url": "https://36kr.com/newsflashes/3781966595234825?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "Momenta在北京车展披露最新量产进展，一年间其智驾方案搭载量从近30万台增至逾80万台，近期每新增10万台用时不到40天。目前已交付量产车型超70款，累计定点车型超200款，量产落地覆盖十余个国家和地区。本届北京车展有60余款车型搭载Momenta方案，包括奔驰、奥迪、宝马新发布车型。Robotaxi方面，Momenta已与享道出行在上海浦东落地，与奔驰、Autogo、LUMO在阿布扎比提供Robotaxi服务，同时与Uber在欧洲推进业务落地，并与Grab在东南亚市场达成合作。（界面）",
+   "published": "2026-04-25T08:15:22+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "百度智能云上线DeepSeek-V4",
+   "url": "https://36kr.com/newsflashes/3781942204128513?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，4月24日，DeepSeek-V4预览版正式上线并开源，百度智能云旗下百度千帆平台Day0适配提供API服务。DeepSeek-V4拥有百万Token超长上下文，并按大小分为DeepSeek-V4-Pro和DeepSeek-V4-Flash两个版本。目前，企业用户和开发者通过百度千帆控制台或API即可直接调用DeepSeek-V4-Pro，DeepSeek-V4-Flash即将全量开放。",
+   "published": "2026-04-25T07:50:33+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+   "url": "https://www.qbitai.com/2026/04/407026.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "500TOPS上车世界模型",
+   "published": "2026-04-25T07:22:22+00:00",
+   "age_label": "16小时前",
+   "tags": [
+    "资讯",
+    "轻舟智航"
+   ],
+   "image": ""
+  },
+  {
+   "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+   "url": "https://www.qbitai.com/2026/04/406994.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "一家低调的视觉大模型公司，浮出水面",
+   "published": "2026-04-25T06:58:48+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "GPT-Image-2",
+    "UniWorld-V2.5",
+    "兔展智能"
+   ],
+   "image": ""
+  },
+  {
+   "title": "下游需求激增，CPU重回AI核心，A股布局公司梳理",
+   "url": "https://36kr.com/newsflashes/3781844281007361?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "AI算力需求持续爆发之际，CPU（中央处理器）行业或掀起新一轮涨价潮。据媒体报道，近日，有ODM厂商（原始设计制造厂商）表示，自今年3月起，消费电子及服务器CPU价格涨幅分别达5%~10％及10％~20％。供应链透露，国际大厂酝酿三季度再进行新一轮涨价。据数据宝统计，A股市场涉及CPU相关业务的上市公司数量不到20家。截至4月24日收盘，概念股合计A股市值达到1.29万亿元。海光信息、澜起科技、龙芯中科是CPU概念三大核心标的，其中海光信息A股市值最高，达到6624.36亿元。从机构关注度方面来看，据数据宝统计，今年以来共有13只CPU概念股获得机构调研。5股获机构调研3次及以上，分别是复旦微...",
+   "published": "2026-04-25T06:21:51+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+   "url": "https://www.qbitai.com/2026/04/406973.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "首次公开三大AI应用生态",
+   "published": "2026-04-25T05:41:18+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "资讯",
+    "Tuya"
+   ],
+   "image": ""
+  },
+  {
+   "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
+   "url": "https://www.qbitai.com/2026/04/406960.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "六年磨一剑",
+   "published": "2026-04-25T05:31:57+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "华为乾崑",
+    "奥迪",
+    "智驾"
+   ],
+   "image": ""
+  },
+  {
+   "title": "美图立方视觉艺术中心开工，预计2028年投入使用",
+   "url": "https://36kr.com/newsflashes/3781662685371396?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，4月25日，美图旗下“美图立方视觉艺术中心”在厦门环东海域开工。项目由OPEN建筑事务所主持设计，占地4017.65平方米，总建筑面积约1.22万平方米，紧邻美图总部，计划于2028年竣工。目致力于将最新AI视觉技术转化为可交互的线下体验场景，搭建AI图像、 AI视频、AI设计实践基地，举办全球创作者竞赛，并配套技术支持与商业转化通道。",
+   "published": "2026-04-25T04:11:08+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
+   "url": "https://www.qbitai.com/2026/04/406892.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "三作者如今齐聚Mira初创",
+   "published": "2026-04-25T03:35:53+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "ICLR"
+   ],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
+   "url": "https://www.qbitai.com/2026/04/406809.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "mHC用了，Engram留给v5",
+   "published": "2026-04-25T03:27:22+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "Deepseek"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+   "url": "https://alash3al.github.io/stash?_v01",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://alash3al.github.io/stash?_v01 Comments URL: https://news.ycombinator.com/item?id=47897790 Points: 158 # Comments: 70",
+   "published": "2026-04-25T01:24:40+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+   "url": "https://36kr.com/p/3781548853533959?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者丨欧雪 编辑丨袁斯来 硬氪近日获悉，工业智能体及高价值应用公司——智用开物已完成近亿元天使+轮融资。本轮由老股东瑞枫资本领投，创享投资跟投，同时获得战略级客户立讯精密家族办公室及高管团队的战略投资。资金将主要用于建设全球首个面向产业的“工业语义引擎”及制造业高价值岗位智能体研发。 这已是智用开物过去一年内的第三轮融资。2025年，公司先后完成由瑞枫资本、豫资涨泉及上市公司制造业数字化龙头企业赛意信息的投资。 智用开物2024年1月成立于广州，专注于通过“工业语义引擎+工业级多智能体系统”，将复杂的工业知识转化为AI可解析、可执行的逻辑，降低AI在工业场景的落地门槛。 硬氪获悉，智用开物的核...",
+   "published": "2026-04-25T01:10:38+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "9点1氪丨马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
+   "url": "https://36kr.com/p/3781532841581576?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "整理 ｜孟孟 今日热点导览 铁路部门将实行老年旅客购票优惠 哈啰因未按规定备案、投放运营或者回收车辆再被罚款10万元 网友称用豆包提前查到事业编成绩，官方回应 耐克将裁减1400个公司职位，主要集中在技术部门 中国再发现两种月球新矿物，嫦娥五号样品研究获新突破 TOP3大新闻 马斯克花4000多亿买下00后公司，SpaceX锁定Cursor补齐AI编程短板 近日，SpaceX与AI编程初创公司Cursor达成一项收购协议：SpaceX获得以600亿美元（约合人民币4000多亿元）收购Cursor的选择权。Cursor由四名麻省理工学院辍学的“00后”学生于四年前创立，估值从2024年初的25亿...",
+   "published": "2026-04-25T01:01:05+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Intel's stock has best day since 1987, soaring 24% as chipmaker shows signs of a turnaround",
+   "url": "https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Shares of Intel have more than doubled this year on optimism that backing from the government will help the company's position in AI.",
+   "published": "2026-04-24T23:04:19+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Nvidia stock closes at record, pushing market cap past $5 trillion",
+   "url": "https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Nvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher.",
+   "published": "2026-04-24T22:40:51+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Cramer's week ahead: Record highs meet a pivotal week for tech earnings",
+   "url": "https://www.cnbc.com/2026/04/24/cramers-week-ahead-record-highs-meet-a-pivotal-week-for-tech-earnings.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Jim Cramer said this market has become a \"beast\". His gameplan highlights a packed slate of tech earnings which will determine whether the surge can continue.",
+   "published": "2026-04-24T22:29:16+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Three reasons why DeepSeek’s new model matters",
+   "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is o...",
+   "published": "2026-04-24T21:40:58+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Artificial intelligence",
+    "App"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meta’s loss is Thinking Machines’ gain",
+   "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+   "published": "2026-04-24T20:52:07+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "TC"
+   ],
+   "image": ""
+  },
+  {
+   "title": "疯狂涨价！AI风口下的“黄金材料”",
+   "url": "https://36kr.com/p/3782062374051074",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "日更7.5万首，播放不足3%：AI音乐沦为“虚假繁荣”？",
+   "url": "https://36kr.com/p/3782037279513605",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "翻完DeepSeek报告，我们发现了中国AI的默契",
+   "url": "https://36kr.com/p/3781956007730439",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "深圳千亿新贵：投资人赚了500倍",
+   "url": "https://36kr.com/p/3781902034263301",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek V4背后，梁文锋的转身",
+   "url": "https://36kr.com/p/3781941869255686",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "最激进的“AI先锋”多邻国，已经放过员工了",
+   "url": "https://36kr.com/p/3781731948485889",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌Jeff Dean重磅论文：弹性大规模分布式预训练终于可行了",
+   "url": "https://36kr.com/p/3781656072248578",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI打倒了英特尔，AI又救了英特尔",
+   "url": "https://36kr.com/p/3781536969437957",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "全球CPU龙头股暴力突袭，AI逻辑新主线浮现",
+   "url": "https://36kr.com/p/3781562796061445",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "36氪首发 | 核心团队来自微软，获近亿投资，要打通AI进厂最后一公里",
+   "url": "https://36kr.com/p/3781548853533959",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "最前线｜AI+激光通信，中科天塔要用「太空智驾」体系实现卫星管理模式的三级跨越",
+   "url": "https://36kr.com/p/3780910411193602",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "月暗与DeepSeek的“听牌”时刻",
+   "url": "https://36kr.com/p/3780765645020424",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "太意外，超级AI横空出世，华尔街集体慌了",
+   "url": "https://36kr.com/p/3780733114801411",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "是夯爆了还是拉完了？Deepseek V4第一波测评来了（附排行榜）",
+   "url": "https://36kr.com/p/3780730845060097",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "黄仁勋说这是\"灾难\"：DeepSeek在华为芯片上跑通了",
+   "url": "https://36kr.com/p/3780728378776838",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
