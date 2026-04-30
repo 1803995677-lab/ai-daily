@@ -1,0 +1,1910 @@
+{
+ "date": "2026-04-30",
+ "generated_at": "2026-04-30 08:00",
+ "total": 146,
+ "sources": [
+  "The Guardian Tech",
+  "量子位",
+  "少数派",
+  "IT之家",
+  "36氪 AI",
+  "Ars Technica",
+  "The Verge AI",
+  "ZDNet AI",
+  "InfoQ 中文",
+  "MIT Tech Review",
+  "CNBC Tech",
+  "Wired AI",
+  "TechCrunch AI",
+  "36氪"
+ ],
+ "summary": {
+  "overview": "今日共采集 146 篇 AI 相关资讯（国内 49 篇，海外 97 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI Agent、AI 应用与商业化。最受关注：「氪星晚报 ｜腾讯ima推出全新知识Agent——copilo...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元 — 大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** Counterpoint：到 2030 年，预计近半数智能手机将支持卫星连接 — IT之家 4 月 29 日消息，北京时间 4 月 29 日（今天）晚间，Counterpoint Research 发布最新报告显示，智能手机卫星连接 正在进入真正的增长阶段 。到 2030 年，全球智能手机出货量中，预计将有 46% 的设备支持非地面网络（NTN）。 短期来看，市场主要会由各厂商自"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** IT早报 0430：DeepSeek 灰度“识图模式”；追觅首次回应造车质疑；曝一加、realme 合并；小米自研芯片玄戒 O3 曝光；微信朋友圈灰度改版... — “IT早报”时间，大家好，现在是 2026 年 4 月 30 日星期四，今天的重要科技资讯有： 1、DeepSeek 终于能“看图”了！灰度“识图模式”，图片理解功能内测 DeepSeek 正在灰度测试“识图模式”，该模式和“快速模式”“专家模式”并列，并非简单的 OCR 文字，而是终于具备了多模态"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Is AI video just a prequel? Runway’s CEO thinks world models are next — AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company h"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 极米推出 X50 Ultra / Max 投影仪：至高 10000:1 对比度、7000CVIA 亮度，15499-19499 元 — IT之家 4 月 29 日消息，极米在今天的发布会中推出了 X50 Ultra / Ultra Max 投影仪，定价为 15499 元起。 X50 Ultra：15499 元，国补后 13999 元 X50 Ultra Max：19499 元，国补后 17999 元 系列投影仪采用全金属机身 + 密"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[Wired AI]** Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed — With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 推特前CEO创办AI初创公司完成融资，估值达20亿美元 — 由推特前首席执行官帕拉格・阿格拉瓦尔创立的初创公司ParallelWebSystems，完成1亿美元B轮融资，凸显市场对自主智能体落地应用的关注度持续攀升。本轮融资由红杉资本领投，这家坐落于加州帕洛阿托的企业估值由此攀升至20亿美元。凯鹏华盈、指数创投、科斯拉风投等现有投资方均跟投。（新浪财经）"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[The Verge AI]** Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI — Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI Agent展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 146 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "「微滔生物」A轮次融资超5000万美元，LNP路线体内CAR-T已发表初步人体数据",
+   "url": "https://36kr.com/p/3787339522432256?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，微滔生物近日接连完成A轮及A+轮融资，累计募资金额超5000万美元。两轮融资分别由正心谷资本和德诚资本领投，OrbiMed（奥博资本）、汉康资本、卫材创新风投基金（Eisai Innovation Inc.）、建发新兴投资，以及老股东启明创投、顺禧基金、杏泽资本等跟投。 据了解，微滔生物的A轮次募集资金将主要用于推进核心药物管线GT801的临床进程和注册申报，以及研发团队扩充与平台建设。 微滔生物由沙砾生物于2025年拆分成立，后者主要从事肿瘤浸润淋巴细胞（TIL）疗法开发，核心产品已进入临床二期。沙砾生物/微滔生物创始人、CEO刘雅容博士毕业于美国南加州...",
+   "published": "2026-04-30T00:00:00+00:00",
+   "age_label": "0分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "On the stand, Elon Musk can’t escape his own tweets",
+   "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+   "published": "2026-04-29T23:58:36+00:00",
+   "age_label": "2分钟前",
+   "tags": [
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meta is still burning money on AR/VR",
+   "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+   "published": "2026-04-29T23:58:26+00:00",
+   "age_label": "2分钟前",
+   "tags": [
+    "AI",
+    "Meta"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+   "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+   "published": "2026-04-29T23:55:23+00:00",
+   "age_label": "5分钟前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "TC",
+    "Microsoft",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "消息称苹果 iOS 27 版相机新增 Siri 模式，AI 记录食品标签、名片、活动门票等",
+   "url": "https://www.ithome.com/0/945/249.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，彭博社昨日（4 月 29 日）发布博文，报道称在 iOS 27 版相机（Camera）应用中，苹果公司计划增加 Siri 模式，整合 Visual Intelligence 功能 ，支持扫描食品营养标签及名片信息。 Siri 模式上线后，预估和现有的照片、视频、人像及全景模式并列显示，位于快门按钮上方，并配有 Apple Intelligence 标识，明确提示用户该模式具备智能功能。 Siri 模式的核心在于整合 Visual Intelligence 功能。IT之家援引博文介绍，目前用户需长按相机控制按钮才能激活该功能，这一隐蔽操作导致许多用户并不知情。更新...",
+   "published": "2026-04-29T23:54:34+00:00",
+   "age_label": "6分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Alphabet increases AI spending but gets rewarded for further proof that it's paying off",
+   "url": "https://www.cnbc.com/2026/04/29/alphabet-increases-ai-spending-but-gets-rewarded-for-further-proof-that-its-paying-off.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "As of Wednesday's nearly record-high close of around $350, the stock was already up nearly 12% year to date.",
+   "published": "2026-04-29T23:50:55+00:00",
+   "age_label": "9分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "算力租赁加速集中，头部企业步入业绩兑现期",
+   "url": "https://36kr.com/newsflashes/3788528820280326?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "随着全球AI大模型持续迭代，算力需求正从训练侧加速向推理侧延伸，这极大地推高了AI算力资源需求。在此背景下，国内算力租赁、AIDC（智算中心）运营等赛道正步入高景气周期。其中，两家头部算力租赁公司利通电子、协创数据，今年一季度净利润同比分别大幅增长821.08%、343.45%；AIDC代表企业如润泽科技、奥飞数据一季度净利润同比分别增长35.35%、79.19%；与业绩相对应的是，相关公司股价表现不俗。对于产业趋势，妙投高级研究员张博称，在国产替代推进过程中，芯片价值会持续上升，但其业绩兑现有一个爬坡过程，算力租赁反而更容易先承接需求，最容易体现价格变化，也最容易形成收入和利润。短期看，最先...",
+   "published": "2026-04-29T23:49:47+00:00",
+   "age_label": "10分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+   "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+   "published": "2026-04-29T23:41:51+00:00",
+   "age_label": "18分钟前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Model Behavior",
+    "artificial intelligence",
+    "Elon Musk"
+   ],
+   "image": ""
+  },
+  {
+   "title": "苹果发布 AI 框架 LaDiR：突破单一思维，并行探索多条推理路径",
+   "url": "https://www.ithome.com/0/945/247.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，苹果公司携手加州大学圣迭戈分校团队，在新版论文《LaDiR：潜在扩散增强 LLM 文本推理》中提出新框架， 让大语言模型（LLM）在回答前并行探索多条推理路径，再用自回归方式输出提高结果质量。 IT之家援引博文介绍，该框架并非新模型，而是叠加在现有模型之上的通用框架，重点改变模型思考问题的方式。LaDiR 结合扩散（Diffusion）和自回归（Autoregression）两种主流生成范式，在推理阶段采用扩散模型，在最终输出阶段使用自回归模型。 这种混合架构有效提升了模型处理复杂问题的能力，既保留了扩散模型并行处理的优势，又延续了自回归模型生成的连贯性。 La...",
+   "published": "2026-04-29T23:41:02+00:00",
+   "age_label": "19分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "A股公司2025年合计盈利5.36万亿元，同比增长近3%",
+   "url": "https://36kr.com/newsflashes/3788523674180615?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "4月29日，A股2025年年报及2026年一季报披露收官。整体来看，上市公司去年盈利稳步修复，今年一季度增长动能显著增强，形成新动能强劲、传统行业回暖的良好格局。2025年A股上市公司经营韧性持续彰显，营收与利润双增。至4月29日20时记者截稿，Wind数据统计显示，超5200家公司公布2025年年报，合计实现营收70.95万亿元、归母净利润5.36万亿元，同比分别增长1.16%、2.95%。深度贴合新能源规模化落地、AI全域场景应用赛道的电力设备、计算机、电子、传媒行业盈利增速领跑全市场。（证券时报）",
+   "published": "2026-04-29T23:36:32+00:00",
+   "age_label": "24分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "PayPal重组：Venmo将分拆为独立业务部门",
+   "url": "https://36kr.com/newsflashes/3788517111291136?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "PayPal新任首席执行官恩里克·洛雷斯正推动一项重大重组计划，拟将旗下移动支付应用Venmo分拆为独立业务部门。媒体称此举旨在优化运营结构，并为潜在出售这一明星资产铺路。知情人士透露，PayPal正在物色数字银行领域的高管来执掌新的Venmo业务部门。此次重组后，公司将形成三大业务板块：Venmo独立部门、面向商家和消费者的PayPal品牌业务，以及包含Braintree和加密货币业务在内的支付服务部门。（新浪财经）",
+   "published": "2026-04-29T23:34:52+00:00",
+   "age_label": "25分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "报道称软银计划将其人工智能公司ROZE上市",
+   "url": "https://36kr.com/newsflashes/3788531821583616?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "报道称软银计划将其人工智能公司ROZE上市，估值最高可达1000亿美元。（财联社）",
+   "published": "2026-04-29T23:33:51+00:00",
+   "age_label": "26分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为路由 X3 Pro 日照金山双母典藏版预售：透明天线、凌霄 PLC 千兆组网，2408 元",
+   "url": "https://www.ithome.com/0/945/246.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，华为路由 X3 Pro 日照金山双母典藏版今日 10:08 开启预售，5 月 15 日 10:08 首销， 预售价 2408 元 ，政府补贴价 2289.5 元。 这款路由器采用“日照金山”美学设计，宣称把自然之美置于居家日常；行业首发透明天线，以微米级工艺在透明材质上蚀刻电路，将天线藏于雪山造型内。 X3 Pro 采用了 华为自研凌霄芯片 ，搭配 4 颗高性能信号放大器，支持 Wi-Fi 7+ 自研芯片级网络协同，支持 2.4GHz 与 5GHz 双频段无缝切换。 该路由采用华为第三代 PLC 技术，搭载全新凌霄 PLC 芯片，利用电线传输信号，子路由房内插上...",
+   "published": "2026-04-29T23:28:09+00:00",
+   "age_label": "32分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0430：DeepSeek 灰度“识图模式”；追觅首次回应造车质疑；曝一加、realme 合并；小米自研芯片玄戒 O3 曝光；微信朋友圈灰度改版...",
+   "url": "https://www.ithome.com/0/945/245.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 4 月 30 日星期四，今天的重要科技资讯有： 1、DeepSeek 终于能“看图”了！灰度“识图模式”，图片理解功能内测 DeepSeek 正在灰度测试“识图模式”，该模式和“快速模式”“专家模式”并列，并非简单的 OCR 文字，而是终于具备了多模态识别能力。>> 查看详情 2、我们不可能是乐视！追觅首次回应造车：启动时间与小米同步，采用“华为模式”走高端路线 追觅在美国硅谷发布高端新能源品牌“星空计划”，首款概念车零百加速 0.9 秒。公司回应资金链与乐视质疑，称启动时间与小米同步，采用“华为模式”合作造车，聚焦高端市场，量产车将于 2027...",
+   "published": "2026-04-29T23:26:54+00:00",
+   "age_label": "33分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "推特前CEO创办AI初创公司完成融资，估值达20亿美元",
+   "url": "https://36kr.com/newsflashes/3788514523864066?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "由推特前首席执行官帕拉格・阿格拉瓦尔创立的初创公司ParallelWebSystems，完成1亿美元B轮融资，凸显市场对自主智能体落地应用的关注度持续攀升。本轮融资由红杉资本领投，这家坐落于加州帕洛阿托的企业估值由此攀升至20亿美元。凯鹏华盈、指数创投、科斯拉风投等现有投资方均跟投。（新浪财经）",
+   "published": "2026-04-29T23:26:14+00:00",
+   "age_label": "34分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称苹果已搁置研发 Vision Pro 头显，重心转向 Siri 和 AI 眼镜",
+   "url": "https://www.ithome.com/0/945/244.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，科技媒体 MacRumors 昨日（4 月 29 日）发布博文，报道称 Vision Pro 头显在升级 M5 芯片之后，仍未扭转市场冷淡局面， 因此苹果公司内部已搁置研发新款 Vision Pro，团队重心转向 Siri 和 AI 智能眼镜。 这款设备的争议集中在价格与佩戴体验。Vision Pro 售价为 3499 美元，机身重量超过 1.3 磅。新头带可分散重量，但长时间佩戴仍吃力。 报道称，Vision Pro 自发布以来热度不足，总销量约 60 万台。内部消息人士还称，该产品退货比例异常偏高，超过近年其他苹果硬件产品。M5 版本未能改善需求，也让后续路...",
+   "published": "2026-04-29T23:23:12+00:00",
+   "age_label": "37分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果计划在iOS 27中推出Siri相机模式并升级视觉AI",
+   "url": "https://36kr.com/newsflashes/3788513104206850?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "苹果公司计划将人工智能更深入地嵌入iPhone的相机应用，在即将推出的iOS 27操作系统中，在标准照片和视频选项之外新增一种Siri模式。据知情人士透露，作为这一调整的一部分，该公司将把目前与“相机控制”按钮绑定的“视觉智能”功能整合进相机应用本身。知情人士说，这项如今冠以Siri名称的功能，将作为一个新的切换选项，出现在“照片”“视频”“人像”和其他现有选项旁边。在即将推出的操作系统中，苹果公司将以一种采��Apple Intelligence标识风格的新快门按钮重新设计这一体验。这将取代当前“视觉智能”中使用的传统白色拍摄按钮。（新浪财经）",
+   "published": "2026-04-29T23:20:48+00:00",
+   "age_label": "39分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "新华三 H3C MegaBook Air 14 英寸笔记本上架：酷睿 Ultra 5 226V/228V、重量小于 1kg，7999 元起",
+   "url": "https://www.ithome.com/0/945/242.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，新华三 H3C 上架了一款名为 MegaBook Air 的笔记本电脑，搭载英特尔 Lunar Lake 处理器， 活动到手价 7999 元起 ： 酷睿 Ultra 5 226V+16GB+1TB： 7999 元 酷睿 Ultra 5 228V+32GB+1TB： 8999 元 据介绍，这款笔记本电脑搭载 14 英寸 16:10 比例 LCD 屏幕，分辨率 2240×1400，支持约 178 度开合；搭载 8 核 8 线程酷睿 Ultra 5 226V/228V 处理器，电池容量 60Wh。 MegaBook Air 的 A/C/D 面采用镁合金，机身厚度 15...",
+   "published": "2026-04-29T23:14:28+00:00",
+   "age_label": "46分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta’s Reality Labs lost over $4 billion in first quarter",
+   "url": "https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "In Meta's first-quarter earnings report, the company said Reality Labs recorded an operating loss of over $4 billion while bringing in $402 million in sales.",
+   "published": "2026-04-29T23:11:42+00:00",
+   "age_label": "48分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果 AI 眼镜曝光：内置 2 颗摄像头、支持 Siri 智能交互、可手势控制",
+   "url": "https://www.ithome.com/0/945/241.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，科技媒体 MacRumors 昨日（4 月 29 日）发布博文， 报道称苹果内部正在加速研发其首款智能眼镜，预估上市后将会和 Meta Ray-Bans 等产品竞争。 而最新内部消息称，该产品的定位并非直接切入完整 AR 眼镜赛道，而是把拍摄、语音助手和手势控制作为核心能力。 硬件规格方面，消息称苹果智能眼镜配备 2 颗摄像头。其中高分辨率摄像头用于拍摄照片和视频，内容可分享至社交平台；另 1 颗低分辨率广角镜头，则负责读取手部动作，并为 Siri 提供环境视觉信息。 IT之家援引博文介绍，首代苹果智能眼镜不会内置显示屏，也不会配备 LiDAR、3D 摄像头等模...",
+   "published": "2026-04-29T23:10:42+00:00",
+   "age_label": "49分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic in talks with investors to raise funds at $900 billion valuation, higher than OpenAI",
+   "url": "https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Anthropic is in talks with investors about raising cash at a valuation of $900 billion, CNBC has confirmed.",
+   "published": "2026-04-29T23:09:46+00:00",
+   "age_label": "50分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+   "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+   "published": "2026-04-29T23:02:23+00:00",
+   "age_label": "58分钟前",
+   "tags": [
+    "AI",
+    "copilot ai",
+    "Microsoft"
+   ],
+   "image": ""
+  },
+  {
+   "title": "小米米家智能燃气热水器 2 恒温 1 级能效 16L 开售，新品首发价 1763 元",
+   "url": "https://www.ithome.com/0/945/239.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，小米“米家智能燃气热水器 2 恒温 1 级能效 16L”现已正式开售，建议零售价 1999 元， 新品首发价 1763 元 。 据介绍，这款新品为 超国标 1 级能效 标准，采用智能算法精准恒温，不怕水温忽冷忽热；支持 全屋零冷水 ，热水即开即热不用久等。 这款热水器采用白色家族式设计，正面配有圆形数显屏，最小负载运行状态下的噪音为 45dB(A)；支持无级变频水伺服，确保全家同时用水水温恒定；支持 TSI 增压技术，除菌率高达 99.9%；支持 小米澎湃智联 。 IT之家附这款新品详细参数如下： 京东 米家小米智能燃气热水器 2 恒温 16L 1763 元 直...",
+   "published": "2026-04-29T22:48:54+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Jim Cramer reveals the secret to finding a winning tech stock in this market",
+   "url": "https://www.cnbc.com/2026/04/29/jim-cramer-secret-winning-tech-stock.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC's Jim Cramer said tech stocks need more than an earnings beat to rally right now. They need a shortage.",
+   "published": "2026-04-29T22:45:30+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Qualcomm shares soar 16% on CEO comments about China orders, hyperscaler customer",
+   "url": "https://www.cnbc.com/2026/04/29/qualcomm-qcom-stock-earnings-china.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Qualcomm CEO Cristiano Amon said that it would begin shipping data center chips to \"a large hyperscaler\" ahead of schedule, and called a bottom in China sales.",
+   "published": "2026-04-29T22:35:57+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+   "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+   "published": "2026-04-29T22:20:48+00:00",
+   "age_label": "1小时前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "Alphabet",
+    "Enterprise AI",
+    "google cloud"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’",
+   "url": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business It only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. PocketOS, which sells software that car rental ...",
+   "published": "2026-04-29T22:12:49+00:00",
+   "age_label": "1小时前",
+   "tags": [
+    "Technology",
+    "AI (artificial intelligence)",
+    "Software"
+   ],
+   "image": "https://i.guim.co.uk/img/media/fa34b7fa4b1128132c4cb04504f8108b473af0c8/542_0_5417_4334/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=e221f627a54107a7d1a62ca7b7372d4f"
+  },
+  {
+   "title": "Eero Signal keeps your business online during internet outages",
+   "url": "https://www.zdnet.com/article/eero-signal-keeps-your-business-online-during-internet-outages/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "A cellular backup device that connects to your Eero mesh Wi-Fi system, Eero Signal provides backup internet when your primary wired connection goes down, saving you time and money.",
+   "published": "2026-04-29T21:55:00+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta stock drops on quarterly results as 'internet disruptions' in Iran drag down user numbers",
+   "url": "https://www.cnbc.com/2026/04/29/meta-q1-earnings-report-2026.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Meta beat on revenue, but showed disappointing user numbers and its capital expenditures were below estimates.",
+   "published": "2026-04-29T21:08:51+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+   "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+   "published": "2026-04-29T20:59:00+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Media & Entertainment",
+    "TC",
+    "earnings"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+   "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+   "published": "2026-04-29T20:36:53+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "Culture",
+    "Culture / Digital Culture",
+    "Social Media",
+    "artificial intelligence",
+    "scams"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Google Search queries hit an ‘all time high’ last quarter",
+   "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai says. \"Search had a strong...",
+   "published": "2026-04-29T20:28:11+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Business",
+    "Google",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meta 2026 财年第一财季净利润 267.73 亿美元，同比增长 61%",
+   "url": "https://www.ithome.com/0/945/238.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，Meta 今日发布 2026 财年第一财季（截至 3 月 31 日）报告： 营业总收入 ：563.11 亿美元，同比增长 33% 归母净利润 ：267.73 亿美元，同比增长 61% 经营现金流 ：322.26 亿美元 基本每股收益 ：10.57 美元 / 股 稀释每股收益 ：10.44 美元 / 股，同比增长 62% 🤖 AI 解读 Meta 发布了 2026 年第一季度财报，实现 营业收入 563.11 亿美元 ，同比增长 33%，若按不变汇率计算则同比增长 29%； 净利润 267.73 亿美元 ，同比增长 61%；稀释每股收益 10.44 美元 / 股，...",
+   "published": "2026-04-29T20:10:08+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "微软 2026 财年第三财季净利润 317.78 亿美元，同比增长 23%",
+   "url": "https://www.ithome.com/0/945/237.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，微软今日发布 2026 财年第三财季（截至 2026 年 3 月 31 日）报告： 营业总收入 ： 828.86 亿美元，同比增长 18% 归母净利润 ： 317.78 亿美元，同比增长 23% 经营现金流 ： 466.79 亿美元 基本每股收益 ： 4.28 美元 / 股，同比增长 23.33% 稀释每股收益 ： 4.27 美元 / 股，同比增长 23.41% 🤖 AI 解读 微软 2026 财年第三季度（截至 2026 年 3 月 31 日）实现 828.86 亿美元 营业收入，同比增长 18%（固定汇率下增长 15%）；归属于股东的净利润为 317.78 ...",
+   "published": "2026-04-29T20:10:01+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Alphabet 2026 财年第一财季净利润 625.78 亿美元，同比增长 81%",
+   "url": "https://www.ithome.com/0/945/236.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 30 日消息，Alphabet 今日发布 2026 财年第一财季（截至 3 月 31 日）报告： 营业总收入 ： 1098.96 亿美元，同比增长 22% 归母净利润 ： 625.78 亿美元，同比增长 81% 经营现金流 ： 457.90 亿美元 基本每股收益 ： 5.17 美元 / 股 稀释每股收益 ： 5.11 美元 / 股，同比增长 82% 🤖 AI 解读 Alphabet 发布 2026 年第一季度 未经审计财务业绩，报告期截至 2026 年 3 月 31 日。 整体营收利润实现高增长 ：合并营业收入达 1098.96 亿美元，同比增长 22%，按固定汇率计算增长 ...",
+   "published": "2026-04-29T20:06:41+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NXP Semiconductors soars 26%, best day ever after earnings beat",
+   "url": "https://www.cnbc.com/2026/04/29/nxp-semiconductors-stock-earnings-beat.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Shares rose 26% Wednesday, the biggest surge since the Dutch chipmaker went public in 2010.",
+   "published": "2026-04-29T20:03:13+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI’s subtle drift from Microsoft has become an aggressive move toward Amazon",
+   "url": "https://www.cnbc.com/2026/04/29/openai-drift-from-microsoft-to-amazon-turns-aggressive-after-subtlety.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "While OpenAI and Microsoft remain partners, the AI company has been rapidly pushing into Amazon's world.",
+   "published": "2026-04-29T19:36:02+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Motorola Razr Ultra (2026) vs. Samsung Galaxy Z Flip 7: I tried both, and there's a clear winner",
+   "url": "https://www.zdnet.com/article/samsung-galaxy-z-flip-7-vs-motorola-razr-ultra-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Samsung focuses on durability and AI, while the new Motorola phone is all about the hardware. Here's which one I think is better.",
+   "published": "2026-04-29T19:15:42+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+   "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, includin...",
+   "published": "2026-04-29T18:59:44+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Media & Entertainment",
+    "ai generated video",
+    "ai video",
+    "ceo"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Akamai CEO Tom Leighton：Agent 时代来临，云基础设施正从“中心化”转向“分布式边缘”",
+   "url": "https://www.infoq.cn/article/qstoLhXVmdJ7Y7moETO0?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T18:59:11+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Forget Samsung Galaxy S26 Ultra: I found alternatives that are nearly as good for less money",
+   "url": "https://www.zdnet.com/article/best-phones-you-can-buy-in-2026-are-from-2025/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "After reviewing the latest Google, Samsung, and Motorola phones, I have a newfound appreciation for last year's models.",
+   "published": "2026-04-29T18:59:00+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "We toured an AI data center to see how our stock names make these facilities work",
+   "url": "https://www.cnbc.com/2026/04/29/we-toured-an-ai-data-center-to-see-how-our-stocks-make-these-facilities-work.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CoreSite CEO Juan Font thinks of his company's facilities like shopping malls.",
+   "published": "2026-04-29T18:51:27+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+   "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+   "published": "2026-04-29T18:33:05+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "TC",
+    "ai agent",
+    "In Brief"
+   ],
+   "image": ""
+  },
+  {
+   "title": "百度文库网盘发布GenFlow 4.0：月活用户超1亿，要把网盘变成全端AI工作台",
+   "url": "https://www.infoq.cn/article/8JaJx5NTIVbwKZihBaDc?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T18:18:29+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Altman 投的 Agent 终端 Warp 开源了！斩获3.5万star",
+   "url": "https://www.infoq.cn/article/ArGDWKczgdQlQ3G6shk7?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T18:15:14+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "All the evidence unveiled so far in Musk v. Altman",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab even had a name. Some hig...",
+   "published": "2026-04-29T18:03:05+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Analysis",
+    "Elon Musk",
+    "Law",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
+   "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux distro or even switch to a different one. After Canonical's announcement earlier this week that it's bri...",
+   "published": "2026-04-29T17:32:02+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Linux",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+   "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+   "published": "2026-04-29T17:23:52+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "China",
+    "artificial intelligence",
+    "Semiconductors"
+   ],
+   "image": ""
+  },
+  {
+   "title": "HP vs. Dell: I've tested dozens of laptops from both brands, and here's my advice",
+   "url": "https://www.zdnet.com/article/hp-vs-dell-laptops-comparison/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Dell and HP both sell excellent laptops, but their models stand out in different ways. Let's break down the biggest differences.",
+   "published": "2026-04-29T17:08:00+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+   "url": "https://36kr.com/p/3788151000751364?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "文｜周鑫雨 王毓婵 编辑｜杨轩 解读DeepSeek V4的技术报告，是这几天AI行业最狂热的集体活动。 V4很强吗？在工程优化的维度中，答案是毋庸置疑的。过去，大家信奉“Scaling Law的暴力美学”——也就是靠堆更多优质算力、更大参数规模来提升模型性能。而V4走的是一条完全不同的路，它定义了一种“模型训练的克制美学”： 它不靠疯狂堆算力和参数，而是通过一系列组合优化和重构： 注意力机制 （让模型学会“抓重点”，像人读长文章时会自动关注关键句子一样） MoE架构（混合专家模型，可以理解为“让不同的专家负责不同类型的问题，每次只激活少数专家，省时又省力”） 后训练 （模型初步练成后再针对性...",
+   "published": "2026-04-29T17:07:22+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从开发到生产：为什么越来越多的机器学习团队纷纷迁移到 Snowflake ｜ BUILD 2025",
+   "url": "https://www.infoq.cn/video/wV4Nmb5vpxaChAdobOUl?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:56:03+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Our readers can't stop buying these 10 gadgets - and No. 4 really surprised us",
+   "url": "https://www.zdnet.com/article/zdnet-most-popular-gadgets-from-readers-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "These gadgets and gizmos are the most popular among ZDNET readers so far this year.",
+   "published": "2026-04-29T16:52:04+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "探索多智能体工作流：LangGraph Snowflake Cortex AI ｜ BUILD 2025",
+   "url": "https://www.infoq.cn/video/sQoiGqlgSeJNzDlfk5Zq?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:47:39+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "腾讯云分布式缓存数据库：AI Agent - 从提示词工程到 Harness 工程 | 腾讯云数据库 DBTalk",
+   "url": "https://www.infoq.cn/video/JAs7bgXPGx8ibDQQw98A?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:47:06+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "基于 Streamlit 为 CSV 数据构建分析智能体 ｜ BUILD 2025",
+   "url": "https://www.infoq.cn/video/TGuw62wOrDdxG9UcjvDM?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:43:28+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+   "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+   "published": "2026-04-29T16:42:33+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Google",
+    "Google Photos"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Uber makes big bets on travel, hotels and AI voice bookings at annual product showcase",
+   "url": "https://www.cnbc.com/2026/04/29/uber-ai-travel-hotels-go-get.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Uber is launching new segments as it attempts to position itself as an all-in-one consumer platform.",
+   "published": "2026-04-29T16:42:20+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "More Gemini features are coming to Google TV",
+   "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+   "published": "2026-04-29T16:40:49+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "Hardware",
+    "gemini",
+    "Google",
+    "google nano"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI 智能体：告别文档缺漏 ｜ BUILD 2025",
+   "url": "https://www.infoq.cn/video/xzP1usT6PvgoaNt7T0Bo?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:29:33+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "构建 AI 驱动的数据管道：深度探讨 Snowflake Openflow 与非结构化数据 | BUILD 2025",
+   "url": "https://www.infoq.cn/video/Lm5IqHMcXAP2RoQNcOri?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:20:37+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "云端太贵、本地不够聪明，英特尔押注“端云混合AI”：智能体PC会替人完成工作",
+   "url": "https://www.infoq.cn/article/I2iKf9UTsp8HTJI9BNel?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:20:12+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "不到10%的存储投入，可能拖垮90%的GPU投资！IBM把AI Agent塞进存储系统，算清企业最容易忽略的一笔账",
+   "url": "https://www.infoq.cn/article/oYQ5lAYRArr2VUe40Fwm?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:17:51+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "ClickHouse + Langfuse，构建 Agent 可观测基石",
+   "url": "https://www.infoq.cn/article/YKuY98IoX1jpjfUBLPdd?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:12:38+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Is Facebook adding Gen Z phrases to your shared posts? You're not alone, bestie. Here's what's happening.",
+   "url": "https://www.zdnet.com/article/facebook-glitch-gen-z-phrases-text-shared-posts-ai/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "For the past two weeks, Facebook users are getting unexpected slang on posts. AI is probably to blame.",
+   "published": "2026-04-29T16:03:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google Photos launches an AI try-on feature for clothes you already have",
+   "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to mix and match outfits, save the looks you like, and share them with friends. A video shared by Goog...",
+   "published": "2026-04-29T16:00:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Google",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI 写代码太烧钱了：Copilot、Claude 一起涨价，不如把程序员请回来？",
+   "url": "https://www.infoq.cn/article/XkAoNsINYJhsvJeKcZSa?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T16:00:00+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The best VPN for small businesses in 2026: Expert tested and reviewed",
+   "url": "https://www.zdnet.com/article/best-vpn-for-small-businesses/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Looking for the best VPN for your small business? I tested Surfshark, Proton VPN, and more to find the top picks.",
+   "published": "2026-04-29T15:52:00+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "After years of Linux, I tried GhostBSD and found it incredibly stable - and nearly unbreakable",
+   "url": "https://www.zdnet.com/article/i-tried-ghostbsd-found-it-incredibly-stable-nearly-unbreakable/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "This FreeBSD-based OS is for Linux users who want a reliable, Unix-like experience. Here's why.",
+   "published": "2026-04-29T15:49:10+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英特尔发布至强600系列工作站处理器与锐炫Pro B70 GPU，全新AI工作站来了",
+   "url": "https://www.infoq.cn/article/TqU4moWkh5yXXauFyvqI?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T15:46:27+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "印奇这次要“从0重做”智驾模型！首谈阶跃和千里双公司布局：中国AI商业闭环要靠车跑出来",
+   "url": "https://www.infoq.cn/article/syK6BMPE5b4Jx2uWyJe9?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-04-29T15:42:54+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+   "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ...",
+   "published": "2026-04-29T15:35:32+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Elon Musk",
+    "Law",
+    "News",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Health is Tim Cook's defining legacy - and your Apple Watch proves it",
+   "url": "https://www.zdnet.com/article/how-tim-cook-fundamentally-changed-our-relationship-to-our-health/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The Apple CEO introduced the Apple Watch to consumers - and changed more than how we track our health.",
+   "published": "2026-04-29T15:34:39+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "倍耐力买下 Univrses 30% 股份，加码 AI 轮胎技术",
+   "url": "https://www.ithome.com/0/945/234.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，意大利轮胎制造商倍耐力于当地时间周三与瑞典公司 Univrses 签署合作协议，收购后者 30% 的股份，并拥有增持至控股多数股权的选择权，旨在将人工智能计算机视觉技术整合至其智能轮胎（Cyber Tyre）系统中。 此次合作将 Univrses 的三维人工智能技术与倍耐力搭载传感器的轮胎系统相结合，既能提升车辆安全性能与自动驾驶能力，也可为交通管理部门提供实时道路基础设施监测数据。 本次合作将 Univrses 的计算机视觉人工智能技术融入倍耐力智能轮胎平台，助力升级道路监测与自动驾驶应用场景。 智能轮胎系统可通过轮胎内置传感器采集数据，并与车辆电子设备及云端...",
+   "published": "2026-04-29T14:58:44+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Tumbler Ridge families are suing OpenAI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence after they failed to alert police to the suspected shooter's ChatGPT activity. The families allege O...",
+   "published": "2026-04-29T14:47:57+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "AI",
+    "News",
+    "OpenAI",
+    "Policy"
+   ],
+   "image": ""
+  },
+  {
+   "title": "These two critical Mac security features are off by default - how to turn them on and why you should",
+   "url": "https://www.zdnet.com/article/turn-on-mac-firewall-stealth-mode/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "You're leaving your Mac exposed if you haven't enabled these two security features.",
+   "published": "2026-04-29T14:47:25+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I've used Android Auto for years, and these 5 changes solved my biggest issues",
+   "url": "https://www.zdnet.com/article/ive-been-driving-with-android-auto-for-years-5-settings-to-change/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "These simple adjustments can make a big difference to your Android road experience.",
+   "published": "2026-04-29T14:45:00+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI&#8217;s IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienced a 132 percent increase in uninstalls year over year in April. Its uninstall rate was even higher ...",
+   "published": "2026-04-29T14:43:41+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "AI",
+    "News",
+    "OpenAI",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "华为鸿蒙“龙虾”小艺 Claw 迎重磅更新：上线“自进化”能力、接入 DeepSeek V4",
+   "url": "https://www.ithome.com/0/945/229.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，华为官方今日宣布，鸿蒙“龙虾”小艺 Claw 迎来重磅更新， 上线“自进化”能力 。在 11.6.3.300 新版本上线后，对小艺提出“记住这种风格”、“以后都用这种格式”、“永远都不要犯这种错”这类要求时， 它会识别并学习长期偏好，可减少重复沟通 。 另外， 小艺 Claw 正式接入 DeepSeek V4 。新版本上线后，小艺 Claw 支持百万级超长上下文处理，可一次性读取并理解更长材料。同时，小艺 Claw 理解能力也得到提升， 在信息搜集、文档处理、内容创作等任务中有更强的 Agent 推理能力 。 IT之家注意到，小艺 App 更新 11.6.3.3...",
+   "published": "2026-04-29T14:04:58+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "What makes good ‘game feel’? These three titles have pinned it down perfectly",
+   "url": "https://www.theguardian.com/games/2026/apr/29/pushing-buttons-what-made-good-game-feel-pragmata-saros-vampire-crawler",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Pragmata, Saros and Vampire Crawler bring together aesthetics, responsiveness and creative opportunities in joyous ways that can’t be defined, only experienced Game feel is one of the most elusive concepts in the glossary of interactive entertainment, at once perfectly clear and difficult to define....",
+   "published": "2026-04-29T14:00:50+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "Games",
+    "Culture"
+   ],
+   "image": "https://i.guim.co.uk/img/media/953b209f1e8b0a90f3925f8c48a14837ac97971c/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=a6b50d600a955f96998f3566396c4b1d"
+  },
+  {
+   "title": "Larry’s risky business",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted to AI, but not in any kind of usual way. It is not a foundation model builder like OpenAI or Anthrop...",
+   "published": "2026-04-29T13:57:16+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Business",
+    "OpenAI",
+    "Report"
+   ],
+   "image": ""
+  },
+  {
+   "title": "闻泰科技 2026 年一季度亏损 1.89 亿元，同比-172.41%",
+   "url": "https://www.ithome.com/0/945/220.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，闻泰科技今日发布 2026 年一季度报告： 营业总收入 ： 8.16 亿元，同比-93.77% 归母净利润 ：-1.89 亿元，同比-172.41% 扣非净利润 ：-1.90 亿元，同比-706.01% 经营现金流 ： 3.96 亿元，同比-84.32% 基本每股收益 ：-0.15 元 / 股，同比-171.43% 稀释每股收益 ：-0.15 元 / 股，同比-171.43% 加权平均净资产收益率 ：-0.77%，同比减少 1.16 个百分点 🤖 AI 解读 闻泰科技 2026 年第一季度实现营业收入 8.16 亿元 ，同比下降 93.77%；归属于上市公司股东...",
+   "published": "2026-04-29T13:44:05+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "德明利 2026Q1 扣非净利润同比增长 4547.48%，营业收入增长 5 倍",
+   "url": "https://www.ithome.com/0/945/219.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，专注于存储控制芯片与解决方案的上市企业德明利 (TWSC) 今日公布 2026 年第一季度报告。该公司 2026Q1 归母净利润同比增长 4943.39% 、 扣非净利润同比增长 4547.48% 。 德明利在统计期内实现 75.38 亿元营业收入， 同比增长 502.08% ；经营现金流为-2.41 亿元；基本 EPS 为 14.88 元，同比增长 4900.00%；稀释 EPS 为 11.56 元，同比增长 4796.77%；加权平均净资产收益率为 67.45%，较去年同期增长 70.27 个百分点。 IT之家注意到，德明利 2026Q1 的 总资产较 20...",
+   "published": "2026-04-29T13:35:29+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华盛顿大学计算机科学教授格罗斯曼谈学习编程：是时候重新理解它了",
+   "url": "https://www.ithome.com/0/945/216.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，据《商业内幕》4 月 29 日（今天）报道，华盛顿大学计算机科学教授、保罗 ·G· 艾伦计算机科学与工程学院副院长丹 · 格罗斯曼认为，“学习编程”这件事已经到了需要重新理解的时候。 格罗斯曼认为：“几年前，我们教大家编程时，确实有很大一部分精力 放在抠细节上 。分号该放哪儿，逗号该放哪儿，某个概念到底该用哪个词，都是教学重点。” 在格罗斯曼看来，AI 编程工具已经改变了这场讨论。“我们会看到，其实已经看到，AI 正在 替非专业软件工程师处理大量这类细节 。在很多方面，专业软件工程师也一样会让 AI 处理这些工作。” 同时，真正重要的能力依然存在。“你要能 精确...",
+   "published": "2026-04-29T13:20:35+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 编程热潮推动 GitHub 爆发增长，平台频发故障后启动底层基础设施重构",
+   "url": "https://www.ithome.com/0/945/215.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，GitHub 依旧是开发者领域的主流平台，围绕代码托管、团队协作与开源开发形成了庞大的生态体系。即便在被微软收购之后，GitHub 仍保持自然增长态势，这一势头一直延续到去年。而 2025 年初，AI 编程热潮开始进一步推高 GitHub 的使用量。此后，随着智能体在开发者群体中成为主流，GitHub 的用户使用规模迎来了前所未有的爆发式增长。 IT之家注意到，GitHub 于 2025 年 10 月启动了一项扩容计划，目标是将平台承载能力提升至原有 10 倍，以此应对激增的需求。然而到 2026 年 2 月，公司意识到，未来的业务规模或将达到当前的 30 倍，...",
+   "published": "2026-04-29T13:18:17+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "极米 MIRA 4K/Pro 短焦投影仪发布：0.175:1 投射比，至高提供 3000 ISO 亮度，6499-7999 元",
+   "url": "https://www.ithome.com/0/945/214.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，极米在今天的发布会中推出了 MIRA 4K/Pro 短焦投影仪，前者为 1700CVIA / 2000 ISO 规格，定价为 6499 元；后者为 2750 CVIA / 3000 ISO 规格，定价为 7999 元。 京东 极米 MIRA 4K / Pro 投影元 6499 元起 直达链接 系列投影仪提供 0.175:1 投射比，至高提供 3000 ISO 亮度，配备 0.39''DMD 显示芯片，内置哈曼卡顿 36W 功率扬声器，搭载联发科 MT9681 处理器，匹配 2GB RAM 和 64GB 存储空间，提供 1 个 USB-A 2.0、1 个 USB-...",
+   "published": "2026-04-29T13:16:28+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Firestorm Labs raises $82M to take drone factories into the field",
+   "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+   "published": "2026-04-29T13:10:57+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "defense technology",
+    "drones",
+    "Firestorm Labs"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+   "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Think Discord chats, but with AI characters in addition to humans.",
+   "published": "2026-04-29T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Social",
+    "Startups"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show celebrities in interview settings, such as red carpets, podcasts, or talk shows, and often manipulate re...",
+   "published": "2026-04-29T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI",
+    "News"
+   ],
+   "image": ""
+  },
+  {
+   "title": "美团配送机器人“小黄蜂”落地重庆江北机场，最快 10 分钟即可收货",
+   "url": "https://www.ithome.com/0/945/212.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，据“重庆机场集团”公众号，美团室内外智能配送机器人“小黄蜂”今日在重庆江北国际机场 T3 航站楼投入运营。 即日起，旅客在江北国际机场候机时，可通过美团 App 下单场内入驻商家商品，选择“小黄蜂”配送即可享受登机口直达服务， 最快 10 分钟即可收货 。根据官方介绍，该机器人的投放将使旅客彻底告别奔波取餐、购物的传统候机模式。 美团相关负责人表示，依托美团“大脑 + 小脑 + 网络”的深度协调，打造出持续演进的具身智能能力体系。“美团智能配送机器人能够在江北国际机场稳定落地运营，是新技术与航空特殊客流场景深度融合的标志性成果。” “大脑”层面，该机器人搭载美团...",
+   "published": "2026-04-29T12:55:49+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "极米推出 X50 Ultra / Max 投影仪：至高 10000:1 对比度、7000CVIA 亮度，15499-19499 元",
+   "url": "https://www.ithome.com/0/945/211.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，极米在今天的发布会中推出了 X50 Ultra / Ultra Max 投影仪，定价为 15499 元起。 X50 Ultra：15499 元，国补后 13999 元 X50 Ultra Max：19499 元，国补后 17999 元 系列投影仪采用全金属机身 + 密集竖向格栅设计，其中，X50 Ultra Max 搭载了极米与紫光同创联合研发的 X-Vision 独立画质芯片，实现对投影画质的智能精细调控，提供 10000:1 原生对比度，为国产投影中首个突破“万级”对比度的产品。不过显示芯片仍为 0.47''DMD。 同时，系列投影仪行业首发 RGB 纯激光...",
+   "published": "2026-04-29T12:49:59+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "氪星晚报 ｜腾讯ima推出全新知识Agent——copilot；魔法原子：目标到2036年营收达140亿美元",
+   "url": "https://36kr.com/p/3787748082293766?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "大公司： 魔法原子：目标到2036年营收达140亿美元 36氪获悉，美西时间4月28日，魔法原子在硅谷举办全球具身智能创新大会（GEIS）落幕。会上发布自研世界模型Magic-Mix、灵巧手MagicHand H01及旗舰人形机器人MagicBot X1。大会上，公司首次对外披露魔法原子的长期营收目标：到2036年，公司将向140亿美元营收规模迈进，并宣布未来五年将持续投入10亿美元，打造面向机器人二次开发的专属生态。 吉利汽车：第一季度营收首破800亿元，核心归母净利润同比增长31% 36氪获悉，吉利汽车公布2026年第一季度业绩报告。2026第一季度，录得总销量709358辆，同比增长1%...",
+   "published": "2026-04-29T12:44:39+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "安克创新 2026 年一季度净利润 4.72 亿元，同比-4.87%",
+   "url": "https://www.ithome.com/0/945/207.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，安克创新今日发布 2026 年一季度报告： 营业总收入 ： 76.08 亿元，同比 26.93% 归母净利润 ： 4.72 亿元，同比-4.87% 扣非净利润 ： 5.47 亿元，同比 24.39% 经营现金流 ： -4.51 亿元，同比-56.66% 基本每股收益 ：0.8796 元 / 股，同比-5.71% 稀释每股收益 ：0.8714 元 / 股，同比-6.42% 加权平均净资产收益率 ：4.35%，同比-1.06% 🤖 AI 解读 安克创新 2026 年第一季度实现 营业收入 76.08 亿元 ，较去年同期 增长 26.93% ；实现归属于上市公司股东的...",
+   "published": "2026-04-29T12:39:59+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Download: storing nuclear waste and orchestrating agents",
+   "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is th...",
+   "published": "2026-04-29T12:10:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "The Download"
+   ],
+   "image": ""
+  },
+  {
+   "title": "5 ways your Windows updates are about to get a lot less painful",
+   "url": "https://www.zdnet.com/article/your-windows-update-experience-is-about-to-get-less-painful/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Microsoft wants to fix 'pain points' in Windows 11 PCs. The first batch of changes, targeting the Windows Update experience, is hitting Insider preview channels and coming soon to your desktop.",
+   "published": "2026-04-29T12:09:04+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Counterpoint：到 2030 年，预计近半数智能手机将支持卫星连接",
+   "url": "https://www.ithome.com/0/945/198.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，北京时间 4 月 29 日（今天）晚间，Counterpoint Research 发布最新报告显示，智能手机卫星连接 正在进入真正的增长阶段 。到 2030 年，全球智能手机出货量中，预计将有 46% 的设备支持非地面网络（NTN）。 短期来看，市场主要会由各厂商自己的专有方案推动，因为 3GPP NTN 在芯片准备、运营商认证和服务成熟度上仍有不少问题要解决。 苹果是第一个把卫星连接带到主流智能手机上的品牌。2022 年，苹果与 Globalstar 合作，在 iPhone 14 上推出相关功能。亚马逊最近收购 Globalstar 后，不仅立刻获得了更大规...",
+   "published": "2026-04-29T12:02:42+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "寒武纪 2026 年一季度净利润 10.13 亿元，同比增长 185.04%",
+   "url": "https://www.ithome.com/0/945/197.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，寒武纪今日发布 2026 年一季度报告： 营业总收入 ： 28.85 亿元，同比增长 159.56% 归母净利润 ： 10.13 亿元，同比增长 185.04% 扣非净利润 ： 9.34 亿元，同比增长 238.56% 经营现金流 ： 8.34 亿元，同比不适用 基本每股收益 ： 2.40 元 / 股，同比增长 182.35% 稀释每股收益 ： 2.38 元 / 股，同比增长 180.00% 加权平均净资产收益率 ： 8.20%，同比增加 1.88 个百分点 🤖 AI 解读 中科寒武纪 2026 年第一季度业绩呈现大幅增长，受益于人工智能行业算力需求持续攀升， ...",
+   "published": "2026-04-29T12:02:21+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI looms over earnings from tech hyperscalers",
+   "url": "https://www.cnbc.com/2026/04/29/openai-looms-over-earnings-from-tech-hyperscalers.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Amazon, Alphabet, Meta and Microsoft report quarterly results after the bell, and OpenAI is likely to be a big topic across the board.",
+   "published": "2026-04-29T12:00:02+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "qdc 推出 FSF 瞬界耳机：单动圈专利声学架构、Multitube 双路滤波技术，599 元",
+   "url": "https://www.ithome.com/0/945/196.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，qdc 旗下 FSF 子品牌在今天的直播活动中正式推出了“瞬界”有线 Hi-Fi 耳机， 定价为 599 元 ，购买晒单赠送 FSF 瞬 IP 马口铁牌和人物立牌。 京东 FSF 瞬界 券后 599 元 领 200 元券 该耳机搭载 qdc 定制单动圈专利声学架构，采用双磁路双腔体喇叭设计，同时引入 Multitube 双路滤波及分频专利技术，兼顾电竞与 ACG（动画、漫画、游戏）场景。此外耳机支持 AI 降噪与一键闭麦，搭载 USB-A 转 USB-C 1.5m 延长线，兼容全场景使用。 IT之家附产品参数：",
+   "published": "2026-04-29T11:57:14+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "京东方 2026 年一季度净利润 17.07 亿元，同比增长 5.78%",
+   "url": "https://www.ithome.com/0/945/195.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 4 月 29 日消息，京东方今日发布 2026 年一季度报告： 营业总收入 ： 510.01 亿元，同比增长 0.80% 归母净利润 ： 17.07 亿元，同比增长 5.78% 扣非净利润 ： 14.38 亿元，同比增长 6.38% 经营现金流 ： 122.99 亿元，同比下降 10.51% 基本每股收益 ： 0.05 元 / 股，同比增长 25.00% 稀释每股收益 ： 0.05 元 / 股，同比增长 25.00% 加权平均净资产收益率 ： 1.26%，同比增长 0.05% 🤖 AI 解读 京东方 2026 年第一季度实现 营业收入 510.01 亿元 ，较上年同期增长 0.80%...",
+   "published": "2026-04-29T11:55:54+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Is Meta's AI spending blitz working? The stock's next move depends on the answer",
+   "url": "https://www.cnbc.com/2026/04/29/is-metas-ai-spending-working-the-stocks-next-move-depends-on-answer.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "The market lately hasn't known quite how to digest Meta's ambitious plans.",
+   "published": "2026-04-29T11:09:28+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+   "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+   "source": "Ars Technica",
+   "platform": "arstechnica",
+   "summary": "Security firms find themselves especially exposed.",
+   "published": "2026-04-29T11:00:24+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Biz & IT",
+    "Security",
+    "bitwarden",
+    "checkmarx",
+    "supply chain attacks"
+   ],
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
+  },
+  {
+   "title": "China freezes new robotaxi licenses after Baidu chaos",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Baidu ground to a halt in traffic last month in Wuhan, creating chaos. The restrictions will prevent co...",
+   "published": "2026-04-29T10:39:21+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "AI",
+    "Autonomous Cars",
+    "News",
+    "Transportation"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The best VPN services for iPhone in 2026: Expert tested and reviewed",
+   "url": "https://www.zdnet.com/article/best-iphone-vpn/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Your iPhone content and web activities say a lot about you. Use one of our top tried-and-tested VPNs to keep your information private and to boost your online security.",
+   "published": "2026-04-29T10:01:28+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Amazon Prime Day 2026 is likely coming earlier. Here's everything to know so far",
+   "url": "https://www.zdnet.com/article/amazon-prime-day-2026-faq/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Amazon's summer Prime Day event is on its way, but it may not be in July. Here's what you need to know right now.",
+   "published": "2026-04-29T10:01:01+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I've Covered Robots for Years. This One Is Different",
+   "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
+   "published": "2026-04-29T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "The Big Story",
+    "Business",
+    "Business / Artificial Intelligence",
+    "longreads",
+    "robots"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp",
+   "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+   "published": "2026-04-29T09:45:00+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "AI",
+    "Robotics",
+    "defense tech",
+    "Exclusive",
+    "Scout AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meta found in breach of EU law for failing to keep children off platforms",
+   "url": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Commission says tech company does not have effective measures to keep under-13s off Facebook and Instagram The tech company Meta has been found to be in breach of EU law for failing to prevent children under 13 from using its Facebook and Instagram platforms. Issuing the preliminary findings of a ne...",
+   "published": "2026-04-29T09:29:46+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Meta",
+    "Technology",
+    "European Commission",
+    "Europe",
+    "European Union"
+   ],
+   "image": "https://i.guim.co.uk/img/media/580e118ca92b60e6f4d6629cc057c7f4cf7e9a3d/1069_721_4099_3279/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=d9240bf9aeabfd223fb408bac020ceda"
+  },
+  {
+   "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
+   "url": "https://www.qbitai.com/2026/04/411205.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "The Magic X 全球具身智能创新大会在美国硅谷成功举办。",
+   "published": "2026-04-29T09:08:25+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "斑陌易行",
+    "无人车"
+   ],
+   "image": ""
+  },
+  {
+   "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
+   "url": "https://www.qbitai.com/2026/04/411184.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "",
+   "published": "2026-04-29T09:02:24+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meet the AI jailbreakers: ‘I see the worst things humanity has produced’",
+   "url": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation – and can come at a deep emotional cost A few months ago, Valen Tagliabue sat in his hotel room watching his chatbot, and felt euphoric. He had jus...",
+   "published": "2026-04-29T09:00:51+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Computing",
+    "Technology",
+    "Hacking",
+    "Psychology"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2949148e336e674f2e09726de8ef65290db36336/1460_1199_4446_3557/master/4446.jpg?width=140&quality=85&auto=format&fit=max&s=85834f1b84eaa97761756b6fba0d2b2c"
+  },
+  {
+   "title": "The best Apple TV VPNs of 2026: Expert tested and reviewed",
+   "url": "https://www.zdnet.com/article/best-apple-tv-vpns/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Setting up a VPN on your Apple TV can be a nuisance, but with one of our top Apple TV VPNs, setup and streaming will take mere moments.",
+   "published": "2026-04-29T09:00:48+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
+   "url": "https://www.qbitai.com/2026/04/411186.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "无需联网，下载即可直接在手机本地运行",
+   "published": "2026-04-29T09:00:30+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "资讯",
+    "开源",
+    "腾讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "How AI Could Help Combat Antibiotic Resistance",
+   "url": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
+   "published": "2026-04-29T09:00:00+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "Science",
+    "medicine",
+    "artificial intelligence",
+    "health",
+    "antibiotics"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Major data center company pauses investment decisions in Middle East amid Iran war, CEO tells CNBC",
+   "url": "https://www.cnbc.com/2026/04/29/oaktree-owned-pure-dc-investment-decisions-gulf-data-centers.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Regional uncertainty hangs over the previously booming AI infrastructure and data center sector in the region.",
+   "published": "2026-04-29T07:04:52+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "移动端 Agent 的井喷或许近在眼前：以 ColorOS 抛砖引玉",
+   "url": "https://sspai.com/post/109062",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "我觉得手机 AI 再次爆发式发展的时间节点已经不远了，应用与安卓的底层权限开放像是 MCP，而基于自动操作的积木像是 Skills，配合不断增强的端侧模型，或许能让 GUI Agent 更进一步。 查看全文",
+   "published": "2026-04-29T07:00:00+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+   "url": "https://www.qbitai.com/2026/04/411133.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "“全球最强开源”的含金量还在上升",
+   "published": "2026-04-29T06:56:15+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "Kimi"
+   ],
+   "image": ""
+  },
+  {
+   "title": "In the coming AI future, Britain must not end up at the mercy of US tech giants | Rafael Behr",
+   "url": "https://www.theguardian.com/commentisfree/2026/apr/29/ai-panic-uk-government-us-dependent-technology-trump",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Trump is volatile, capricious and unreasonable – but he belongs to the old world of analogue power. What comes next will be harder to manage Donald Trump is not impressed by soft power. He respects hard men with military muscle. But he can be moved by pageantry, which is the purpose of King Charles’...",
+   "published": "2026-04-29T05:00:46+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "Politics",
+    "AI (artificial intelligence)",
+    "Donald Trump",
+    "Technology",
+    "Liz Kendall"
+   ],
+   "image": "https://i.guim.co.uk/img/media/e829da2cd271c7a1fe2c709fc77c88046c46185f/592_91_4476_3580/master/4476.jpg?width=140&quality=85&auto=format&fit=max&s=0bb65f20d6bda46e2e0fbc5cf14d023d"
+  },
+  {
+   "title": "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+   "url": "https://www.qbitai.com/2026/04/410937.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "全网开源，即刻可用",
+   "published": "2026-04-29T04:27:03+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "AIGC",
+    "商汤科技",
+    "多模态"
+   ],
+   "image": ""
+  },
+  {
+   "title": "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道",
+   "url": "https://www.qbitai.com/2026/04/410791.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "记忆才是AI最大瓶颈，智能体只是权宜之计",
+   "published": "2026-04-29T04:20:49+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "AI",
+    "世界模型",
+    "人工智能"
+   ],
+   "image": ""
+  },
+  {
+   "title": "百度GenFlow 4.0发布，Office三件套全包了，还能养「牛马虾」",
+   "url": "https://www.qbitai.com/2026/04/410738.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "十分钟干完一周活",
+   "published": "2026-04-29T04:12:02+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "AI",
+    "AIGC",
+    "人工智能",
+    "百度"
+   ],
+   "image": ""
+  },
+  {
+   "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+   "url": "https://www.qbitai.com/2026/04/410772.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "GPT-5.5马上也能用了",
+   "published": "2026-04-29T04:10:59+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "AWS",
+    "GPT-5.5",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "众测｜邀你一同探索随身 AI 硬件入口 YoooClaw C·ONE",
+   "url": "https://sspai.com/post/109207",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "现在AI工具正在从「能回答问题」逐渐走向「能替你完成事情」。我们不再只满足于打开一个App、输入一段提示词、等待一次回复，而是希望AI能理解我们的上下文，知道我们正在处理什么信息，并在合适的时候主动帮 ... 查看全文",
+   "published": "2026-04-29T03:34:17+00:00",
+   "age_label": "20小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Pentagon AI chief confirms DOD's expanded use of Google, says reliance on one model 'never a good thing'",
+   "url": "https://www.cnbc.com/2026/04/28/pentagon-ai-chief-confirms-work-with-google-after-anthropic-blacklist.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "The Pentagon's AI chief discussed the DOD's expanded use of Google Gemini after the blacklisting of Anthropic.",
+   "published": "2026-04-29T03:17:35+00:00",
+   "age_label": "20小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "吨级重载新纪元开启｜大咖机器人全球首发“吨级重载机器马”",
+   "url": "https://www.qbitai.com/2026/04/410732.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "覆盖安防巡检、消防救援、工程基建、智能物流、民生养老、个人出行等六大核心场景",
+   "published": "2026-04-29T03:06:21+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "大咖机器人",
+    "重载机器人"
+   ],
+   "image": ""
+  },
+  {
+   "title": "银河通用LDA定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
+   "url": "https://www.qbitai.com/2026/04/410653.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "开启具身规模化时代",
+   "published": "2026-04-29T02:23:06+00:00",
+   "age_label": "21小时前",
+   "tags": [
+    "资讯",
+    "首页轮播"
+   ],
+   "image": ""
+  },
+  {
+   "title": "At his OpenAI trial, Musk relitigates an old friendship",
+   "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+   "published": "2026-04-29T00:40:16+00:00",
+   "age_label": "23小时前",
+   "tags": [
+    "AI",
+    "Elon Musk",
+    "Google",
+    "In Brief",
+    "Larry Page"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
+   "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "“Never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,” reads OpenAI’s coding agent instructions.",
+   "published": "2026-04-28T23:45:05+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "OpenAI",
+    "artificial intelligence",
+    "coding"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Can AI outperform doctors? Experts weigh the pros and cons",
+   "url": "https://www.cnbc.com/2026/04/29/can-ai-outperform-doctors-insilico-medicine-biocon-ceos-weigh-in.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "One CEO said people should be using AI to understand their health much more than they already do.",
+   "published": "2026-04-28T23:16:54+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Jim Cramer is unfazed by Tuesday's sell-off: 'You should expect them, even hope for them'",
+   "url": "https://www.cnbc.com/2026/04/28/jim-cramer-is-unfazed-by-tuesdays-sell-off-we-want-it.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC's Jim Cramer said he's unfazed by Tuesday's sell-off because that's exactly what the market needs when stocks rise too fast.",
+   "published": "2026-04-28T22:20:23+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
+   "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
+   "published": "2026-04-28T21:35:17+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Model Behavior",
+    "artificial intelligence",
+    "Elon Musk"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meta's new AI model shows early promise, but investors want to see Zuckerberg's strategy",
+   "url": "https://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Meta introduced its new AI model at the beginning of the second quarter, so Mark Zuckerberg's commentary about the future will be key during earnings.",
+   "published": "2026-04-28T20:04:57+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "刚刚，DeepSeek大更新，终于「开眼」了",
+   "url": "https://36kr.com/p/3788474106715144",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Sam Altman 和 AWS CEO 罕见同框：聊了智能体、harness、和云的下一仗",
+   "url": "https://36kr.com/p/3788478874754307",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "给光一个机会",
+   "url": "https://36kr.com/p/3788527685147648",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "银河通用拉着英伟达，把人形机器人最大的谎言拆穿了",
+   "url": "https://36kr.com/p/3788530761325831",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "别急着All-in DeepSeek V4，先看看这10位从业者的真心话",
+   "url": "https://36kr.com/p/3788151000751364",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI模型和Agent创新，倒逼AI Infra产生了哪些创业机会？",
+   "url": "https://36kr.com/p/3787679275441413",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "为什么我们迟迟用不上AI手机？",
+   "url": "https://36kr.com/p/3787695543770374",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI时代，“10后”沉迷于捡“电子垃圾”",
+   "url": "https://36kr.com/p/3787680750296070",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "靠补贴扭亏为盈？摩尔线程仍需打“硬仗”",
+   "url": "https://36kr.com/p/3787680120069384",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达全模态大模型来了，几秒搞定老黄3分钟演讲，吞吐量同类9倍",
+   "url": "https://36kr.com/p/3787677070417161",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI对话框成“赛博魅魔”：它越懂你，为什么越危险？",
+   "url": "https://36kr.com/p/3787649311732225",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "是时候讨论“人类配额制”了：应对AI就业冲击的一种可能性探讨",
+   "url": "https://36kr.com/p/3787647641918724",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "银行系AIC 2025年业绩全景：五大行“吸金”184亿，股份行新军高调入场，总资产超6400亿",
+   "url": "https://36kr.com/p/3787639718665217",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Altman 投的 Agent 终端 Warp 开源了，15小时Star 数飙到3.5万，开源是延长软件寿命的最佳方式",
+   "url": "https://36kr.com/p/3787635096329472",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "PCB何以成为AI竞赛的隐形战场？（三）",
+   "url": "https://36kr.com/p/3787572092777222",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
