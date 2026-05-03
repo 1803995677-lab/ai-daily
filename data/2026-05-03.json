@@ -1,0 +1,229 @@
+{
+ "date": "2026-05-03",
+ "generated_at": "2026-05-03 08:00",
+ "total": 16,
+ "sources": [
+  "36氪 AI",
+  "MIT Tech Review"
+ ],
+ "summary": {
+  "overview": "今日共采集 16 篇 AI 相关资讯（国内 15 篇，海外 1 篇）。热门话题集中在：大模型发布、AI Agent。最受关注：「Musk v. Altman week 1: Elon Mu...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[MIT Tech Review]** Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models — In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 苹果悄悄砍掉丐版Mac mini，人人都要交「AI 税」的时代来了"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 在硅谷，中美具身公司聊了聊了4个问题的解法"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 又一算力独角兽，冲击IPO"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 那个在OpenAI修中文的人"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 续集没翻车 ，但这次“女魔头”也顶不住了"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[36氪 AI]** 马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。",
+  "raw_text": "[智能提取摘要] 基于 16 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+   "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat throu...",
+   "published": "2026-05-01T22:08:19+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Artificial intelligence",
+    "App"
+   ],
+   "image": ""
+  },
+  {
+   "title": "苹果悄悄砍掉丐版Mac mini，人人都要交「AI 税」的时代来了",
+   "url": "https://36kr.com/p/3792125638352134",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+   "url": "https://36kr.com/p/3792155815304450",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "又一算力独角兽，冲击IPO",
+   "url": "https://36kr.com/p/3791796527602951",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+   "url": "https://36kr.com/p/3791662444911617",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "那个在OpenAI修中文的人",
+   "url": "https://36kr.com/p/3791622190854916",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI抢走了你的内存条",
+   "url": "https://36kr.com/p/3791556962972417",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "续集没翻车 ，但这次“女魔头”也顶不住了",
+   "url": "https://36kr.com/p/3791555958922504",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+   "url": "https://36kr.com/p/3791460373929221",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI时代有自己的“手势舞”",
+   "url": "https://36kr.com/p/3790774863884802",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek给AI装了根赛博手指，于是它能看见了",
+   "url": "https://36kr.com/p/3790047344488961",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "职场残酷预演：当AI学会自动进化，初级人才的生存空间正被“200小时智能体”挤压殆尽",
+   "url": "https://36kr.com/p/3748263885914880",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "龙虾热潮退去，Mac mini养虾户现状：有人退坑，有人换了「爱马仕」",
+   "url": "https://36kr.com/p/3789244139450880",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek多模态技术范式公布，以视觉原语思考",
+   "url": "https://36kr.com/p/3789208597372165",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "当大家都用AI获取信息，我开始担心小红书搜索",
+   "url": "https://36kr.com/p/3789199849888775",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "北京车展观察：AI在抢方向盘",
+   "url": "https://36kr.com/p/3789174609140739",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
