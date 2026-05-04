@@ -1,0 +1,570 @@
+{
+ "date": "2026-05-04",
+ "generated_at": "2026-05-04 08:00",
+ "total": 41,
+ "sources": [
+  "36氪 AI",
+  "TechCrunch AI",
+  "ZDNet AI",
+  "InfoQ 中文",
+  "量子位",
+  "36氪",
+  "The Guardian Tech",
+  "The Verge AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 41 篇 AI 相关资讯（国内 25 篇，海外 16 篇）。热门话题集中在：大模型发布、AI Agent、开源与社区、AI 监管与政策。最受关注：「How the internet’s favorite sq...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** How the internet’s favorite squirrel dad made the hottest camera app of 2026 — It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App "
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 韩国政府将向AI初创公司Upstage投资5600亿韩元 — 韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[量子位]** 突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练 — 与全球社区共同推动具身智能创新"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 网信部门严管“自媒体”未规范标注信息来源行为 — 近期，一些“自媒体”账号在发布涉时政等领域信息时，未规范标注信息来源，误导公众认知，破坏网络生态。主要情形包括未标注国内外时事、公共政策、社会事件的信息来源，未标注AI生成标识，未标注虚构演绎标签。网信部门督促网站平台深入自查自纠，依法依约处置违规账号9.8万余个。"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[InfoQ 中文]** Sauce Labs 推出 AI 智能体，实现测试创建自动化"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** CTO不香了？百亿公司高管们为何集体转身，去Anthropic当工程师"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** ‘This is fine’ creator says AI startup stole his art — The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors — A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one mode"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI Agent、开源与社区展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 41 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "直播出问题，AI 不一定救得了：Netflix 的新解法",
+   "url": "https://www.infoq.cn/article/I34jAMiF0VAqVcDNxE87?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-04T08:00:00+00:00",
+   "age_label": "-479分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "‘This is fine’ creator says AI startup stole his art",
+   "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+   "published": "2026-05-03T20:16:51+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "artisan",
+    "kc green"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I compared this premium Linux laptop to my MacBook Pro - it won in surprising ways",
+   "url": "https://www.zdnet.com/article/tuxedo-infinitybook-max-15-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The latest Tuxedo InfinityBook Max 15 is an impressive Linux machine for everyday use, but it's not necessarily the best option for professionals.",
+   "published": "2026-05-03T19:00:46+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+   "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+   "published": "2026-05-03T18:00:09+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Biotech & Health",
+    "beth israel",
+    "harvard medical school",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I tested ChatGPT and Perplexity AI as my CarPlay voice assistants - both made Siri look bad",
+   "url": "https://www.zdnet.com/article/chatgpt-perplexity-ai-carplay-voice-assistant/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Both ChatGPT and Perplexity can answer questions and provide help that's well beyond Siri's capabilities. But which one is better when driving?",
+   "published": "2026-05-03T17:00:45+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names",
+   "url": "https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "People shamed and ordered to leave shops after being misidentified then ‘given no help’ to investigate verdicts AI facial recognition oversight lagging far behind technology, watchdogs warn How does live facial recognition work and how many police forces use it? When Ian Clayton, a retired health an...",
+   "published": "2026-05-03T16:00:01+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Facial recognition",
+    "Technology",
+    "Retail industry",
+    "Race",
+    "Business"
+   ],
+   "image": "https://i.guim.co.uk/img/media/b6037a905390b66257076124ebf69f75ea027501/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=19a01de2b6e61ef409495343cf931724"
+  },
+  {
+   "title": "Fashion’s Faustian pact: the high cost of Jeff Bezos’s Met Gala patronage",
+   "url": "https://www.theguardian.com/fashion/2026/may/03/met-gala-jeff-bezos-art-fashion-new-york",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Billionaire’s role as honorary chair and main source of funding has led to boycotts and criticism event has lost its cachet The Met Gala in New York is the grandest and ritziest event in the fashion calendar, and an indicator of the growing ties between designers, celebrity and power. But with tech ...",
+   "published": "2026-05-03T14:22:49+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "Met Gala 2026",
+    "Met Gala",
+    "Fashion",
+    "Celebrity",
+    "Jeff Bezos"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2531cec756d53c67c34647fe8bf6b9f2bc6c24d0/500_140_2907_2325/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=a61423a85254f18cf48cb2de7bed9760"
+  },
+  {
+   "title": "I setup a $4 router reboot timer, and it's made my internet reliably faster",
+   "url": "https://www.zdnet.com/article/router-rebooter-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I've tried so many methods to reboot my router, but the best solution costs barely anything.",
+   "published": "2026-05-03T14:00:39+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
+   "url": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-03T13:41:35+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Sauce Labs 推出 AI 智能体，实现测试创建自动化",
+   "url": "https://www.infoq.cn/article/8k6MQWB5duEDY8wulZYk?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-03T13:37:48+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "构建分层的Agentic RAG系统：具备自主纠错的多模态推理",
+   "url": "https://www.infoq.cn/article/zx2KoLNl2bz0zh8TuCZd?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-03T13:24:35+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I upgraded my Bluetooth speakers instead of replacing them - 5 creative ways",
+   "url": "https://www.zdnet.com/article/5-ways-to-upgrade-bluetooth-speakers-instead-of-replacing-them/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "You don't have to shell out hundreds (or thousands) of dollars on smart speakers for a robust home entertainment setup.",
+   "published": "2026-05-03T13:00:45+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+   "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a […]",
+   "published": "2026-05-03T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI",
+    "Apple",
+    "Apps",
+    "iPhone",
+    "Mobile"
+   ],
+   "image": ""
+  },
+  {
+   "title": "A common charging habit was quietly killing my iPhone's battery - here's the fix",
+   "url": "https://www.zdnet.com/article/i-stopped-common-charging-habit-killing-iphone-battery/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "By charging my iPhone at one particular spot, I was damaging my battery and shortening its lifespan. Here's what I do now to avoid that.",
+   "published": "2026-05-03T12:00:41+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI music is flooding streaming services — but who wants it?",
+   "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started The use of g...",
+   "published": "2026-05-03T12:00:00+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "AI",
+    "Column",
+    "Streaming",
+    "The Stepback"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Will human minds still be special in an age of AI?",
+   "url": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the point Until recently, we humans have been able to be smug about our abilities. No other animals play boardgames, write essays or prove mathematical theorems. But lately, progress in AI seems as thou...",
+   "published": "2026-05-03T11:00:54+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "Books",
+    "Culture",
+    "AI (artificial intelligence)",
+    "Technology"
+   ],
+   "image": "https://i.guim.co.uk/img/media/0f14734ba6dba29af4b6b22ed3f15595608f4871/459_0_2935_2348/master/2935.jpg?width=140&quality=85&auto=format&fit=max&s=d3ed56a9d572708bea334e0ed64d33b8"
+  },
+  {
+   "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+   "url": "https://www.qbitai.com/2026/05/412080.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "瓜多到吃不完",
+   "published": "2026-05-03T09:43:20+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "不好！1930年的AI都来抢程序员饭碗了",
+   "url": "https://www.qbitai.com/2026/05/412896.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "完全无需互联网数据",
+   "published": "2026-05-03T09:42:55+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "GPT之父",
+    "talkie-1930-13b",
+    "微调"
+   ],
+   "image": ""
+  },
+  {
+   "title": "韩国政府将向AI初创公司Upstage投资5600亿韩元",
+   "url": "https://36kr.com/newsflashes/3793154827000832?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "韩国金融监管部门周日表示，已批准向韩国本土人工智能（AI）初创公司Upstage投资5600亿韩元（约合3.806亿美元），这是韩国国家增长基金的第二笔直接投资。韩国金融服务委员会（FSC）称，该决定已于周四举行的基金审议委员会会议上获得批准。Upstage成立于2020年，是一家估值超过1万亿韩元的独角兽初创公司，致力于开发人工智能解决方案和大型语言模型（LLM）。该公司是继Rebellions之后，第二家获得该政策基金投资的企业。",
+   "published": "2026-05-03T09:00:29+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI chatbot fraud: the ‘gift card’ subcription that may cost you dear",
+   "url": "https://www.theguardian.com/money/2026/may/03/ai-claude-chatbot-gift-card-subcription-scam-mystery-payments",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "After subscribing to the Claude chatbot, mystery payments started to appear on one family’s credit card bill. They are not alone David Duggan* was so impressed with the ability of the Claude chatbot to answer medical questions and organise family life, that a $20-a-month (£15) subscription seemed li...",
+   "published": "2026-05-03T06:00:46+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "Scams",
+    "Consumer affairs",
+    "Money",
+    "AI (artificial intelligence)",
+    "Computing"
+   ],
+   "image": "https://i.guim.co.uk/img/media/3e05c557bf9e577d8536090632b8d3ad671efbf3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3e667ef699cb0e62c168e7ad4d3a8593"
+  },
+  {
+   "title": "网信部门严管“自媒体”未规范标注信息来源行为",
+   "url": "https://36kr.com/newsflashes/3792999844338951?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近期，一些“自媒体”账号在发布涉时政等领域信息时，未规范标注信息来源，误导公众认知，破坏网络生态。主要情形包括未标注国内外时事、公共政策、社会事件的信息来源，未标注AI生成标识，未标注虚构演绎标签。网信部门督促网站平台深入自查自纠，依法依约处置违规账号9.8万余个。",
+   "published": "2026-05-03T04:15:48+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+   "url": "https://www.qbitai.com/2026/05/412870.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "与全球社区共同推动具身智能创新",
+   "published": "2026-05-03T03:56:44+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek V4最大的遗憾",
+   "url": "https://www.qbitai.com/2026/05/412737.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "Engram去哪了？",
+   "published": "2026-05-03T03:43:37+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "首页轮播"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Why I own 4 different pairs of headphones, and how I effectively use each one",
+   "url": "https://www.zdnet.com/article/why-i-own-4-different-pairs-of-headphones/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "While a true 'all-in-one' pair of headphones may not exist for every user, these four come pretty close.",
+   "published": "2026-05-03T01:01:07+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I enabled Data Saver mode on my Android phone to avoid overcharges - and it's a big relief",
+   "url": "https://www.zdnet.com/article/how-to-enable-android-data-saver-mode-and-why/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Android makes it easy for me to manage my data use and prevent it from exceeding my plan's limit. Here's how.",
+   "published": "2026-05-03T01:00:49+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI-generated actors and scripts are now ineligible for Oscars",
+   "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Bad news for Tilly Norwood.",
+   "published": "2026-05-02T21:54:58+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Media & Entertainment",
+    "academy awards",
+    "academy of motion picture arts and sciences"
+   ],
+   "image": ""
+  },
+  {
+   "title": "CTO不香了？百亿公司高管们为何集体转身，去Anthropic当工程师",
+   "url": "https://36kr.com/p/3793138446179585",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 大模型的「中文税」：中文比英文更费 Token，为什么？",
+   "url": "https://36kr.com/p/3793050208984071",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "假期出游，我被AI坑惨了",
+   "url": "https://36kr.com/p/3792852142923008",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "硅谷大厂的AI“含金量”开始分级",
+   "url": "https://36kr.com/p/3792866879085830",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克：大多数加密货币都是骗局",
+   "url": "https://36kr.com/p/3792902763240449",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果悄悄砍掉丐版Mac mini，人人都要交「AI 税」的时代来了",
+   "url": "https://36kr.com/p/3792125638352134",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+   "url": "https://36kr.com/p/3792155815304450",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "又一算力独角兽，冲击IPO",
+   "url": "https://36kr.com/p/3791796527602951",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+   "url": "https://36kr.com/p/3791662444911617",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "那个在OpenAI修中文的人",
+   "url": "https://36kr.com/p/3791622190854916",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI抢走了你的内存条",
+   "url": "https://36kr.com/p/3791556962972417",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "续集没翻车 ，但这次“女魔头”也顶不住了",
+   "url": "https://36kr.com/p/3791555958922504",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克翻车了！一边告OpenAI，一边偷偷蒸馏ChatGPT",
+   "url": "https://36kr.com/p/3791460373929221",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI时代有自己的“手势舞”",
+   "url": "https://36kr.com/p/3790774863884802",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek给AI装了根赛博手指，于是它能看见了",
+   "url": "https://36kr.com/p/3790047344488961",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
