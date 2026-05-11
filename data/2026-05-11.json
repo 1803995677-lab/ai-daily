@@ -1,0 +1,808 @@
+{
+ "date": "2026-05-11",
+ "generated_at": "2026-05-11 08:00",
+ "total": 65,
+ "sources": [
+  "Hacker News",
+  "36氪",
+  "TechCrunch AI",
+  "ZDNet AI",
+  "The Guardian Tech",
+  "量子位",
+  "36氪 AI",
+  "CNBC Tech",
+  "IT之家",
+  "NVIDIA Blog",
+  "InfoQ 中文"
+ ],
+ "summary": {
+  "overview": "今日共采集 65 篇 AI 相关资讯（国内 26 篇，海外 39 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI 应用与商业化、AI Agent。最受关注：「马斯克入局 AI 编程赛道：SpaceXAI 桌面编程应用 ...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 马斯克入局 AI 编程赛道：SpaceXAI 桌面编程应用 Grok Build 曝光 — IT之家 5 月 10 日消息，xAI 近期已更名为 SpaceXAI，消息称该公司即将推出桌面端编程应用 Grok Build。今日，Grok 网页端意外出现一个“Grok 计算机”按钮，短暂曝光了这款应用的存在。 该控件原本可供用户在 Grok 计算机文件夹与谷歌云端硬盘之间进行选择，但这项底层"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 古尔曼：苹果 iOS / macOS 27 的 Safari 浏览器将引入 AI 自动整理标签页功能 — IT之家 5 月 10 日消息，Safari 浏览器大概率将在苹果全球开发者大会（WWDC）上迎来新功能，用户能更轻松地创建标签组。适配 27 系列操作系统的 Safari 浏览器测试版，将借助人工智能自动为用户整理归类标签页。 IT之家注意到，苹果早在 2021 年的 Safari 15 版本中就"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 零一万物回应赴港股上市传闻：对资本层面规划保持开放且审慎的态度 — IT之家 5 月 10 日消息，近日，有传闻称大模型创企零一万物正在进行 Pre-IPO 融资，筹划港股上市。对此，零一万物回应《科创板日报》记者称，“关于资本层面的具体规划，我们始终保持开放且审慎的态度，目前暂无更多可披露的信息，如有确切进展，我们将第一时间告知大家。” IT之家从公开资料获悉，零"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发 — 作者｜黄楠 编辑｜袁斯来 硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 苹果A20Pro将迎来两大升级 — 据行业爆料，苹果A20 Pro将迎来两大核心升级。首先在制程工艺上，这款芯片将采用台积电最新的2nm工艺。从现有3nm制程升级至2nm，意味着在芯片尺寸基本不变的前提下，A20 Pro能够实现更强性能输出，同时运行能效大幅提升。 其次，A20 Pro还将首次引入WMCM先进封装工艺。这也是苹果首度在"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[Hacker News]** Maryland citizens hit with $2B power grid upgrade for out-of-state AI — Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[IT之家]** IT早报 0511：央视揭秘新能源汽车“锁电”真相；曝阿里巴巴将深度整合千问与淘宝；哈啰回应“脚踩门”调查最新进展；微信转账灰度测试“组合支付”... — “IT早报”时间，大家好，现在是 2026 年 5 月 11 日星期一，今天的重要科技资讯有： 1、系统 OTA 升级后续航从 500km 变 300km？央视揭秘新能源汽车“锁电”真相 央视报道揭露新能源车“锁电”现象，车主反映 OTA 升级后续航大幅下降、充电变慢。车企此举或为降低质保成本、规避"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI 应用与商业化展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 65 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "泉果基金杜凡：本轮科技变革的量级有望超越以往的互联网浪潮",
+   "url": "https://36kr.com/newsflashes/3804124173295368?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "在AI浪潮持续演进的背景下，科技投资再度成为市场核心主线。从算力基建到应用落地，从半导体国产替代到先进制造升级，科技产业正不断孕育新的投资机遇。作为长期深耕科技领域的基金经理，泉果基金杜凡先后亲历移动互联网、云计算、4G/5G通信技术迭代，以及当前全面展开的AI革命。在他看来，本轮科技变革的量级有望超越以往的互联网浪潮。“从产业一线感知，我们仿佛正面对一堵陡然竖立的高墙，虽难以准确预判其最终高度，但向上的趋势是清晰而确定的。”杜凡在接受记者采访时表示。（证券时报）",
+   "published": "2026-05-10T23:55:13+00:00",
+   "age_label": "5分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达黄仁勋最新演讲：应届生们别怕 AI，当下是开启事业的最佳时机",
+   "url": "https://www.ithome.com/0/948/566.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 11 日消息，据《商业内幕》今天报道，英伟达创始人兼 CEO 黄仁勋最近出席卡内基梅隆大学 2026 年毕业典礼演讲，强调 AI 将为人类整体带来积极影响， 即将走出校园 、 踏入职场的应届生们也将受惠于 AI 。 ▲ 黄仁勋，图源：英伟达 他在演讲中表示：“现在是你们实现梦想、开启职业生涯的时候，而这个时代再合适不过了”。 黄仁勋现年 61 岁，身价接近 1860 亿美元（IT之家注：现汇率约合 1.27 万亿元人民币）。他 1984 年毕业于俄勒冈州立大学电气工程专业，随后又在斯坦福大学获得电子工程学硕士学位。 1993 年黄仁勋创立英伟达，正值互联网革命兴起之际。 他告...",
+   "published": "2026-05-10T23:51:11+00:00",
+   "age_label": "9分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果A20Pro将迎来两大升级",
+   "url": "https://36kr.com/newsflashes/3804119505870340?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "据行业爆料，苹果A20 Pro将迎来两大核心升级。首先在制程工艺上，这款芯片将采用台积电最新的2nm工艺。从现有3nm制程升级至2nm，意味着在芯片尺寸基本不变的前提下，A20 Pro能够实现更强性能输出，同时运行能效大幅提升。 其次，A20 Pro还将首次引入WMCM先进封装工艺。这也是苹果首度在iPhone处理器上落地该项技术，其核心逻辑是在晶圆切割之前，就完成SoC、内存等多芯片的垂直堆叠与电路互联，整体整合完毕后再切割为独立芯片，具备无中介层、互联距离短、集成度拉满的特点。（新浪财经）",
+   "published": "2026-05-10T23:50:28+00:00",
+   "age_label": "9分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "A股“红五月”格局有望延续，聚焦科技、资源两大景气方向",
+   "url": "https://36kr.com/newsflashes/3804113111326470?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "“五一”假期后A股市场迎来“开门红”，其中“双创指数”强势领涨，创业板指上周上涨3.24%，科创50指数上涨4.42%。展望后市，券商研报判断，5月A股有望延续震荡向上格局，短期市场或因前期累积涨幅较大，出现小幅休整，但难以改变中期上行的核心趋势。综合来看，受益于全球AI算力需求爆发及一季度业绩兑现，A股科技与资源两大高景气主线得到进一步确认。（上证报）",
+   "published": "2026-05-10T23:43:58+00:00",
+   "age_label": "16分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称雷克沙存储卡产品 6 月 1 日起涨价，涨幅最高 25%",
+   "url": "https://www.ithome.com/0/948/565.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 11 日消息，据科技媒体 PhotoRumors 昨天报道，目前有传闻称雷克沙将在 6 月 1 日对旗下存储卡产品进行大幅涨价， 涨幅最高 25% 。 此前，LaCie 雷孜、OWC、ProGrade 等品牌已对存储卡、移动固态硬盘等产品进行涨价。 IT之家注意到，从今年起，存储卡等闪存设备价格大幅上涨，主要原因是 AI 热潮推动 NAND 闪存需求暴增，导致市面上的颗粒供不应求。 超大规模数据中心以及 AI 基础设施正在迅速消耗 NAND 库存，导致 NAND 晶圆、合约价格大幅飙升。2026 年第二季度 NAND 合约价格预计环比上涨 70%-75%，今年稍早甚至有部分报...",
+   "published": "2026-05-10T23:28:30+00:00",
+   "age_label": "31分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "偏股混合型基金指数创新高 ，光通信超越“宁组合”抱团力度",
+   "url": "https://36kr.com/newsflashes/3804097314283268?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "时隔五年，偏股混合型基金指数终于再创历史新高。这不仅意味着逾千只主动权益基金的收益率节节高升，而且代表着众多一度深陷泥潭、净值腰斩的基金已经“爬出深坑”，公募基金的主动投资能力再度走向上升通道。然而，此番登顶的推手却“物是人非”，光通信以超越当年“宁组合”的抱团力度站上C位，中际旭创已经取代宁德时代成为主动权益基金第一大重仓股。在偏股混合型基金指数创新高的同时，基金正蜂拥押注以光通信为代表的AI硬件赛道，新一轮极致抱团行情正在上演。（证券时报）",
+   "published": "2026-05-10T23:27:53+00:00",
+   "age_label": "32分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Chrome 浏览器 148 版本删去本地 AI 不上传数据表述，谷歌称处理方式未变",
+   "url": "https://www.ithome.com/0/948/564.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 11 日消息，据 cybernews 昨日报道，谷歌修改了 Chrome 设备端 AI 模型处理数据相关的措辞，但该公司称实际上没有任何改变。 在 Chrome 147 版本中，“设备端 AI”的消息此前显示：为提供诈骗检测等功能，Chrome 可使用直接在设备上运行的 AI 模型。 无需将您的数据发送到谷歌服务器 。如果关闭此设置，这些功能可能无法正常运行。 但在近期推出的 Chrome 148 版本中，这一内容发生了变化，“无需将您的数据发送到谷歌服务器”这一短语被移除了。 ▲ Chrome 148 版本 IT之家注意到，计算机科学家兼律师亚历山大 · 汉夫（Alexan...",
+   "published": "2026-05-10T23:27:01+00:00",
+   "age_label": "33分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "短剧出海爆发式增长，AI译制服务成为行业刚需",
+   "url": "https://36kr.com/newsflashes/3804084482268932?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近两年，海外短剧市场迎来爆发式增长，海外各大短剧应用下载量、用户规模一路飙升，而中国企业已成为这场全球短剧热潮中的核心玩家。公开数据显示，2025年中国出海短剧应用下载量占全球短剧产品下载量的80%以上。不只是应用占据主流，海外热播的短剧内容，亦有相当一部分源自国内成品剧的译制输出。随着短剧出海全面提速，规模化、高效率的译制需求急剧增长，AI译制服务成为行业刚需。“人工每月仅能翻译约10部短剧，成本1500元至3000元/部；而我们的AI译制服务每月可轻松完成超1000部短剧翻译，成本300元至500元/部。效率大幅提升，成本显著降低。”杭州小影创新科技股份有限公司（下称“小影科技”）业务副总...",
+   "published": "2026-05-10T23:25:47+00:00",
+   "age_label": "34分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0511：央视揭秘新能源汽车“锁电”真相；曝阿里巴巴将深度整合千问与淘宝；哈啰回应“脚踩门”调查最新进展；微信转账灰度测试“组合支付”...",
+   "url": "https://www.ithome.com/0/948/562.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 11 日星期一，今天的重要科技资讯有： 1、系统 OTA 升级后续航从 500km 变 300km？央视揭秘新能源汽车“锁电”真相 央视报道揭露新能源车“锁电”现象，车主反映 OTA 升级后续航大幅下降、充电变慢。车企此举或为降低质保成本、规避安全风险，甚至为付费订阅铺路。监管部门已出台禁令，严禁静默强制升级和锁电降配。车主可关闭自动升级、收集证据维权。>> 查看详情 2、消息称阿里巴巴将深度整合千问与淘宝，打造 AI 对话式购物新体验 以后购物不用再手动搜索了！阿里巴巴将 AI 平台“千问”与淘宝深度整合，消费者只需与 AI 助手对话，...",
+   "published": "2026-05-10T23:18:45+00:00",
+   "age_label": "41分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
+   "url": "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
+   "published": "2026-05-10T22:57:47+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
+   "url": "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "“You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie Mellon University’s 128th commencement ceremony on Sunday. “A new industry is being born. A new era of science and discovery is beginning.” “No ...",
+   "published": "2026-05-10T22:00:50+00:00",
+   "age_label": "1小时前",
+   "tags": [
+    "Corporate",
+    "NVIDIA Life",
+    "Education"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/26-cmu-commencement-20-KL_-13_16x9-scaled.jpg"
+  },
+  {
+   "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises Comments URL: h...",
+   "published": "2026-05-10T21:16:58+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+   "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+   "published": "2026-05-10T20:40:41+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Claude"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Local AI needs to be the norm",
+   "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/ Comments URL: https://news.ycombinator.com/item?id=48085821 Points: 435 # Comments: 220",
+   "published": "2026-05-10T17:19:28+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+   "url": "https://www.qbitai.com/2026/05/415048.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "福尔摩斯探案都能演",
+   "published": "2026-05-10T16:26:14+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "资讯",
+    "Agent",
+    "浙大"
+   ],
+   "image": ""
+  },
+  {
+   "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+   "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+   "published": "2026-05-10T15:34:25+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+   "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features Comments URL: https://news.ycombinator.com/item?id=48084710 Points: 92 # Comments: 50",
+   "published": "2026-05-10T15:22:46+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Legare Kerrison 与 Cedric Clyburn 谈 LLM 性能与评估",
+   "url": "https://www.infoq.cn/article/yOpJquR36lZKRU5TpjAP?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-10T15:07:51+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果 iOS / macOS 27 的 Safari 浏览器将引入 AI 自动整理标签页功能",
+   "url": "https://www.ithome.com/0/948/556.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，Safari 浏览器大概率将在苹果全球开发者大会（WWDC）上迎来新功能，用户能更轻松地创建标签组。适配 27 系列操作系统的 Safari 浏览器测试版，将借助人工智能自动为用户整理归类标签页。 IT之家注意到，苹果早在 2021 年的 Safari 15 版本中就推出了标签组功能，方便用户整理和保存常用的浏览器标签页。时隔五年，苹果计划对这项功能再度升级。 彭博社记者马克・古尔曼在其专栏《Power On》中表示，适配 iOS 27、iPadOS 27 和 macOS 27 的 Safari 测试版已对标签组功能进行更新，新增自动整理功能。标签组切换的顶部中...",
+   "published": "2026-05-10T15:04:48+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "任正非罕见出镜：华为芯片基础技术研究实验室亮相《新闻联播》",
+   "url": "https://www.ithome.com/0/948/553.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，在 5 月 8 日播出的《新闻联播》节目中， 华为练秋湖研发中心的“芯片基础技术研究实验室”公开亮相 。同时，华为技术有限公司董事、首席执行官任正非也罕见出镜，再次现身公众视野。 目前暂无关于华为芯片基础技术研究实验室的相关信息公开。有消息称该实验室可能是支撑华为麒麟芯片、鲲鹏处理器、昇腾 AI 芯片等产品的研发阵地。 IT之家注：华为练秋湖研发中心是华为全球最大研发中心，位于上海市青浦区金泽镇西岑社区，是上海市重点工程，于 2024 年 7 月全部建成并正式命名， 首批员工于 2024 年 10 月进驻 。 华为练秋湖研发中心总占地面积约 2400 亩，建筑面...",
+   "published": "2026-05-10T14:28:53+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "昆仑万维董事长方汉：豆包手机没有渠道，出生第一天就注定必然失败",
+   "url": "https://www.ithome.com/0/948/546.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，5 月 8 日，昆仑万维董事长兼总经理方汉对凤凰网财经封面表示， 豆包手机没有渠道，所以出生的第一天就注定了它必然会失败 。他直言，豆包手机出现没一周就被所有手机厂商封杀 —— 因为中国手机厂商掌握了操作系统，就可以封杀它，这也侧面验证了渠道在中国仍然非常重要。 此外，他还谈到， 完全不认同智能汽车是下一个大渠道 ；人均每日用车时长不足 1 小时，远低于手机、电脑、电视使用时间，且中国并非车轮上的国家；车的大屏与能源优势抵不过便携性，算不上大渠道。 据IT之家此前报道，字节跳动旗下 AI 助手豆包和中兴通讯在 2025 年 12 月 1 日宣布， 搭载豆包手机助...",
+   "published": "2026-05-10T13:37:08+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta 拥抱 AI，员工遭监控与裁员双重压力",
+   "url": "https://www.ithome.com/0/948/542.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，据《纽约时报》报道，上个月，Meta 在一篇内部公告中告知美国员工，公司将推行一项新规，此举会波及数万名员工。 Meta 表示，员工在电脑上的输入内容、鼠标移动轨迹、点击位置以及屏幕浏览内容，都将被追踪。公司称，此举旨在收集员工操作数据， 让 Meta 的人工智能模型学习“人们日常实际如何用电脑完成各项工作任务”。 众多员工随即强烈反对。大家在网络评论中抨击这种监控行为侵犯隐私，认为此举冷漠无情、不近人情。 《纽约时报》查阅到一则评论，一名工程经理针对该公告写道：“这让我极度不适。我们能选择不被监控吗？” Meta 首席技术官安德鲁・博斯沃思回复：“公司办公电脑...",
+   "published": "2026-05-10T13:18:30+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "昆仑万维董事长方汉：每月订阅 AI 像交水电费，至少花 100 元在 Token 上才不会掉队",
+   "url": "https://www.ithome.com/0/948/532.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，5 月 7 日，昆仑万维董事长兼总经理方汉对凤凰网财经《封面》表示，AI 时代普通人要改变调整就要多用 AI、熟能生巧；每月花 100 元左右订阅 AI 服务就像交水电费， 至少花 100 元在 AI Token 上才不会掉队 。 在他看来，普通人使用 AI 工具的 Token 量级有限，人与人之间的使用差距会拉得非常大。普通人的上升阶梯正被人为撕裂，过去职场从新手到老手、再到管理岗位的成长路径十分顺畅，如今中间过程被抹除，从业者要么直接成为高阶从业者，要么一直停留在小白阶段。 他指出，与线下交集多、需要到车间工厂实操的工科领域短期难被 AI 取代；所有工作在电...",
+   "published": "2026-05-10T12:47:18+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI",
+   "url": "https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.",
+   "published": "2026-05-10T12:00:01+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "韦布望远镜在早期宇宙中发现罕见无自转巨型星系，挑战星系演化理论",
+   "url": "https://www.ithome.com/0/948/527.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，天文学家借助詹姆斯・韦布太空望远镜，在一个遥远的早期星系中发现了一个出人意料的特征。尽管该星系形成于宇宙尚处于非常年轻的时期，却没有呈现出任何旋转迹象。 加州大学戴维斯分校物理与天文学系研究科学家、这项于 5 月 4 日发表在《自然・天文学》期刊上研究的第一作者本・福里斯特解释称，这种天体特征通常仅出现在距离地球近得多、且已演化成熟的巨型星系中。 福里斯特表示：“这个星系完全没有表现出任何旋转的迹象，这一点既令人意外，也极具研究价值。” 星系为何理应产生自转 据IT之家了解，现有天体模型认为，星系在形成之初就会开始旋转。向内流动的气体与引力牵引会产生角动量，进而...",
+   "published": "2026-05-10T11:50:36+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "听不见却能感知到：AI 数据中心次声波污染引发投诉",
+   "url": "https://www.ithome.com/0/948/523.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，数据中心项目一直因对电价的影响遭到居民和社区的抵制，而如今另一项投诉也愈发频繁出现 —— 噪音污染。其中一种噪音污染形式为次声波，这种声波人类无法听见，但身体可以感知到，还有不少人声称次声波会引发头痛、失眠、恶心以及焦虑等不适症状。除此之外，还有普通的常规噪音污染。 非营利机构环境与能源研究研究所（EESI）表示，这类工业场地发出的高频和低频声响，能在周边数百英尺范围内被听到、感知到，其噪音等级最高可达 96 分贝，且全天 24 小时、一周 7 天持续存在。 IT之家注意到，次声波也是研究人员正在调研的一大投诉热点。Heatmap Plus 报道称，次声波是一种...",
+   "published": "2026-05-10T11:25:18+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I measured 5G signals of AT&T, T-Mobile, and Verizon in a small town - here's what the data says",
+   "url": "https://www.zdnet.com/article/5g-in-rural-america-google-pixel/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I've tested 5G in cities and on interstates. Now, I'm going through small towns with three Samsung phones in hand.",
+   "published": "2026-05-10T11:01:55+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How I customized my Sonos speaker to make my home theater sound truly immersive",
+   "url": "https://www.zdnet.com/article/how-i-customized-my-sonos-speaker-for-better-audio/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "If you've left your Sonos system's audio settings untouched, you're missing out. Here's what you need to know about them.",
+   "published": "2026-05-10T11:01:41+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "罗技加码投入，押注 AI、游戏及商用市场",
+   "url": "https://www.ithome.com/0/948/502.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，据路透社报道，罗技国际（Logitech International）首席执行官汉内克 · 法贝尔（Hanneke Faber）表示，尽管市场愈发担忧伊朗战争可能引发全球经济放缓，公司今年仍将加大产品研发与营销投入。 这家瑞士与美国合资的键盘、鼠标及视频会议设备制造商，去年为抵消美国总统唐纳德 · 特朗普加征关税的影响而削减成本，如今正押注游戏业务、企业客户及人工智能设备以维持增长。 尽管中东地区供应中断导致货运受阻，且预计本季度将造成约 1500 万美元（IT之家注：现汇率约合 1.02 亿元人民币）的销售额损失（截至 3 月底的上一季度已损失 500 万美元...",
+   "published": "2026-05-10T10:12:10+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I use these 10 secret Netflix codes to find hidden movies - here's how to enter them",
+   "url": "https://www.zdnet.com/article/netflix-codes-how-to-find-hidden-movies-free/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Netflix codes let you access movies in buried genres and micro-categories - for free. Here's how, plus my favorites.",
+   "published": "2026-05-10T10:00:39+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "迈向高保真与工业化：混元 3D 生成大模型从理论到实践的 SOTA 之路｜AICon上海",
+   "url": "https://www.infoq.cn/article/SH3Kw4yMJQA3ODHYfPM7?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-10T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "央视调查：AI“买家秀”误导消费者，未标注 AI 生成",
+   "url": "https://www.ithome.com/0/948/491.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，据央视新闻今日报道，在网购场景中，由于消费者无法直接接触商品，所以评论区的买家秀、用户评价是很多人判断商品质量、适配度的核心依据，承载着“真实反馈”的核心价值。 最近网购时，在一些电商平台的评论区内，出现了用 AI 生成的精美“买家秀”，这类图片取代了真实用户的实拍分享，虽然看起来图片精致、效果完美，但很多人收到货物后， 却发现这些所谓的“买家秀”，与商品实物相差甚远 。AI 生成图像功能被不良商家滥用，成为虚假营销的工具，甚至让“买家秀”失去了原本的参考意义。 消费者罗女士表示， 平台并没有标注图片是 AI 生成的 ，我觉得很不尊重消费者。有一种情况是他们买了...",
+   "published": "2026-05-10T09:44:15+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "宇宙神秘蓝色闪光成因新解：黑洞撞击炽热恒星",
+   "url": "https://www.ithome.com/0/948/490.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，在宇宙深处，存在一种神秘且能量极强的蓝色明亮宇宙爆炸现象，被称作“高亮度快速蓝色光学瞬变”（LFBOT）。一项新研究或许终于能揭开这类奇异爆炸的起源之谜。 人类首次观测到此类爆炸是在 2018 年，此后仅探测到 14 例，这也成为天文学界一大未解之谜。如今，这项新研究的科研团队认为， 该现象的成因是黑洞、中子星这类致密恒星残骸，撞击宇宙中温度最高的大质量恒星 —— 沃尔夫 - 拉叶星。 长期以来，科学家一直试图探明 LFBOT 的起源，甚至提出了大量理论模型来解释这类天体事件的形成原因。科学界之所以对其高度关注，主要是因为其演化速度远快于其他宇宙瞬变爆炸，短短数...",
+   "published": "2026-05-10T09:33:13+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The best Sony TVs of 2026: Expert tested and reviewed",
+   "url": "https://www.zdnet.com/article/best-sony-tv/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Sony is one of the top names in high-end TVs, and we've tested LED and OLED options to help you find the best fit for your space.",
+   "published": "2026-05-10T09:01:05+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克入局 AI 编程赛道：SpaceXAI 桌面编程应用 Grok Build 曝光",
+   "url": "https://www.ithome.com/0/948/484.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，xAI 近期已更名为 SpaceXAI，消息称该公司即将推出桌面端编程应用 Grok Build。今日，Grok 网页端意外出现一个“Grok 计算机”按钮，短暂曝光了这款应用的存在。 该控件原本可供用户在 Grok 计算机文件夹与谷歌云端硬盘之间进行选择，但这项底层功能当时无法使用，且很快就被下架移除。此次意外泄露意味着，即便官方尚未敲定正式上线时间，相关发布部署流程已准备就绪。 IT之家注意到，除了这次界面疏漏事件外，用户 @blankspeaker 已抢先获得 Grok Build 的内测权限。这款应用将适配 macOS、Linux 和 Windows 三...",
+   "published": "2026-05-10T08:21:22+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "尽管裁员千人，Epic 仍表示 AI 不会取代游戏从业者",
+   "url": "https://www.ithome.com/0/948/483.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，昨日， 索尼成为游戏行业中公开拥抱人工智能、将其视作未来发展方向的头部企业 。和艺电（EA）一样，这家日本企业同样坚称，人工智能技术不会取代人类的工作岗位与创作能力，反而会为其赋能增效。 据企业高管透露，人工智能在游戏行业早已成为常态，十家游戏工作室中有九家都在开发流程中使用 AI，只是并未公开相关信息。《堡垒之夜》开发商 Epic 游戏在人工智能技术的态度上与索尼、艺电立场相近，其表示 AI 工具只是在减轻工作繁重程度，而非抢走人类的工作。 从技术应用初衷来看，Epic 的想法或许无可厚非，但鉴于该公司在 2026 年裁员 1000 人，玩家们很难信服其关于“...",
+   "published": "2026-05-10T08:12:22+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "长城哈弗猛龙 PLUS 车型 5 月 15 日上市，预售 18.98 万元起",
+   "url": "https://www.ithome.com/0/948/482.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，长城汽车今日官宣，哈弗猛龙 PLUS 车型将于 5 月 15 日上市。 IT之家注意到，该车于 4 月 18 日开启预售，提供 5 座、7 座版本， 预售价 18.98 万元起 。在外观方面，哈弗猛龙 PLUS 延续了猛龙家族经典的“方盒子”造型，车身尺寸为 4912 毫米、1950 毫米、1905 毫米，轴距在原有基础上增加 112 毫米，达到 2850 毫米。 内饰方面，哈弗猛龙 PLUS 采用环抱式座舱布局，配备 15.6 英寸 2.5K 悬浮式中控屏 和 W-HUD 抬头显示系统，搭载 Coffee OS 3 智慧空间系统及 Coffee GPT 大模型...",
+   "published": "2026-05-10T08:06:59+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Gen Z Resentment Toward AI Grows as Adoption Stagnates and Workplace Fears Mount",
+   "url": "https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.waltonfamilyfoundation.org/about-us/newsroom/gen-z-resentment-toward-ai-grows-as-adoption-stagnates-and-workplace-fears-mount Comments URL: https://news.ycombinator.com/item?id=48081942 Points: 91 # Comments: 149",
+   "published": "2026-05-10T08:03:15+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Yes, you can get Microsoft 365 free - here's how",
+   "url": "https://www.zdnet.com/article/how-to-get-microsoft-365-free/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The former Microsoft Office suite (including Word, Excel, and PowerPoint) now requires a subscription - but there are easy ways to get it free.",
+   "published": "2026-05-10T08:00:36+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 驱动裁员持续，美国 IT 行业四月失业率升至 3.8%",
+   "url": "https://www.ithome.com/0/948/481.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，据《华尔街日报》前天报道，咨询机构 Janco Associates 数据显示，美国信息技术（IT）行业失业率已从 2026 年 3 月的 3.6% 上升至 4 月的 3.8%。 美国劳工部周五表示，全美上月一共新增 11.5 万个工作岗位，主要集中在零售、交通运输、仓储和医疗保健业，整体失业率维持在 4.3% 不变。 不过，IT 行业上月减少了 1.3 万个岗位，尽管现在很难准确判断 AI 对就业市场的影响。但部分科技公司已经明确表示， AI 是其裁员的主因之一 。 今年 4 月，Meta 宣布裁员 10%/约 8000 人， 主要原因是精简运营 、 为大规模...",
+   "published": "2026-05-10T07:54:43+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "零一万物回应赴港股上市传闻：对资本层面规划保持开放且审慎的态度",
+   "url": "https://www.ithome.com/0/948/471.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，近日，有传闻称大模型创企零一万物正在进行 Pre-IPO 融资，筹划港股上市。对此，零一万物回应《科创板日报》记者称，“关于资本层面的具体规划，我们始终保持开放且审慎的态度，目前暂无更多可披露的信息，如有确切进展，我们将第一时间告知大家。” IT之家从公开资料获悉，零一万物 CEO、创新工场董事长李开复于 2023 年 5 月创办了 AI 公司“零一万物”，核心团队成员来自谷歌、微软、IBM、百度等公司。2024 年，零一万物推出了首款闭源模型 Yi-Large。 2025 年 1 月，零一万物与阿里云联合宣布启动“产业大模型实验室”，强强联合的新型合作模式包含...",
+   "published": "2026-05-10T07:12:26+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称阿里巴巴将深度整合千问与淘宝，打造 AI 对话式购物新体验",
+   "url": "https://www.ithome.com/0/948/468.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 10 日消息，据路透社报道，知情人士透露，阿里巴巴正准备官宣将旗下人工智能平台千问与电商平台淘宝进行深度整合，此举旨在以对话式购物替代传统关键词搜索，带动消费交易。 此次整合落地后，消费者无需手动翻阅商品列表，只需在千问 App 中与 AI 智能助手对话，即可完成商品浏览、比价及下单购买全流程。 据报道，千问 App 将接入淘宝、天猫超 40 亿款全品类商品库，依托专属「技能库」实现物流管理、售后服务等能力；同时还会根据用户历史订单与购物偏好，为用户智能推荐商品。 淘宝站内也将上线由千问赋能的 AI 购物助手，内置虚拟试穿、30 天价格走势追踪等实用工具。 IT之家注意到，阿...",
+   "published": "2026-05-10T07:09:02+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Task Paralysis and AI",
+   "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html Comments URL: https://news.ycombinator.com/item?id=48081469 Points: 185 # Comments: 104",
+   "published": "2026-05-10T06:20:50+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "浙大校友用AI突破32年拉姆齐数下界",
+   "url": "https://www.qbitai.com/2026/05/415031.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "拉姆齐数R(3,17) 下界从92提升至93",
+   "published": "2026-05-10T04:01:40+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "拉姆齐数"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Defence sovereignty: Europe races to build the low-cost weapons of future",
+   "url": "https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "With Trump wavering on Nato and war in Ukraine, Europe is scrambling to spend billions on weapons such as drones In a small workshop in England’s East Midlands, engineers at the British startup Skycutter are designing weapons for Ukraine. A row of 3D printers make the fuselage for interceptor drones...",
+   "published": "2026-05-10T04:00:15+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "Drones (military)",
+    "Europe",
+    "Defence policy",
+    "Arms trade",
+    "Technology sector"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f4caf8359cc92d806ce528712594d7bf74e4a1f5/576_0_5760_4608/master/5760.jpg?width=140&quality=85&auto=format&fit=max&s=1131ceb1efde7b0b7996fafa7b983d36"
+  },
+  {
+   "title": "Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访",
+   "url": "https://36kr.com/p/3802822550839047?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。 这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着这些疑问，36氪和Ozon大中华区总裁Simon Huang（黄效）进行了一次交流。结论就是：俄语区还有比较长的红利期，中国电商迁移过去有足够的品牌优势、供应链优势，以及运营优势。以下为正文： 过去几年，中国跨境...",
+   "published": "2026-05-10T02:18:57+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+   "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+   "published": "2026-05-10T02:00:00+00:00",
+   "age_label": "22小时前",
+   "tags": [
+    "Startups",
+    "AI",
+    "voice AI",
+    "Wispr flow"
+   ],
+   "image": ""
+  },
+  {
+   "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+   "url": "https://36kr.com/p/3801745491943169?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。 长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。 根据Euromonitor等报告显示，2024年，全球割草机器人销售额占割草机总额的9.1%，处于较...",
+   "published": "2026-05-10T01:27:31+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "My Roku apps were running slow - I considered 9 quick fixes before blaming my Wi-Fi",
+   "url": "https://www.zdnet.com/article/roku-apps-loading-slowly-how-to-fix-clear-cache/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "If your Roku TV is lagging, with apps struggling to open, it might not be your Wi-Fi. Here's what I do to bring things back up to speed.",
+   "published": "2026-05-10T01:00:55+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+   "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+   "published": "2026-05-09T21:45:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "evergreens",
+    "artificial intelligence",
+    "Glossary"
+   ],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek塞进苹果本儿，分币不花实现“龙虾自由”",
+   "url": "https://36kr.com/p/3803167337783561",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "3年5倍，百年玻璃厂重生",
+   "url": "https://36kr.com/p/3803113114787331",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "图灵奖得主Sutton新作：用一个1967年的公式，解决流式强化学习一大缺陷",
+   "url": "https://36kr.com/p/3803073505369865",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "豆包推出收费：纯免费的大模型越来越少了",
+   "url": "https://36kr.com/p/3802970281041408",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Agent 时代需要怎样的分布式基础设施",
+   "url": "https://36kr.com/p/3802850619809288",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek上桌费才500亿",
+   "url": "https://36kr.com/p/3802834184904199",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "新研究表明，使用 AI 仅 10 分钟就可能使人变得懒惰和愚钝",
+   "url": "https://36kr.com/p/3802839155843333",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "大模型清场前夜",
+   "url": "https://36kr.com/p/3802258052096004",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "梁文锋率领小龙过千亿",
+   "url": "https://36kr.com/p/3802790694886916",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+   "url": "https://36kr.com/p/3801745491943169",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "9倍狂飙！SK海力士“封神”背后，藏着多少腥风血雨？",
+   "url": "https://36kr.com/p/3801919515827969",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "首超龙虾，「爱马仕」Agent全球调用第一，小米MiMo是第一贡献模型",
+   "url": "https://36kr.com/p/3802262491029252",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "开拍爆发背后：普通人需要怎样的AI工具？",
+   "url": "https://36kr.com/p/3801873104215557",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国最大的AI包工头，要上市了",
+   "url": "https://36kr.com/p/3801739376844801",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "估值逼近1万亿美元！全球最值钱的AI创企，要易主了",
+   "url": "https://36kr.com/p/3801780097785347",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
