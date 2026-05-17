@@ -1,0 +1,901 @@
+{
+ "date": "2026-05-17",
+ "generated_at": "2026-05-17 08:00",
+ "total": 71,
+ "sources": [
+  "The Verge AI",
+  "Wired AI",
+  "IT之家",
+  "CNBC Tech",
+  "量子位",
+  "InfoQ 中文",
+  "36氪 AI",
+  "MIT Tech Review",
+  "Hacker News",
+  "TechCrunch AI",
+  "ZDNet AI",
+  "36氪"
+ ],
+ "summary": {
+  "overview": "今日共采集 71 篇 AI 相关资讯（国内 32 篇，海外 39 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI Agent、AI 视频与多模态。最受关注：「我国科研团队“造”出 200 微米高质量单晶石墨，厚度为世界...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 我国科研团队“造”出 200 微米高质量单晶石墨，厚度为世界水平 3 倍以上 — IT之家 5 月 16 日消息，上海人工智能实验室 5 月 13 日宣布，依托 2030 新一代人工智能国家科技重大专项总体部署，上海人工智能实验室联合 苏州国家实验室 、清华大学等合作单位，成功实现厘米级尺寸、厚度 超过 200 微米 的高质量单晶石墨可控制备，IT之家整理主要内容如下： 数据筑基"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 阿里健康正式发布医学AI助手“氢离子” — 36氪获悉，近日，阿里健康正式发布医学AI助手“氢离子”，同时宣布与英国BMJ集团达成独家合作。据了解，BMJ旗下70本医学期刊过去十年的内容资源接入氢离子，这是国际顶级期刊首次与中国AI平台达成此类合作。氢离子聚焦循证医学，采用四层架构：PICO+GRADE结构化理解、检索增强、模型微调、专家评审"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断 — 作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。 据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。 在音频产品市场中，由于对无线"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[TechCrunch AI]** Research repository ArXiv will ban authors for a year if they let AI do all the work — ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4 — 36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 广东联通联合华为建成大湾区首张 Mobile AI 高品质体验网，万人演唱会网络稳定如常 — IT之家 5 月 16 日消息，据“华为无线网络”公众号，近日， 广东联通建成大湾区首张 Mobile AI 高品质体验网 ，携手华为在广州、深圳、佛山三地完成无线智能板规模部署。 IT之家从公告获悉，该网络已在 深圳大运中心体育场、佛山世纪莲体育中心、广州大学城体育中心 等大湾区核心场馆与商圈落地"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态 — 5月15日，开放原子“园区行”（北京站）活动成功举办。会上，OpenLET具身智能开源数据集社区工作委员会正式成立，虚拟动点与乐聚机器人、百度智能云、灵心巧手、北京大学、北京理工大学等9家单位共同成为首批委员会成员。OpenLET具身智能开源数据集社区由开放原子开源基金会发起，乐聚智能牵头组建，汇聚"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[The Verge AI]** ArXiv will ban researchers who upload papers full of AI slop — ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a pa"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI Agent展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 71 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "特斯拉解封 17 份 Robotaxi 碰撞报告：首次披露事故细节，多数被追尾、两次远程操作失误",
+   "url": "https://www.ithome.com/0/951/407.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，据 Electrek 昨日报道，特斯拉已向美国国家公路交通安全管理局（NHTSA）补交并解除了全部 17 份自动驾驶系统碰撞报告的涂黑内容，首次向公众披露每起事故的真实经过。 此前，特斯拉是所有自动驾驶系统运营商中唯一一家将每份碰撞报告均完整涂黑并标为“可能包含机密商业信息”的企业。 最新公布的 NHTSA 文件显示，这些碰撞事故发生在 2025 年 7 月至 2026 年 3 月期间，当时该公司正在奥斯汀进行“Robotaxi”测试。所有事故均涉及 2026 款 Model Y，FSD 处于开启状态，且车上配有安全员。 从伤害情况来看：13 起事故仅造成财产损...",
+   "published": "2026-05-16T22:56:03+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The haves and have nots of the AI gold rush",
+   "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+   "published": "2026-05-16T20:17:16+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "deedy das"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+   "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+   "published": "2026-05-16T18:54:28+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "arxiv"
+   ],
+   "image": ""
+  },
+  {
+   "title": "US is starting to see heavy job losses in roles exposed to AI",
+   "url": "https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai Comments URL: https://news.ycombinator.com/item?id=48162354 Points: 136 # Comments: 216",
+   "published": "2026-05-16T17:59:45+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "ChatGPT 可以帮你理财了，但它也知道你的全部余额！用户：谢谢不用了",
+   "url": "https://www.infoq.cn/article/0iIMdRwey2MQ7BHLfFj8?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-16T17:00:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+   "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it wil...",
+   "published": "2026-05-16T15:37:05+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Cameras",
+    "Gadgets",
+    "News",
+    "Sony"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+   "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+   "published": "2026-05-16T15:33:33+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "greg brockman",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+   "url": "https://www.seangoedecke.com/steering-vectors/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/ Comments URL: https://news.ycombinator.com/item?id=48160807 Points: 199 # Comments: 67",
+   "published": "2026-05-16T14:58:16+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "上市前被砍，小米 Air 超轻薄旗舰工程机规格曝光",
+   "url": "https://www.ithome.com/0/951/399.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，博主 @数码闲聊站 今日曝光小米 Air 超轻薄旗舰部分规格，但因为牺牲了核心体验，最后阶段砍掉了。 据爆料，该工程机搭载 6.59 英寸 1.5K 中屏、骁龙 8 Elite Gen 5 芯片，后置 200Mp 大底双摄，电池和厚度都是 5 开头。 IT之家注意到，小米集团合伙人、总裁卢伟冰今日在直播活动中回应“为什么没有出 iPhone Air 形态的产品？”。 他透露，其实团队也做过了规划和预研。并且已经做到了接近量产的状态，但最后一刻上市前，还是把它给砍掉了，没有让它成为一个量产的产品。因为团队发现在这种极致压缩的体积、厚度状态之下，电池的续航、性能会影...",
+   "published": "2026-05-16T14:17:42+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "杭州基地启用，机器人有了国家级职业技能训练场",
+   "url": "https://www.ithome.com/0/951/390.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，据新华社报道，5 月 16 日，国家人工智能应用中试基地（具身智能）在浙江杭州挂牌启用，机器人有了国家级职业技能训练场。 报道称，具身智能是人工智能从虚拟走向现实的重要发展方向，正快速从实验室走向场景应用新阶段。“十五五”规划纲要明确提出“前瞻布局未来产业”，推动具身智能等成为新的经济增长点。中试基地则是国家“人工智能 +”战略部署的重要落子与载体。 IT之家从报道获悉，中试基地打造了集 场景体验、技术展示、研发合作、产业赋能 于一体的综合性展示应用推广平台，既展示已经开发落地的商业应用场景，也展示数据采集和技能训练过程，引导具身智能技术进一步从实验室迈向现实社...",
+   "published": "2026-05-16T13:46:46+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
+   "url": "https://www.qbitai.com/2026/05/418620.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "5月19日至20日，带上你的需求。带上你的方案，我们在亦庄，不见不散。",
+   "published": "2026-05-16T13:44:16+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "资讯",
+    "36氪"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 与马耳他政府合作，向该国公民免费提供一年 ChatGPT Plus",
+   "url": "https://www.ithome.com/0/951/389.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，OpenAI 今日宣布与马耳他政府达成一项全球首创的合作伙伴关系，旨在向所有马耳他公民推广 ChatGPT Plus。 IT之家注：马耳他（Malta）是一个位于地中海中部的南欧岛国，国土面积仅 316 平方公里，全国人口约 57 万。 根据马耳他的“AI4ALL（AI for All、全民人工智能）”倡议，马耳他大学开发了相关 AI 网络课程，为各种背景的人提供学习使用 AI 的机会。 课程完成后，该国公民可以免费使用 ChatGPT Plus 一年 。 ▲ 马耳他 AI4ALL 计划（已翻译为中文） 该计划的第一阶段将于 5 月启动，由马耳他数字创新管理局负...",
+   "published": "2026-05-16T13:42:47+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "联想来酷斗战者确认战 7000P 游戏本 5 月 19 日面世",
+   "url": "https://www.ithome.com/0/951/384.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，联想 (Lenovo) 来酷 (Lecoo) 斗战者 (BELLATOR) 昨日晚间正式确认， 战 7000P 游戏笔记本电脑将于 5 月 19 日正式面世 ，预计会在该日晚间的联想天禧 AI 一体多端全场景新品超能之夜上发布。 IT之家整理该机型目前已确认的规格情况： 英特尔酷睿 Ultra 7 处理器 251HX； NVIDIA GeForce RTX 5060 笔记本电脑 GPU； 三风扇 + 四铜管 215W 整机功耗飓风 2.0 散热架构； 2560×1600 180Hz 屏幕，支持 500nits 亮度、100% sRGB 色域； 提前触发式 1.5...",
+   "published": "2026-05-16T12:52:36+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Creator content made the main stage at TV's 'upfront' pitches — and not just for YouTube",
+   "url": "https://www.cnbc.com/2026/05/16/tv-upfronts-creator-content-youtube-fox-wbd.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "In media companies' annual pitch to advertisers this week, creator content played a bigger role as a new category for reaching younger audiences.",
+   "published": "2026-05-16T12:00:01+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
+   "url": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "After Cerebras popped in its market debut, all attention turns to SpaceX, OpenAI and Anthropic, which are already among the most valuable U.S. tech companies.",
+   "published": "2026-05-16T12:00:01+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+   "url": "https://twitter.com/steipete/status/2055346265869721905",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://twitter.com/steipete/status/2055346265869721905 Comments URL: https://news.ycombinator.com/item?id=48159227 Points: 137 # Comments: 156",
+   "published": "2026-05-16T11:34:04+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I didn't expect Bose's new lifestyle speaker to coexist with my Sonos Era 100 like this",
+   "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-speaker-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Months after sunsetting the SoundTouch lineup, Bose's Lifestyle Ultra proves that it can still make versatile and great-sounding speaker.",
+   "published": "2026-05-16T11:00:53+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小米卢伟冰：玄戒芯片今年肯定会迭代，一定是一块非常强的芯片",
+   "url": "https://www.ithome.com/0/951/373.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，今天下午进行的爆料直播中，小米集团合伙人、总裁，手机部总裁，小米品牌总经理卢伟冰回应了“玄戒芯片”相关的问题。 卢伟冰表示： 玄戒芯片今年肯定会迭代 ，但是呢外界确实有很多的传闻，这些传闻大家可以不用太相信。 具体的信息现在我不便去透露，大家可以期待一下， 一定是一块非常强的芯片 ，搭载在一款非常优秀的产品。 据IT之家此前报道，在 4 月举行的小米投资者日上，小米创办人、董事长兼 CEO 雷军公布数据： 小米玄戒 O1 芯片已经出货超过一百万颗 。",
+   "published": "2026-05-16T10:50:20+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "刘伟：米哈游在 AI 方面投入规模“3 年最多 1000 亿”，如果没成算放一个大烟花",
+   "url": "https://www.ithome.com/0/951/364.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，据竞核今日报道，5 月 15 日，米哈游在北京举办了一场 AI 基础大模型相关的技术分享会与顶尖校招生招募活动，米哈游创始人刘伟（大伟哥）在此次招聘会上分享了部分他对 AI 业务的看法和愿景。 刘伟提到， 米哈游在 AI 方面的投入规模“3 年最多 1000 亿”，如果最终没有成功“也认了，算是做一个大的烟花” 。大伟哥表示：“任何团队没有坚定地去搞算力、scale（IT之家注：规模）这件事情，是绝不可能把模型做到顶级的。” 在此前不久上海交大的演讲中，刘伟在聊到 AI 话题时，同样提到了 3 年这个关键节点以及自己对未来 AI 时代游戏的看法。 刘伟认为，AI...",
+   "published": "2026-05-16T10:31:12+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小米卢伟冰：miclaw 不会取代小爱同学，未来会合体赋能",
+   "url": "https://www.ithome.com/0/951/343.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，今天下午进行的爆料直播中，卢伟冰对“miclaw 会取代小爱同学吗？”的问题进行了回应。 他表示，这些都是假消息，miclaw 不会取代小爱同学。未来的话，miclaw 会跟超级小爱合体，就是说会把 miclaw 的能力融入到小爱当中，让小爱变得更加强大。所以用户看到的界面还是超级小爱，但是它的能力会被 miclaw 所赋能。所以它是一个更加聪明、更加能干的超级小爱。 IT之家注意到，Xiaomi miclaw 是基于小米 MiMo 大模型构建的 AI 交互测试产品，也是国内首款手机端 AI 智能体应用，于 3 月 6 日上线并开启小范围封测。",
+   "published": "2026-05-16T10:06:20+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Amazon's discounted Fitbit Air deal comes with a free band - but I'd act quick",
+   "url": "https://www.zdnet.com/article/google-fitbit-air-deal/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The latest Fitbit is here, and you can save 26% on it when you preorder on Amazon today.",
+   "published": "2026-05-16T10:00:39+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小米首款耳夹耳机真机亮相：黑白金三色，还有一款神秘配色待公布",
+   "url": "https://www.ithome.com/0/951/341.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，正在进行的卢伟冰爆料直播中，小米中国区市场部总经理魏思琪晒出了小米首款耳夹耳机的真机。 IT之家注意到，视频中展示了三款配色，分别为玄武岩黑、珍珠白、缎光金，魏思琪透露还有一款神秘配色此次并未展示，将在后续预热中公布。 据此前官方介绍，小米耳夹式耳机单机重量仅 5.5g，采用仿生曲线设计及高性能记忆钛丝；11mm 大尺寸驱动单元，微晶金属涂层振膜；LHDC 5.0 传输、Hi-Res 金标认证，高清音频解码；3 麦克风阵列，VPU 结合通话降噪算法，清晰拾音；逆向声波技术，防止外泄漏音。 此外，这款新品智能体验全面升级， 支持超级小爱智能陪伴 ；智能翻译，覆盖 ...",
+   "published": "2026-05-16T10:00:28+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "记忆感知的大模型 KVCache 优化｜AICon上海",
+   "url": "https://www.infoq.cn/article/JrjkdccVRjyzNUAhl9Lm?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-16T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小米卢伟冰回应为什么没有出 iPhone Air 形态的产品：上市前被砍，续航、性能影响体验",
+   "url": "https://www.ithome.com/0/951/329.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，正在进行的卢伟冰爆料直播中，小米集团合伙人、总裁卢伟冰回应：“为什么没有出 iPhone Air 形态的产品？” 他透露，其实团队也做过了规划和预研。并且已经做到了接近量产的状态，但最后一刻上市前，还是把它给砍掉了， 没有让它成为一个量产的产品 。因为团队发现在这种极致压缩的体积、厚度状态之下，电池的续航、性能会影响一些体验， 需要较大妥协 。所以他也没办法达到团队想要的那个体验的标准。所以还是不做这样的一款产品，做一款 Max 的产品。 对于 小米 17 Max 为什么不叫“Plus”？他表示， 做 Max 的思路和做 Plus 的思路还是有些不同 。Plus...",
+   "published": "2026-05-16T09:42:43+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+   "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
+   "published": "2026-05-16T09:30:00+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Culture",
+    "Culture / Digital Culture",
+    "artificial intelligence",
+    "Sex and Relationships",
+    "algorithms"
+   ],
+   "image": ""
+  },
+  {
+   "title": "联合打击恐怖主义内容，马斯克旗下 X 平台与英国通信管理局达成合作",
+   "url": "https://www.ithome.com/0/951/309.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，据《卫报》昨天报道，埃隆 · 马斯克旗下 X 平台已与英国通信管理局（IT之家注：Ofcom）达成合作，将在英国境内封锁访问被禁恐怖组织关联账号， 并加强打击恐怖主义与仇恨内容 。 Ofcom 表示，X 平台将在 48 小时内审核涉嫌违法的恐怖主义内容，并在接到用户举报后，寻求专业机构建议。 同时，X 平台将阻止英国用户访问发布非法恐怖主义内容、被英国政府认为与禁恐怖组织相关联的账号。 另一方面， Ofcom 仍在审核 X 平台上部分用户利用 Grok 生成的裸露图像 。 截至报道发布，X 平台拒绝置评。",
+   "published": "2026-05-16T09:15:44+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The best external hard drives of 2026: Expert tested and reviewed",
+   "url": "https://www.zdnet.com/article/best-external-hard-drive/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The best external hard drives available today provide ample storage, reliability, and security for different price points. We went hands-on to find the best hardware available in 2026.",
+   "published": "2026-05-16T09:00:40+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "阿里健康正式发布医学AI助手“氢离子”",
+   "url": "https://36kr.com/newsflashes/3811712103423746?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，近日，阿里健康正式发布医学AI助手“氢离子”，同时宣布与英国BMJ集团达成独家合作。据了解，BMJ旗下70本医学期刊过去十年的内容资源接入氢离子，这是国际顶级期刊首次与中国AI平台达成此类合作。氢离子聚焦循证医学，采用四层架构：PICO+GRADE结构化理解、检索增强、模型微调、专家评审闭环。超300位中国临床专家参与共建评价标准，黄晓军、肖瑞平、于金明等10位顶级专家把关学术方向。",
+   "published": "2026-05-16T08:34:03+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+   "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/ Comments URL: https://news.ycombinator.com/item?id=48158110 Points: 52 # Comments: 63",
+   "published": "2026-05-16T08:30:51+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "上海开展“清朗 · 整治 AI 应用乱象”专项行动，为期 4 个月",
+   "url": "https://www.ithome.com/0/951/289.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，为规范 AI 服务和应用，促进行业健康有序发展，根据中央网信办统一部署，上海网信部门今天宣布开展为期 4 个月的“清朗 · 整治 AI 应用乱象”专项行动。 IT之家从“网信上海”公众号获悉，本次专项行动将分为两个阶段开展： 第一阶段为“清朗 ·AI 应用服务典型违规问题”专项治理行动，重点整治未按规定履行大模型备案登记义务、安全审核能力不足、大模型训练语料安全、AI 数据投毒、生成合成内容标识落实不到位等问题，强化 AI 技术源头治理。 第二阶段为“清朗 · 整治 AI 信息内容乱象”专项行动，聚焦利用 AI 技术生成“数字泔水”、制作发布虚假信息、散播暴力低...",
+   "published": "2026-05-16T08:30:36+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
+   "url": "https://36kr.com/newsflashes/3811663965560329?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，近日，网易传媒旗下网易新闻、网易小蜜蜂正式宣布接入DeepSeek-V4大模型。全面升级新闻资讯分发、智能内容创作、社区互动服务、AI工具辅助及个性化推荐等核心场景。据了解，网易小蜜蜂近期即将推出“校园龙虾养成计划”，创新地将前沿人工智能技术融入年轻用户日常社交场景。",
+   "published": "2026-05-16T08:01:59+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "广东联通联合华为建成大湾区首张 Mobile AI 高品质体验网，万人演唱会网络稳定如常",
+   "url": "https://www.ithome.com/0/951/274.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，据“华为无线网络”公众号，近日， 广东联通建成大湾区首张 Mobile AI 高品质体验网 ，携手华为在广州、深圳、佛山三地完成无线智能板规模部署。 IT之家从公告获悉，该网络已在 深圳大运中心体育场、佛山世纪莲体育中心、广州大学城体育中心 等大湾区核心场馆与商圈落地，上千个站点部署无线智能板升级为智能站点。在汪苏泷、周深、“声生不息”演唱会等多场万人级演出中，用户感知速率与时延均保持稳定。 据介绍，围绕演唱会等高密场景，中国联通广东省分公司与终端伙伴合作推出了 场馆网络加速包套餐 。本次合作基于创新的“可信数据空间”架构，双方实现了安全高效的端网数据协同，为用...",
+   "published": "2026-05-16T08:00:20+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "我国科研团队“造”出 200 微米高质量单晶石墨，厚度为世界水平 3 倍以上",
+   "url": "https://www.ithome.com/0/951/269.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，上海人工智能实验室 5 月 13 日宣布，依托 2030 新一代人工智能国家科技重大专项总体部署，上海人工智能实验室联合 苏州国家实验室 、清华大学等合作单位，成功实现厘米级尺寸、厚度 超过 200 微米 的高质量单晶石墨可控制备，IT之家整理主要内容如下： 数据筑基：亿级计算材料数据库支撑训练 据介绍，人工智能辅助材料研发的核心前提是高质量数据支撑。为实现单晶石墨的精准制备，联合团队构建了面向机器学习原子势训练的亿级计算材料数据库，该数据库在数据完整性、精准度及覆盖范围上显著优于以往小规模数据库， 有效突破了以往依赖小规模开源数据或通用数据库的局限 ，为后续高...",
+   "published": "2026-05-16T07:30:02+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI再次重组高管团队：布罗克曼正式接管产品",
+   "url": "https://36kr.com/newsflashes/3811623947476489?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "5月16日消息，据WIRED报道，OpenAI 向员工表示，OpenAI近期宣布将进行公司重组，以整合其产品线。OpenAI 向 WIRED 证实，联合创始人兼总裁 Greg Brockman 将负责公司的产品战略，同时继续负责人工智能基础设施方面的工作。OpenAI 宣布将旗下人工智能编码代理 ChatGPT、Codex 以及面向开发者的 API 整合到一个核心产品团队中。（鞭牛士）",
+   "published": "2026-05-16T07:29:15+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "三星 Galaxy M47 手机跑分曝光，骁龙 6 Gen 3 芯片 +8GB 内存",
+   "url": "https://www.ithome.com/0/951/267.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，科技媒体 GSMArena 今天（5 月 16 日）发布博文，报道称三星 Galaxy M47（型号 SM-M476B）手机现身 GeekBench 跑分库， 6.7.1 版本 OpenCL 成绩为 2256 分。 根据跑分库页面信息，该机搭载 4 个 2.4GHz 的性能核心，以及 4 个 1.8GHz 的能效核心，搭载 Adreno 710 GPU，应该为高通骁龙 6 Gen 3 芯片。IT之家附上相关截图如下： 此外页面信息还显示该机搭载 8GB 内存，运行安卓 16 系统。基于现有曝光的信息，该机预估配备 5000 万像素主摄、800 万像素超广角摄像头...",
+   "published": "2026-05-16T07:23:59+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌更新垃圾内容政策，将“AI 投毒”行为纳入打击范围",
+   "url": "https://www.ithome.com/0/951/266.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 16 日消息，据科技媒体 The Verge 今天报道，谷歌现已更新垃圾内容（Spam）政策，试图将操纵 AI 模型输出结果的行为纳入范畴。该规定不仅适用于搜索引擎结果， 也涵盖 AI 概览、AI 模式两大板块 。 谷歌在新政策中写道： 在谷歌搜索环境中，垃圾内容指那些用于欺骗用户或操纵搜索结果的系统。这类工具会让内容获得突出展示的机会，并试图提高内容权重，或直接操纵谷歌搜索的生成式 AI 回答。 据报道，近年来部分用户开始使用 AI 工具，将带有欺诈或误导性的内容植入 AI 大模型，即所谓“AI 投毒”。 具体来说，这些用户会制作带有明显倾向性的“最佳榜单”文章，并用非常规...",
+   "published": "2026-05-16T07:23:58+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Frontier AI has broken the open CTF format",
+   "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://kabir.au/blog/the-ctf-scene-is-dead Comments URL: https://news.ycombinator.com/item?id=48157559 Points: 329 # Comments: 308",
+   "published": "2026-05-16T07:01:55+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
+   "url": "https://www.qbitai.com/2026/05/418594.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "奥特曼的20亿持股版图也曝光了",
+   "published": "2026-05-16T06:52:14+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "IPO",
+    "山姆·奥特曼"
+   ],
+   "image": ""
+  },
+  {
+   "title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
+   "url": "https://www.qbitai.com/2026/05/418571.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "懂我的还得是Human",
+   "published": "2026-05-16T06:42:33+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "Agent"
+   ],
+   "image": ""
+  },
+  {
+   "title": "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行",
+   "url": "https://www.qbitai.com/2026/05/418518.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "",
+   "published": "2026-05-16T06:35:05+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "命令行"
+   ],
+   "image": ""
+  },
+  {
+   "title": "秦力洪： 高内存带宽、真实算力、高效协同、稳定量产，是衡量先进车载芯片的四大硬核标准。",
+   "url": "https://36kr.com/newsflashes/3811510125010434?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，近日，蔚来高管力洪全面解读神玑NX9031智驾芯片，直面车载芯片行业参数注水、概念营销的乱象，重新明确了高端先进车载芯片的核心评判标准，打破行业唯算力论的片面宣传误区。\n \n当下AI智驾时代，芯片综合调度能力远比纸面算力重要，高内存带宽、真实算力、高效协同、稳定量产，才是先进车载芯片的四大硬核标准。针对行业稀疏、稠密算力模糊概念泛滥，算力数值普遍注水3-6倍的乱象，蔚来坚持硬核自研、拒绝文字营销，不以片面参数误导用户。\n \n性能层面，神玑NX9031以546GB/s超高带宽筑牢性能根基，彻底避免数据拥堵，让芯片性能完全释放，大幅领先行业多数自研产品。同时芯片搭载顶级ISP图像传感器...",
+   "published": "2026-05-16T06:13:31+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "乐道L80上市，售价24.28万起",
+   "url": "https://36kr.com/newsflashes/3811480372141571?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，5月15日晚，蔚来旗下品牌乐道汽车L80 正式上市，整车购买24.28万元起，BaaS电池租用方式购买15.68万元起。\n\n乐道L80提供Pro、Max+和Ultra+三个版型，Orin-X纯视觉版和神玑芯片+激光雷达版两种智驾方案选择。5月16日，乐道L80将开启全国交付。",
+   "published": "2026-05-16T05:45:13+00:00",
+   "age_label": "18小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "虚拟动点加入OpenLET工作委员会，共建具身智能数据新生态",
+   "url": "https://36kr.com/newsflashes/3811463677533704?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "5月15日，开放原子“园区行”（北京站）活动成功举办。会上，OpenLET具身智能开源数据集社区工作委员会正式成立，虚拟动点与乐聚机器人、百度智能云、灵心巧手、北京大学、北京理工大学等9家单位共同成为首批委员会成员。OpenLET具身智能开源数据集社区由开放原子开源基金会发起，乐聚智能牵头组建，汇聚70余家成员单位，覆盖企业、高校、科研机构等多元主体。作为具身智能领域的重要开源平台，社区将面向开发者、生态合作伙伴开放入驻，推动具身智能数据资源开放共享，加速数据、算法、场景深度融合，助力具身智能技术快速落地应用。（证券时报）",
+   "published": "2026-05-16T05:30:16+00:00",
+   "age_label": "18小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国500万医生的新AI：顶刊独家联手，卷的就是证据源",
+   "url": "https://www.qbitai.com/2026/05/418491.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "阿里健康发布「氢离子」",
+   "published": "2026-05-16T04:49:15+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "阿里巴巴"
+   ],
+   "image": ""
+  },
+  {
+   "title": "15.68万乐道L80开卖，厨房搬进前备厢，李斌：纯电大五座SUV的“拐点”",
+   "url": "https://www.qbitai.com/2026/05/418150.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "共享蔚来超8800座充换电站",
+   "published": "2026-05-16T04:27:39+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "智能车参考",
+    "乐道L80",
+    "蔚来",
+    "车圈最新认知"
+   ],
+   "image": ""
+  },
+  {
+   "title": "FF获2500万美元新融资",
+   "url": "https://36kr.com/newsflashes/3811383661911557?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "5月16日，Faraday Future（简称FF）宣布，公司已与机构投资者签署了2500万美元股份购买协议，预计此次融资所得将进一步加速FF EAI战略的落地实施。根据最新协议，投资者已认购FF总本金为2500万美元的可转换本票，本次融资对应的普通股目前尚未注册，存在交易限制，暂不可立即流通。（人民财讯）",
+   "published": "2026-05-16T04:12:49+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
+   "url": "https://36kr.com/p/3810520138243593?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。 据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。 在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。 调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合年增长率为22.8%。 不过，该市场集中度较高，少数头部品牌...",
+   "published": "2026-05-16T02:00:00+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
+   "url": "https://36kr.com/p/3811265856626440?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "今日热点导览 OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示 TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元 5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得...",
+   "published": "2026-05-16T01:03:11+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+   "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w...",
+   "published": "2026-05-15T23:39:35+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Artificial intelligence",
+    "App"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Jim Cramer fears SpaceX's IPO could be 'destructive' for the rest of market",
+   "url": "https://www.cnbc.com/2026/05/15/jim-cramer-spacex-ipo-market-bubble.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC's Jim Cramer said he is growing concerned about the speculative nature in the IPO market.",
+   "published": "2026-05-15T23:05:14+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+   "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there ...",
+   "published": "2026-05-15T22:25:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Creators",
+    "Google",
+    "News",
+    "Streaming"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The 4th Linux kernel flaw this month can lead to stolen SSH host keys",
+   "url": "https://www.zdnet.com/article/qualys-flags-a-linux-kernel-security-issue-that-could-lead-to-stolen-ssh-keys/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The good news is there's already a patch. The bad news is that the fix isn't available for all Linux distributions yet. Here's what you can do in the meantime.",
+   "published": "2026-05-15T20:41:14+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "ArXiv will ban researchers who upload papers full of AI slop",
+   "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l...",
+   "published": "2026-05-15T20:38:19+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "News",
+    "Science"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I believe there are entire companies right now under AI psychosis",
+   "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "https://xcancel.com/mitchellh/status/2055380239711457578 https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 1857 # Comments: 1048",
+   "published": "2026-05-15T20:26:47+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "What you need to know about Nvidia competitor Cerebras after wild IPO",
+   "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.",
+   "published": "2026-05-15T20:05:55+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Why this metal detector is a smart buy in 2026 - especially at $60 off on Amazon",
+   "url": "https://www.zdnet.com/article/pancky-metal-detector-bundle-deal/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Search for treasures on the beach or in your own backyard with this metal detector bundle at Amazon.",
+   "published": "2026-05-15T20:00:46+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "ChatGPT 能替你管钱了，你敢把银行账户交给它吗？",
+   "url": "https://36kr.com/p/3811453763919369",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude为什么早晨8:30催你睡觉？",
+   "url": "https://36kr.com/p/3811413738594050",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "突发：OpenAI大规模重组，总裁Brockman夺权挂帅",
+   "url": "https://36kr.com/p/3811615591292680",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Image 2 × Seedance 2.0王炸组合：4套刷屏外网的玩法，提示词全在这了",
+   "url": "https://36kr.com/p/3811398798237187",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI已经开始伪造地方媒体了",
+   "url": "https://36kr.com/p/3810669040295427",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI打工人的“第一笔工资”：16.88美元",
+   "url": "https://36kr.com/p/3811405245947907",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "腾讯造了个“贾维斯”：替我签到改配置，还会打盹上厕所，一手实测来了",
+   "url": "https://36kr.com/p/3810669038853641",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "比Coding更大的东西，是什么？",
+   "url": "https://36kr.com/p/3810601052102405",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Hermes团队改写预训练：算力成本降六成，DeepSeek之后提效新路径",
+   "url": "https://36kr.com/p/3810440762547716",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "实测淘宝、京东AI购：能用，但代替不了我",
+   "url": "https://36kr.com/p/3810475457110278",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "天津机器人军团，其实超能打",
+   "url": "https://36kr.com/p/3810350538137604",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "吴恩达炮轰「AI就业末日论」：贩卖失业焦虑，其实就是一门生意",
+   "url": "https://36kr.com/p/3810362513891072",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Token单价已死，交付结果当立",
+   "url": "https://36kr.com/p/3810390772719108",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Gemini 3.5 Pro全网首曝，编程追平GPT-5.5，谷歌终于狠起来了",
+   "url": "https://36kr.com/p/3810432812162816",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "被礼来反超后，诺和诺德牵手OpenAI",
+   "url": "https://36kr.com/p/3810329440248071",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
