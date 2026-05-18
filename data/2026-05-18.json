@@ -1,0 +1,912 @@
+{
+ "date": "2026-05-18",
+ "generated_at": "2026-05-18 08:00",
+ "total": 71,
+ "sources": [
+  "ZDNet AI",
+  "The Verge AI",
+  "36氪 AI",
+  "The Guardian Tech",
+  "IT之家",
+  "TechCrunch AI",
+  "量子位",
+  "InfoQ 中文",
+  "36氪",
+  "少数派"
+ ],
+ "summary": {
+  "overview": "今日共采集 71 篇 AI 相关资讯（国内 32 篇，海外 39 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI 视频与多模态、AI Agent。最受关注：「前微软高管痛批公司 AI 战略失误：重蹈互联网、移动设备时代...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 前微软高管痛批公司 AI 战略失误：重蹈互联网、移动设备时代覆辙，投资与回报严重失衡 — IT之家 5 月 18 日消息，据科技媒体 Windows Latest 昨日报道，微软激进且耗资数十亿美元的 AI 战略，原本被外界认为注定成功。但在光鲜亮丽的发布会和庞大的基础设施投入背后，却呈现出截然不同的光景。 前微软高管 Mat Velloso 曾在公司履职 12 年，担任 Windows"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 上海移动宣布 5G-A 超级上行网络能力规模商用，推出 1 元 40 万 Tokens 通用服务 — IT之家 5 月 17 日消息，今日，“智能加码科创申城”中国移动上海公司世界电信日主题发布会在沪举行，会上集中发布四大核心成果：5G-A 超级上行网络规模商用、数智兴企计划落地、“AI 慧申活”民生服务升级、上海通信行业数据创新实验室揭牌。 发布会现场，上海移动率先宣布 5G-A 超级上行网络能力"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[36氪]** 2026年A股掀起“高端扩产潮”，AI与新能源领跑 — 2026年开年以来，A股上市公司接连披露大额扩产与年度投资计划。记者梳理发现，新能源、AI算力产业链以及半导体，是本轮扩产最为集中的几大方向。现金流充裕的龙头企业更多使用自有资金，定向增发则成为硬科技企业的主要融资渠道。尽管市场对周期性波动心存警惕，但多位业内人士认为，与前几轮扩产相比，这一轮扩张更"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 联想 IdeaPad 14Q8Y11 翻转笔记本发布：骁龙 X2 Plus 芯片，至高可选 32GB 内存 — IT之家 5 月 18 日消息，联想现已在海外市场推出 IdeaPad 14Q8Y11 翻转笔记本，新品最高可选 32GB 内存和 14 英寸 OLED 屏幕， 提供骁龙 X2 Plus 芯片 。 据介绍，这款笔记本搭载骁龙 X2 Plus X2P-42-100 芯片，具备 60Wh 电池，续航可达"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 无预算约束，OpenClaw 团队一个月烧掉 130 万美元 API 费用 — IT之家 5 月 17 日消息，奥地利开发者彼得・施泰因贝格尔（Peter Steinberger）是开源项目 OpenClaw 的缔造者，他于今年 2 月入职 OpenAI。上周五，他晒出一张自身 OpenAI 接口使用数据面板截图，显示其 30 天内的平台调用开销高达 1305088.81 美元"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 长鑫科技：一季度营收同比增 719.13%，净利润 330 亿元 — IT之家 5 月 17 日消息，今日，上交所披露长鑫科技集团股份有限公司科创板首次公开发行股票招股说明书（申报稿）。 IT之家从报告获悉，2026 年 1-3 月， 该公司营业收入 508 亿元，同比增长 719.13% ；净利润 330.11 亿元；归属于母公司所有者的净利润 247.62 亿元；"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 中国电信推出试商用 Token 套餐，最低每月 9.9 元 — IT之家 5 月 17 日消息，中国电信今日推出系列试商用 Token 套餐，IT之家整理主要内容如下。 一、面向开发者及中小微企业客户 ，提供“Token+ 连接 + 安全”一体化服务，推出三档 Token Plan 以及宽带上行提速包和安全防护包两种可选包服务。 价格：基础版、专业版、旗舰版三档"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 多只跨境ETF持续高溢价，基金公司频发风险提示 — 近期，全球芯片股持续走强，带动多只跨境科技类ETF获得资金热捧。然而在净值上涨的同时，部分产品的二级市场交易价格显著偏离基金实际净值，高溢价风险不断累积。尽管华泰柏瑞、景顺长城、国泰基金等多家基金公司密集发布溢价风险提示，甚至采取盘中停牌等措施，试图为市场降温，但以中韩半导体ETF为代表的跨境产品仍"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI 视频与多模态展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 71 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "多只跨境ETF持续高溢价，基金公司频发风险提示",
+   "url": "https://36kr.com/newsflashes/3813998406737417?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近期，全球芯片股持续走强，带动多只跨境科技类ETF获得资金热捧。然而在净值上涨的同时，部分产品的二级市场交易价格显著偏离基金实际净值，高溢价风险不断累积。尽管华泰柏瑞、景顺长城、国泰基金等多家基金公司密集发布溢价风险提示，甚至采取盘中停牌等措施，试图为市场降温，但以中韩半导体ETF为代表的跨境产品仍遭资金追逐，溢价率居高不下。业内人士提醒称，随着市场情绪退潮或套利机制生效，高溢价回落的风险不可忽视。（上证报）",
+   "published": "2026-05-17T23:53:59+00:00",
+   "age_label": "6分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "算力设施建设保持热度，上市公司开拓“算电协同”蓝海",
+   "url": "https://36kr.com/newsflashes/3814012488588806?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "阿里巴巴、腾讯最新发布的财报显示，它们的AI资本开支继续加大。AI算力需求驱动数据中心建设，算力设施的能源消耗成为无法忽视的问题。近日，国家发展改革委、国家能源局等部门印发《关于促进人工智能与能源双向赋能的行动方案》，促使“算电协同”成为市场热词，绿电、储能行业上市公司积极布局，以把握市场机遇。（中证报）",
+   "published": "2026-05-17T23:42:11+00:00",
+   "age_label": "18分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "2026年A股掀起“高端扩产潮”，AI与新能源领跑",
+   "url": "https://36kr.com/newsflashes/3814003663724038?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "2026年开年以来，A股上市公司接连披露大额扩产与年度投资计划。记者梳理发现，新能源、AI算力产业链以及半导体，是本轮扩产最为集中的几大方向。现金流充裕的龙头企业更多使用自有资金，定向增发则成为硬科技企业的主要融资渠道。尽管市场对周期性波动心存警惕，但多位业内人士认为，与前几轮扩产相比，这一轮扩张更加聚焦高端产能与技术升级。在明确的需求驱动下，扩产已成为头部企业争夺下一个技术窗口期的必然选择。（上证报）",
+   "published": "2026-05-17T23:35:12+00:00",
+   "age_label": "25分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "电子布需求旺盛，上市公司加速扩产",
+   "url": "https://36kr.com/newsflashes/3814000531398408?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "AI服务器等新兴需求持续增长，正推动电子布行业进入新一轮扩产周期。近期，多家上市公司密集披露电子布项目建设及产能投放计划，高端电子布成为其重点布局方向。本轮扩产热潮的核心驱动力来自AI算力基础设施建设。华源证券研报显示，随着人工智能技术的不断发展，AI服务器等产品对PCB（印制电路板）的层数、信号速度以及稳定性要求大幅提升，使得对低介电常数电子布等高性能电子布的需求不断增加。（证券日报）",
+   "published": "2026-05-17T23:27:59+00:00",
+   "age_label": "32分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0518：广汽董事长回应埃安被称“网约车之王”；英伟达黄仁勋痛斥将 GPU 比作核武器；9.9 元中国电信推出试商用 Token 套餐；AI 假图“仅退款”成风...",
+   "url": "https://www.ithome.com/0/951/589.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 18 日星期一，今天的重要科技资讯有： 1、广汽董事长冯兴亚回应埃安被称“网约车之王”：这是品质优势的体现 广汽集团董事长冯兴亚在轩辕汽车蓝皮书论坛上，对埃安品牌被称“网约车之王”作出回应。他认为，网约车作为生产资料，对车辆品质要求极高，能获得网约车司机认可恰恰证明了埃安的可靠性与舒适性。广汽将把相关运营经验延展至旗下各品牌。>> 查看详情 2、英伟达 CEO 黄仁勋怒斥将 GPU 比作核武器言论，并反对 AI 芯片出口管制 英伟达 CEO 黄仁勋在斯坦福大学线上讲座中，再次表达了对 AI 芯片出口管制的反对立场，认为限制措施适得其反。他...",
+   "published": "2026-05-17T23:24:32+00:00",
+   "age_label": "35分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
+   "url": "https://36kr.com/newsflashes/3813994525416969?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "上周，全球主要股指普遍回调，A股市场同样冲高回落，创业板指创下新高后调整，上证指数失守4200点。对于近期指数的震荡回落，券商策略研报认为，海外通胀超预期推升货币政策紧缩预期，对全球风险资产形成短期压制。但A股成交活跃度依然强劲，短期调整属于良性整固。受益于AI高景气与盈利持续兑现，后续资金有望向科技方向进一步集中。（上证报）",
+   "published": "2026-05-17T23:21:53+00:00",
+   "age_label": "38分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "股票策略私募积极掘金AI产业链",
+   "url": "https://36kr.com/newsflashes/3813993743458049?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "私募前4个月成绩单近日出炉。据私募排排网统计，有业绩记录的私募证券投资基金今年以来平均收益接近7%，其中股票策略私募基金平均收益“领跑”，5%分位数产品的年内收益更是高达32.42%。记者采访获悉，今年以来，以科技为主线的结构性行情持续演绎，带动了私募基金赚钱效应持续显现。多位业内人士认为，尽管近期科技板块波动有所加剧，但景气度向上、业绩向好的AI基础设施相关标的仍是接下来的重点配置方向，短期调整反而提供了布局良机。（上证报）",
+   "published": "2026-05-17T23:15:04+00:00",
+   "age_label": "45分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "前微软高管痛批公司 AI 战略失误：重蹈互联网、移动设备时代覆辙，投资与回报严重失衡",
+   "url": "https://www.ithome.com/0/951/588.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 18 日消息，据科技媒体 Windows Latest 昨日报道，微软激进且耗资数十亿美元的 AI 战略，原本被外界认为注定成功。但在光鲜亮丽的发布会和庞大的基础设施投入背后，却呈现出截然不同的光景。 前微软高管 Mat Velloso 曾在公司履职 12 年，担任 Windows AI 创新合伙人总监，并连续四年出任 CEO 纳德拉的技术顾问。目前他在 Meta 超级智能实验室工作，此前曾领导谷歌 DeepMind AI 开发者产品和业务，开发 Gemini API 和 Google AI Studio 等。 最近几个月，微软的举动可以说是令人震惊。Windows 和 Xb...",
+   "published": "2026-05-17T23:13:11+00:00",
+   "age_label": "47分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "警惕 AI 造谣传谣！“张家界大峡谷玻璃桥断裂垮塌”视频系伪造",
+   "url": "https://www.ithome.com/0/951/587.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 18 日消息，一条发布于 4 月 26 日的“湖南张家界大峡谷玻璃桥断裂垮塌”视频近期在网上流传，并迅速引发关注，视频画面看起来十分惊险，大量游客四处奔跑避险，有数名游客从桥面坠落。 这段 13 秒的视频里有坍塌声和尖叫声，配文是“没事就别总想着出去玩了，还是家里安全”，并加上了有关张家界的话题词。而据央视新闻报道，发布这则视频的马某某并不在张家界，他是用 AI 生成的虚假视频，而原始图片竟是他十年前在张家界大峡谷景区拍摄的。 IT之家注意到，目前相关虚假视频已全部下架清理， 嫌疑人马某某因涉嫌编造、故意传播虚假信息罪，被公安机关依法采取刑事强制措施 ，案件还在进一步侦办中。...",
+   "published": "2026-05-17T23:08:23+00:00",
+   "age_label": "52分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "为破解净值困局，部分“消费”基金转投科技",
+   "url": "https://36kr.com/newsflashes/3813984533782018?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近段时间以来，面对科技主线的持续强势与传统消费的低位震荡，不少以“消费”为标签的主题基金为破解净值困局，开始跨界重仓硬科技赛道。多只消费主题基金凭借“万物皆消费”的理念重仓人工智能（AI）板块，在业绩方面实现了领跑。不过，有基金经理坦言，科技板块的“虹吸效应”极大挤压了消费板块的流动性，对于部分追求净值排名的基金经理而言，博弈科技被视为一种无奈之举。虽然拥抱AI与半导体的调仓动作换来了短期的业绩修复，却也让自己站上了“风格漂移”争议的风口浪尖。（证券时报）",
+   "published": "2026-05-17T23:05:41+00:00",
+   "age_label": "54分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
+   "url": "https://sspai.com/post/109870",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年 OpenAI 与苹果关系紧张，或考虑诉讼 索尼回应 AI 相机助手越改越差，称只是修图建议 Anthropic 警告私下交易的股权可能无效 运营商回应「零月租」传言 微软重新允许自定义任务栏与开始菜单 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-05-17T22:56:55+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Netflix 成立 AI 工作室 INKubator，发力生成式动画短片",
+   "url": "https://www.ithome.com/0/951/584.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 18 日消息，据 The Verge 报道，Netflix 正在组建一个名为 INKubator 的全新内部工作室，旨在利用人工智能制作短篇动画内容。 根据最近发布的若干职位列表，这家流媒体巨头正在为 INKubator 招募各种职位的员工，包括制片人、软件工程师和 CG 艺术家。 报道称 INKubator 的长期技术战略将专注于“由生成式人工智能驱动的工作流、艺术家工具，以及可扩展、安全的多剧集环境”，这表明该项目远非一次性实验。另一份职位列表强调：“我们的目标是开发电影长片质量的内容。” Netflix 尚未公开宣布其针对 INKubator 的计划，职位列表中有时也将...",
+   "published": "2026-05-17T22:50:02+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "联想 IdeaPad 14Q8Y11 翻转笔记本发布：骁龙 X2 Plus 芯片，至高可选 32GB 内存",
+   "url": "https://www.ithome.com/0/951/583.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 18 日消息，联想现已在海外市场推出 IdeaPad 14Q8Y11 翻转笔记本，新品最高可选 32GB 内存和 14 英寸 OLED 屏幕， 提供骁龙 X2 Plus 芯片 。 据介绍，这款笔记本搭载骁龙 X2 Plus X2P-42-100 芯片，具备 60Wh 电池，续航可达 33 小时。内存可选 16GB 或 32GB LPDDR5X-9523，硬盘规格为 512GB/1TB M.2 2242 PCIe 4.0，支持 Wi-Fi 7 无线连接。 规格方面，该机提供两种屏幕选项，OLED 版本分辨率为 1200P，刷新率 60Hz，HDR 最高亮度可达 600nits，...",
+   "published": "2026-05-17T22:43:01+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+   "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+   "published": "2026-05-17T19:46:34+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "Elon Musk",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Revamped Siri will reportedly offer auto-deleting chats",
+   "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat...",
+   "published": "2026-05-17T18:40:28+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Apple",
+    "Apple Rumors",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p...",
+   "published": "2026-05-17T17:22:23+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Google",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+   "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+   "published": "2026-05-17T16:32:04+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "commencement speeches",
+    "Eric Schmidt",
+    "gloria caulfield"
+   ],
+   "image": ""
+  },
+  {
+   "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+   "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+   "published": "2026-05-17T16:05:00+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "Transportation",
+    "AI",
+    "General Motors",
+    "Rivian",
+    "RJ Scaringe"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Rowing through the fog: how to increase your tolerance for uncertainty",
+   "url": "https://www.theguardian.com/wellness/2026/may/17/author-simone-stolzoff",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Journalist Simone Stolzoff in a new book explores why modern life makes not knowing harder – and how to learn to live with it Simone Stolzoff describes himself as “naturally an uncertain person” inclined to rumination and self-doubt. This tendency benefits him in his work as a journalist, but can ot...",
+   "published": "2026-05-17T16:00:42+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "Well actually",
+    "Books",
+    "Life and style",
+    "Culture",
+    "AI (artificial intelligence)"
+   ],
+   "image": "https://i.guim.co.uk/img/media/bcac787c03f4a1c4f2b92da40f1d0b59b8e3b731/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=27bf955176bb2fd7aacb13220ccddd73"
+  },
+  {
+   "title": "古尔曼：苹果 iOS 27 将引入智能推荐 Genmoji 功能，基于相册照片与输入记录自动生成表情",
+   "url": "https://www.ithome.com/0/951/580.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，据马克・古尔曼在最新一期《Power On》中报道，苹果计划在 iOS 27 中推出一项实用的全新 Genmoji 功能来提升该功能的使用率：依托用户相册图库与键盘输入记录，智能推荐专属 Genmoji。 据IT之家了解，Genmoji 功能最早随 Apple Intelligence 功能首批落地，在 iOS 18.2 系统中正式上线。其核心用法十分简单：用户借助图像生成模型，输入简短文字指令，就能自定义制作任意风格表情，系统会依照输入内容，生成贴合原生表情画风的专属表情。该功能整体表现尚可，但偶尔也会出现生成效果严重不符预期的情况。 苹果在 iOS 26 中...",
+   "published": "2026-05-17T15:16:26+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "一只机器狗，把英伟达的算力王座拱翻了",
+   "url": "https://www.qbitai.com/2026/05/418969.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "人造劳动力，离普通家庭还有多远？",
+   "published": "2026-05-17T15:10:59+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：全新苹果 Siri 支持自动删除聊天记录功能",
+   "url": "https://www.ithome.com/0/951/579.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，预计在下月举办的 2026 苹果全球开发者大会（WWDC）上，苹果终将兑现其在人工智能版 Siri 上的诸多承诺，还将推出更多新功能。长期以来，苹果一直在研发一款全新的独立 Siri 应用，以此优化用户与 Siri 以及 Apple Intelligence 系统的交互体验，这款应用预计将于下月以测试版形式首发亮相。 据彭博社记者马克 · 古尔曼最新爆料，全新 Siri 应用将上线一项和 iMessage 上类似的隐私功能：聊天记录自动删除。他还透露，即便今年秋季正式面向大众推送，新版 Siri 依旧会标注测试版标识，这也与苹果以往部分功能的上线策略类似。 全新...",
+   "published": "2026-05-17T14:51:47+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "上海移动宣布 5G-A 超级上行网络能力规模商用，推出 1 元 40 万 Tokens 通用服务",
+   "url": "https://www.ithome.com/0/951/578.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，今日，“智能加码科创申城”中国移动上海公司世界电信日主题发布会在沪举行，会上集中发布四大核心成果：5G-A 超级上行网络规模商用、数智兴企计划落地、“AI 慧申活”民生服务升级、上海通信行业数据创新实验室揭牌。 发布会现场，上海移动率先宣布 5G-A 超级上行网络能力规模商用，通过“4.9GHz 帧结构调整”“补充上行 SUL”“上行三载波聚合”三项技术， 实现上行峰值达 1Gbps 、泛在覆盖稳达 20Mbps，核心城区、重点商圈、交通枢纽、文旅地标等高价值区域已完成优质覆盖。 通信网方面，上海移动完成本市天地一体化海洋通信专网核心能力验证， 率先打通国产大型...",
+   "published": "2026-05-17T14:51:44+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "618 预热大促 18 日大加码：AirPods 4 / Pro 3 官方 636 元起 7 天免费用，30 秒速读 518 攻略",
+   "url": "https://www.ithome.com/0/951/577.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次： 点此抽红包 淘宝 618 无门槛红包 面额至高 26888 元，每天抽 1 次： 点此抽红包 每天 10 秒 领红包，蚊子肉也是肉，节点开始越早抢红包金额越大，小伙伴可每天都领（多个红包支持叠加使用），积攒多天后带走个大件哦 ~ 京东领券 / 保价 京东超级 18 大促现已开启，仅限 5 月 17 日 20 点～ 18 日 24 点，可领 200-20 元全品类叠加券 + 白条 6 期免息券 + 抽至高 18 元无门槛红包： 点此领红包 。 京东 PLUS 每次大促时，都能用积分换不少好东西，例如 不定时 可 2 积分抢 8...",
+   "published": "2026-05-17T14:29:36+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "广汽昊铂 S600 全系搭载 Momenta 强化学习大模型：城市 + 高速领航辅助、长时间未控制自主靠边",
+   "url": "https://www.ithome.com/0/951/576.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，Momenta 今日宣布，广汽昊铂 S600 全系搭载 Momenta 强化学习大模型。 官方海报显示，广汽星灵智行 ADiGO GSD 3.0 智能驾驶辅助系统融合 Momenta R6 强化学习大模型，全系标配激光雷达， 全系搭载城市 + 高速领航辅助 。 此外，该车支持全场景智能泊车辅助，300+ 种停车位有位就能泊，支持记忆泊车辅助、代客泊车辅助， 长时间未控制自主靠边 。 广汽昊铂 S600 现已开启预售，定位“新豪华智慧运动 SUV”，共推出四款车型， 预售权益价 18.89 万起。 IT之家整理价格如下： EV 660 Max 官方预售价 20.9...",
+   "published": "2026-05-17T14:22:10+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "659 元，雷鸟 Q5AD YYDS 款 24.5 英寸 300Hz 电竞显示器预售",
+   "url": "https://www.ithome.com/0/951/572.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，今日，雷鸟 Q5AD YYDS 款 24.5 英寸 300Hz 电竞显示器上架预售，价格 659 元，5 月 20 日 20:00 开售。 IT之家从商品页面获悉，这款新品配备 24.5 英寸 FAST IPS 屏， 分辨率为 1920x1080 ，支持 1ms GTG 疾速响应、300Hz 超高刷、10.7 亿色、99% sRGB 、93% DCI-P3、400nits 峰值亮度、HDR 400 高动态解析。 新品采用雷鸟精调 MPRT-Plus 插帧频率算法，提供多档位消除画面视觉残留，减少拖影，画面动态更清晰。雷鸟精控 OD 调校，多档位适配画面运动场景。...",
+   "published": "2026-05-17T13:52:28+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "《Arc Raiders》销量突破 1600 万份，助 Nexon 创下营收与利润纪录",
+   "url": "https://www.ithome.com/0/951/570.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，Nexon 最新一季度财报披露，公司营收与利润创下历史新高，这一亮眼成绩很大程度上得益于《Arc Raiders》的大获成功。 撤离射击类游戏《Arc Raiders》是近年人气最高的新游戏之一。发售仅半年出头，其销量就已突破 1600 万份。早在今年 1 月，Embark 就官宣该游戏销量达 1200 万份；尽管 Nexon 预判其销量增速将会放缓，但该作在今年第一季度依旧卖出 460 万份。 Nexon 最新财报中写道：“2025 年 10 月全球上线的《Arc Raiders》热度持续不减，2026 年第一季度销量达 460 万份，自发售至 2026 年 ...",
+   "published": "2026-05-17T13:40:03+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Samsung vs. Motorola: I've tested dozens of phones from both brands - here's my choice",
+   "url": "https://www.zdnet.com/article/samsung-vs-motorola-phones/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Samsung and Motorola both make strong Android phones, but the better choice depends on your budget and more. Here's which one I'd choose and why.",
+   "published": "2026-05-17T13:00:45+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "特斯拉推送 FSD V14.3.3：智能召唤最高时速提升至 13 公里 / 小时",
+   "url": "https://www.ithome.com/0/951/566.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，特斯拉已推送 FSD V14.3.3（监督版）软件更新，此次更新包含了特斯拉重磅春季更新内容。 IT之家注意到，FSD 14.3.3 对应的软件版本号为 2026.14.6.6，不仅对整套自动驾驶系统进行了核心性能优化，还大幅提升了车辆在低速停车场内行驶的速度表现。 本次版本重点优化了智能召唤功能（ASS）。该功能可让车主在停车场内自主召唤车辆行驶至身边，如今这项功能终于上调了最高行驶时速。其最高行驶速度从此前的 6 英里 / 小时，提升至 8 英里 / 小时（约 13 公里 / 小时）。虽说数值涨幅不大，但首批用户反馈显示，提速后该功能在商超等人流密集的日常场...",
+   "published": "2026-05-17T12:55:01+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "上海启动全球首颗光计算卫星研制，未来将进行在轨验证",
+   "url": "https://www.ithome.com/0/951/556.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，5 月 15 日，浦江创新论坛“天算无界 · 光启未来”天基计算颠覆性技术和未来产业融合交流活动在上海举办。会上，上海东方天算科技有限公司与光本位智能科技（上海）有限公司宣布，联合建设天基光计算创新中心， 启动全球首颗天基光计算卫星的联合研制工作 。 IT之家从官方介绍获悉，东方天算专注太空新型计算体系、新型能源系统、新型通信传输系统、新型运维网络等领域技术研发与成果转化。 光本位科技 则专注光子计算与低功耗高性能计算领域，拥有自主光计算芯片架构、算力引擎与全栈系统方案，是推动天基光计算工程化落地的核心技术支撑方。 此前， 双方已联合开展光计算芯片太空先期验证 ...",
+   "published": "2026-05-17T12:27:54+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达 CEO 黄仁勋怒斥将 GPU 比作核武器言论，并反对 AI 芯片出口管制",
+   "url": "https://www.ithome.com/0/951/554.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，英伟达首席执行官黄仁勋受邀担任斯坦福大学《前沿系统》CS 153 课程客座讲师，讲解了当下支撑人工智能系统运行的各类硬件设备。这场 Youtube 线上讲座还谈及诸多话题，其中就包括他对于向敌对国家开放英伟达芯片使用权限所持的态度。众所周知，黄仁勋一直反对针对人工智能芯片出台出口管制措施，他直言这类管制举措已然失败，还彻底产生了适得其反的效果。 IT之家注意到，有人将人工智能芯片比作核武器，黄仁勋对此类类比十分反感，称其毫无道理可言。 这位英伟达 CEO 表示：“我从根本上就坚决反对这种说法，当下把英伟达图形处理器比作原子弹完全说不通。全球有数十亿人都在使用英伟...",
+   "published": "2026-05-17T12:05:47+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Roborock vs Ecovacs: Which robot vacuum should you buy?",
+   "url": "https://www.zdnet.com/article/roborock-vs-ecovacs/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I've tested dozens of robot vacuum brands, with Roborock and Ecovacs models consistently delivering market-leading performance. Here's how they compare.",
+   "published": "2026-05-17T12:00:46+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "支持 7 天试用：苹果 AirPods 4 / Pro 3 耳机直降，低至 636~1466 元",
+   "url": "https://www.ithome.com/0/951/553.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "需 88VIP 消费券 AirPods 4 官方定价 999 元、主动降噪版 1399 元，AirPods Pro 3 定价 1899 元。 今日天猫 Apple Store 官方旗舰店叠加 618 活动 + 88VIP 3000-400 元消费 券 后，皆为好价。 如果价格不对，耳机需领宝贝详情页 → 到天猫会场领取天猫券 → 领 480-50 元券。 AirPods Pro 3 定价 1899 元，今日凑单后实付 1462 元（目前渠道回收价 1580 元）： 天猫 Apple AirPods Pro 3 凑单后 1462 元 加购物车 1 件 直达链接 天猫 凑单品 下单后可立即退款 加...",
+   "published": "2026-05-17T12:00:39+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Chatbots at the drive-thru are just the beginning",
+   "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's ...",
+   "published": "2026-05-17T12:00:00+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "AI",
+    "Column",
+    "The Stepback"
+   ],
+   "image": ""
+  },
+  {
+   "title": "无预算约束，OpenClaw 团队一个月烧掉 130 万美元 API 费用",
+   "url": "https://www.ithome.com/0/951/549.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，奥地利开发者彼得・施泰因贝格尔（Peter Steinberger）是开源项目 OpenClaw 的缔造者，他于今年 2 月入职 OpenAI。上周五，他晒出一张自身 OpenAI 接口使用数据面板截图，显示其 30 天内的平台调用开销高达 1305088.81 美元（IT之家注：现汇率约合 890.9 万元人民币）。 这笔巨额费用涵盖 760 万次接口请求、总计 6030 亿个词元（token），全部由约 100 个 Codex 实例生成，这些实例由三人团队运营，负责开源的 OpenClaw 项目。施泰因贝格尔供职于 OpenAI，所有相关开销均由公司承担。数...",
+   "published": "2026-05-17T11:40:43+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "荣耀官宣萨维为全球首席跑步官",
+   "url": "https://www.ithome.com/0/951/546.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，5 月 17 日，荣耀正式宣布：人类历史上首位在两小时内完成马拉松正赛的肯尼亚长跑名将萨巴斯蒂安 · 萨维（Sabastian Sawe），正式出任“荣耀全球首席跑步官”。 当天下午，荣耀自研机器人“闪电”与“元气仔”走进南京大学，参与校园毕业季互动活动。活动现场，萨维通过视频方式向南大毕业生送上祝福，并向打破人类半程马拉松纪录的机器人“闪电”隔空致敬。 在视频中，萨维对中国机器人技术的飞速发展表达了惊叹。 他感叹道，人类将全马成绩推进至 2 小时以内耗费了 118 年，而立项仅 7 个月的荣耀“闪电”就已经刷新了人类的半马纪录。“人类与科技，从来不是谁取代谁 ...",
+   "published": "2026-05-17T11:31:37+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I replaced my Sonos Arc with Bose's Lifestyle Ultra soundbar for weeks - here's my verdict",
+   "url": "https://www.zdnet.com/article/bose-lifestyle-ultra-soundbar-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Bose's premium soundbar debuts with improvements under the hood, but it's reinventing itself in an already crowded field.",
+   "published": "2026-05-17T11:00:41+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+   "url": "https://www.qbitai.com/2026/05/418964.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "全球规模最大、参与人数最多的大学生超算赛事",
+   "published": "2026-05-17T10:21:56+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "ASC26",
+    "太初元碁",
+    "无锡"
+   ],
+   "image": ""
+  },
+  {
+   "title": "长鑫科技：一季度营收同比增 719.13%，净利润 330 亿元",
+   "url": "https://www.ithome.com/0/951/535.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，今日，上交所披露长鑫科技集团股份有限公司科创板首次公开发行股票招股说明书（申报稿）。 IT之家从报告获悉，2026 年 1-3 月， 该公司营业收入 508 亿元，同比增长 719.13% ；净利润 330.11 亿元；归属于母公司所有者的净利润 247.62 亿元；扣除非经常损益后归属于母公司所有者的净利润 263.41 亿元。 2026 年 1-3 月，受全球算力需求持续增长、全球主要厂商产能调配等因素影响， 全球 DRAM 产品供不应求 ，价格自 2025 年下半年以来持续呈现大幅上涨趋势，同时，随着公司产销规模的持续增长、产品结构的持续优化，公司营业收入...",
+   "published": "2026-05-17T10:03:28+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I tried ditching my laptop for a more futuristic setup - and found 5 surprising alternatives",
+   "url": "https://www.zdnet.com/article/i-ditched-laptop-for-xr-headset-tablet-phone-what-i-learned/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "From XR glasses to headsets to tablets, here's how various work systems fared over 30 days.",
+   "published": "2026-05-17T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 的“最后一公里”：本地执行与全场景硬件接入的下一代 Agent 中枢｜AICon上海",
+   "url": "https://www.infoq.cn/article/xV4rl7FWmONciZOiRyt9?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-17T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国电信推出试商用 Token 套餐，最低每月 9.9 元",
+   "url": "https://www.ithome.com/0/951/532.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，中国电信今日推出系列试商用 Token 套餐，IT之家整理主要内容如下。 一、面向开发者及中小微企业客户 ，提供“Token+ 连接 + 安全”一体化服务，推出三档 Token Plan 以及宽带上行提速包和安全防护包两种可选包服务。 价格：基础版、专业版、旗舰版三档 Token Plan， 每个月的资费价格分别为 39.9 元、159.9 元、299.9 元 ，分别对应每月 1500 万 Tokens 、7000 万 Tokens、1.5 亿 Tokens。 适用场景：融合中国电信星辰大模型和 GLM5 等国内主流大模型，整合自有及第三方算力资源，适配 AI ...",
+   "published": "2026-05-17T09:14:12+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The best NAS devices of 2026: Expert tested and reviewed",
+   "url": "https://www.zdnet.com/article/best-network-attached-storage/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The best NAS storage devices of 2026 offer effortless storage solutions for home and professional use. These are our favorites including hardware we use ourselves.",
+   "published": "2026-05-17T09:00:47+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+   "url": "https://www.qbitai.com/2026/05/418836.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "",
+   "published": "2026-05-17T08:55:21+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "资讯",
+    "首页轮播"
+   ],
+   "image": ""
+  },
+  {
+   "title": "马斯克为 SpaceX 超级控制权辩护：我必须确保让人类成为多行星物种",
+   "url": "https://www.ithome.com/0/951/529.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，埃隆・马斯克当地时间周五在社交平台 X 上发文提醒未来股东，虽说投资最终可能收获巨额回报，但入股 SpaceX 的投资者切莫指望前路一帆风顺，同时外界必须允许他专心推进人类多星球生存这一终极使命。 今年二月，马斯克在对内员工讲话中描绘了 SpaceX 的未来蓝图：打造太空弹射装置、建造环绕太阳的戴森球，以及研发能够汲取远古外星文明隐秘知识的人工智能。 换言之，如果你向往的是传统美式资本主义企业模式 —— 营收稳健、派发股息、顺应市场良性竞争，一如上世纪四十年代宣传影片里描绘的模样，那这家公司绝非合适的投资选择。 路透社上月发布报道称，SpaceX 设定的公司治理...",
+   "published": "2026-05-17T08:49:51+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "联想 moto razr 70 Ultra 小折叠檀棕椴木、雾绒紫薇配色亮相，5 月 19 日发布",
+   "url": "https://www.ithome.com/0/951/527.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，联想今日公布 moto razr 70 Ultra 小折叠手机檀棕椴木、雾绒紫薇配色外观视频，新品将于 5 月 19 日 19 点发布。 据介绍，这款新品搭载 骁龙 8 至尊版处理器 ，搭配第七代星轨转轴、超轻无痕钛合金铰链，后置 5000 万像素 Lofic 主摄，内置 5000mAh 高密度星海电池。 IT之家注意到，联想将于 5 月 19 日举行新品发布会，主题为“天禧 AI、一体多端，全场景新品超能之夜”。本次活动将发布多品类新品，包括联想 YOGA Air 14 Ultra 笔记本、联想拯救者新一代 Y70 手机、联想 AI 平板拯救者 Y900、联想...",
+   "published": "2026-05-17T08:43:23+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AMD 游戏引擎专利曝光：画个草图 AI 就能帮你做游戏",
+   "url": "https://www.ithome.com/0/951/524.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，人工智能已渗透游戏行业各个领域，索尼 PlayStation 近期也官宣计划全力深耕这项技术。 IT之家注意到，卡普空等一众企业同样在积极拥抱 AI 技术，而 AMD 一项新专利再度预示：人工智能或将彻底颠覆当下我们熟知的游戏形态。游戏资讯平台 Cheat Happens 发现的这份专利显示，AMD 未来有望推出一款完全依托人工智能打造的游戏引擎。 这份名为基于人工智能的游戏与渲染引擎的专利文件，阐述了 AMD 的研发思路：在打造逼真游戏画面的同时，大幅降低算力消耗。为此，AMD 计划运用神经外推、智能超采样等多项 AI 技术实现这一目标。 专利内容提到，研发人...",
+   "published": "2026-05-17T08:08:35+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
+   "url": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "‘He’s having a great time with his new 47% equity,’ one entrepreneur jokes, warning that some startups may leave Australia behind Get our breaking news email , free app or daily news podcast Tech entrepreneurs have mocked the government’s capital gains tax changes by posting AI-generated photos of A...",
+   "published": "2026-05-17T07:38:45+00:00",
+   "age_label": "16小时前",
+   "tags": [
+    "Tax",
+    "Technology",
+    "Business",
+    "Australia news",
+    "Anthony Albanese"
+   ],
+   "image": "https://i.guim.co.uk/img/media/bc5d892db4a82e2e8effccfcc801ebb0311a8180/0_103_1046_837/master/1046.jpg?width=140&quality=85&auto=format&fit=max&s=c2e8b64ebc5c94692de464b0e02b4f1b"
+  },
+  {
+   "title": "“中国半导体之父”张汝京谈国产设备发展之路：如果没有人使用国货，怎么会进步呢？",
+   "url": "https://www.ithome.com/0/951/515.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 17 日消息，在昨晚央视《对话》节目中，被称为“中国半导体之父”的中芯国际创始人张汝京谈起了国产设备发展之路。 他表示， 试新的设备一定会有风险 ，但是我们试的时候不会贸然试很多，就是小批量的，先试 5 片、25 片，再就是 50 片、100 片，而且时间蛮长的， 双方都要负责 。比如我们用中微的设备，设备给我们的时候，我们并没有付钱，这是中微投资者的，但是后面测试时，芯片就是我们自己负责，时间成本是我们负责， 大家配合很好以后成功了，这个投资绝对划得来 。 张汝京认为， 如果没有人使用国货，怎么会进步呢？ 不使用就不知道毛病在哪里，不知道毛病怎么改，也不要觉得我一试不好，不...",
+   "published": "2026-05-17T07:36:18+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+   "url": "https://36kr.com/p/3812925591887368?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单—— 一个月130万美元！ 也就是将近900万人民币/每月。直接把网友们看傻了。 OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。 Peter Steinberger 但截图上的数字，属实不淡定： 30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。 你没看错，是130万 美元 。也不是哪家大厂的季度AI...",
+   "published": "2026-05-17T06:08:32+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+   "url": "https://36kr.com/p/3812800346742274?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线 ，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达 6.4k 。 academic-research-skills 项目名叫 academic-research-skills （以下简称ARS），是一套Claude Code技能包。 里面涵盖4个skill，分别对应论文的 研究、写作、审稿、定稿 。 只需两行命令安装，直接一条龙串起整套学术研究流水线。 academic-research-skills 只能说，我读研的时候怎么没碰到这种好东西呢… 示意图 4个skill，跑通整套...",
+   "published": "2026-05-17T04:59:08+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+   "url": "https://www.qbitai.com/2026/05/418822.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "“但复杂需求还得Claude”",
+   "published": "2026-05-17T04:48:24+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "Agent",
+    "Codex",
+    "OpenClaw"
+   ],
+   "image": ""
+  },
+  {
+   "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+   "url": "https://www.qbitai.com/2026/05/418814.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "先把SFT挖的坑填了！",
+   "published": "2026-05-17T03:42:11+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "SFT",
+    "多模态大模型",
+    "模型训练"
+   ],
+   "image": ""
+  },
+  {
+   "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+   "url": "https://www.qbitai.com/2026/05/418737.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "费用参考也很透明",
+   "published": "2026-05-17T03:37:07+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "Claude Code",
+    "GitHub",
+    "论文"
+   ],
+   "image": ""
+  },
+  {
+   "title": "36氪首发 | 宠物健康大模型公司连融两轮，软硬一体化布局，已服务超200家宠物医院",
+   "url": "https://36kr.com/p/3812788568907520?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，宠物大模型健康公司重庆绮算法科技有限公司（以下简称“绮算法”）、智谱“Z计划”生态企业，近日完成数千万元融资，投资方为启赋资本与聚恒创投。本轮资金将主要用于产品迭代、模型能力深化及市场拓展。 绮算法成立于2022年7月，是一家聚焦宠物健康领域的大模型科技公司。依托多模态大模型能力，公司已打造一个融合线上线下、软硬件协同的宠物健康品牌。 绮算法创始人陈立毕业于英国国王学院，为Qlalgorithm Lab研究员，同时也是连续创业者；技术合伙人刘煜东为宾夕法尼亚大学博士，长期从事AI医疗方向研究；另一位技术合伙人邓子豪毕业于宾夕法尼亚大学，专注于新一代...",
+   "published": "2026-05-17T02:50:05+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The haves and have nots of the AI gold rush",
+   "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+   "published": "2026-05-16T20:17:16+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Startups",
+    "deedy das"
+   ],
+   "image": ""
+  },
+  {
+   "title": "又诞生一位千亿女富豪",
+   "url": "https://36kr.com/p/3813040859258373",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI围攻菜市场：算法驱赶“烟火气”",
+   "url": "https://36kr.com/p/3812960335388680",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+   "url": "https://36kr.com/p/3812925591887368",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了",
+   "url": "https://36kr.com/p/3812800346742274",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "年薪132万美元，黄仁勋儿女管的却不是芯片",
+   "url": "https://36kr.com/p/3811650641682697",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "A股千亿新“股王”，副总“摊上事了”？",
+   "url": "https://36kr.com/p/3811970383700231",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "ChatGPT 能替你管钱了，你敢把银行账户交给它吗？",
+   "url": "https://36kr.com/p/3811453763919369",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude为什么早晨8:30催你睡觉？",
+   "url": "https://36kr.com/p/3811413738594050",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "突发：OpenAI大规模重组，总裁Brockman夺权挂帅",
+   "url": "https://36kr.com/p/3811615591292680",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Image 2 × Seedance 2.0王炸组合：4套刷屏外网的玩法，提示词全在这了",
+   "url": "https://36kr.com/p/3811398798237187",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI已经开始伪造地方媒体了",
+   "url": "https://36kr.com/p/3810669040295427",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI打工人的“第一笔工资”：16.88美元",
+   "url": "https://36kr.com/p/3811405245947907",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "腾讯造了个“贾维斯”：替我签到改配置，还会打盹上厕所，一手实测来了",
+   "url": "https://36kr.com/p/3810669038853641",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "比Coding更大的东西，是什么？",
+   "url": "https://36kr.com/p/3810601052102405",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Hermes团队改写预训练：算力成本降六成，DeepSeek之后提效新路径",
+   "url": "https://36kr.com/p/3810440762547716",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
