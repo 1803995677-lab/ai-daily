@@ -1,0 +1,1892 @@
+{
+ "date": "2026-05-22",
+ "generated_at": "2026-05-22 08:00",
+ "total": 141,
+ "sources": [
+  "CNBC Tech",
+  "MIT Tech Review",
+  "The Guardian Tech",
+  "Google AI Blog",
+  "36氪",
+  "IEEE Spectrum",
+  "DeepMind Blog",
+  "InfoQ 中文",
+  "TechCrunch AI",
+  "NVIDIA Blog",
+  "量子位",
+  "36氪 AI",
+  "The Verge AI",
+  "Wired AI",
+  "ZDNet AI",
+  "Hacker News"
+ ],
+ "summary": {
+  "overview": "今日共采集 141 篇 AI 相关资讯（国内 50 篇，海外 91 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI 应用与商业化、机器人。最受关注：「Anthropic is paying $15 billio...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Anthropic is paying $15 billion a year for access to Elon Musk’s data centers — Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Mem"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Hark raises $700M Series A for its secretive ‘universal’ AI interface — Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Spotify is launching AI-generated remixes — Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and cover"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Anthropic says it’s about to have its first profitable quarter — Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over — SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI f"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[The Verge AI]** All of the updates from Elon Musk and Sam Altman’s battle over OpenAI — Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会 — 5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答中是否被提及、是否被推荐、排序是否靠前，正在成为新的竞争维度。36氪副总裁迟涵表示，36氪是最早发现"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[Wired AI]** Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates — In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI."
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI 应用与商业化展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 141 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "局部过热存风险隐忧，私募寻找策略新坐标",
+   "url": "https://36kr.com/newsflashes/3819679381787014?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近期，A股市场在相对高位展开震荡，内部结构的分化逐步扩大。以AI为核心的科技板块总体吸金，与非科技板块之间的“剪刀差”拉大。受访私募普遍认为，当前市场的结构性分化既有坚实的产业逻辑支撑，也暗含着局部过热的风险隐忧，而对这一分化的不同认知，正在催生从“聚焦进攻”到“攻守平衡”再到“逆向布局”的策略分化，一场围绕风险与机会的激辩正在股票私募领域悄然展开。（中证网）",
+   "published": "2026-05-21T23:38:47+00:00",
+   "age_label": "22分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "联想集团：第四财季收入216亿美元，同比增长27%",
+   "url": "https://36kr.com/newsflashes/3819678583067013?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，联想集团公告，2025/26年财政年度，集团全年收入同比增长20%，创831亿美元新高。剔除一次性重组费用、认股权证的非现金公允值收益、可换股债券的名义利息及其他非现金项目的影响后，经调整权益持有人应占溢利同比增长42%至20亿美元。于第四财季，收入达到216亿美元的历史新高，同比增长27%，创下过去五年来最高增速。人工智能相关收入同比增长84%，占集团总收入的38%。",
+   "published": "2026-05-21T23:37:59+00:00",
+   "age_label": "22分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信建投：资金抱团成市场常态，AI算力稀缺性延续",
+   "url": "https://36kr.com/newsflashes/3819676683735172?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信建投研报称，在高增长稀缺的宏观环境下，资金抱团现象正从阶段性交易演变为长期市场常态，驱动力从风格轮动转向“业绩增长确定性”。研究指出，AI算力因技术壁垒高、供需紧张，稀缺格局将持续，难以重走新能源行业产能过剩老路。然而，资金正反馈循环中，市场亟待接力资金入场，个人投资者的资金流入仍充满期待。投资者需关注业绩兑现度及产能投放节奏，同时警惕资本开支见顶信号。此外，分析认为，A股头部企业利润集中度仍有较大提升空间。",
+   "published": "2026-05-21T23:36:03+00:00",
+   "age_label": "24分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "光纤量价齐升，龙头公司掘金数据中心“算力底座”",
+   "url": "https://36kr.com/newsflashes/3819675136938370?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "AI数据中心建设热引发光纤行业“价格与需求齐升”。最近一年，传统光纤价格涨了6倍。在这轮浪潮中，多家光纤企业将目光转向数据中心，不再仅卖光纤，而是通过光模块等高端互联产品，实现从供应原材料到构建“算力底座”的战略升级。（上证报）",
+   "published": "2026-05-21T23:34:28+00:00",
+   "age_label": "26分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "每个企业都需要自己的 Token Factory？超聚变提出“智企”新范式",
+   "url": "https://www.infoq.cn/article/Zo1ZBl76YWyW6Eucq7eT?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T22:47:33+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Workday jumps 14% as it bumps up margin forecast on AI strength",
+   "url": "https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Workday's CEO says the company is seeing success in artificial intelligence.",
+   "published": "2026-05-21T21:44:06+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Job training for robots: How China is getting machines ready to join the workforce",
+   "url": "https://www.cnbc.com/2026/05/21/china-robots-humanoid-job-training.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Tesla CEO Elon Musk said on the company's fourth-quarter earnings call that China is the biggest competition for humanoid robots.",
+   "published": "2026-05-21T21:07:25+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+   "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
+   "published": "2026-05-21T20:44:53+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "Business",
+    "Business / Big Tech",
+    "Uncanny Valley Podcast",
+    "podcasts",
+    "Meta"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Roundtables: Can AI Learn to Understand the World?",
+   "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ...",
+   "published": "2026-05-21T20:41:05+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "Artificial intelligence",
+    "artificial intelligence",
+    "Roundtables",
+    "Subscriber-Only Stories"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Spotify and Universal Music agree deal to let subscribers create AI remixes",
+   "url": "https://www.theguardian.com/technology/2026/may/21/spotify-and-universal-music-agree-deal-to-let-subscribers-create-ai-remixes",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Licensing agreement will allow listeners to use AI to create content on streaming platform for first time Spotify and Universal Music Group have agreed on a deal that will allow subscribers to generate song covers and remixes using artificial intelligence. The licensing agreement is the first time t...",
+   "published": "2026-05-21T20:24:37+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "Spotify",
+    "AI (artificial intelligence)",
+    "Computing",
+    "Universal Music",
+    "Digital music and audio"
+   ],
+   "image": "https://i.guim.co.uk/img/media/7720a23fe78987213e79ec1cc44a07953edad891/0_398_4750_3801/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=2f9778f724918509b3b51f4e6ce4c03a"
+  },
+  {
+   "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+   "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ...",
+   "published": "2026-05-21T20:15:18+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Elon Musk",
+    "Law",
+    "News",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Spotify soars 13% after announcing AI music deal with UMG, guidance",
+   "url": "https://www.cnbc.com/2026/05/21/spotify-spot-stock-guidance-investor-day-ai.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Spotify, which is holding its first investor day in four years, is now under the direction of co-CEOs Gustav Söderström and Alex Norström.",
+   "published": "2026-05-21T20:02:31+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives themselves. In a procession of viral videos, 2026 commencement speakers like former Google CEO Eric ...",
+   "published": "2026-05-21T20:00:06+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Google showed me the future of Android Auto - and now I dread my own car",
+   "url": "https://www.zdnet.com/article/google-io-android-auto-demo/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The latest showcase of Android Auto highlighted key improvements to the user interface, map design, Gemini features, and more.",
+   "published": "2026-05-21T19:58:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "96% of IT pros use AI now: Their top 7 agentic applications and biggest implementation roadblocks",
+   "url": "https://www.zdnet.com/article/96-of-it-pros-use-ai-now-their-top-7-agentic-applications-and-biggest-implementation-roadblocks/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "A new study points to an emerging skill set that is becoming more valuable in the AI age: validating AI outputs.",
+   "published": "2026-05-21T19:57:42+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+   "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Microsoft has not made the Maia 200 chips available to customers, but they are used in the company's data centers, offering better efficiency than other silicon.",
+   "published": "2026-05-21T19:53:21+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+   "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+   "source": "DeepMind Blog",
+   "platform": "deepmind",
+   "summary": "",
+   "published": "2026-05-21T19:46:42+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
+   "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
+   "published": "2026-05-21T19:45:00+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "Media & Entertainment",
+    "AI",
+    "Apps",
+    "Spotify",
+    "ai music"
+   ],
+   "image": ""
+  },
+  {
+   "title": "How Sony nearly ruled spatial audio - until Apple changed music forever",
+   "url": "https://www.zdnet.com/article/sony-360-reality-audio-apple-streaming-music/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "At CES 2019, Sony dubbed its 360 Reality Audio the 'future of music.' Apple and Dolby had other plans.",
+   "published": "2026-05-21T19:26:09+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+   "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+   "published": "2026-05-21T19:19:05+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "evergreen",
+    "Google"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Scaling creativity in the age of AI",
+   "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representatio...",
+   "published": "2026-05-21T19:16:43+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "Artificial intelligence",
+    "sponsored"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Trump postpones AI executive order signing: 'I didn't like certain aspects'",
+   "url": "https://www.cnbc.com/2026/05/21/trump-ai-executive-order-postponed.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Trump said that AI is \"causing tremendous good,\" and he was concerned that the executive order \"could have been a blocker.\"",
+   "published": "2026-05-21T18:26:23+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Sadiq Khan sparks row with Met after blocking £50m AI deal with Palantir",
+   "url": "https://www.theguardian.com/uk-news/2026/may/21/london-mayor-sadiq-khan-blocks-met-police-deal-with-palantir",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Exclusive: Scotland Yard criticises London mayor’s decision as disappointing and warns it could hit policing Sadiq Khan has blocked a £50m Metropolitan police deal with the controversial US tech company Palantir, sparking a bitter row between the London mayor and Scotland Yard. After the UK’s larges...",
+   "published": "2026-05-21T18:07:40+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "Metropolitan police",
+    "Sadiq Khan",
+    "London politics",
+    "Palantir",
+    "London"
+   ],
+   "image": "https://i.guim.co.uk/img/media/58263c476c5d9d478efd0bb1b825a7b2744d09ed/335_78_1195_956/master/1195.jpg?width=140&quality=85&auto=format&fit=max&s=d8b42784bec9584fd9c74f705dc59f4b"
+  },
+  {
+   "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+   "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/ Comments URL: https://news.ycombinator.com/item?id=48226588 Points: 395 # Comments: 163",
+   "published": "2026-05-21T17:55:58+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+   "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+   "published": "2026-05-21T17:30:45+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "ai executive order",
+    "Trump"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Tesla brings 'Full Self-Driving (Supervised)' to China after years of delays as local EV rivals race ahead",
+   "url": "https://www.cnbc.com/2026/05/21/tesla-full-self-driving-china-launch-fsd.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Tesla's 'Full Self-Driving (Supervised)' capabilities are now available in China, the company said in an X post on Thursday, after years of delays.",
+   "published": "2026-05-21T17:24:28+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple, Sony, and Bose headphones are all on sale for Memorial Day - I found the best deals",
+   "url": "https://www.zdnet.com/article/best-memorial-day-headphones-deals-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Memorial Day deals on headphones are already live. These are my favorite options so far.",
+   "published": "2026-05-21T17:12:51+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Switch to adaptive chargers? My advice after testing low-power options for a year",
+   "url": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Adaptive charging aims to reduce battery wear by keeping speeds low, but are the optimizations worth it?",
+   "published": "2026-05-21T17:00:42+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This AI guitar pedal let me roll my own effects",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with a reputation for building niche, idiosyncratic devices. The company has built grooveboxes around ol...",
+   "published": "2026-05-21T17:00:00+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "Entertainment",
+    "Music",
+    "Reviews",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I found the best early Memorial Day phone deals: Save big on Samsung, Google, Apple and more",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-phones-deals-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "For Memorial Day, I've rounded up the best smartphone deals. Discounts are already live, so now is a great time to save.",
+   "published": "2026-05-21T16:54:22+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Home Depot and Lowe's have power tool deals for up to $400 off ahead of Memorial Day",
+   "url": "https://www.zdnet.com/article/best-early-power-tool-deals-memorial-day-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more.",
+   "published": "2026-05-21T16:30:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-outdoor-deals/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
+   "published": "2026-05-21T16:28:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI makes breakthrough on 80-year-old maths problem",
+   "url": "https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Company says work on Paul Erdős planar unit distance problem shows advance in AI reasoning OpenAI has claimed a further advance in AI reasoning after its technology successfully tackled an 80-year-old maths problem. The company behind ChatGPT said it had made a breakthrough with a challenge first po...",
+   "published": "2026-05-21T16:24:14+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "OpenAI",
+    "Sam Altman",
+    "Technology",
+    "US news",
+    "AI (artificial intelligence)"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ecbb6cb95ae2dab5c5835cff0dba641681d2c850/0_228_2283_1826/master/2283.jpg?width=140&quality=85&auto=format&fit=max&s=616d200707bbebe8fa844fda43f60382"
+  },
+  {
+   "title": "Best Buy and Amazon just dropped prices on SSDs ahead of Memorial Day - I found the best deals",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-ssd-deals/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Retailers like Amazon and Best Buy are offering steep discounts on high-capacity SSDs ahead of Memorial Day.",
+   "published": "2026-05-21T16:23:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Here we go again with Nvidia falling on earnings. What the sellers are missing",
+   "url": "https://www.cnbc.com/2026/05/21/here-we-go-again-with-nvidia-falling-on-earnings-what-the-sellers-are-missing.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Nvidia's stock is down again after earnings. The sellers are missing the bigger picture.",
+   "published": "2026-05-21T16:20:02+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Samsung's free 32-inch Odyssey monitor deal is back in stock - how to qualify",
+   "url": "https://www.zdnet.com/article/samsung-m9-odyssey-g7-bogo-deal-memorial-day-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Samsung's BOGO monitor deal is back. Here's what you need to know.",
+   "published": "2026-05-21T16:16:49+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Linus Torvalds on the AI claim that makes him angry, and what security researchers should never do",
+   "url": "https://www.zdnet.com/article/linus-torvalds-has-a-love-hate-relationship-with-ai/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Why Linux's creator sees AI as a double-edged sword for programmers.",
+   "published": "2026-05-21T16:15:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "These are the best early Memorial Day 2026 TV deals I've found so far",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-tv-deals/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Save hundreds on some of our most highly reviewed TVs from Samsung, LG, and more ahead of Memorial Day.",
+   "published": "2026-05-21T16:14:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Cloudflare与Stripe推出新协议，让AI智能体创建账号、购买域名和进行生产部署",
+   "url": "https://www.infoq.cn/article/TbgvhdcciqULlEEmFBbU?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T16:06:00+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "These Marshall ANC headphones might finally pull me away from Bose and Sony - here's why",
+   "url": "https://www.zdnet.com/article/marshall-milton-anc-first-look/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I've never been a big on-ear headphones guy, but the new Marshall Milton ANC might change my mind due to their unique connectivity features.",
+   "published": "2026-05-21T16:00:51+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
+   "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "At NVIDIA GTC Taipei at COMPUTEX, the world’s developers, researchers and industry leaders are converging to dive into the latest breakthroughs shaping every industry, covering topics spanning AI factories and scaling infrastructure to agentic and physical AI and more.",
+   "published": "2026-05-21T16:00:17+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Corporate",
+    "Artificial Intelligence",
+    "COMPUTEX 2026"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-rolling-blog-kickoff.jpg"
+  },
+  {
+   "title": "Spotify is launching AI-generated remixes",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add-on for Premium subscribers. Artists will be able to opt out of the program, but those who do partic...",
+   "published": "2026-05-21T15:54:03+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Entertainment",
+    "Music",
+    "News",
+    "Spotify"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I Cloned Myself With Gemini’s AI Avatar Tool. The Result Was Unnervingly Me",
+   "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I’m still creeped out.",
+   "published": "2026-05-21T15:48:24+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Gear",
+    "Gear / Gear News and Events",
+    "Google",
+    "artificial intelligence",
+    "Apps"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+   "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening history, as well as info from apps you connect to it, like your email inbox, calendar, and notes. Sp...",
+   "published": "2026-05-21T15:47:29+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Entertainment",
+    "News",
+    "Spotify"
+   ],
+   "image": ""
+  },
+  {
+   "title": "My favorite early Memorial Day deals: Save big on laptops, tablets, and more",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-deals-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Memorial Day is this weekend. These are the best deals we found so far, including price drops from Apple, Samsung, Hisense, Ninja, and more.",
+   "published": "2026-05-21T15:42:47+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "You can't install Deepin Desktop from the official Fedora repo anymore - here's why",
+   "url": "https://www.zdnet.com/article/deepins-security-issues-wound-up-being-a-bridge-too-far-for-one-of-the-biggest-distributions/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Once called the most beautiful Linux, Deepin Desktop was plagued by security issues. Here's why the distro's exile isn't all bad news.",
+   "published": "2026-05-21T15:41:18+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "词元时代，万物智能 | 摩尔线程2026产品发布会：打造全场景AI算力基石",
+   "url": "https://www.infoq.cn/article/R8aT75QB1XbqoF2Wojq8?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T15:37:39+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Altman拿Token换股权只够烧45天，20亿Token捐母校只值100块：Token真成“钱”了，谁更赚？",
+   "url": "https://www.infoq.cn/article/lTw6dfwe3e15fPEyBlZW?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T15:33:45+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I converted my Motorola Razr into a portable PC, and it was surprisingly capable",
+   "url": "https://www.zdnet.com/article/motorola-smart-connect-razr-fold-hands-on/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Motorola's Smart Connect software is superb, and gives me a practical option for working away from my desk.",
+   "published": "2026-05-21T15:30:41+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI video is moving beyond clip slop",
+   "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growing number of people on social media would like you to believe. Their purported proof: AI-generated c...",
+   "published": "2026-05-21T15:30:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Column",
+    "Entertainment",
+    "Lowpass"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Nvidia says it has ‘largely conceded’ China’s AI chip market to Huawei",
+   "url": "https://www.cnbc.com/2026/05/21/nvidia-jensen-huang-china-ai-chip-market-huawei.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Nvidia CEO Jensen Huang said the company has \"largely conceded\" China's advanced artificial intelligence chip market to Huawei.",
+   "published": "2026-05-21T15:29:51+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+   "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+   "published": "2026-05-21T15:27:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "AI audio",
+    "ai generated content",
+    "Spotify"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+   "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+   "published": "2026-05-21T15:27:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Media & Entertainment",
+    "audiobooks",
+    "ElevenLabs"
+   ],
+   "image": ""
+  },
+  {
+   "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
+   "url": "https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T15:23:49+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Microsoft won't send you SMS texts for login anymore - why it's pushing passkeys instead",
+   "url": "https://www.zdnet.com/article/microsoft-ditches-sms-texts-for-passkey-authentication/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Text messages are a weak, vulnerable way to authenticate account logins. Soon, you'll have to switch to one of these safer, more secure methods.",
+   "published": "2026-05-21T15:20:00+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国最神秘AI孵化器正式亮相：11位“大佬”导师成为超强外挂",
+   "url": "https://www.infoq.cn/article/odXlpi1FCUhDFC2gQ7W2?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T15:18:25+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Bloom Energy rises 12% after partnering with European AI infrastructure upstart in $2.6 billion deal",
+   "url": "https://www.cnbc.com/2026/05/21/bloom-energy-nebius-ai-infrastructure-firm-partnership.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Nebius said Wednesday that it would deploy Bloom's fuel-cell technology to generate electricity faster and more quickly at its data centers.",
+   "published": "2026-05-21T15:16:34+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "WiseTech begins redundancies – but omits ‘AI’ from emails to Chinese employees, workers say",
+   "url": "https://www.theguardian.com/technology/2026/may/22/wisetech-redundancies-australia-omits-ai-from-emails-to-chinese-employees",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "ASX-listed company announced in February it would lay off almost 30% of its 7,000-strong workforce across 40 countries Get our breaking news email , free app or daily news podcast Follow our Australia news live blog for latest updates WiseTech has begun informing staff that they will lose their jobs...",
+   "published": "2026-05-21T15:00:35+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Australia news",
+    "Technology",
+    "Technology sector",
+    "Job losses"
+   ],
+   "image": "https://i.guim.co.uk/img/media/c154a26d6a5682febab92b6a19b11365e6734008/470_0_2585_2069/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=b0cf5cbb91e3ebe7ad737993df9a5b45"
+  },
+  {
+   "title": "Strategy's Michael Saylor says tokenization will let investors 'shop' for yield",
+   "url": "https://www.cnbc.com/2026/05/21/strategys-michael-saylor-says-tokenization-will-let-investors-shop-for-yield.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Bitcoin evangelist Michael Saylor told CNBC's \"Squawk Box\" tokenization will pose a direct challenge to traditional banking and brokerage businesses.",
+   "published": "2026-05-21T14:51:08+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I found the 10 best early Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
+   "url": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Summer is almost here, and you can already find deals on all things Apple with these early Memorial Day weekend sales.",
+   "published": "2026-05-21T14:43:00+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI开源Symphony：面向自主编码智能体编排的SPEC规范文档",
+   "url": "https://www.infoq.cn/article/kmcvx8qNTQRYpPHVDq4B?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T14:39:00+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+   "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp...",
+   "published": "2026-05-21T14:30:45+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "Artificial intelligence",
+    "App",
+    "Summary"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The best early Memorial Day laptop deals: Save on Apple, Dell, Lenovo, and more",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-laptop-deals-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I've rounded up the best laptop deals live right now ahead of the holiday weekend.",
+   "published": "2026-05-21T14:30:00+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I found the best early Memorial Day Walmart deals: Apple, Dyson, and more on sale",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-walmart-deals/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Memorial Day is almost here, and Walmart has already slashed prices on top tech.",
+   "published": "2026-05-21T14:27:08+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "BT warns of smartphone price rises due to chip shortages from AI boom",
+   "url": "https://www.theguardian.com/business/2026/may/21/bt-smartphone-price-rises-chip-shortages-ai-boom",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Telecoms company CEO says tech firms are buying up memory chips to power datacentres relied on by AI BT has said the cost of smartphones could rise as technology companies buy up semiconductor chips because of the boom in artificial intelligence, putting pressure on supply chains. The telecoms compa...",
+   "published": "2026-05-21T14:05:29+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "BT",
+    "Telecommunications industry",
+    "Business",
+    "AI (artificial intelligence)",
+    "Smartphones"
+   ],
+   "image": "https://i.guim.co.uk/img/media/d9b2d86d10fcc0cbaca5fcec6f39c8562e75abbd/1319_212_4489_3592/master/4489.jpg?width=140&quality=85&auto=format&fit=max&s=da54e3bee495d7c01b28bc253b7f3102"
+  },
+  {
+   "title": "Musk v. Altman: Much ado about nothing",
+   "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day. Both Elon Musk and Sam Altman are big personali...",
+   "published": "2026-05-21T14:00:00+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Decoder",
+    "Elon Musk",
+    "Law",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+   "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+   "published": "2026-05-21T14:00:00+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Biotech & Health",
+    "Fundraising",
+    "calm"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
+   "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
+   "published": "2026-05-21T14:00:00+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Fundraising",
+    "AI assistants",
+    "AI hardware",
+    "hark"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+   "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
+   "published": "2026-05-21T13:52:23+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "AI agents",
+    "android halo",
+    "gemini"
+   ],
+   "image": ""
+  },
+  {
+   "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+   "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+   "published": "2026-05-21T13:38:42+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Climate",
+    "Aluminum",
+    "AMP Robotics",
+    "Exclusive"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI is just unauthorised plagiarism at a bigger scale",
+   "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/ Comments URL: https://news.ycombinator.com/item?id=48222383 Points: 741 # Comments: 639",
+   "published": "2026-05-21T13:38:12+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Shunning AI is the human choice",
+   "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually Comments URL: https://news.ycombinator.com/item?id=48222366 Points: 345 # Comments: 494",
+   "published": "2026-05-21T13:36:06+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+   "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO filing, we have more details about that deal, including how much Anthropic is paying to Elon Musk's co...",
+   "published": "2026-05-21T13:35:52+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Business",
+    "Elon Musk",
+    "News"
+   ],
+   "image": ""
+  },
+  {
+   "title": "氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》",
+   "url": "https://36kr.com/p/3816942732133510?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "大公司： SpaceX据悉计划五年内实现每年1万次发射 据美国联邦航空管理局（FAA）局长周三透露，SpaceX正抛出一个宏大的计划，即在五年内实现每年10000次发射。但该机构对此表示，在批准此类扩张计划之前，政府官员需要看到其可靠性有所提升。今年1月，SpaceX公司还曾表示，其计划发射并组建一个由100万个卫星组成的星座，这些卫星将环绕地球运行，并利用太阳为人工智能数据中心供电。（财联社） 阿里股东信释放信号，即时零售已成为淘宝天猫核心战略支柱 5月20日，阿里巴巴集团主席蔡崇信与首席执行官吴泳铭联合发布致股东信。信中称，即时零售已成为淘宝和天猫平台升级的核心战略支柱。“我们看到即时零售...",
+   "published": "2026-05-21T13:14:15+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Ubuntu拥抱本地AI，而非云优先的操作系统集成",
+   "url": "https://www.infoq.cn/article/qwTieOTecFAqQGbMRT2w?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T13:04:00+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "SpaceX's IPO, Nvidia earnings, Bezos on the AI bubble and more in Morning Squawk",
+   "url": "https://www.cnbc.com/2026/05/21/5-things-to-know-before-the-market-opens.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Here are five key things investors need to know to start the trading day.",
+   "published": "2026-05-21T12:21:16+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Download: online safety’s future and climate tech’s big pivot",
+   "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who stu...",
+   "published": "2026-05-21T12:10:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "The Download"
+   ],
+   "image": ""
+  },
+  {
+   "title": "企业级Agent 落地，绕不开的 4 个工程问题",
+   "url": "https://www.infoq.cn/article/qKW5Yu1ORiqMmX6mlLJ6?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T11:49:21+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818927367046018?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。 新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。 以下为演讲内容，经36氪整理编辑： 颉晶华丨新石器无人车联合创始人兼CPO 各位好，我是新石器的颉晶华，很荣幸跟大家介绍新石器和我们在AI方面的应用与思考。 八年前新石器公司创立，到如今已经成长为全...",
+   "published": "2026-05-21T10:55:09+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818903062004870?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "AI在工业制造领域，不是“锦上添花”的辅助工具，而是“重新设计工厂”的核心引擎。从AOI报废板的秒级识别，到刀具参数的动态优化，再到打通设计、生产、供应链的全链路智能——这场对话告诉我们，每1%的效率提升都是真金白银，AI的价值不是叠加功能，而是把“人等货”变成“货等人”。 演讲拆解了AI从概念到产线的落地路径：用自动化中台打通全链路协同，让AI在研发设计、工程预测、供应链管理、生产执行四个领域实现可量化的提效。针对不同制造业企业，给出分层方案。AI不是在某个环节帮你做得更好，而是从原生流程开始，重新定义制造业的生产力基准。 以下为嘉立创云ERP负责人 杨超 演讲内容，经36氪整理编辑： 杨超...",
+   "published": "2026-05-21T10:29:53+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818889074557829?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "当Robotaxi还在为L4苦苦挣扎时，酷哇的环卫机器人、无人小巴、机器狗已经在50多个城市“上岗”赚钱了。 具身智能最大的瓶颈不是算法，而是数据——没有量产就没有数据，没有数据就无法进化。酷哇的解法是“以战养战”：让机器人在真实运营中一边干活一边成长，用万台规模反哺模型迭代。李柯宏强调，中国是全球少有的支持机器人规模化应用的市场，酷哇正依托“一带一路”先行布点，用真实的运营数据驱动具身智能的持续进化。 以下为酷哇科技联合创始人、COO 李柯宏 演讲内容，经36氪整理编辑： 李柯宏丨酷哇科技联合创始人、COO 非常感谢36氪和亦庄的邀请，今天我分享的主题是：作为一家以统一世界模型驱动的具身智能...",
+   "published": "2026-05-21T10:15:31+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818877539091333?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "5月19日，2026北京亦庄AI+产业大会上，36氪与PureblueAI清蓝正式达成战略合作，并联合发布《2026消费品牌AI推荐力名册》。随着AI逐渐成为新的信息入口和消费决策入口，品牌在AI回答中是否被提及、是否被推荐、排序是否靠前，正在成为新的竞争维度。36氪副总裁迟涵表示，36氪是最早发现和报道GEO的媒体，PureblueAI清蓝在自研技术算法和“科学GEO”方法论上的积累令其成为可信的合作伙伴。PureblueAI清蓝市场副总裁李铭则用“最敏锐的商业洞察和最硬核的AI营销技术的融合”来形容此次合作，并透露该名册将分期、分行业持续发布，为品牌在AI时代提供“AI语境下的体检报告和风...",
+   "published": "2026-05-21T10:03:58+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Future of Physical AI Isn’t Smarter Robots, It’s Smarter Interfaces",
+   "url": "https://spectrum.ieee.org/wetour-robotics-physical-ai-human-interfaces",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "This sponsored article is brought to you by Wetour Robotics . A field technician on a wind turbine, harness clipped, both hands on a wrench, needs to send a command to the diagnostic device hanging at her belt. A logistics worker on a loading dock, gloves on, eyes on the pallet, needs to redirect a ...",
+   "published": "2026-05-21T10:00:02+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Interfaces",
+    "Physical-ai",
+    "Robot-hardware",
+    "Smarter-robots"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/hands-controlling-speaker-light-bulb-and-drone-against-minimalist-white-walls.jpg?id=66718902&width=980"
+  },
+  {
+   "title": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+   "url": "https://events.bizzabo.com/868497/home",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "Discover how the ZEISS Crossbeam 750 FIBSEM sets a new benchmark for precise TEM lamella prep, tomography, and advanced nanofabrication. This delivers better resolution, better SNR, larger usable FOV, and shorter acquisition times. Learn how uninterrupted FIB milling will reduce damage and rework, a...",
+   "published": "2026-05-21T10:00:02+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Type-webinar",
+    "Semiconductors",
+    "Nanofabrication",
+    "Optics"
+   ],
+   "image": "https://assets.rbl.ms/66728517/origin.png"
+  },
+  {
+   "title": "腾讯混元世界模型的研发布局与思考｜AICon上海",
+   "url": "https://www.infoq.cn/article/4j0EEB3WoPsHJXUHubVR?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "'Europe doesn't realize how dangerous it is': Telecoms CEO warns of U.S. dominance in satellites, AI",
+   "url": "https://www.cnbc.com/2026/05/21/starlink-spacex-satellites-telecoms-europe-dangerous-bouygues-ceo.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Europe is vulnerable with a non-state actor like Starlink having the power to switch off the continent's connectivity.",
+   "published": "2026-05-21T09:55:54+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "腾讯混元开源全新翻译模型Hy-MT2 ，上线小程序「腾讯Hy翻译」",
+   "url": "https://www.qbitai.com/2026/05/422068.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "最大提升体现在指令遵循能力上",
+   "published": "2026-05-21T09:48:42+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "AI翻译",
+    "腾讯混元"
+   ],
+   "image": ""
+  },
+  {
+   "title": "阿里发布新一代千问旗舰模型Qwen3.7-Max，登顶最佳国产模型",
+   "url": "https://www.infoq.cn/article/jAICqmzYVqQ8sHdGSzEH?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T09:47:10+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+   "url": "https://www.qbitai.com/2026/05/422032.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "125页“令人恐惧”的推演",
+   "published": "2026-05-21T09:36:23+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "OpenAI",
+    "数学"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Throwing AI-generated walls of text into conversations",
+   "url": "https://noslopgrenade.com/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://noslopgrenade.com/ Comments URL: https://news.ycombinator.com/item?id=48219992 Points: 470 # Comments: 280",
+   "published": "2026-05-21T09:31:15+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
+   "url": "https://www.qbitai.com/2026/05/422001.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "AI会放大“自嗨”，解药只有交付结果",
+   "published": "2026-05-21T09:27:25+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "AI Coding",
+    "AI漫剧",
+    "AI编程",
+    "短剧"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meta lays off thousands of employees to offset AI investments",
+   "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"...",
+   "published": "2026-05-21T09:20:46+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "AI",
+    "Business",
+    "Meta",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Artificial Analysis放榜：千问3.7问鼎国产模型冠军，全球前五",
+   "url": "https://www.qbitai.com/2026/05/422009.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "Qwen3.7-Max即将上线阿里云百炼对外提供API服务",
+   "published": "2026-05-21T09:16:12+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "千问"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
+   "url": "https://www.qbitai.com/2026/05/422002.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "加快实现‘双碳’目标。",
+   "published": "2026-05-21T09:14:23+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "达摩院"
+   ],
+   "image": ""
+  },
+  {
+   "title": "把确定性，写进农业：四个外行、两次失败、三千万学费换来的答案| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818800487679111?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "两次失败、三千万学费——创业没有爽剧剧本，这是陆渔科技深耕农业AI真实的“入场券”。当99%的人还在用AI写文案、做设计时，有人把它扔进了鱼塘，只为解决一个最朴素的问题：不确定性。 鲁敏用18年IT男转型“新农民”的经历，揭开了水产养殖最残酷的真相：1.38万亿的市场，数字化渗透率不足5%，一叶方塘，百万归零。这场分享没有宏大叙事，只有从黑箱到白盒、从赌运气到算数据的血泪教训：农业要的不是快，是确定性。 以下为陆渔科技联合创始人、首席技术官 鲁敏 演讲内容，经36氪整理编辑： 鲁敏丨陆渔科技联合创始人、首席技术官 首先感谢36氪的邀请来参加在北京亦庄举行的AI Partner行业大会，我是陆渔...",
+   "published": "2026-05-21T09:01:52+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从算力到价值：AI时代的基础设施重构与产业增长新引擎| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3817502775329667?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "token经济如何重塑AI产业链？从芯片到智算中心，从模型服务到终端应用，token正在成为贯穿全链的计价单位。而当推理算力需求超越训练，智算中心的角色正从算力仓库变为token工厂，一个万亿级市场的大门刚刚打开。 token正在成为AI时代的新质生产力单位。宋琛指出，随着Agent成为新交互入口，单次任务token消耗已从几千飙升至百万级别，而中国token调用量已占全球61%。在这一趋势下，AI基础设施的竞争焦点正在从“谁的模型参数更大”转向“谁能以更低成本支撑海量token流转”。英博数科的定位正是“token工厂”的全栈构建者——不做模型，不卖应用，而是提供从规划设计到软硬一体交付的智...",
+   "published": "2026-05-21T08:54:17+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "开场致辞 建设“全域人工智能之城” | 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818784445465731?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "AI的聚光灯正从炫酷的C端应用，转向轰鸣的工厂、无声的手术室和奔跑的人形机器人。当“落地”成为当下的关键词，2026北京亦庄AI+产业大会吹响了“走！带着AI去前线”的号角，在产业第一线求解人工智能的真实生产力。我们记录下这场务实者的聚会，捕捉那些让技术扎根泥土的坚定声音。 5月19日，2026北京亦庄AI+产业大会在亦庄启幕。大会由北京经开区管委会指导、36氪主办、国家信创园承办，告别高台论道，将议题直接对准工厂、医院、社区、田间地头的真实战场。北京经开区管委会副主任陈建民为大会开幕致欢迎辞，介绍了这座“全域人工智能之城”如何将AI从“热点”变成“日常”。 以下为致辞原文： 陈建民丨北京经开...",
+   "published": "2026-05-21T08:51:34+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AMD to invest $10 billion in Taiwan's AI industry to advance top-end chips",
+   "url": "https://www.cnbc.com/2026/05/21/amd-taiwan-ai-chips-sector-10-billion.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "AMD's investments will focus on partnerships with companies to \"advance\" chip packaging and manufacturing required for next-generation AI infrastructure.",
+   "published": "2026-05-21T08:12:07+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "开场致辞 从技术狂欢到价值深水区 | 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818651789182080?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "AI叙事不再是颠覆一切，真正值得关注的是那些沉默的行业壁垒和经验能否被智能照亮。 四年间，这场大会从趋势观察走向落地实践，36氪也从AI的观察者转型为助推者。36氪CEO冯大刚在2026北京亦庄AI+产业大会的开场中，为焦虑的商业世界开出一剂解药，AI不是一家公司的机会，而是千行百业的机会。两天会期、六七十位实操嘉宾、一个让供需双方面对面碰撞的舞台，这里不谈虚的概念，只讲做成了没有。我们记录下这段冷静而笃定的开场白，在技术狂欢中找回商业的常识与本位。 以下为开场演讲内容，经36氪整理编辑： 冯大刚｜36氪CEO 尊敬的北京经开区管委会领导各位领导、各位嘉宾、各位新老朋友： 大家好，欢迎来到20...",
+   "published": "2026-05-21T08:10:17+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-21T08:00:00+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "SoftBank Group shares soar 20% as Nvidia earnings signal strong AI momentum",
+   "url": "https://www.cnbc.com/2026/05/21/softbank-asia-tech-stocks-nvidia-earnings.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "SoftBank Group is closely tied to the AI boom through its stake in Arm Holdings, whose chip designs are used in AI servers and data centers powered by Nvidia systems.",
+   "published": "2026-05-21T07:24:02+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
+   "url": "https://www.qbitai.com/2026/05/421697.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "周日来北京线下揭秘",
+   "published": "2026-05-21T06:52:17+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "AI Agent",
+    "上海交大AI教授",
+    "公开课"
+   ],
+   "image": ""
+  },
+  {
+   "title": "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
+   "url": "https://www.qbitai.com/2026/05/421694.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "全场景数据、全链条服务助力AI大模型高效迭代",
+   "published": "2026-05-21T06:46:02+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "如祺出行"
+   ],
+   "image": ""
+  },
+  {
+   "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
+   "url": "https://www.qbitai.com/2026/05/421691.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "核心观点都在这了~",
+   "published": "2026-05-21T05:37:24+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI frenzy sees these European stocks gain over 100% this year in blockbuster rally",
+   "url": "https://www.cnbc.com/2026/05/21/ai-frenzy-european-stocks-rally-nokia-aixtron.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Europe has long lagged behind the U.S. and China in AI, but these stocks are riding the wave of investor interest.",
+   "published": "2026-05-21T05:00:01+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "顺丰邮政仓库干活的机器人，顺手拿了个具身高考第一",
+   "url": "https://www.qbitai.com/2026/05/420918.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "RoboChallenge榜首易主，清华系玩家加冕。",
+   "published": "2026-05-21T04:40:28+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI to confidentially file for IPO as soon as Friday",
+   "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html Comments URL: https://news.ycombinator.com/item?id=48217052 Points: 137 # Comments: 3",
+   "published": "2026-05-21T02:24:35+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "刚刚，马斯克公开SpaceX招股书！",
+   "url": "https://www.qbitai.com/2026/05/420761.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "头一回见财报像海报的",
+   "published": "2026-05-21T01:37:04+00:00",
+   "age_label": "22小时前",
+   "tags": [
+    "资讯",
+    "马斯克"
+   ],
+   "image": ""
+  },
+  {
+   "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+   "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
+   "published": "2026-05-21T00:43:13+00:00",
+   "age_label": "23小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "xAI",
+    "SpaceX",
+    "IPOs"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Intuit to lay off over 3k employees to refocus on AI",
+   "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/ Comments URL: https://news.ycombinator.com/item?id=48216278 Points: 250 # Comments: 185",
+   "published": "2026-05-21T00:36:01+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+   "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+   "published": "2026-05-21T00:28:31+00:00",
+   "age_label": "23小时前",
+   "tags": [
+    "AI",
+    "Enterprise",
+    "TC",
+    "cpus",
+    "nvidia"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic says it’s about to have its first profitable quarter",
+   "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+   "published": "2026-05-21T00:21:21+00:00",
+   "age_label": "23小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Claude",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers",
+   "url": "https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The investment comes as Elon Musk’s AI unit faces complaints about the carbon-emitting units and looks to become a big player in cloud computing.",
+   "published": "2026-05-20T23:30:06+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Elon Musk",
+    "xAI",
+    "Grok"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic set to hit $10.9 billion in revenue during second quarter, source says",
+   "url": "https://www.cnbc.com/2026/05/20/anthropic-revenue-explosive-growth-ipo-profitable-quarter.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "If Anthropic hits the revenue target, it will post its first profitable quarter, a source told CNBC",
+   "published": "2026-05-20T23:25:28+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "SpaceX is poised to be the biggest IPO ever. Here are the top U.S. deals to date",
+   "url": "https://www.cnbc.com/2026/05/20/spacex-is-the-biggest-ipo-ever-these-debuts-also-set-records.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Before SpaceX's upcoming IPO sets an expected record, Alibaba, Facebook and Visa raised historic sums in the U.S.",
+   "published": "2026-05-20T22:58:32+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Nvidia’s revenue blows past Wall Street expectations as AI boom accelerates",
+   "url": "https://www.theguardian.com/technology/2026/may/20/nvidia-revenue-ai-boom",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Many analysts view company’s financial performance as a broader referendum on AI buildout Nvidia continued its years-long streak of beating Wall Street’s expectations for growth on Wednesday, reassuring most investors that the AI boom, particularly the global explosion of datacenters, will continue ...",
+   "published": "2026-05-20T22:45:58+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Nvidia",
+    "Quarterly results",
+    "Technology",
+    "Business",
+    "China"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ff328a9939e819378c3b4d3f722390becf056079/779_0_5598_4481/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=21b26ad613acd394347d8dd9b9302670"
+  },
+  {
+   "title": "Jim Cramer says the world of tech investing has changed and it's not going back",
+   "url": "https://www.cnbc.com/2026/05/20/jim-cramer-says-the-world-of-tech-investing-has-changed-and-its-not-going-back.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC's Jim Cramer said semiconductor and AI infrastructure stocks have replaced software as the market's technology leaders.",
+   "published": "2026-05-20T22:41:07+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Intuit plans to cut workforce by about 17% as tax software maker reckons with slowing growth",
+   "url": "https://www.cnbc.com/2026/05/20/intuit-intu-q3-earnings-report-2026-company-cutting-17percent-of-staff.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Intuit's stock has been hammered this year as investors worry that generative artificial intelligence models could threaten software companies.",
+   "published": "2026-05-20T22:35:41+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Clouted wants to take the guesswork out of making short videos go viral",
+   "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
+   "published": "2026-05-20T22:30:45+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Media & Entertainment",
+    "Startups",
+    "Clouted",
+    "Marketing"
+   ],
+   "image": ""
+  },
+  {
+   "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
+   "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+   "published": "2026-05-20T22:26:08+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Space",
+    "Elon Musk",
+    "Grok",
+    "SpaceX"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+   "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+   "published": "2026-05-20T22:03:51+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "earnings",
+    "Jensen Huang",
+    "nvidia"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
+   "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+   "published": "2026-05-20T21:55:49+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Climate",
+    "air pollution",
+    "data centers",
+    "Elon Musk"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Cloudflare CEO on how he chooses which employees to replace with AI",
+   "url": "https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.wsj.com/opinion/how-i-choose-which-cloudflare-employees-to-replace-with-ai-40a197e5 Comments URL: https://news.ycombinator.com/item?id=48214617 Points: 107 # Comments: 42",
+   "published": "2026-05-20T21:45:57+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic will pay xAI $1.25B per month for compute",
+   "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+   "published": "2026-05-20T21:29:22+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "colossus",
+    "data centers",
+    "SpaceX"
+   ],
+   "image": ""
+  },
+  {
+   "title": "We’re announcing new community investments in Missouri.",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+   "source": "Google AI Blog",
+   "platform": "google",
+   "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+   "published": "2026-05-20T20:40:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Google.org",
+    "Global Network",
+    "Creating opportunity",
+    "AI"
+   ],
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp"
+  },
+  {
+   "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+   "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+   "published": "2026-05-20T20:28:27+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "ChatGPT",
+    "erdos problems",
+    "OpenAI",
+    "reasoning models"
+   ],
+   "image": ""
+  },
+  {
+   "title": "拒绝“Token刷分”：别让你的公司在AI幻觉里集体“大脑萎缩”",
+   "url": "https://36kr.com/p/3793573756394754",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "同一天，谷歌和阿里说了什么？",
+   "url": "https://36kr.com/p/3818980797466243",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI东风，能送长鑫上万亿市值吗？",
+   "url": "https://36kr.com/p/3818972597142664",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "为了还原具身智能科研市场的全貌，我们找了多个头部高校聊聊",
+   "url": "https://36kr.com/p/3818909512687875",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 错杀之后，美股软件板块短暂反弹还是彻底反转？",
+   "url": "https://36kr.com/p/3818942804050823",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "宇树科技的同行冲击IPO，由90后哈工大博士带领，腾讯、深创投入股",
+   "url": "https://36kr.com/p/3818940918727810",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“一人公司”火了，谁靠AI员工挣到第一桶金？",
+   "url": "https://36kr.com/p/3818829160170633",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "断供OpenAI，Anthropic买下全球1/4开发者都在用的工具商",
+   "url": "https://36kr.com/p/3818940869280643",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI助手们，骗了人不能只说“对不起”",
+   "url": "https://36kr.com/p/3818881466844290",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818927367046018",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI首次证明数学核心猜想：80年的经典难题，被OpenAI搞定了",
+   "url": "https://36kr.com/p/3818861367198851",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从概念到产线一：AI在工业制造领域的深水区探索| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818903062004870",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "历史性突破，OpenAI模型搞定人类科学家80年未破难题，能发顶刊了",
+   "url": "https://36kr.com/p/3818803831538817",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "城市级AI服务：从试点到常态化，机器人的实景作战与规模化落地| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818889074557829",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "36氪x PureblueAI清蓝战略合作启动仪式暨《2026消费品牌AI推荐力名册》发布 | 2026 AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3818877539091333",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
