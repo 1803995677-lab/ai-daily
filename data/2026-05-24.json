@@ -1,0 +1,844 @@
+{
+ "date": "2026-05-24",
+ "generated_at": "2026-05-24 08:00",
+ "total": 67,
+ "sources": [
+  "The Verge AI",
+  "36氪",
+  "ZDNet AI",
+  "量子位",
+  "InfoQ 中文",
+  "36氪 AI",
+  "TechCrunch AI",
+  "CNBC Tech",
+  "IT之家"
+ ],
+ "summary": {
+  "overview": "今日共采集 67 篇 AI 相关资讯（国内 31 篇，海外 36 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI 视频与多模态、AI 应用与商业化。最受关注：「消息称 Anthropic 最快下周完成逾 300 亿美元融...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 消息称 Anthropic 最快下周完成逾 300 亿美元融资，有望推动估值反超 OpenAI — IT之家 5 月 23 日消息，据彭博社 23 日（今天）凌晨援引知情人士消息称，Anthropic 即将完成新一轮超大规模融资，最快可能下周敲定，总额 预计超过 300 亿美元 （IT之家注：现汇率约合 2042.38 亿元人民币），公司估值则有望突破 9000 亿美元。 一旦交易完成，Anthr"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资 — 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。 维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAI"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目 — 作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。 招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 地平线：大众与众 06/07 车型年底将推出酷睿程高阶辅助驾驶版本 — IT之家 5 月 23 日消息，今日，大众汽车集团迎旗下焕新与众 06、全新与众 07 双车正式上市并启动交付，两款车型将率先搭载基于征程 ® 6M 芯片的行云智行智能辅助驾驶系统。 据官方介绍，该方案由大众汽车集团旗下 CARIAD 与地平线合资公司 —— 酷睿程量身打造， 标志着酷睿程智驾方案实"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会 — 下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。 硬件先行还是生态为王？C端"
+   },
+   {
+    "tag": "🟡",
+    "text": "**[36氪]** 圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会 — 稀缺的，到底是懂AI的人，还是懂业务的人？ 一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[量子位]** OpenAI大神教你如何榨干Codex — 13k星开源库作者解锁Codex-maxxing！"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[量子位]** DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI — 梁文锋承诺坚持开源路线"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI 视频与多模态展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 67 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "6 亿韩元对比 600 万：三星奖金百倍差距引发内部分裂，HBM 封装产线出现怠工",
+   "url": "https://www.ithome.com/0/954/466.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，三星电子本周与工会达成临时协议，在最后关头避免了可能造成严重损失的罢工行动，承诺以奖金形式向员工分享更多利润。然而，这一决定很难令内部所有人都感到满意。 根据临时协议，三星内存部门员工最高可获得约 6 亿韩元（IT之家注：现汇率约合 271.1 万元人民币）的奖金，而负责智能手机、电视和家用电器的 DX 设备体验部门员工仅能拿到约 600 万韩元（现汇率约合 27114 元人民币）。高达 100 倍的差距在三星内部引发了强烈不满情绪。 三星电子最大工会的成员中，芯片部门员工占比接近 90%。该工会领导层认为在薪资谈判中取得了胜利。临时协议在预定停工开始前 90 ...",
+   "published": "2026-05-23T23:53:44+00:00",
+   "age_label": "7分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0524：神舟二十三号瞄准今晚 23:08 发射；苹果 iPhone 17 系列领跑全球 Q1 畅销榜；闻泰科技称安世荷兰歪曲事实；人形机器人也有“身份证”...",
+   "url": "https://www.ithome.com/0/954/464.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 24 日星期日，今天的重要科技资讯有： 1、神舟二十三号瞄准北京时间 5 月 24 日 23:08 发射：朱杨柱任指令长，张志远及香港航天员黎家盈即将首飞 任务瞄准北京时间 5 月 24 日 23 时 08 分发射，5 月 23 日上午已在酒泉卫星发射中心召开新闻发布会。>> 查看详情 2、 苹果 iPhone 17 /Pro 领跑 Q1 手机畅销榜，Top10 合计贡献全球 25% 出货量创历年新高 报告显示，2026 年 Q1 全球最畅销的 10 款手机贡献了总出货量的 25%，创下历史新高。iPhone 17 系列三款机型占据前三，...",
+   "published": "2026-05-23T23:33:39+00:00",
+   "age_label": "27分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "台积电 Q1 净利大增 58% 反而被曝降薪？有员工喊出“学三星罢工”",
+   "url": "https://www.ithome.com/0/954/462.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，在人工智能芯片需求持续旺盛的背景下，全球晶圆代工龙头台积电近期却因一则内部传闻陷入劳资紧张局面。 半导体研究机构 SemiVision 昨日表示：台积电作为中国台湾的标志性企业，其员工薪资、分红与福利向来备受外界关注。2026 年初至今，台积电股价表现十分强劲。然而近日，许多台积电员工在 Facebook 上爆料称，公司可能削减员工分红。 留言区骂声一片，有员工表示：“想改就改，想变就变，跟内部管理风格一样，毫无诚信可言。”也有人写道：“员工每天顶着高压，为公司卖命，现在公司却要砍员工分红来回报股东？” @jukan05 随后补充称，有大量台积电员工在匿名职场论...",
+   "published": "2026-05-23T23:20:40+00:00",
+   "age_label": "40分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "不想使用 Copilot？微软 Win11 现可通过组策略永久屏蔽",
+   "url": "https://www.ithome.com/0/954/459.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，在收到大量用户的负面反馈后，微软正尝试通过更灵活的卸载选项赢回用户对 Copilot 的信任。 据 Windows Latest 今日报道，微软悄然在 Windows 11 2026 年 4 月更新中添加了一项新的组策略，允许用户移除 Copilot 应用。 该策略位于“用户配置 > 管理模板 > Windows 组件 > Windows AI”路径下，名为“Remove Microsoft Copilot App”。 最早的时候，用户可以在已安装应用列表中找到 Copilot 并卸载它，但有时会因为某些 Windows 更新而被重新安装。对于管理多台设备的组织...",
+   "published": "2026-05-23T22:57:08+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "WWDC 2026 在即，苹果悄悄启用全新子域名 genai.apple.com",
+   "url": "https://www.ithome.com/0/954/457.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，2026 年苹果全球开发者大会（WWDC）将于北京时间 6 月 9 日凌晨 1 点举办，距离现在仅剩两周时间。 MacRumors 发现，苹果公司正在持续扩展其 AI 相关布局，该公司已经为子域名 genai.apple.com 做好了技术准备，不过目前该地址并未指向任何一个实际可访问的页面。 IT之家注意到，苹果官网此前已设立专门的“Apple Intelligence”页面，用于介绍旗下个性化 AI 功能。对于 genai.apple.com 这一全新子域名的具体规划，目前尚不明确。 但从名称来看，该子域名很可能指向某种以生成式 AI（Gen AI）为核心的...",
+   "published": "2026-05-23T22:40:54+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I'm expanding my smart home, and these are the best Memorial Day deals I've found",
+   "url": "https://www.zdnet.com/article/smart-home-best-memorial-day-deals-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Smart home devices are on sale this Memorial Day weekend, and I've gathered the best deals available right now.",
+   "published": "2026-05-23T18:13:16+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I test robot vacuums for a living, and these are the best Memorial Day deals right now",
+   "url": "https://www.zdnet.com/article/robot-vacuums-best-memorial-day-deals-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "This is one of the best times of the year to buy a robot vacuum, thanks to these Memorial Day deals.",
+   "published": "2026-05-23T16:33:16+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 开出最高 44.5 万美元年薪招聘研究员，要求有品位、有策略性",
+   "url": "https://www.ithome.com/0/954/455.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，据《商业内幕》23 日（今天）下午报道，OpenAI 发布了安全研究员的招聘信息，研究当 AI 能够训练出自己的“更强版本”时可能出现的问题。 职位聚合网站显示，这则招聘信息面向 OpenAI Preparedness 安全团队，本月上线。该岗位年薪高达 29.5 万至 44.5 万美元 （IT之家注：现汇率约合 200.8 万至 303 万元人民币），目标是寻找“ 能够支持递归式自我改进准备工作的强大技术执行者 ”。 招聘信息写道：“这项工作依赖于对未来可能存在、但当前未必已经存在的问题进行推理。因此，这一岗位尤其需要具备 良好品味和策略 （tasteful ...",
+   "published": "2026-05-23T15:49:19+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "地平线：大众与众 06/07 车型年底将推出酷睿程高阶辅助驾驶版本",
+   "url": "https://www.ithome.com/0/954/453.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，今日，大众汽车集团迎旗下焕新与众 06、全新与众 07 双车正式上市并启动交付，两款车型将率先搭载基于征程 ® 6M 芯片的行云智行智能辅助驾驶系统。 据官方介绍，该方案由大众汽车集团旗下 CARIAD 与地平线合资公司 —— 酷睿程量身打造， 标志着酷睿程智驾方案实现首次量产落地 ，也意味着地平线与大众汽车集团正式迈入成果落地与商业闭环阶段。 与众 06、与众 07 搭载的行云智行智能辅助驾驶系统， 可实现高速 NOA 领航辅助及智能泊车功能 ，覆盖自动变道超车、智能上下匝道、紧急跨线避让障碍物、遥控泊入泊出等高频实用场景，标配同级唯一的跨楼层记忆泊车功能。 ...",
+   "published": "2026-05-23T15:17:01+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称 Anthropic 最快下周完成逾 300 亿美元融资，有望推动估值反超 OpenAI",
+   "url": "https://www.ithome.com/0/954/452.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，据彭博社 23 日（今天）凌晨援引知情人士消息称，Anthropic 即将完成新一轮超大规模融资，最快可能下周敲定，总额 预计超过 300 亿美元 （IT之家注：现汇率约合 2042.38 亿元人民币），公司估值则有望突破 9000 亿美元。 一旦交易完成，Anthropic 估值将 正式超过 OpenAI ，成为全球估值最高的 AI 初创企业。知情人士表示，目前本轮融资规模已经超过 Anthropic 原本设定的 300 亿美元目标。不过，最终投资承诺和融资条款仍在确认过程中，后续仍可能出现调整。 这轮融资 仅用了数周时间 便迅速推进完成，也反映出资本市场对 ...",
+   "published": "2026-05-23T15:12:40+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Ferrari is using IBM’s AI to create F1 superfans",
+   "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+   "published": "2026-05-23T15:08:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Transportation",
+    "AI",
+    "IBM",
+    "Apps",
+    "formula one"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 详解规模化低延迟语音 AI 的 WebRTC 架构",
+   "url": "https://www.infoq.cn/article/HzTpYj4SIqzFOHybIO2q?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-23T14:00:00+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "大 1.5 匹 2499 → 1868 元：小米 2026 款米家空调巨省电 Pro 双重补贴",
+   "url": "https://www.ithome.com/0/954/442.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "小米米家巨省电 Pro 空调 2026 款开售于 2026 年 3 月 6 日，大 1.5 匹发售价为 2499 元。 京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 1868.3 元： 领 2598-200 元券： 点此领取 首购礼金立减 200 元。 京东 米家空调 巨省电 Pro 2026 款 大 1.5 匹 35GW-PG15 / V1A1 双重补贴 1868.3 元 直达链接 京东无门槛红包至高 26618 元，支持即领即用： 点此抽取 。 2026 款米家空调巨省电 Pro 挂机可选大 1 匹、大 1.5 匹版本，APF 提升到 6.3，升级米家灵云节能算法 2....",
+   "published": "2026-05-23T13:44:40+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "国家数据局召开词元经济座谈会，阿里云、腾讯、月之暗面等参会",
+   "url": "https://www.ithome.com/0/954/441.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，据国家数据局消息，5 月 22 日，国家数据局党组书记、局长刘烈宏主持召开词元经济座谈会。会上，中国经济时报社、中国政法大学、中国人民大学、清华大学等单位的专家代表， 阿里云、腾讯、月之暗面 、海天瑞声、中国国际金融有限公司等企业代表，围绕“推动词元经济健康可持续发展，充分释放数据要素价值”发表意见建议。国家数据局党组成员、副局长夏冰出席会议。 词元是大模型处理文本、代码、图像、音频、视频等所有信息时采用的最小运算单元，正在成为人工智能服务的计量单位、结算单位和统计单位。 国家数据局将把推动词元经济发展纳入工作体系 ，持续跟踪研究并吸收社会各界建议，以行业高质量...",
+   "published": "2026-05-23T13:38:59+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This rugged Windows tablet handles mud and rain - but didn't impress with the basics",
+   "url": "https://www.zdnet.com/article/getac-g14-windows-ai-tablet-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The Getac G140 puts power in the hands of fire & rescue, automotive, and utility workers.",
+   "published": "2026-05-23T13:15:44+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "美光 CEO 梅赫罗特拉：内存短缺或持续至明年，新产能 2028 年才能大规模释放",
+   "url": "https://www.ithome.com/0/954/436.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，美光 CEO 桑杰 · 梅赫罗特拉在接受 CNBC 采访时警告称，全球存储芯片短缺问题可能会持续到 2026 年之后，AI 需求的增速 仍然远远超过行业扩产速度 。 与此同时，整个存储行业也正在发生明显变化。越来越多厂商开始 把重点转向 AI 专用存储产品 ，而美光则正在减少消费级业务，把资源集中到利润更高的企业级市场。梅赫罗特拉表示：“未来几年，AI 数据中心对存储芯片的需求仍会保持强劲，而供应端将很难跟上。” 梅赫罗特拉还强调，即便行业正在积极建设新晶圆厂，目前的供需失衡 依然属于长期结构性问题 ，而不仅仅是传统周期波动。行业真正意义上的大规模新产能释放， ...",
+   "published": "2026-05-23T13:10:09+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Microsoft’s new responsible tech lead on how to humanize high-speed AI development",
+   "url": "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?",
+   "published": "2026-05-23T13:00:01+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Elon Musk has given up on solar power (on Earth)",
+   "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+   "published": "2026-05-23T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI",
+    "Climate",
+    "Analysis",
+    "data centers",
+    "Elon Musk"
+   ],
+   "image": ""
+  },
+  {
+   "title": "调查显示近三分之二上班族正“假装自己很懂 AI”，以获得晋升机会",
+   "url": "https://www.ithome.com/0/954/431.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，据外媒 TechRadar 今晚报道，GCheck 发布的最新数据显示，越来越多职场人正在“假装自己很懂 AI”：职场里正在出现所谓的“AI 信心鸿沟”：很多员工在公开场合表现得非常懂 AI，但私下其实 并不真正相信自己的 AI 能力 。 调查发现， 63% 员工承认，自己曾夸大 AI 技能 ，希望让自己在求职、晋升或工作竞争中显得更有优势。IT之家还从调查中获悉，这种现象在 Z 世代群体中尤其明显。80% 的年轻员工承认，自己曾 包装或夸大 AI 能力 。 GCheck 首席执行官霍曼 · 阿哈万表示：“现在的职场里，是否看起来具备 AI 能力，已经越来越直接...",
+   "published": "2026-05-23T12:02:24+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek API 完成输出提速与服务扩容，默认支持 500 并发同时在线",
+   "url": "https://www.ithome.com/0/954/427.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，DeepSeek 今日宣布 API 已完成输出提速与服务扩容。输出速度更快、服务更稳定， 默认支持 500 并发同时在线 。企业用户需要更大并发可在线申请。 IT之家 DeepSeek 官方昨日刚刚宣布，DeepSeek-V4-Pro 模型 API 价格将于 2026 年 5 月 31 日结束 2.5 折优惠活动后， 正式调整为原定价的 1/4 。 DeepSeek-V4-Pro 的 API 原价为： 输入（缓存命中）：0.1 元 / 百万 Tokens（调整后 0.025 元） 输入（缓存未命中）：12 元 / 百万 Tokens（调整后 3 元） 输出：24...",
+   "published": "2026-05-23T11:33:38+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I joyfully reunited with my first Linux distro at the Virtual OS Museum",
+   "url": "https://www.zdnet.com/article/reunited-with-my-first-linux-distro-at-the-virtual-os-museum/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Feeling nostalgic? From Amiga Unix to XVM/RSX, anyone can run over 570 extinct OSes. Try it now on Linux, MacOS, or Windows.",
+   "published": "2026-05-23T11:00:38+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Google’s new anything-to-anything AI model is wild",
+   "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. […]",
+   "published": "2026-05-23T11:00:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "AI",
+    "Google",
+    "Google I/O 2026",
+    "Hands-on",
+    "Reviews"
+   ],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821714896408713?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "下一个杀手级AI产品，是眼镜、是Agent，还是某个尚未命名的“物理世界入口”？这场圆桌没有标准答案，却达成一个共识：单纯套壳大模型的应用注定短命，只有长期在线、连接物理世界、能完成真实交互闭环的产品，才可能成为下一个百亿级赛道。从AI眼镜到具身智能，入口之争已悄然打响。 硬件先行还是生态为王？C端规模还是B端付费？最终指向同一个逻辑：纯套壳应用、弱交互硬件注定被淘汰，只有“多模态底座+AI原生智能体+可穿戴硬件”三位一体，才能让AI从聊天框真正走进现实。 以下为圆桌对话内容，经36氪整理编辑： 刘子豪丨杭州颜柯教育联合创始人（主持） 赵维奇丨乐奇全球开放生态负责人 路少卿丨商汤科技研究院技术...",
+   "published": "2026-05-23T10:10:00+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+   "url": "https://www.qbitai.com/2026/05/423202.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "“AI时代经验不再是护城河”",
+   "published": "2026-05-23T10:09:58+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "昆仑万维"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI wealth must benefit the public, South Korea's deputy PM says amid Samsung labor tensions",
+   "url": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "South Korea's deputy PM tells CNBC there are concerns as to whether AI could worsen wealth gaps or lead to job losses.",
+   "published": "2026-05-23T10:07:38+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "vivo Y600 Turbo 手机开启预约：三色可选，第四代骁龙 7s 芯片、9000mAh 电池",
+   "url": "https://www.ithome.com/0/954/394.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，vivo Y600 Turbo 手机现已在京东开启预约，新品拥有蓝色、白色、粉色三种配色可选， 5 月 25 日 10:00 发布 。 京东 vivo Y600 Turbo 待发布 立即预约 据介绍，这款手机搭载第四代骁龙 7s 芯片，内置 9000mAh 蓝海电池，支持 IP68+IP69 防尘防水。从渲染图来看，该机的摄像头模组与 iQOO Z11 颇有几分相似之处。 不过 vivo 官方并没有公布这台手机的更多配置信息，IT之家将持续关注，第一时间带来更多消息。 京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次： 点此抽红包 淘宝 618...",
+   "published": "2026-05-23T10:01:24+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This canvas art QLED TV isn't made by Samsung, and it's $650 cheaper for Memorial Day",
+   "url": "https://www.zdnet.com/article/hisense-canvas-s7-art-tv-deal-memorial-day-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Amazon is selling the 2026 Hisense Hi-QLED S7 Canvas TV for 43% off during Memorial Day weekend.",
+   "published": "2026-05-23T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+   "url": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-23T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI大神教你如何榨干Codex",
+   "url": "https://www.qbitai.com/2026/05/423179.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "13k星开源库作者解锁Codex-maxxing！",
+   "published": "2026-05-23T09:50:51+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "首页轮播"
+   ],
+   "image": ""
+  },
+  {
+   "title": "湖北电信与华为打造 5G-AxAI 大上行网络：多穿一堵墙，单用户最高 1Gbps 上行",
+   "url": "https://www.ithome.com/0/954/393.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，“华为无线网络”公众号昨日发文，作为 517 世界电信和信息社会日系列活动，中国电信股份有限公司湖北分公司（以下简称“湖北电信”）携手华为率先在武汉江汉路步行街打造 5G-AxAI 大上行样板点。 IT之家从官方介绍获悉，随着 Mobile AI 业务不断涌现，手机采集的庞大多媒体数据需要实时传送至云端进行处理，对网络上行速率提出了前所未有的挑战。在武汉黄陂区大上行示范区，湖北电信携手华为，创新采用 1.8GHz+2.1GHz 双频 8T8R 解决方案。该方案基于 FDD 8T8R 技术，融合高增益阵列、精准波束扫描、高分辨率空域配对等领先能力，相比传统解决方案...",
+   "published": "2026-05-23T09:46:49+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
+   "url": "https://www.qbitai.com/2026/05/423162.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "梁文锋承诺坚持开源路线",
+   "published": "2026-05-23T09:46:37+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "AI",
+    "Deepseek"
+   ],
+   "image": ""
+  },
+  {
+   "title": "奔驰智能辅助驾驶年底登陆德国老家，剑指明年“全德国都能开”",
+   "url": "https://www.ithome.com/0/954/385.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，据路透社 22 日报道，梅赛德斯-奔驰计划从今年年底开始，在德国正式推进城市“点到点”辅助驾驶系统落地，希望成为欧洲最早将这一技术带入城市道路的车企之一。 目前，欧洲车企与科技公司正加速争夺城市自动驾驶市场。除了奔驰之外，宝马和特斯拉也都在推进类似系统的欧洲部署。梅赛德斯-奔驰首席技术官约尔格 · 布尔策透露，奔驰的 MB.DRIVE ASSIST PRO 系统预计 将在 2026 年底率先进入德国部分城市 ，并计划于 2027 年初扩大至全国范围 。“我们的目标非常明确，就是继续在全球辅助驾驶与自动驾驶竞争中保持领先。” 布尔策表示，奔驰目前正与德国交通部以及...",
+   "published": "2026-05-23T09:05:57+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "企业鼓励员工多用 AI，然而算力成本比人类员工薪水更高",
+   "url": "https://www.ithome.com/0/954/381.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，据《财富》杂志 22 日报道，越来越多企业正在要求员工“尽可能多用 AI”，希望借此提升效率、压缩成本。但现实情况开始显示，大规模 AI 化本身也正在 带来新的成本压力 。 微软最近已经开始取消大部分员工对 Claude Code 的直接授权，并转向推广自家的第一方 AI 编程工具。而就在半年前，微软还在积极推动员工使用 Claude Code。当时，微软向数千名开发者、设计师、项目经理等员工开放工具， 希望大家尝试 AI 编程 。Claude Code 随后迅速在内部流行，甚至到了使用规模超出预期的程度。 然而时至今日，员工的大量使用，反而促使微软开始收缩授权...",
+   "published": "2026-05-23T08:42:40+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称安卓阵营或复刻苹果打法，Pro 系列和标准版分开上市",
+   "url": "https://www.ithome.com/0/954/377.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 23 日消息，博主 @数码闲聊站 今日爆料，今年 9 月苹果可能会先上 iPhone 18 Pro 系列 + 首款阔折叠， iPhone 18 标准版放到 2027 年上半年 ，缓解内存和 2nm 芯片压力。 此外，他还爆料称，最新消息是， 安卓阵营可能会复刻这个打法 ，Pro 系列和标准版分开上。 IT之家注意到，消息源 Sonny Dickson 和 Majin Bu 上个月在 X 平台发布推文，分享了一组图片和一段视频，展示了苹果 iPhone 18 Pro、iPhone 18 Pro Max 及首款折叠 iPhone Fold 的机模。 在外观设计方面，iPhone ...",
+   "published": "2026-05-23T08:29:02+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek-V4-Pro API永久降价",
+   "url": "https://36kr.com/newsflashes/3821591669166214?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，据DeepSeek官微，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。",
+   "published": "2026-05-23T08:04:04+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821542483857801?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "稀缺的，到底是懂AI的人，还是懂业务的人？ 一个反直觉的判断——懂AI这件事正在快速贬值，而能在关键低频决策中做出判断的人，才是未来的稀缺品。高频重复的工作最容易被AI替代，但在打造爆品、建立品牌等低频高影响力的决策上，人的判断依然不可替代，企业AI转型的最大卡点也不是技术或数据，而是“想不到应用场景”， 当前AI的利润大头仍在基础设施层，应用端的ROI尚未完全释放，但拐点会比预想来得更快。 以下为圆桌对话内容，经36氪整理编辑： 郑王宇丨36氪基金投资副总裁（主持） 龚毅丨尼尔森IQ 通信及科技业务总经理 罗飞丨华科智能AI研究院院长 林海卓丨卓源亚洲创始合伙人、董事长 郑王宇： 各位老师好...",
+   "published": "2026-05-23T07:14:29+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821533415985283?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。 只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。 以下为圆桌对话内容，经36氪整理编辑： 帮主丨36氪《AI局内人》主播（主持） 郑鹏宇丨杭州颜柯教育科技有限公司创始人 肖玛峰丨AI招聘平台TTC创始人 帮主： 各位下午好，我是这场圆桌的主持人帮主。这场圆桌不聊技术落地的事，聊一个在座很多老板都非常关心的事——AI人才从哪里来，以及能不...",
+   "published": "2026-05-23T07:05:47+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "对话王小川：离开通用人工智能的主干道之后",
+   "url": "https://36kr.com/p/3821521291038856?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "“如果没有转型，继续走主流道路，你也会有同等程度的焦虑。”王小川说，这次转型，让他真正回归到从创业第一天就最想做的事情：造AI医生。 访谈｜邓咏仪 杨轩 文｜邓咏仪 编辑｜张雨忻 一年前，王小川带着百川智能来了一次激烈的“大刹车”：大幅缩减通用模型团队，关闭金融等多条行业线，All in医疗大模型。但与此同时，整个大模型行业却热闹非凡，大厂和创业公司轮番进行“轰炸式更新”——过去半年里，平均3天就有一个新版本的通用大模型面世。 而看起来沉寂的百川在做什么？5月22日，王小川安静地交出答卷：新医疗大模型M4，以及Agent产品“百小医”。 过去3年里，百川逐渐从“要做中国最好的基础大模型”转向“...",
+   "published": "2026-05-23T06:53:35+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+   "url": "https://36kr.com/p/3821519307591811?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "AI浓度并非越高越好，转化率的秘密在于人机共生的平衡点。 “AI应像手机一样贯穿全流程”，而面对亲子游客和老年群体，主动将AI浓度降至50%，却实现了超50%的转化率。浓度的关键是以人为本、文化温度先行。 以下为圆桌对话内容，经36氪整理编辑： 薛冰丨上海蜚语信息科技副总裁（主持） 崔健南丨广州搞搞镇文化科技创始人兼CEO 杨晟丨珀乐互动科技创始人 薛冰： 各位嘉宾大家下午好，我是主持人薛冰，很荣幸受到36氪以及北京亦庄的邀请主持下午的圆桌。今天非常开心能够邀请到和我同台的两位重量级嘉宾，崔总、杨总，现在我们直接进入圆桌环节，先请两位嘉宾做一下自我介绍，先从崔总开始。 崔健南： 谢谢主持人，大...",
+   "published": "2026-05-23T06:53:25+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "36氪首发 | 北大项目孵化，国内首家原生机器人“大脑芯片”企业获数亿元融资",
+   "url": "https://36kr.com/p/3821371042877575?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，北京维泛智能科技有限公司（以下简称“维泛智能”）近日完成数亿元种子轮融资，由中关村资本及旗下启航投资联合领投，上海未来产业基金、石溪资本、佰维存储、燕创集团、海益投资、探元创投共同投资。 维泛智能成立于2025年5月，孵化自北京大学类脑芯片实验室（PAICORE Lab），专注于具身智能“大小脑”融合芯片研发，致力于打造全国产化机器人核心计算方案。 联合创始人殷积磊毕业于北京大学，拥有超过20年半导体行业经验，曾任知存科技COO兼研发副总裁，以及IBM、GlobalFoundries芯片研发总监，并曾在MTK、VIA等企业从事芯片研发工作。团队核心...",
+   "published": "2026-05-23T04:20:48+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "星巴克叫停AI库存自动盘点工具：上线9个月，错误频出",
+   "url": "https://36kr.com/newsflashes/3821221746266498?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "星巴克本周正式终止了其在北美地区门店使用的AI库存自动盘点工具。该系统旨在通过平板电脑拍照自动统计牛奶、糖浆等物料库存，但在上线9个月后因频繁出错而被叫停。（新浪财经）",
+   "published": "2026-05-23T03:37:41+00:00",
+   "age_label": "20小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+   "url": "https://www.qbitai.com/2026/05/423159.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "不造人形机器人，死磕餐饮后厨",
+   "published": "2026-05-23T02:48:28+00:00",
+   "age_label": "21小时前",
+   "tags": [
+    "资讯",
+    "具身智能"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I've tested portable speakers from Bose, Sony, JBL, more - these deals are actually worth it",
+   "url": "https://www.zdnet.com/article/best-portable-speaker-deals-memorial-day/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I found the best Bluetooth speaker deals for your holiday weekend festivities.",
+   "published": "2026-05-23T02:11:00+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Best Buy is selling this 2TB Corsair SSD for over 60% off right now - and I vouch for it",
+   "url": "https://www.zdnet.com/article/best-buy-corsair-ssd-deal-memorial-day-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Expand your Mac and iOS storage space for large program downloads, photos, and more with the 2TB Corsair EX400U SSD.",
+   "published": "2026-05-23T02:08:00+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Best Buy and Amazon has dropped major SSDs prices - I found the best storage deals",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-ssd-deals/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Retailers like Amazon and Best Buy are offering steep discounts on high-capacity SSDs ahead of Memorial Day.",
+   "published": "2026-05-23T02:04:00+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "用AI来管公司，Moka推出三款AI HR工具｜涌现新栏目",
+   "url": "https://36kr.com/p/3819979202253189?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者｜梁键强 编辑｜王毓婵 一句话介绍 Moka为AI人力资源软件服务商，早期从智能化招聘管理系统起步，后逐步扩展至更完整的HR管理系统。5月，Moka上线了招聘Eva、人事Eva和BPEva三款AI HR产品。 招聘Eva覆盖招聘全流程，辅助企业完成识人、筛选和面试；人事Eva聚焦报表处理、流程流转和员工咨询等重复事务；BPEva则用于动态更新人才画像，辅助企业进行人才识别和组织决策。 支撑这三款产品的是Moka AI工坊，它相当于底层能力平台，可以让企业用业务语言描述需求，具有快速响应、个性化定制和安全上线等能力。 图片来源：Moka 团队介绍 Moka联合创始人兼CEO李国兴，本科阶段获...",
+   "published": "2026-05-23T02:00:00+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI is being used to resurrect the voices of dead pilots",
+   "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+   "published": "2026-05-22T23:03:33+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Transportation",
+    "crash",
+    "flight",
+    "In Brief"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
+   "url": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices.",
+   "published": "2026-05-22T20:52:39+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "These are the best early Memorial Day 2026 TV deals I've found so far",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-tv-deals/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Save hundreds on some of our most highly reviewed TVs from Samsung, LG, and more ahead of Memorial Day.",
+   "published": "2026-05-22T20:48:00+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+   "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+   "published": "2026-05-22T20:40:48+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Startups",
+    "Venture",
+    "annual recurring revenue",
+    "Exclusive"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+   "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can...",
+   "published": "2026-05-22T20:39:54+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Google",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "买了卡不等于买到生产力：企业 Token 焦虑，逼出 AI Infra 新战场",
+   "url": "https://www.infoq.cn/article/TLRAmZy8pPICVFVWmu6p?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-22T20:34:12+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821714896408713",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
+   "url": "https://36kr.com/p/3821580899553668",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "老板电器，等AI“开饭”",
+   "url": "https://36kr.com/p/3821573572862212",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821542483857801",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821533415985283",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "对话王小川：离开通用人工智能的主干道之后",
+   "url": "https://36kr.com/p/3821521291038856",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+   "url": "https://36kr.com/p/3821519307591811",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "梁文锋有了“隆中对”",
+   "url": "https://36kr.com/p/3821376674386305",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI的“火”，烧到了模拟芯片",
+   "url": "https://36kr.com/p/3821221087400326",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "记者实探：三大运营商Token套餐声势浩大，实际落地却未跟上",
+   "url": "https://36kr.com/p/3820131718402434",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "为什么边缘计算终于有了它的杀手级应用?",
+   "url": "https://36kr.com/p/3820238474055812",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "五个AI落地叙事，拆解出一场“企业坦白局”",
+   "url": "https://36kr.com/p/3820302533447811",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "微软：Claude Code的token，我也烧不起了",
+   "url": "https://36kr.com/p/3820285407760514",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "点燃AI革命三年后，OpenAI“被逼着”上市",
+   "url": "https://36kr.com/p/3820327525568904",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“全民养虾”50天：一场AI套利狂欢与它的骤然终结",
+   "url": "https://36kr.com/p/3820183242068360",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
