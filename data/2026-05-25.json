@@ -1,0 +1,763 @@
+{
+ "date": "2026-05-25",
+ "generated_at": "2026-05-25 08:01",
+ "total": 61,
+ "sources": [
+  "Wired AI",
+  "36氪",
+  "InfoQ 中文",
+  "IT之家",
+  "ZDNet AI",
+  "少数派",
+  "TechCrunch AI",
+  "量子位",
+  "36氪 AI",
+  "The Verge AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 61 篇 AI 相关资讯（国内 27 篇，海外 34 篇）。热门话题集中在：AI 硬件与芯片、大模型发布、AI Agent、机器人。最受关注：「OPPO Reno16 Pro 首次搭载 2 亿超清云台主摄...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** OPPO Reno16 Pro 首次搭载 2 亿超清云台主摄，天玑 9500s 加持 — IT之家 5 月 24 日消息，OPPO Reno16 Pro 将于 5 月 25 日 18:00 发布，这也是 Reno 系列首次搭载 2 亿超清云台主摄 ，支持 Natural Tone 真实感引擎 + 芯片级画质优化。此外，该机还搭载 天玑 9500s 旗舰芯片。 据官方预热，OPPO Ren"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** IT早报 0525：华为自研 DoB 封装技术突破；长安汽车内幕交易案员工被罚 1669 万元；“死了么”App 被收编改名“在么在么”；大疆日本摄像机市占超七成... — “IT早报”时间，大家好，现在是 2026 年 5 月 25 日星期一，今天的重要科技资讯有： 1、华为自研全新 DoB 封装技术：绕过 400 层 NAND 造出 122TB 企业级 SSD，未来还计划推出 245TB 版本 华为在巴黎 ID Forum 2026 上展示了基于自研 Die-on-"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 基金经理密集调研、布局万亿物理AI产业机遇 — 从虚拟空间的智能对话交互，到物理场景的自主感知与执行，人工智能（AI）产业正迎来从“数字化智能”向“实体化智能”跃迁的历史性拐点。作为AI技术落地实体经济的核心载体，物理AI打破了传统大模型局限于算力、数据、文本生成的虚拟属性，实现了技术价值的实体化落地，逐渐成为资本与产业的共识方向。英伟达CEO黄"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 惠普发布 ZBook 8 G2a 笔记本：最高可选锐龙 AI 9 HX Pro 470 处理器、64GB 内存 — IT之家 5 月 25 日消息，惠普现已在海外市场推出 ZBook 8 G2a 笔记本电脑，新品搭载全新 AMD 锐龙处理器， 最高可选 64GB 内存 、 120Hz 高刷屏 。 据介绍，这款笔记本目前在不同市场的可选配置有所不同。例如英国仅提供 14 英寸入门版本，没有自定义配置选项。而美版的起"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 中国移动机器人加速出海，4 月我国工业机器人出口量同比暴增 9 成 — IT之家 5 月 24 日消息，据央视财经报道，海关总署近日发布的数据显示，今年以来，我国工业机器人出口表现强劲，其中 4 月份单月出口量突破 2.5 万台，同比增长接近 90%，其中，移动机器人展现出强大的竞争力。 从国产移动机器人的出口地域看，欧美和亚太地区电商、零售、第三方物流行业成熟，对仓储"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Hackers are learning to exploit chatbot &#8216;personalities&#8217; — This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Step"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 科大讯飞智能办公本 Air 3 系列发布：支持离线 AI 与龙虾助手，2499~3599 元 — IT之家 5 月 24 日消息，科大讯飞本周推出了新一代智能办公本 Air 3 系列产品，标准版 2999 元，NEO 版 2499 元，Pro 版 3599 元。 京东 科大讯飞智能办公本 Air 3 标准版 8.2 英寸电子书阅读器 墨水屏 手写笔记本电纸书 平板 大模型 2999 元 直达链接"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 对标 Reddit，Meta 悄然推出“Forum”应用 — IT之家 5 月 24 日消息，Meta 公司悄然推出一款名为“Forum（论坛）”的独立群组应用。该产品定位对标 Reddit，官方将其描述为“专为深度交流、真实答疑和兴趣社群打造的专属空间”。 用户登录 Facebook 账号后，应用会同步个人群组、资料与动态，也可以使用昵称发布帖子，操作方式和"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕AI 硬件与芯片、大模型发布、AI Agent展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 61 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "AI数据中心电力需求催热A股电力设备板块",
+   "url": "https://36kr.com/newsflashes/3823942860951682?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "5月份以来，电力设备板块热度不减，成为机构调研的重点方向之一。Wind数据显示，按照申万一级行业分类，截至5月24日，月内已有42家电力设备行业A股上市公司接待机构调研，涵盖储能、变压器、充电桩、电源设备、电网设备等多个细分领域。从调研方向来看，机构重点聚焦多条主线，包括AIDC（AI数据中心）带来的新型电力设备需求、电力设备“出海”等。其中，AIDC相关电力基础设施需求，成为机构关注度最高的话题之一。（证券日报）",
+   "published": "2026-05-24T23:55:50+00:00",
+   "age_label": "5分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信建投：医疗器械板块业绩估值双修复",
+   "url": "https://36kr.com/newsflashes/3823936985387139?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信建投证券研报认为，受耗材集采、医疗合规要求提升等因素影响，A股申万医疗器械指数2020—2024年持续下跌，2025年先涨后跌，展望未来，随着政策影响逐步出清，企业战略调整后业绩复苏，器械板块有望迎来估值、业绩双修复，建议2026年加配医疗器械板块，主要机会来自业绩复苏、出海、手术机器人、脑机接口等，以及积极转型的公司。2026年ASCO年会（美国临床肿瘤学会年会）94项中国研究中选口头报告，依沃西单抗登上全体大会，标志着中国创新药全球学术影响力迈上新台阶，建议关注ASCO会议进展。",
+   "published": "2026-05-24T23:49:51+00:00",
+   "age_label": "11分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "河南“十五五”规划纲要：培育壮大人工智能、商业航天等特色产业",
+   "url": "https://36kr.com/newsflashes/3823935406707077?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，《河南省国民经济和社会发展第十五个五年规划纲要》发布，其中提出，实施做强做优做大数字经济行动，构建数字产业梯次发展体系，培育一批区域支柱型、特色型数字产业集群。提质发展智能终端、先进计算、智能传感等优势产业，推动“整机制造+核心零组件+应用软件设计”全链条发展，建设全球重要的智能终端产业基地。培育壮大人工智能、商业航天等特色产业，深入推进郑州国家新一代人工智能创新发展试验区建设，加快建设国家人工智能应用中试基地，加强人形机器人“大小脑”等技术攻关和关键零部件研发，打造卫星制造、应用服务、卫星运营基地。推进国家数据产业集聚区建设试点，布局数据标注、数据应用等专业园区，推动数据采集汇聚...",
+   "published": "2026-05-24T23:48:15+00:00",
+   "age_label": "13分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "澳大利亚矿业巨头FMG宣布董事会变更：前CEO伊丽莎白·盖恩斯辞任执行董事",
+   "url": "https://36kr.com/newsflashes/3823929011114119?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "澳大利亚矿业巨头福特斯克金属集团（FMG）5月25日发布公告，宣布伊丽莎白·盖恩斯（Elizabeth Gaines）已辞去公司执行董事一职，该辞任将于2026年6月30日起正式生效。盖恩斯于2013年2月加入董事会担任非执行董事，随后于2017年2月加入执行管理团队担任首席财务官（CFO），并于2018年2月至2022年8月期间担任公司首席执行官（CEO）兼董事总经理。（界面）",
+   "published": "2026-05-24T23:41:44+00:00",
+   "age_label": "19分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "内外资机构密集调研，瞄准A股景气赛道",
+   "url": "https://36kr.com/newsflashes/3823926520435075?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "二季度以来，内外资机构纷纷对A股景气赛道上市公司展开深度调研。Wind数据显示，截至5月22日，二季度以来公募基金与外资机构合计调研频次分别突破1.2万次和1400次，共同将目光锁定在以AI算力硬件、半导体设备及高端医疗装备为代表的高成长领域。在机构看来，随着AI从训练走向大规模推理应用，叠加国产自主可控逻辑持续强化，相关产业链龙头有望迎来结构性投资机遇。（上证报）",
+   "published": "2026-05-24T23:39:12+00:00",
+   "age_label": "22分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This HP laptop is a great MacBook alternative - and it's 50% off for Memorial Day",
+   "url": "https://www.zdnet.com/article/hp-omnibook-5-memorial-day-deal-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The OmniBook 5 is on sale for $530. It's a solid laptop with a long battery life, an OLED screen, and strong performance.",
+   "published": "2026-05-24T23:37:00+00:00",
+   "age_label": "24分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0525：华为自研 DoB 封装技术突破；长安汽车内幕交易案员工被罚 1669 万元；“死了么”App 被收编改名“在么在么”；大疆日本摄像机市占超七成...",
+   "url": "https://www.ithome.com/0/954/651.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 25 日星期一，今天的重要科技资讯有： 1、华为自研全新 DoB 封装技术：绕过 400 层 NAND 造出 122TB 企业级 SSD，未来还计划推出 245TB 版本 华为在巴黎 ID Forum 2026 上展示了基于自研 Die-on-Board 封装技术的大容量 SSD 系列，包括 61.44TB 和 122.88TB 型号，未来计划推出 245TB 版本。该技术绕开了传统封装对芯片数量的限制，通过将更多 NAND Die 直接封装在 PCB 上，实现了更高的密度和更好的性能。>> 查看详情 2、长安汽车内幕交易案：5 名员工获...",
+   "published": "2026-05-24T23:30:40+00:00",
+   "age_label": "30分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Linux 7.1-rc5 内核发布，Linus 对不必要改动、代码规模膨胀不满意",
+   "url": "https://www.ithome.com/0/954/650.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，据科技媒体 Phoronix 昨天报道，Linux 7.1-rc5 内核现已发布，本次候选版本继续带来大量修复更新，并新增更多 AI 生成代码。 IT之家在此援引 Phoronix，Claude Code 等 AI 编写的代码现在被广泛分散在内核各个部分，从图形驱动 Bug 修复到 C 语言代码安全问题都有涉及。 而 Linux 创始人 Linus Torvalds 上周也表示，虽然 AI 工具确实很好用，但请各位开发者不要凭空造出“没必要的痛苦”和“毫无意义的假工作”。 除此之外，rc5 还新增了更多惠普、华硕笔记本的 x86 驱动支持、Intel P-Sta...",
+   "published": "2026-05-24T23:30:22+00:00",
+   "age_label": "30分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "基金经理密集调研、布局万亿物理AI产业机遇",
+   "url": "https://36kr.com/newsflashes/3823905586991492?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "从虚拟空间的智能对话交互，到物理场景的自主感知与执行，人工智能（AI）产业正迎来从“数字化智能”向“实体化智能”跃迁的历史性拐点。作为AI技术落地实体经济的核心载体，物理AI打破了传统大模型局限于算力、数据、文本生成的虚拟属性，实现了技术价值的实体化落地，逐渐成为资本与产业的共识方向。英伟达CEO黄仁勋明确预判，物理AI的“ChatGPT时刻”已然到来。在底层技术不断迭代、产业政策持续赋能、商业化场景加速落地的多重共振下，物理AI有望扛起科技成长主线大旗，长期投资价值凸显。在此背景下，公募基金积极前瞻研判行业趋势，通过密集调研、加仓布局抢抓万亿级赛道的发展红利。（证券时报）",
+   "published": "2026-05-24T23:17:54+00:00",
+   "age_label": "43分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "惠普发布 ZBook 8 G2a 笔记本：最高可选锐龙 AI 9 HX Pro 470 处理器、64GB 内存",
+   "url": "https://www.ithome.com/0/954/645.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，惠普现已在海外市场推出 ZBook 8 G2a 笔记本电脑，新品搭载全新 AMD 锐龙处理器， 最高可选 64GB 内存 、 120Hz 高刷屏 。 据介绍，这款笔记本目前在不同市场的可选配置有所不同。例如英国仅提供 14 英寸入门版本，没有自定义配置选项。而美版的起步配置则为锐龙 AI 5 Pro 435 CPU、16GB 内存，配备 512GB 固态硬盘、1200P IPS 屏幕，峰值亮度 300 尼特，刷新率为 60Hz。 规格方面，该笔记本还能够在锐龙 AI 5 Pro 440、AI 7 Pro 450 和 AI 9 HX Pro 470 三款处理器之间...",
+   "published": "2026-05-24T22:44:49+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "派早报：GitHub 在微软治下面临技术和人员流失困境",
+   "url": "https://sspai.com/post/110130",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "GitHub 在微软治下面临技术和人员流失困境 老虎、富途、长桥将被全面取缔境内业务 谷歌搜索 AI 模式误将 disregard 等关键词当作指令 「死了么」更名为「在么在么」用于老人居家安全 公安部拟明确取证中获取密码等特殊程序 伦敦 iPhone 盗窃集团采用威胁手法解绑 Apple ID 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-05-24T22:36:51+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Everyone is navigating AI security in real time — even Google",
+   "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "We're in the transition period -- all of us.",
+   "published": "2026-05-24T21:39:21+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "TC"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+   "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+   "published": "2026-05-24T15:00:00+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "AI",
+    "Gadgets",
+    "Amazon",
+    "AI hardware",
+    "Bee wearable"
+   ],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果 watchOS 27 更新将主要关注稳定性、较小优化，而不是引入重大新功能",
+   "url": "https://www.ithome.com/0/954/640.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，今日，彭博社马克 · 古尔曼在最新一期 Power On 节目中提到，苹果 watchOS 27 更新将主要关注稳定性、较小优化， 而不是引入重大新功能 。尽管如此，心率追踪的改进即将到来。 IT之家注意到，苹果定于 6 月 9 日举办 2026 年全球开发者大会（WWDC26），届时将揭晓 watchOS 27 及配套软件更新。 古尔曼此前在爆料中指出， 今年的 Apple Watch 系统将迎来两大核心升级 。首要升级，在于引入丰富的 AI 功能。古尔曼强调，苹果采用 iOS 27 的升级逻辑，致力于从软件底层，为 Apple Watch 深度融合人工智能技...",
+   "published": "2026-05-24T14:56:45+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "为遵守欧盟法规，古尔曼称苹果 iOS 27 将允许第三方投屏协议替代 AirPlay",
+   "url": "https://www.ithome.com/0/954/639.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，据彭博社记者马克 · 古尔曼称，为响应欧盟《数字市场法案》，苹果正研发系统级功能，允许用第三方投屏协议替代 AirPlay。和第三方应用商店一样，该功能大概率仅在欧盟地区上线。 苹果或将不再把 AirPlay 设为系统默认投屏方式。从 iOS 27 系统开始，其它投屏协议或许能以原生级别接入 iOS。 IT之家注意到，古尔曼称：“有消息透露，为满足欧盟《数字市场法案》最新规定，苹果将在 iOS 27 中为第三方投屏方案提供支持。这意味着用户可将 Google Cast 等外部服务设为默认投屏工具，把苹果设备里的视频、图片和音频投射至音箱或电视。” 理论上，所有智...",
+   "published": "2026-05-24T14:39:32+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果 iOS 27 将大幅改进 AirPods 设置界面",
+   "url": "https://www.ithome.com/0/954/635.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，虽然苹果目前暂无推出独立 AirPods 专属应用的计划，但据彭博社记者马克 · 古尔曼爆料，苹果正着手优化相关软件功能，方便用户调整 AirPods 以及 AirPods Pro 的各项设置。 古尔曼表示，iOS 27 系统将大幅改动设置应用里的 AirPods 菜单界面。全新界面实用性更强、条理更清晰，整体布局也更为简洁利落。 当手机连接 AirPods 耳机后，耳机设置页面会自动置顶显示在设置应用首页。 但长久以来，该页面的功能排布繁杂冗乱。过去数年里，苹果为 AirPods 陆续新增头部手势、助听模式、睡眠检测等诸多功能，这些新功能全都叠加在初代 Air...",
+   "published": "2026-05-24T14:26:57+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Home Depot and Lowe's have power tool deals for up to $400 off ahead of Memorial Day",
+   "url": "https://www.zdnet.com/article/best-early-power-tool-deals-memorial-day-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Save big on everything you need for DIY projects and home repairs with these Memorial Day deals on tools from DeWalt, Milwaukee, and more.",
+   "published": "2026-05-24T14:11:40+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国移动机器人加速出海，4 月我国工业机器人出口量同比暴增 9 成",
+   "url": "https://www.ithome.com/0/954/633.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，据央视财经报道，海关总署近日发布的数据显示，今年以来，我国工业机器人出口表现强劲，其中 4 月份单月出口量突破 2.5 万台，同比增长接近 90%，其中，移动机器人展现出强大的竞争力。 从国产移动机器人的出口地域看，欧美和亚太地区电商、零售、第三方物流行业成熟，对仓储自动化的需求迫切，客户技术付费意愿较强。同时，以东南亚、中东为代表的新兴市场，自动化基础设施的需求也创造了巨大的市场机遇。 IT之家注意到，数据显示，中国移动机器人出口订单占比从 2022 年的 25.87%，快速攀升至 2024 年的 37.12%，2025 年已突破 40%。",
+   "published": "2026-05-24T13:54:06+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I found the best early Memorial Day outdoor deals: Lawn mowers, power banks, and more",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-2026-outdoor-deals/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "You can already find great Memorial Day deals on everything you need to upgrade your outdoor space.",
+   "published": "2026-05-24T13:39:04+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I found the 11 best early Memorial Day Apple deals: Save hundreds on iPad, Apple Watch, and more",
+   "url": "https://www.zdnet.com/article/best-apple-deals-memorial-day-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Summer is almost here, and you can already find deals on all things Apple with these early Memorial Day weekend sales.",
+   "published": "2026-05-24T12:53:23+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+   "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a lau...",
+   "published": "2026-05-24T12:00:00+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "AI",
+    "Column",
+    "Security",
+    "Tech",
+    "The Stepback"
+   ],
+   "image": ""
+  },
+  {
+   "title": "英伟达 CFO：我们预判到内存价格会飙升，早已提前下单",
+   "url": "https://www.ithome.com/0/954/623.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，英伟达首席财务官科莱特 · 克雷斯将其他公司在当前内存短缺中遭遇的困境归咎于他们自身。在接受 Tae Kim 采访时，克雷斯表示，英伟达预判到内存价格即将暴涨，早已提前下单备货。 IT之家注意到，受人工智能芯片企业旺盛需求拉动，内存价格大幅上涨，行业格局随之剧变。SK 海力士等企业员工斩获高额奖金，三星员工则发起抗议活动。 人工智能显卡对高性能的严苛要求，使得高带宽内存（HBM）与 DDR 内存市场均陷入剧烈动荡。据预估，仅英伟达 Rubin 人工智能平台的内存需求量，就将超过苹果与三星两家企业的需求总和。具体来看，2027 年 Rubin 人工智能芯片所需 L...",
+   "published": "2026-05-24T11:53:47+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "我国加快制定全国一体化算力网技术标准，相关指导性技术文件已达 12 项",
+   "url": "https://www.ithome.com/0/954/621.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，据央视新闻报道，记者今天从国家数据局了解到，我国正加快研究制定全国一体化算力网技术标准，相关指导性技术文件已达 12 项，涵盖算力监测调度、算电协同、安全保护等多个方面，促进全国算力资源优化配置。 据悉，正在建设的算力网，就好比现在用的电网。用户用电，不必人人都买发电机，因为电网已实现统一调配，随取随用。 IT之家注意到，工信部 5 月 30 日印发《 算力互联互通行动计划 》。到 2026 年，建立较为完备的算力互联互通标准、标识和规则体系。 到 2028 年，基本实现全国公共算力标准化互联 ，逐步形成具备智能感知、实时发现、随需获取的算力互联网。 工信部在重...",
+   "published": "2026-05-24T11:49:57+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "长安第四代 CS75 PLUS 蓝鲸超擎上市，10.99 万元起",
+   "url": "https://www.ithome.com/0/954/619.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，长安第四代 CS75 PLUS 蓝鲸超擎今日上市，上市抢购价区间 11.39-13.19 万元，并推出蓝鲸超擎真香型，一口价 10.99 万元。 IT之家注意到，该车提供安第斯灰、原子灰、尊贵黑、炫晶白、碧空蓝、星云辉、月华银灰 7 种颜色可选，车身长宽高分别为 4770/1910/1695mm。 内饰新增慕雪青山配色，配备 256 色环绕式氛围灯与浅色木纹膜片。新车全系标配 37 寸一体悬浮式三联屏与 AI 大模型智能助手，支持多终端无感互联及车辆智能控制功能。车辆配备定制开发版高德地图、18 扬声器车载音响系统，同时 标配 50W 手机无线快充 功能。 新车...",
+   "published": "2026-05-24T11:27:14+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "My favorite early Memorial Day deals: Save big on laptops, tablets, and more",
+   "url": "https://www.zdnet.com/article/best-early-memorial-day-deals-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Memorial Day is here. These are the best deals we found so far, including price drops from Apple, Samsung, Hisense, Ninja, and more.",
+   "published": "2026-05-24T11:09:54+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+   "url": "https://www.qbitai.com/2026/05/423421.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "大厂集体下场后，创业公司还有哪些机会？",
+   "published": "2026-05-24T10:50:44+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "AIGC产业峰会"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI 自主决策、无人工遥控，首届中学生人形机器人足球赛决出首站冠军",
+   "url": "https://www.ithome.com/0/954/614.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，据央视新闻报道，5 月 23 日至 24 日，首届中学生人形机器人足球赛（北京海淀）总决赛于北京市清华附中落下帷幕。中央民族大学附属中学好耶战队在激烈竞争中脱颖而出，摘得桂冠；北京市海淀区教师进修学校附属实验中学极光队、人大附中航天城学校飞马队分别位列亚军和季军。 据IT之家了解，本次赛事由中央广播电视总台北京总站联合中共北京市海淀区委员会、海淀区人民政府共同主办，是国内首个面向中学生群体的人形机器人足球赛事。预选赛阶段共吸引京内外 44 支赛队、逾 420 名选手报名参与，参赛阵容涵盖人大附中、清华附中、十一学校等知名中学。赛事采用瑞士轮、小组双循环及双败淘汰...",
+   "published": "2026-05-24T10:37:55+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+   "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
+   "published": "2026-05-24T10:30:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Gear",
+    "Gear / Gear News and Events",
+    "cooking",
+    "robots",
+    "robotics"
+   ],
+   "image": ""
+  },
+  {
+   "title": "长安第四代逸动蓝鲸超擎车型上市：AI 大模型语音接入 DeepSeek，7.99 万起",
+   "url": "https://www.ithome.com/0/954/592.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，长安第四代逸动蓝鲸超擎车型上市，共推出三款车，上市抢购价区间 7.99-8.99 万元。 IT之家注意到，新车延续了家族式的设计语言，长宽高分别为 4785/1840/1460mm， 轴距为 2765mm 。内饰方面，新车采用 10.25 英寸仪表和 14.6 英寸的中控屏，搭载天枢智慧座舱以及天枢 OS 车机系统，全系标配内置 DeepSeek 的 AI 大模型语音系统。 悦享型在入门款基础上新增 256 色氛围灯、ACC 自适应巡航、前碰撞预警 (FCW)、自动紧急制动 (AEB)，升级为 8 个扬声器。 智享型在悦享型基础上，新增 50W 手机无线快充、揽...",
+   "published": "2026-05-24T10:02:17+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "破局多端困境，拥抱 AI 变革：飞猪跨端技术的过去、现在与未来｜AICon上海",
+   "url": "https://www.infoq.cn/article/0FPPymvSNjV9LbAIhXxO?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-24T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "科大讯飞智能办公本 Air 3 系列发布：支持离线 AI 与龙虾助手，2499~3599 元",
+   "url": "https://www.ithome.com/0/954/591.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，科大讯飞本周推出了新一代智能办公本 Air 3 系列产品，标准版 2999 元，NEO 版 2499 元，Pro 版 3599 元。 京东 科大讯飞智能办公本 Air 3 标准版 8.2 英寸电子书阅读器 墨水屏 手写笔记本电纸书 平板 大模型 2999 元 直达链接 京东 科大讯飞智能办公本 Air 3 NEO 暖阳橙 (保护套） 8.2 英寸电子书阅读器墨水屏 手写笔记本电纸书 2499 元 直达链接 京东 科大讯飞【重磅新品】智能办公本 Air 3 Pro 咖啡棕 (保护套） 8.2 英寸电子书阅读器墨水屏 手写笔记本电纸书 3599 元 直达链接 京东 ...",
+   "published": "2026-05-24T09:47:54+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "LG 推出 44.5 英寸 5K2K OLED 曲面带鱼屏双模显示器，14999 元",
+   "url": "https://www.ithome.com/0/954/586.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，LG 全新 44.5 英寸 GX9 显示器（45GX950B）现已上架并开启预售，京东显示为 14999 元，号称是全球首款 AI 超分辨率曲面 44.5 英寸 5K2K OLED 电竞显示器。 京东 LG GX9 44.5 英寸 5K OLED 电竞显示器 高刷双模 AI 超分技术 21:9 800R 曲屏 DP2.1 TypeC 90w 45GX950B 14999 元 直达链接 2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。 数码补贴： 点此领券 手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不...",
+   "published": "2026-05-24T09:21:35+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OPPO Reno16 主要规格曝光：天玑 8550 处理器、6.32 英寸直屏",
+   "url": "https://www.ithome.com/0/954/584.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，OPPO Reno16 系列手机将于 5 月 25 日 18:00 发布，博主 @体验more 曝光了这款新机的主要规格。 IT之家整理如下： 天玑 8550 处理器 6.32 英寸 1216p 小直屏 80W 快充 +6700mAh 电池 前置 50MP，后置 200MP HP5 主摄 +50MP 超广 +50MP JN5 潜望长焦， 金属中框 + 玻璃后盖， 双扬声器、满级防水、AI 键 据此前官方预热，OPPO Reno16 系列拥有专属游戏滤镜、1.5K 超级分辨率、一键回录、游戏实况、2K 超分截屏。此外， OPPO Reno16 Pro 还升级搭载天...",
+   "published": "2026-05-24T09:13:31+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "联想推出 ThinkPad E14/E16 轻薄本：可选 U9 185H、U7 356H 版本，7999 元起",
+   "url": "https://www.ithome.com/0/954/583.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，联想 ThinkPad E14 及 E16 2026 新机现已上架并开启预约，将于 5 月 27 日开售。IT之家汇总如下： ThinkPad E14 Ultra 9 185H + 32GB + 1TB 版本 7999 元 Ultra 5 336H + 32GB + 1TB 版本 9499 元 Ultra 7 356H + 32GB + 1TB 版本 11999 元 ThinkPad E16 Ultra 9 185H + 32GB + 1TB 版本 8999 元 京东 ThinkPad 联想 E14 笔记本电脑 AI PC 商务办公学生轻薄本 酷睿 Ultra5...",
+   "published": "2026-05-24T09:00:55+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为余承东：问界 M9 率先搭载全新一代的鸿蒙座舱，灯随人动、手势即达",
+   "url": "https://www.ithome.com/0/954/582.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文称：“全新一代的鸿蒙座舱也来了！问界 M9 上率先搭载， 灯随人动、手势即达、毫秒级智能调光 ，还有全新小艺智能体，更多豪华体验，5 月 27 日为大家揭晓”。 据官方预热，全新问界 M9 系列支持全主动追光感知，全车 10 颗智能追光灯；全主动手势感知，一指即控；一挥开启全黑空间，隐私防护时刻保障；还有全新星寰岛与 HUAWEI SOUND Ultimate 非凡系列音响。 IT之家注意到，问界官方 5 月 23 日宣布，鸿蒙智行问界 M9 系列新品发布会从 5 月 27 日 19:00 提...",
+   "published": "2026-05-24T08:53:43+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "企业强推 AI 提效遇反效果：AI 成本已超人力",
+   "url": "https://www.ithome.com/0/954/581.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，众多科技企业督促员工使用人工智能工具提升工作效率，但这项举措已然开始产生反效果。据 The Verge 报道，微软要求员工改用自家的 Copilot CLI，而非 Claude Code 工具，原因是企业倾向采用内部自研工具，而非第三方产品。不过有消息人士透露，核心缘由是随着使用者增多，Claude Code 的使用成本持续攀升。 据 Tom's Hardware 报道，不止微软一家企业出现这类情况。据财富杂志报道，其他企业也在缩减人工智能工具的使用规模。虽说人工智能模型的训练成本不断下降，调用算力词元（token）的费用随之走低，但员工日常工作中的词元消耗量却...",
+   "published": "2026-05-24T08:40:33+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "大规模工程支撑场景下的多智能体系统设计：Grab 实践案例",
+   "url": "https://www.infoq.cn/article/7DfZeiQH0zm08P88xIw9?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-24T08:00:00+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "我国科研团队成功研制智能透射电子显微镜“原眼一号”",
+   "url": "https://www.ithome.com/0/954/571.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，据央视新闻从中国科学院大连化学物理研究所了解到，该所联合中国科学院沈阳自动化研究所，近期成功研制出具备全流程自主运行能力的智能透射电子显微镜“原眼一号”。 据IT之家了解，透射电子显微镜作为探索物质微观结构的核心工具，在先进材料研发、能源化工、生命科学等前沿领域发挥着不可替代的作用。然而，自该技术问世近百年来，其操作始终高度依赖人工完成，存在效率低、主观性强、难以统计定量等瓶颈。 为破解上述难题，研发团队开发了“全自主感知-解析-操控通用智能透射电镜”算法，并在此基础上，攻克具身智能高真空样品传递、电子光学成像自主调节、纳米级样品智能定位、图像自主采集与实时解析...",
+   "published": "2026-05-24T07:43:39+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华硕 ROG 幻 16 Air、枪神 10 Plus 超竞版新增 RTX 5090 版本，42999~59999 元",
+   "url": "https://www.ithome.com/0/954/570.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，华硕新上架了两款搭载 RTX 5090 显卡的游戏本，IT之家汇总如下： ROG 幻 16 Air 2026 5 月 30 日开售，42999 元 酷睿 Ultra 9 386H 处理器 全新冰川散热架构：双贯穿出风口，内吹技术 2.0，双烤 175W，GPU 单烤 160W 64GB LPDDR5X-8533 内存、2TB PCIe 5.0 固态硬盘，双 M.2 盘位 16 英寸 2.5K 240Hz 的 OLED 屏，1100 nits 峰值亮度，0.2ms 极速响应，100% DCI-P3 色域，DXC 抗反射防眩光，莱茵 TÜV 低蓝光、VESA Dis...",
+   "published": "2026-05-24T07:36:02+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OPPO Reno16 Pro 首次搭载 2 亿超清云台主摄，天玑 9500s 加持",
+   "url": "https://www.ithome.com/0/954/565.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，OPPO Reno16 Pro 将于 5 月 25 日 18:00 发布，这也是 Reno 系列首次搭载 2 亿超清云台主摄 ，支持 Natural Tone 真实感引擎 + 芯片级画质优化。此外，该机还搭载 天玑 9500s 旗舰芯片。 据官方预热，OPPO Reno16 系列拥有专属游戏滤镜、1.5K 超级分辨率、一键回录、游戏实况、2K 超分截屏。 IT之家查询获悉，OPPO Reno16 系列手机后置 2 亿像素主摄 + 5000 万像素潜望长焦 + 5000 万像素超广角 + 爆闪智能闪光灯，并前置一枚 5000 万像素超广角镜头。 系列新机将支持 2...",
+   "published": "2026-05-24T07:26:07+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "对标 Reddit，Meta 悄然推出“Forum”应用",
+   "url": "https://www.ithome.com/0/954/544.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 24 日消息，Meta 公司悄然推出一款名为“Forum（论坛）”的独立群组应用。该产品定位对标 Reddit，官方将其描述为“专为深度交流、真实答疑和兴趣社群打造的专属空间”。 用户登录 Facebook 账号后，应用会同步个人群组、资料与动态，也可以使用昵称发布帖子，操作方式和标准 Facebook 应用一致。官方表示，原有群组仍保留在 Facebook 平台，在论坛发布的内容也会同步展示在对应的 Facebook 群组中。 Meta 称，该应用信息流以群组对话为核心，用户能看到普通用户的真实发言，而非仅热门推送，也可便捷接续此前未完成的浏览互动。 应用内置人工智能问答板...",
+   "published": "2026-05-24T07:07:20+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌CEO承认Coding落后了",
+   "url": "https://www.qbitai.com/2026/05/423390.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "搜索25年来最大改版，但谷歌还不敢一脚切到AI",
+   "published": "2026-05-24T06:20:35+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "谷歌"
+   ],
+   "image": ""
+  },
+  {
+   "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+   "url": "https://www.qbitai.com/2026/05/423382.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "技术创新只是起点，产业整合速度才是AI落地的真正竞争力",
+   "published": "2026-05-24T06:14:05+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "AIGC产业峰会"
+   ],
+   "image": ""
+  },
+  {
+   "title": "什么！你说胡彦斌也在苦修Vibe Coding",
+   "url": "https://www.qbitai.com/2026/05/423213.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "Vibe Coding还是太权威了vibe",
+   "published": "2026-05-24T04:53:32+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "Vibe Coding"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Samsung is giving away free 32-inch Odyssey monitors - seriously",
+   "url": "https://www.zdnet.com/article/samsung-m9-odyssey-g7-bogo-deal/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Samsung's BOGO monitor deal is back, back, back again. Here's what you need to know to snag yours.",
+   "published": "2026-05-24T02:06:00+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Best Buy just discounted top gaming monitors for Memorial Day",
+   "url": "https://www.zdnet.com/article/monitor-deals-memorial-day-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Memorial Day is almost here, but you can already find great discounts on gaming monitors from Samsung, LG, and more at Best Buy.",
+   "published": "2026-05-24T01:55:00+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Mythos首个报告出炉：全球数十亿设备裸奔，30天挖出10000致命漏洞",
+   "url": "https://36kr.com/p/3823872193745026",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "纳德拉拆掉微软旧王座，苏莱曼总攻超级智能",
+   "url": "https://36kr.com/p/3823871785586822",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI生成文章数量已碾压人类，AI替你写了一切，你的大脑还剩什么？",
+   "url": "https://36kr.com/p/3823865016897925",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic三张底牌全翻了，Mythos 1首次现身，Opus 4.8曝光",
+   "url": "https://36kr.com/p/3823864623992965",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌CEO承认Coding落后了",
+   "url": "https://36kr.com/p/3823020763746435",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "活宝团队试验「让 AI 当老板」，结果如何？",
+   "url": "https://36kr.com/p/3822860813684864",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "活过来的Codex，扛起了 OpenAI上市的希望",
+   "url": "https://36kr.com/p/3822795128070149",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI四巨头内部报告首度公开：AI正在学会撒谎求生",
+   "url": "https://36kr.com/p/3822613261504645",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：下一个杀手级AI产品，会出现在哪个赛道？| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821714896408713",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌搜索智能体大升级，AI却直接「罢工」了？",
+   "url": "https://36kr.com/p/3821580899553668",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "老板电器，等AI“开饭”",
+   "url": "https://36kr.com/p/3821573572862212",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：当AI进入产业前线：未来最稀缺的AI人才，会是谁？| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821542483857801",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3821533415985283",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "对话王小川：离开通用人工智能的主干道之后",
+   "url": "https://36kr.com/p/3821521291038856",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：AI浓度与转化率：数字体验的实战增长法则",
+   "url": "https://36kr.com/p/3821519307591811",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
