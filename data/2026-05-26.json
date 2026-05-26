@@ -1,0 +1,1028 @@
+{
+ "date": "2026-05-26",
+ "generated_at": "2026-05-26 08:00",
+ "total": 80,
+ "sources": [
+  "少数派",
+  "量子位",
+  "36氪 AI",
+  "The Verge AI",
+  "36氪",
+  "IEEE Spectrum",
+  "CNBC Tech",
+  "InfoQ 中文",
+  "Wired AI",
+  "IT之家",
+  "TechCrunch AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 80 篇 AI 相关资讯（国内 46 篇，海外 34 篇）。热门话题集中在：大模型发布、机器人、AI Agent、AI 硬件与芯片。最受关注：「多家人工智能企业月内斩获亿元级融资」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 多家人工智能企业月内斩获亿元级融资 — 5月份，国内人工智能创投市场最显著的特征是马太效应持续强化，行业资金资源加速向头部企业聚拢。例如，月之暗面于5月初完成新一轮约20亿美元融资，投后估值突破200亿美元。这是月之暗面成立以来规模最大的单笔融资，也是国内大模型创业公司迄今金额最高的私募融资之一。至此，月之暗面总融资额超376亿元人民币。"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Pope Leo calls for being ‘profoundly human’ in the age of AI — Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 消除“罪证”：给写作去除“AI味”的不完全手册（2026版） — 图源：公众号「有三思  U  Sense」 做个测试。读一下这段话： “熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。” 如果你笑了，或者皱了眉，很明显，你的 “鉴AI雷达” 已经觉醒。 近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。大家纷纷晒出自己使用、调教AI，结"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[InfoQ 中文]** 45家机器人厂商背后都是它！天机智能完成10亿元融资，估值奔百亿了"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[量子位]** 华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资 — 用“人类心智”重做具身智能"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** PCB上市公司瞄准高端项目推出扩产计划 — 2026年以来，PCB（印制电路板）相关上市公司纷纷披露扩产计划，扩产方向聚焦高端产能。业内认为，国内企业卡位PCB高端产能，核心驱动因素系下游AI服务器、新能源车、先进封装等需求快速放量，国产替代进入窗口期，海外厂商高端产能逐步收缩等。（证券日报）"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 加文 · 贝克最新对话，细谈前沿模型、晶圆及巨头格局：如果只能盯一个指标来判断 AI 泡沫，我会盯台积电产能决策 — 精彩观点： 1、我觉得 Anthropic 烧掉的钱，可能比 OpenAI 少 80%。 2、AI 现在正从“无限量套餐”转向“按杯付费”，可能就是为什么今年我们会看到 OpenAI 和 Anthropic 的 ARR 远远超过 2000 亿美元。不只是更多算力会上线，它们还可以通过这些企业级按量方"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** Galaxy S26 Ultra 手机装上骑仕 V3 Pro 手柄，三星、雷蛇在中东及北非发起联动 — IT之家 5 月 25 日消息，据外媒 Sammyguru 今晚报道，三星与雷蛇近日在中东和北非地区联合推出“Play Without Limits”宣传活动。 此次活动将 Galaxy S26 Ultra 与雷蛇骑仕 V3 Pro 手柄进行组合推广，并将这一搭配 定位为“更加完整的移动游戏方案” "
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、机器人、AI Agent展开。国内科技媒体报道活跃度高于海外，显示本土 AI 生态持续升温。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 80 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "多家人工智能企业月内斩获亿元级融资",
+   "url": "https://36kr.com/newsflashes/3825353629782912?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "5月份，国内人工智能创投市场最显著的特征是马太效应持续强化，行业资金资源加速向头部企业聚拢。例如，月之暗面于5月初完成新一轮约20亿美元融资，投后估值突破200亿美元。这是月之暗面成立以来规模最大的单笔融资，也是国内大模型创业公司迄今金额最高的私募融资之一。至此，月之暗面总融资额超376亿元人民币。在大模型赛道趋于成熟的同时，具身智能领域投融资动作频繁，5月份以来多家优质企业接连斩获大额融资——飞捷科思、眸深智能等企业亿元级融资先后落地，维他动力、鹿明机器人等项目也密集完成大额融资交割，赛道投资活跃度持续走高。（证券日报）",
+   "published": "2026-05-25T23:58:31+00:00",
+   "age_label": "1分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "政策与产业共振，算电协同三大细分赛道迎来价值重估",
+   "url": "https://36kr.com/newsflashes/3825339197690756?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "继东数西算工程构建全国一体化算力网络框架之后，算电协同成为2026年资本市场的重要产业主线。从首个大规模示范项目在宁夏中卫投运，到四部门联合印发人工智能与能源双向赋能行动方案，算电协同行业迎来政策与产业共振。Wind数据显示，5月以来，万得算力主题指数累计涨幅超19%，万得智能电网概念指数累计涨幅超6%。分析人士认为，“源网荷储算”（即电源、电网、负荷、储能与算力设施）协同运行的模式正加速从蓝图走向落地，绿电运营、算力侧储能系统及电力调度设备三大细分赛道有望率先迎来业绩兑现期。（中证报）",
+   "published": "2026-05-25T23:47:12+00:00",
+   "age_label": "13分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "演都不演？黄仁勋批评 CEO 以 AI 为由裁员“只是为了显得自己很聪明”",
+   "url": "https://www.ithome.com/0/955/087.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "5 月 26 日，据《商业内幕》报道，英伟达 CEO 黄仁勋 (Jensen Huang) 对一些将裁员归咎于 AI 的 CEO 提出了批评，认为这种说法“太敷衍”。 黄仁勋 黄仁勋周一在接受新加坡亚洲新闻台采访时表示：“我认为很多 CEO 将 AI 与失业联系起来，这种说法实在是太敷衍了。” “AI 才刚刚兴起，怎么可能就已经在导致失业了？”他反问道。 黄仁勋表示，在生成式 AI 工具尚未在工作场所广泛应用之前，把裁员与 AI 联系起来是“说不通的”。“AI 在六个月前才刚刚变得高效和有用，怎么可能两年前就有人因为 AI 而裁员了呢？”他表示。 他还指出，一些高管把裁员归因于 AI，只是“为...",
+   "published": "2026-05-25T23:41:50+00:00",
+   "age_label": "18分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Netflix《赛博朋克：边缘行者 2》首支预告片官宣 7 月 4 日发布",
+   "url": "https://www.ithome.com/0/955/086.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 26 日消息，自从去年在 Anime Expo 上官宣制作后，CD PROJEKT RED 与扳机社联合打造的《赛博朋克：边缘行者》续作迟迟没有新动作。 《赛博朋克：边缘行者》官方确认，其首支预告片将于北京时间 2026 年 7 月 4 日 10 点 30 分，在今年于洛杉矶举行的 Anime Expo 2026 展会上正式公布，一睹夜之城下一个独立故事。 据介绍，此次活动将在 Crypto.com Arena 举行，内容创作者 Danny Motta 担任主持人，剧集统筹及编剧 Bartosz Sztybor、执行制片人 Saya Elder、导演 Kai Ikarashi...",
+   "published": "2026-05-25T23:38:43+00:00",
+   "age_label": "21分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "爱玛 × 华为达成合作，两轮车有望支持智能行车辅助系统、星闪等技术",
+   "url": "https://www.ithome.com/0/955/085.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 26 日消息，爱玛科技官方昨日宣布与华为签署深化合作协议，双方聚焦两轮出行智能化、鸿蒙生态融合、云计算与大数据、AI 赋能等领域深度协同。 据爱玛科技官方介绍，双方将基于“云网筑基、芯片赋能、端侧落地、互联协同”的一体化合作逻辑，依托鸿蒙生态、星闪生态、智能车云与 AI 技术实现全链条赋能，推进产品智能化升级与全球化布局。 IT之家从具体的合作内容了解到，华为成立了芯片与解决方案联合项目组，助力爱玛科技智能化架构设计、模块产品定义、模块产品开发和交付。双方的合作核心领域包括但不限于：智能仪表盘、智能行车辅助系统、4G 通讯技术、星闪技术、端侧 AI 技术等。 这表明， 爱玛两...",
+   "published": "2026-05-25T23:37:57+00:00",
+   "age_label": "22分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "PCB上市公司瞄准高端项目推出扩产计划",
+   "url": "https://36kr.com/newsflashes/3825327807189895?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "2026年以来，PCB（印制电路板）相关上市公司纷纷披露扩产计划，扩产方向聚焦高端产能。业内认为，国内企业卡位PCB高端产能，核心驱动因素系下游AI服务器、新能源车、先进封装等需求快速放量，国产替代进入窗口期，海外厂商高端产能逐步收缩等。（证券日报）",
+   "published": "2026-05-25T23:30:37+00:00",
+   "age_label": "29分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0526：华为发表半导体“韬定律”高端芯片 2031 年剑指 1.4nm，麒麟芯片峰值频率首超 3GHz；OPPO Reno16 系列手机发布；荣耀 600 系列新机发布...",
+   "url": "https://www.ithome.com/0/955/084.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 5 月 26 日星期二，今天的重要科技资讯有： 1、华为发表半导体韬定律：预计到 2031 年，基于该定律的高端芯片晶体管密度将达到 1.4 纳米制程的同等水平 基于该定律，华为过去六年已成功设计并量产了 381 款芯片。今年秋季，华为将发布新的麒麟手机芯片，完整采用逻辑折叠技术，大幅提升相关性能。>> 查看详情 2、华为麒麟 2026 芯片官方剧透：晶体管密度提升 53.5％，峰值频率首超 3GHz 在 5 月 25 日的国际电路与系统研讨会（ISCAS 2026）上，华为公司董事、半导体业务部总裁何庭波表示，将于今年秋季面世的麒麟手机芯片率先...",
+   "published": "2026-05-25T23:28:17+00:00",
+   "age_label": "31分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "特斯拉入局，自动驾驶产业链添动能",
+   "url": "https://36kr.com/newsflashes/3825324735992709?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作为中国智能汽车前沿，自动驾驶产业近期颇不平静。5月24日，特斯拉中国将FSD正式更名为“特斯拉辅助驾驶”。而在5月21日，特斯拉已经宣布其监督版FSD（完全自动驾驶能力）已在包括中国在内的10个国家或地区开放使用。特斯拉的选择并非偶然。记者近日采访获悉，在人工智能等新科技的赋能下，中国自动驾驶产业正展现出前所未有的活力，关键技术持续突破，L2级以上辅助驾驶渗透率快速提升，产业正加速从示范应用加速走向规模商业化。同时，华为、禾赛科技等产业链企业也正迎来强劲的发展新动能。（上证报）",
+   "published": "2026-05-25T23:21:32+00:00",
+   "age_label": "38分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "13只机器人主题ETF总规模达574亿元",
+   "url": "https://36kr.com/newsflashes/3825306996544131?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近日，A股市场机器人板块迎来强势行情，与此同时，机器人主题基金的规模与净值均有所增长。Wind数据显示，截至5月25日，近一周（5月19日至5月25日，下同），全市场13只机器人主题ETF规模合计增长26.3亿元，总规模已达574亿元，净值同步呈现走高态势。其中，规模排名靠前的华夏中证机器人ETF，最新规模达206.15亿元，近一周规模增长6.11亿元；易方达国证机器人产业ETF最新规模168.97亿元，近一周规模增长18.47亿元。（证券日报）",
+   "published": "2026-05-25T23:18:25+00:00",
+   "age_label": "41分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens",
+   "url": "https://www.ithome.com/0/955/078.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 26 日消息，多名开发者在 OpenAI Codex 后端日志中发现未官宣模型 GPT-5.6，内部代号为 iris-alpha， 将支持 150 万上下文窗口，有望今年 6 月发布。 在本次曝光的 GPT-5.6 系列模型中，除了 iris-alpha 之外，还发现了 ember-alpha 与 beacon-alpha 相关版本，现阶段尚不清楚这些代号对应的版本。 在本次曝光的 GPT-5.6 系列模型中，最值得关注的是上下文窗口达到 150 万 token。作为对比，当前 GPT-5.5 API 为 105 万 Tokens，而通过 Codex OAuth 渠道仅为 4...",
+   "published": "2026-05-25T22:59:12+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "首个海外品牌：海盗船 DDR5 内存条被发现采用长鑫 DRAM 芯片",
+   "url": "https://www.ithome.com/0/955/076.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 26 日消息，5 月 22 日，博主 @wxnod 发现海盗船（Corsair）最新批次 Vengeance DDR5 内存条中使用了长鑫存储的 DRAM 颗粒。 该模组为 16GB 容量，规格为 DDR5-6000，时序 36-44-44-96，电压 1.35V。型号编号为“CMK5X16G3E60C36A2-CN”，从截图来看同时支持 Intel XMP 和 AMD EXPO 配置文件。 海盗船通常为旗下消费级 DDR5 内存套件从三星、SK 海力士、美光等成熟供应商采购 DRAM 颗粒，因此这次出现长鑫颗粒备受关注。 实际上，金百达等中国厂商此前就已推出基于长鑫颗粒的 ...",
+   "published": "2026-05-25T22:50:17+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "加文 · 贝克最新对话，细谈前沿模型、晶圆及巨头格局：如果只能盯一个指标来判断 AI 泡沫，我会盯台积电产能决策",
+   "url": "https://www.ithome.com/0/955/075.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "精彩观点： 1、我觉得 Anthropic 烧掉的钱，可能比 OpenAI 少 80%。 2、AI 现在正从“无限量套餐”转向“按杯付费”，可能就是为什么今年我们会看到 OpenAI 和 Anthropic 的 ARR 远远超过 2000 亿美元。不只是更多算力会上线，它们还可以通过这些企业级按量方案，提高前沿 token 的价格。 3、我认为，电力短缺可能会从 2027 年、2028 年开始缓解。然后，轨道算力会真正解决这个问题。 4、事实上，按照历史上所有基础性新技术的市场先例，像 AI 这样的技术，通常都会经历泡沫。 5、现在这一轮建设有一个很大的好处，就是它仍然主要由经营现金流来融资。...",
+   "published": "2026-05-25T22:38:17+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询",
+   "url": "https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T17:41:00+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "What ClickUp’s mass layoff tells us about the future of work",
+   "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+   "published": "2026-05-25T16:00:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Startups",
+    "AI",
+    "layoff",
+    "ClickUp"
+   ],
+   "image": ""
+  },
+  {
+   "title": "小米汽车：YU7 GT 目前暂无登陆《跑车浪漫旅 7》游戏的计划",
+   "url": "https://www.ithome.com/0/955/074.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，小米汽车今天深夜发布第 246 集答网友问，详细介绍了电池安全测试、YU7 GT 所用的碳陶刹车盘，并回应 YU7 GT 是否有上线 GT7 的计划：YU7 GT 目前 暂无登陆 GT7（《跑车浪漫旅 7》）游戏的计划 ，后续如有计划 会第一时间公布 。 IT之家整理本期问答内容如下： 现在买 YU7 标准版，HAD 辅助驾驶功能是终身免费吗？ 首销期内下定 YU7 标准版（2026 年 6 月 30 日 24:00 前），享 Xiaomi HAD 终身免费使用权益。 此外，YU7 的辅助驾驶硬件不分高低配，全系标配 700TOPS 算力 Thor 芯片、激光雷...",
+   "published": "2026-05-25T15:48:42+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "ClickHouse实战：Agentic Coding，是“神”还是“坑”？",
+   "url": "https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T15:46:38+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Galaxy S26 Ultra 手机装上骑仕 V3 Pro 手柄，三星、雷蛇在中东及北非发起联动",
+   "url": "https://www.ithome.com/0/955/072.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，据外媒 Sammyguru 今晚报道，三星与雷蛇近日在中东和北非地区联合推出“Play Without Limits”宣传活动。 此次活动将 Galaxy S26 Ultra 与雷蛇骑仕 V3 Pro 手柄进行组合推广，并将这一搭配 定位为“更加完整的移动游戏方案” 。三星并没有借此转向专门的游戏手机路线，而是继续把 Galaxy S26 Ultra 定位成一款能够 通过配件扩展体验的“全能旗舰”手机 。 硬件方面，Galaxy S26 Ultra 搭载高通骁龙 8 Elite Gen 5 for Galaxy 芯片，同时配备升级版均热板散热系统，以保证长时间游...",
+   "published": "2026-05-25T15:42:23+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "33 岁智元机器人 CTO“稚晖君”彭志辉正式出任上纬新材公司董事长",
+   "url": "https://www.ithome.com/0/955/071.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，国家企业信用信息公示系统显示，上纬新材料科技股份有限公司近日完成工商变更，蔡朝阳卸任法定代表人、董事长，田华接任法定代表人， “稚晖君”彭志辉正式接任董事长一职 。 值得一提的是，去年 11 月 25 日晚，上纬新材公告称，当日公司召开了 2025 年第三次临时股东会，通过累积投票制的方式选举了 彭志辉、田华、周斌、姜青松、钮嘉 为公司第四届董事会非独立董事。IT之家注意到，这五人均为智元体系的核心骨干。 上纬新材同步公告，公司第四届董事会第一次会议， 全体董事一致同意选举彭志辉担任公司第四届董事会董事长 。 彭志辉出生于 1993 年，本科及硕士均毕业于 电子...",
+   "published": "2026-05-25T15:33:11+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The pope’s AI encyclical isn’t really about AI",
+   "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+   "published": "2026-05-25T15:09:41+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "ai encyclical",
+    "Magnifica Humanitas",
+    "pope leo xiv",
+    "the vatican"
+   ],
+   "image": ""
+  },
+  {
+   "title": "过河拆桥？扎克伯格一边计划裁员，一边称“让 Meta 员工参与训练 AI 效果更好”",
+   "url": "https://www.ithome.com/0/955/070.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，Meta 今年 4 月宣布，将裁减约 10% 的员工，约 7800 人受波及。与多数企业迅速执行裁员不同，Meta 提前接近一个月通知员工，但始终没有明确究竟谁会被裁掉。 这轮裁员已经正式生效，而情况也正如外界此前预料般残酷。但更具争议的，是近日曝光的一段 Meta 内部全员会议录音：扎克伯格告诉员工，在大规模裁员之前， 自己正在借助他们来训练 AI 。 当地时间 5 月 20 日，根据 More Perfect Union 公开的内容，Meta 首席执行官马克 · 扎克伯格在谈论 AI 训练时，甚至提到公司正在 利用员工工作数据训练内部 AI 模型 。“我们现...",
+   "published": "2026-05-25T15:07:26+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+   "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered wa...",
+   "published": "2026-05-25T15:05:07+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Law",
+    "News",
+    "Policy"
+   ],
+   "image": ""
+  },
+  {
+   "title": "从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T14:53:04+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "45家机器人厂商背后都是它！天机智能完成10亿元融资，估值奔百亿了",
+   "url": "https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T14:31:53+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+   "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+   "published": "2026-05-25T14:30:00+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "TC",
+    "Startups",
+    "Crypto",
+    "Climate",
+    "Fintech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "美光 HBM4 增产进展顺利，HBM4E 计划明年启动大规模生产",
+   "url": "https://www.ithome.com/0/955/063.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，据韩媒 The Elec 今日报道，美光科技第六代高带宽内存 HBM4 目前正在顺利扩大产能 ，同时还计划于 明年启动下一代 HBM4E 标准产品量产 。 当地时间 5 月 20 日，美光科技全球运营执行副总裁马尼什 · 巴蒂亚在摩根大通投资者会议上表示，美光 HBM4 的量产爬坡速度， 已经达到去年 12 层 HBM3E 产品的约两倍 ，良率提升速度也更快。据IT之家了解，HBM4 主要面向英伟达 Vera Rubin AI 计算平台。 美光表示，HBM4 量产提速主要有三个原因。首先，是此前量产 HBM3 与 12 层 HBM3E 过程中 积累的经验与学习效...",
+   "published": "2026-05-25T14:27:57+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "育碧《孤岛惊魂 7》被曝正测试生成式 AI，但效果“看起来烂透了”",
+   "url": "https://www.ithome.com/0/955/060.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，Insider Gaming 记者汤姆 · 亨德森日前透露，育碧目前正在利用尚未公开的《孤岛惊魂 7》早期版本，测试生成式 AI 技术。不过，长期跟踪《孤岛惊魂 7》开发情况的亨德森认为效果并不理想：“看起来烂透了”。 亨德森在 X 平台发布了有关消息后，又删除了帖子。亨德森表示，育碧正把游戏 当作生成式 AI 工具的实验平台 。 亨德森随后进一步解释称，《孤岛惊魂 7》的 AI 测试 仅属于研发用途 ，与育碧独立推进的 AI 项目 Teammates 无关。最初的帖子已经删除，不过关于“研发用途”的说明仍被保留。 而就在消息曝光前不久，育碧公布了 2025-2...",
+   "published": "2026-05-25T14:07:35+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "盯盯拍行车记录仪 MINI 3S Master 预售：索尼 IMX678 / 华为海思芯片，券后 364 元",
+   "url": "https://www.ithome.com/0/955/058.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，盯盯拍行车记录仪 MINI 3S Master 现已在京东平台预售，价格为 399 元，券后 364 元，5 月 27 日开售。 IT之家从商品页面获悉， 该产品支持 800 万像素 4K 超高清影像 、7 组高透光学镜片、F1.8 大光圈，采用索尼 IMX678 传感器，1/1.8 英寸大底感光元件，支持 STARVIS 2 星光夜视。行车录制场景下，呈现更真实的光影层次，暗光环境主动降噪，强光环境优化曝光。 新品搭载 华为海思芯片 ，自研 NightVIS 夜眸增强调优，结合华为海思芯片算法，暗光环境依旧表现强劲，夜间行车视线更清晰。 此外，该产品还搭载自研...",
+   "published": "2026-05-25T14:02:52+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Figure 03 人形机器人完成 200 小时全自动作业直播，分拣近 25 万包裹零故障",
+   "url": "https://www.ithome.com/0/955/056.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，美国机器人企业 Figure AI 旗下的 Figure 03 人形机器人，已完成长达 200 小时的全自动作业直播。 IT之家注意到，在此次作业期间，这些机器人累计分拣近 25 万个包裹，全程未出现任何硬件故障。 公司首席执行官布雷特 · 阿德科克表示，这次里程碑式的测试最初是为回应工业自动化领域资深专家斯科特 · 沃尔特博士发起的 8 小时耐力挑战。 5 月 14 日，Figure AI 就曾宣布，其人形机器人已突破 24 小时连续自主作业时长，远超原定的 8 小时测试目标。 这家总部位于加利福尼亚州的初创企业，投入三台搭载 Helix-02 人工智能系统的...",
+   "published": "2026-05-25T14:01:19+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IBM 印度负责人帕特尔：年轻人口将成为印度参与全球 AI 竞争的重要优势",
+   "url": "https://www.ithome.com/0/955/054.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，据路透社报道，IBM 印度业务负责人桑迪普 · 帕特尔表示，如果印度想真正成为 AI 强国，就必须推动政府、企业与高校协同培养 AI 人才，同时完善相关政策与知识产权体系。 帕特尔表示， 庞大的年轻人口，将成为印度参与全球 AI 竞争的重要优势 。不过，AI 本身也正在冲击印度长期以来作为 全球服务外包中心 的地位。 帕特尔认为，AI 能够显著提升企业生产效率，而印度的人口结构有机会让印度在全球 AI 浪潮中占据有利位置。“这种人口红利已经摆在这里， 真正释放出来会是一个巨大的机会 。印度未来将拥有 3.5 亿接受过 AI 培训的劳动力 ，他们不仅能服务印度本土...",
+   "published": "2026-05-25T13:52:11+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称现代集团组建专项团队，加速人形机器人落地应用",
+   "url": "https://www.ithome.com/0/955/048.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，据 Korea Bizwire 报道，业内人士透露，现代汽车集团正加速推进人工智能驱动的制造业转型，新设立了专注于软件定义工厂和机器人零部件采购的部门，同时准备在其全球生产网络中部署人形机器人。 据悉，这家韩国汽车巨头近期设立专职岗位统筹软件定义工厂战略，并任命新加坡现代汽车集团创新中心首席创新官阿尔佩什 · 帕特尔负责该项目。 此举彰显现代汽车的宏大目标：将传统汽车工厂转型为人工智能智造中心，依托软件实时管控生产、物流与质检全流程。 该项目将作为基石，推动软件定义工厂体系在集团全球工厂普及落地。 与此同时，该集团也在加紧筹备大规模部署人形机器人。 IT之家注意...",
+   "published": "2026-05-25T13:31:18+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "逾 800 人调查显示，99% 企业高管预计 AI 两年内会引发裁员",
+   "url": "https://www.ithome.com/0/955/040.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，据外媒 TechSpot 今晚报道，咨询公司美世发布的《全球人才趋势》报告指出，在参与调查的 825 名企业高层中， 99% 预计 AI 会在未来两年内导致一定程度的裁员 。 报告还提到，2026 年初科技行业裁员人数已经突破 10 万人，而 AI 在多数案例中都被视为关键原因之一。与此同时，企业内部对 AI 的焦虑也正在迅速蔓延。 随着企业缩减人员规模、员工担心 AI 取代岗位，以及公司内部 AI 工具与培训资源分配不均，真正处于“积极工作状态”的员工比例正在明显下降。据IT之家了解，这一数字在 2024 年尚有 66%，目前已经跌至 44%。 此外，如果员工...",
+   "published": "2026-05-25T13:05:03+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Reclaiming Social Engineering for Good",
+   "url": "https://spectrum.ieee.org/social-engineering-good",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "“Social engineering” sounds like something out of a conspiracy thriller, charged with totalitarian control and fringe paranoia. More mundanely, it’s come to be associated with phishing and other scams, in which fraudsters manipulate people into disclosing personal information. Yet the concept is old...",
+   "published": "2026-05-25T13:00:01+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "Social-engineering",
+    "User-experience",
+    "Policy",
+    "Security"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/a-photo-illustration-of-a-person-inside-a-swirling-tunnel-of-colorful-digital-shapes-and-screens.jpg?id=66742827&width=980"
+  },
+  {
+   "title": "非芯片部门员工怒了：三星第三大工会申请法院禁令叫停薪资协议投票",
+   "url": "https://www.ithome.com/0/955/038.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，据 Chosun 报道，三星电子第三大工会（主要由非半导体员工组成）宣布，将向法院申请禁令，叫停 2026 年临时薪资协议的表决流程。 今日，三星电子 Donghaeng 工会表示：“我方计划于 26 日上午 9 时左右，向水原地方法院提交禁令申请，终止此次表决程序。” Donghaeng 工会称，Cho-Kiup 工会出于担心设备体验（DX）部门员工联合起来的顾虑，将作为少数派联盟的他们排除在外。Donghaeng 工会是三星第三大工会，成员主要为负责手机、家电、电视业务的设备体验事业部员工，工会会员人数近期从约 2600 人增至 1.3 万人左右。 此前，D...",
+   "published": "2026-05-25T12:59:32+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "荣耀平板 20 发布：12.1 英寸 3K 全彩类纸屏，国补到手价 1614.15-2804.15 元",
+   "url": "https://www.ithome.com/0/955/036.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，荣耀平板 20 今晚正式发布，提供灵悦版、柔光版、标准版等多款配置，建议零售价区间为 2099-3399 元，首销优惠价 1899-3299 元，国补到手价 1614.15-2804.15 元。 京东 荣耀平板 20  8+128 森林绿 券后 1727.1 元 领 180 元券 据IT之家了解，荣耀平板 20 主打多彩配色，拥有超常发灰、森林绿、耀眼粉三种配色可选，后置小圆镜组，将配备 12.1 英寸 3K 荣耀全彩类纸屏，支持类纸笔记体验、AI 备考智能体等。 这款平板搭载 12.1 英寸 3K 16:10 LCD 屏幕 ，支持 120Hz 高刷。 配备 1...",
+   "published": "2026-05-25T12:46:44+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Take-Two CEO 泽尔尼克：AI 未能降低游戏制作成本，反而会推高成本",
+   "url": "https://www.ithome.com/0/955/034.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，游戏巨头 Take-Two Interactive 公司首席执行官施特劳斯 · 泽尔尼克近期接受 CNBC 采访时表示，人工智能并未降低游戏制作开支，未来也难以实现这一效果。相反，为满足玩家需求，人工智能反而会推高研发成本。 泽尔尼克称，“娱乐产业的技术应用规律向来如此：技术固然提升制作效率，但创作诉求同步拓宽，整体投入也随之上涨。技术让创作团队能够实现更多构想，团队自然追求突破，玩家也期待更优质的内容，多方因素相互制衡。仅有唱片音乐这一项娱乐产业，曾凭借技术进步切实降低了制作成本，这是客观事实。” IT之家注意到，泽尔尼克还提到，行业核心宗旨是打造优质作品、赢...",
+   "published": "2026-05-25T12:42:28+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic 联合创始人奥拉：人工智能的发展不能仅由科技公司主导",
+   "url": "https://www.ithome.com/0/955/033.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，Anthropic 联合创始人克里斯・奥拉（Chris Olah）于当地时间周一表示，人工智能的发展不能完全交由科技公司，他呼吁宗教领袖、政府和民间社会加强监督。 IT之家注意到，奥拉在教皇利奥十四世（Pope Leo XIV）首份关于人工智能的通谕发布仪式上发言称，人工智能极有可能在极大规模上取代人类劳动力。 “倘若这一情况发生，为失业群体提供支持将是一项具有历史意义的道德责任。”他在教皇身边落座时如是说。 他补充道，像他所在的公司这类企业，面临着巨大的商业、地缘政治及个人压力，这些压力有时会与社会整体利益相悖。 “每一家前沿人工智能实验室…… 都处于一套激励...",
+   "published": "2026-05-25T12:34:37+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "长城哈弗猛龙 PLUS 开启全国交付：五座 / 七座可选，限时换新价 16.18 万起",
+   "url": "https://www.ithome.com/0/955/016.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，长城哈弗昨日宣布猛龙 PLUS 开启全国交付，该车于 5 月 15 日上市，推出五座、七座版本，限时换新价 16.18 万元起。 IT之家注意到，该车车身尺寸为 4912 毫米、1950 毫米、1905 毫米，轴距在原有基础上增加 112 毫米，达到 2850 毫米。 内饰方面，哈弗猛龙 PLUS 采用环抱式座舱布局， 配备 15.6 英寸 2.5K 悬浮式中控屏和 W-HUD 抬头显示系统 ，搭载 Coffee OS 3 智慧空间系统及 Coffee GPT 大模型。新车换装了全新的三幅式多功能方向盘，继续采用怀挡式换挡设计，中控屏下方保留了常用功能的物理按键...",
+   "published": "2026-05-25T11:40:07+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
+   "url": "https://36kr.com/p/3824601267196037?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "图源：公众号「有三思  U  Sense」 做个测试。读一下这段话： “熊猫是最可爱的动物，它最爱吃竹子，样子最憨态可掬，是世界上最珍贵的宝藏。” 如果你笑了，或者皱了眉，很明显，你的 “鉴AI雷达” 已经觉醒。 近期把网友笑到打鸣的“豆包体”里，“最”是高频词汇。大家纷纷晒出自己使用、调教AI，结果内容啼笑皆非的截图。这场围绕AI味写作的调侃就此出圈。 ● 网友@也许像星星发布的AI味吐槽突破 微博AI味相关话题浏览阅读量不小，小红书相关笔记动辄近万点赞。豆瓣、抖音、微信公众号，都能搜到不少相关内容。能引发社交媒体的集体吐槽，说明“AI味”已经人人皆可感知，大家都不傻。 同时这也意味着，在工...",
+   "published": "2026-05-25T11:32:24+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "方盒子 SUV 再添新玩家，吉利银河战舰 700 量产版实车曝光",
+   "url": "https://www.ithome.com/0/955/013.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 25 日消息，博主 @SugarDesign 今日在社交平台分享了吉利银河战舰 700 量产版无伪装实车图，方盒子 SUV 再添新玩家。 IT之家注意到，吉利已经公布这款新车的官图， 定位旗下首款 AI 全地形硬核 SUV 。其车身保留方盒造型与方形外后视镜，采用传统门把手设计，尾部配置外挂备胎与竖向尾灯。 技术参数显示，该车搭载自研 GVMC 动态控制系统，宣称可实现 80km/h 麋鹿测试，涉水深度 800mm， 支持卫星通信功能 。 驱动系统方面，新车预计将配备 AI 智能四驱，支持前驱 / 后驱 / 四驱自动切换，具备主动悬架与蟹行模式，同时搭载爆胎行驶控制及障碍物连...",
+   "published": "2026-05-25T11:31:35+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”",
+   "url": "https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T11:25:40+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "人工智能无法加速软件交付",
+   "url": "https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T11:19:57+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码",
+   "url": "https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T11:07:09+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Java近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava和Google ADK",
+   "url": "https://www.infoq.cn/article/8OGPj2DjpStwF4U4t99T?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T11:02:00+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code",
+   "url": "https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T10:51:55+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+   "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+   "published": "2026-05-25T10:30:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Security",
+    "Security / Cyberattacks and Hacks",
+    "Security / Security News",
+    "security",
+    "cybersecurity"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI with Model-Based Design: Virtual Sensor Modeling",
+   "url": "https://content.knowledgehub.wiley.com/ai-with-model-based-design-virtual-sensor-modeling/",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "This webinar presents a workflow offering end-to-end solutions for designing, training, validating and verifying, compressing, and deploying AI-based virtual sensor models to embedded processors within a single environment. Highlights Integrate AI models into Simulink for system-level simulation, ve...",
+   "published": "2026-05-25T10:00:01+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Ai-modeling",
+    "Battery-management-systems",
+    "Neural-netwoks",
+    "Validation-verification",
+    "Virtual-sensors"
+   ],
+   "image": "https://assets.rbl.ms/26851519/origin.png"
+  },
+  {
+   "title": "AI时代数据面临的新挑战和解决之道｜AICon上海",
+   "url": "https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
+   "url": "https://www.qbitai.com/2026/05/424794.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "硬件不该让人适应，它应该主动适应你",
+   "published": "2026-05-25T09:37:05+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "中国AIGC产业峰会2026",
+    "京东"
+   ],
+   "image": ""
+  },
+  {
+   "title": "数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格",
+   "url": "https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-25T09:17:01+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "用AI重构增长：新通教育集团的实践| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3824164325412992?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "新通教育创始人麻亚炜坦诚分享了过去五年的转型历程——从数字化基建到全员AI Must，从AI in All到AI Native新业务。她的实践证明：传统企业拥抱AI，最难的不是技术，而是让战略从董事会走到一线。 麻亚炜将AI转型划分为四个递进阶段： 第一阶段（2021-2022）：数字化基建 完成底层数据与系统架构的夯实，为AI应用奠定坚实基础。 第二阶段（2023-2024）：AI Must 战略落地 通过全员公开课普及认知、孵化标杆小组树立典范、赴哈佛与斯坦福验证产品，将AI从\"命令\"转化为\"共识\"。 第三阶段（2025）：AI in All 深度嵌入 将AI融入所有关键业务流程，构建覆盖...",
+   "published": "2026-05-25T08:54:18+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
+   "url": "https://www.qbitai.com/2026/05/424610.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "特斯拉学会“躲交警”了",
+   "published": "2026-05-25T08:48:14+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "智能车参考",
+    "Waymo",
+    "无人车往哪里开？",
+    "特斯拉",
+    "车圈最新认知"
+   ],
+   "image": ""
+  },
+  {
+   "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
+   "url": "https://www.qbitai.com/2026/05/424605.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "6月10-11日盛大启幕",
+   "published": "2026-05-25T07:29:51+00:00",
+   "age_label": "16小时前",
+   "tags": [
+    "资讯",
+    "投资界"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI wealth must benefit the public, South Korea's deputy PM says amid Samsung labor tensions",
+   "url": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "South Korea's deputy PM tells CNBC there are concerns as to whether AI could worsen wealth gaps or lead to job losses.",
+   "published": "2026-05-25T07:21:00+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
+   "url": "https://www.qbitai.com/2026/05/424584.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "“要做机器人时代的安卓系统”",
+   "published": "2026-05-25T06:56:42+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "蚂蚁灵波"
+   ],
+   "image": ""
+  },
+  {
+   "title": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
+   "url": "https://www.qbitai.com/2026/05/424581.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "获得了国际机器人研究共同体的高度认可",
+   "published": "2026-05-25T06:26:38+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "蚂蚁灵波"
+   ],
+   "image": ""
+  },
+  {
+   "title": "搞定工业质检：AI视觉如何重构高端制造质量防线| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3824158896312709?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "半导体光罩上的纳米级缺陷、玻璃基板上几微米的钻孔。广州因特智能展示了AI视觉如何从实验室走进高端制造产线，用软硬结合的方式解决中国在半导体检测装备领域的卡脖子问题。 广州因特智能科技有限公司孵化于 西安电子科技大学广州研究院 ，是校企合作落地的典型科技企业。我们拒绝“纸上算法”，坚持 软硬一体 ，为半导体、光通信、新能源三大领域提供高端检测装备，已服务国内头部客户及全球企业。 以下为演讲内容，经36氪整理编辑： 刘金硕丨广州因特智能科技CEO 非常感谢36氪和亦庄的邀请，很荣幸在这里跟大家进行科技界的产品技术交流。与前几位嘉宾的分享角度不同，我们是一家扎根实体制造的科技公司，专注用AI视觉技术...",
+   "published": "2026-05-25T06:26:35+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "圆桌对话：从“千人千面”到“人心洞察”| 2026AI Partner·北京亦庄AI+产业大会",
+   "url": "https://36kr.com/p/3824154127093892?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "AIGC如何从生产工具进阶到情感洞察？当AI能写出剧本、生成音乐、表演微表情，人还剩什么？ 内容产业正在发生生产模式跃迁，传统用户画像在AI时代正在被颠覆，真正要做的是理解用户的情感状态而非静态标签。厂牌效应不会消失，越过技术线之后，人最后坚守的是“手搓”的审美与意义。 以下为圆桌对话内容，经36氪整理编辑： 刘士武丨36氪游戏主编（主持） 庄明浩丨趣丸科技副总裁兼首席战略官 胡维琦丨MiniMax To B 中国区商业化负责人 郑安迪丨柠萌影视旗下短剧厂牌好有本领总经理 刘士武： 大家好，我是36氪游戏主编刘士武，也是这场圆桌的主持人，本场圆桌论坛的主题是从“千人千面”到“人心洞察”。AIG...",
+   "published": "2026-05-25T06:08:00+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
+   "url": "https://www.qbitai.com/2026/05/424552.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "原本4亿+token、61美元的账单，直降至12美元",
+   "published": "2026-05-25T04:40:14+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "Deepseek",
+    "Harness"
+   ],
+   "image": ""
+  },
+  {
+   "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
+   "url": "https://www.qbitai.com/2026/05/424551.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "报名通道已开，手慢无",
+   "published": "2026-05-25T04:38:24+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "北京",
+    "图灵奖",
+    "大模型",
+    "智源大会"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Claude 通过率不到4%，SaaS-Bench撕碎了Computer-Use的「全自动办公」幻想",
+   "url": "https://www.qbitai.com/2026/05/424277.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "UniPat AI 发布 SaaS-Bench 评测，Claude 等主流大模型在真实办公任务中完全通过率最高仅 3.8%，AI 全自动办公远未落地。",
+   "published": "2026-05-25T03:29:41+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "UniPat AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "华为具身大脑一号位创业，用认知科学造世界模型，获亿元级融资",
+   "url": "https://www.qbitai.com/2026/05/423455.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "用“人类心智”重做具身智能",
+   "published": "2026-05-25T02:28:17+00:00",
+   "age_label": "21小时前",
+   "tags": [
+    "资讯",
+    "世界模型",
+    "具脑磐石",
+    "具身智能",
+    "华为"
+   ],
+   "image": ""
+  },
+  {
+   "title": "36氪首发 | 商汤国香投了一家消费级空间相机公司，为具身智能采集真实世界数据",
+   "url": "https://36kr.com/p/3824089662853513?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，消费级空间相机公司竹马创新近日完成了数千万天使+轮融资，本轮由商汤国香资本领投，鼎晖VGC、峰瑞资本跟投，深渡资本担任后续独家财务顾问。资金将主要用于产品研发、量产准备及海外市场拓展。 竹马创新成立于2025年11月，是一家以Camera + AI为核心的空间智能公司。公司希望定义一种新的AI硬件品类——空间相机：既是消费级3D内容创作工具，更是面向具身智能与世界模型的真实世界三维数据入口。 团队方面，创始人张吉曾任群核科技副总裁，深度参与大规模空间数据处理与商业化；首席科学家过洁为南京大学长聘副教授、3DGS和空间仿真领域顶尖科学家；团队具备从三维数据采集...",
+   "published": "2026-05-25T02:25:26+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+   "url": "https://www.qbitai.com/2026/05/423441.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "这些AI关键词正在被重新定义",
+   "published": "2026-05-25T01:51:37+00:00",
+   "age_label": "22小时前",
+   "tags": [
+    "资讯",
+    "医疗AI",
+    "推理",
+    "算力",
+    "训练"
+   ],
+   "image": ""
+  },
+  {
+   "title": "派早报：GitHub 在微软治下面临技术和人员流失困境",
+   "url": "https://sspai.com/post/110130",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "GitHub 在微软治下面临技术和人员流失困境 老虎、富途、长桥将被全面取缔境内业务 谷歌搜索 AI 模式误将 disregard 等关键词当作指令 「死了么」更名为「在么在么」用于老人居家安全 公安部拟明确取证中获取密码等特殊程序 伦敦 iPhone 盗窃集团采用威胁手法解绑 Apple ID 看看就行的小道消息 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-05-24T22:36:51+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Everyone is navigating AI security in real time — even Google",
+   "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "We're in the transition period -- all of us.",
+   "published": "2026-05-24T21:39:21+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "TC"
+   ],
+   "image": ""
+  },
+  {
+   "title": "1100亿的赌注：中国机器人离赢钱还差五年",
+   "url": "https://36kr.com/p/3824520810221702",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "版权市场大洗牌，AI焦虑下的孤注一掷",
+   "url": "https://36kr.com/p/3824637653406601",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "零代码自主发现科学图像处理算法，美阿贡国家实验室提出CVEvolve，具备写代码/结果自查/策略优化等全栈能力",
+   "url": "https://36kr.com/p/3824653858952070",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "做“机器狗”的云深处，靠什么撑起41倍市销率？",
+   "url": "https://36kr.com/p/3824642275169160",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "并购激励金都不要了？全程踩中AI Coding，Windsurf核心工程师离开DeepMind",
+   "url": "https://36kr.com/p/3824601714250121",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "118美元买一个AI宠物项圈，只为听猫说一句\"想你了\"",
+   "url": "https://36kr.com/p/3824499704258819",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样",
+   "url": "https://36kr.com/p/3824544071684489",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消除“罪证”：给写作去除“AI味”的不完全手册（2026版）",
+   "url": "https://36kr.com/p/3824601267196037",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Adam之后选哪个？浙大团队对23种优化器做了迄今最系统的评测",
+   "url": "https://36kr.com/p/3824188921794951",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude不到4%，全军覆没，一场大考撕碎Agent「全自动办公」幻想",
+   "url": "https://36kr.com/p/3824327020826755",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "罗永浩没带火的外骨骼装备，蚂蚁美团领投5000万美元",
+   "url": "https://36kr.com/p/3824426888126725",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "美国机器人捡快递，给中国机器人上了一课？",
+   "url": "https://36kr.com/p/3824429556392198",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "被验证成功的万亿Anthropic，正在为SaaS企业带来怎样的启示？",
+   "url": "https://36kr.com/p/3824457604993408",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek 要用蜜雪冰城的打法，做中国版 Claude Code",
+   "url": "https://36kr.com/p/3824544793628801",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "抢疯了，AI宠物翻译器：800多块，预售2万单",
+   "url": "https://36kr.com/p/3824591814840450",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
