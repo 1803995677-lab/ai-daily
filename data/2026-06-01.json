@@ -1,0 +1,934 @@
+{
+ "date": "2026-06-01",
+ "generated_at": "2026-06-01 08:00",
+ "total": 73,
+ "sources": [
+  "36氪",
+  "ZDNet AI",
+  "Wired AI",
+  "量子位",
+  "CNBC Tech",
+  "36氪 AI",
+  "InfoQ 中文",
+  "IT之家",
+  "The Verge AI",
+  "TechCrunch AI",
+  "The Guardian Tech",
+  "IEEE Spectrum"
+ ],
+ "summary": {
+  "overview": "今日共采集 73 篇 AI 相关资讯（国内 31 篇，海外 42 篇）。热门话题集中在：AI 硬件与芯片、大模型发布、机器人、AI Agent。最受关注：「古尔曼：全新 Apple TV 和 HomePod mini...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 古尔曼：全新 Apple TV 和 HomePod mini 预计今秋发布，Siri 遥控器或迎来更新 — IT之家 5 月 31 日消息，彭博社记者马克 · 古尔曼今天在最新一期《Power On》通讯透露，苹果准备在今年秋季推出新一代 Apple TV 和 HomePod mini，两款设备将升级芯片， 不过 Apple TV 可能还会配备新版 Siri Remote 遥控器 。 古尔曼表示，全新 A"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** SoftBank says it will invest up to €75 billion to build French data centers — The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 数量与规模双攀升，5月新基金发行破千亿 — 5月，公募基金市场迎来一轮显著的“科技行情”。在人工智能（AI）算力产业链持续升温的推动下，科技主题基金不仅在业绩端表现抢眼，更在新基金发行市场上掀起了一轮强劲的“吸金潮”。据Wind数据，5月份科技类基金整体表现强势，头部产品单月业绩上涨超过40%。与此同时，新基金成立数量与发行规模双双攀升，单月"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 全球首款自带 Agentic AI 伴侣的游戏台式机：微星 MEG Vision X2 AI+ 发布，正面配备全息显示器 — IT之家 5 月 31 日消息，微星今天宣布推出 MEG Vision X2 AI+ 台式整机， 号称是“全球首款自带 Agentic AI 伴侣的游戏台式机” 。 IT之家在此援引官方新闻稿，MEG Vision X2 AI+ 引入了微星自研 Agentic AI（代理式人工智能）助手“Lucky"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 700亿融资赶紧到位吧，DeepSeek 开始限制重生、修改次数了"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 复古工业风格：Levelplay 发布 Newtro 系列水冷 / 风冷散热器 — IT之家 5 月 31 日消息，PC 冷却品牌 Levelplay（锐玩）本月 29 日在 COMPUTEX（台北国际电脑展）前夕宣布推出多款新品，包括遵循橙色复古工业风格的 Newtro 系列处理器水冷 / 风冷散热器。 正如其名， Newtro 系列结合现代硬件设计与早期 PC DIY 行业的韵"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[Wired AI]** How Turkey Hacked the Hair Transplant Industry — From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant proces"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 英伟达 N1x 处理器预发布跑分曝光，与苹果 M3 Max 基本持平 — IT之家 6 月 1 日消息，据消息称，英伟达计划在台北国际电脑展（Computex）上，联合微软与 ARM 公布一项重磅的全新处理器合作项目。 目前，外界传闻的 N1x 处理器相关细节仍处于高度保密状态，但该处理器的 Geekbench 6 预发布跑分表现并不算亮眼。 据IT之家了解，英伟达 N1"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕AI 硬件与芯片、大模型发布、机器人展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 73 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "科大讯飞推出 Lumie90 学生平板“《玩具总动员》特别定制款”：搭 13.2 英寸屏幕，4999 元",
+   "url": "https://www.ithome.com/0/957/921.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 1 日消息，科大讯飞现已在京东上架一款 Lumie90 学生平板“《玩具总动员》特别定制款”，该机配备一块 13.2 英寸面板，主打教育课程，提供了定制礼盒、保护套和系统主题， 定价为 4999 元。 该机整体重量 680g，正面配备一块 13.2 英寸 2400x1600 分辨率 60Hz AG 防眩光面板（支持手写笔），提供三种显示模式可选，同时内置的摄像头传感器能够检测儿童距离产品的距离，进行实时提醒。 软件方面，该产品提供了语文启蒙 / 思维启蒙 / 英语启蒙 AI 互动课，提供英语原版动画馆、2300+ 节通识素养动画课、20000+ 篇有声熏听、4000+ 本中英...",
+   "published": "2026-06-01T00:00:04+00:00",
+   "age_label": "0分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华泰证券：建筑建材板块深挖科技链新材料、存量翻新新模式和老树开新花三条主线",
+   "url": "https://36kr.com/newsflashes/3833848949745542?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，据华泰证券，展望26H2，1.全球AI链的高景气有望通过国产替代、供给出海向国内传导；2.地产链供给出清和出海链需求景气带来的价格提升，转向成本驱动型涨价，将考验企业经营模式和顺价能力。建议关注三条主线：1.受益于AI链产品升级但尚未被充分挖掘的新材料；2.存量翻新需求和模式趋于成熟，具备较高顺价能力的消费建材；3.供给端出清短期弹性大、远期新需求有望释放的玻璃基板。",
+   "published": "2026-05-31T23:58:44+00:00",
+   "age_label": "1分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "数量与规模双攀升，5月新基金发行破千亿",
+   "url": "https://36kr.com/newsflashes/3833827562628745?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "5月，公募基金市场迎来一轮显著的“科技行情”。在人工智能（AI）算力产业链持续升温的推动下，科技主题基金不仅在业绩端表现抢眼，更在新基金发行市场上掀起了一轮强劲的“吸金潮”。据Wind数据，5月份科技类基金整体表现强势，头部产品单月业绩上涨超过40%。与此同时，新基金成立数量与发行规模双双攀升，单月新发基金数量达132只，新成立基金发行总规模超过1000亿元，达到1033.69亿元，这是今年以来第三个月份新发规模突破千亿元大关。（证券时报）",
+   "published": "2026-05-31T23:44:57+00:00",
+   "age_label": "15分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "贾跃亭：FF 机器人五月出货 69 台，超三四月总和",
+   "url": "https://www.ithome.com/0/957/920.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 1 日消息，法拉第未来创始人贾跃亭今日透露，FF 机器人五月出货 69 台超三四月总和，并且公司已经正式向 SEC 提交了针对非法做空及市场操纵行为的监管调查线索函，持续打击非法做空。 他表示：“5 月机器人终端销售出货量创新纪录，标志着 FF EAI 机器人销售和部署的爬坡节奏持续加快，让我们对 首个交付季 200 台、全年 1500 台 的出货目标更有信心。更重要的是，这标志着 FF 多形态 EAI 机器人终端路线已经取得了初步成效。” IT之家注意到，法拉第未来于 2 月 5 日举办美国国家汽车经销商大会（NADA）， 活动中法拉第未来公布了旗下首批具身智能机器人产品 ...",
+   "published": "2026-05-31T23:43:50+00:00",
+   "age_label": "16分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达 N1x 处理器预发布跑分曝光，与苹果 M3 Max 基本持平",
+   "url": "https://www.ithome.com/0/957/919.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 1 日消息，据消息称，英伟达计划在台北国际电脑展（Computex）上，联合微软与 ARM 公布一项重磅的全新处理器合作项目。 目前，外界传闻的 N1x 处理器相关细节仍处于高度保密状态，但该处理器的 Geekbench 6 预发布跑分表现并不算亮眼。 据IT之家了解，英伟达 N1x 处理器被认为是 GB10 系统级芯片（SoC）的改版产品，而 DGX Spark 迷你主机正是搭载这款 GB10 芯片。据悉，N1x 采用联发科设计的 20 核 ARM 架构 CPU、RTX 5070 级别显卡，同时搭载基于 LPDDR5X 的统一内存架构，CPU 与 GPU 可共享内存池。 这...",
+   "published": "2026-05-31T23:39:12+00:00",
+   "age_label": "21分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国移动联合近 50 家合作伙伴成立 eSIM 终端生态联盟，加速终端产品创新迭代与市场推广落地",
+   "url": "https://www.ithome.com/0/957/918.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 1 日消息，据“中国移动手机俱乐部”，中国移动在 5 月 29 日召开 eSIM 终端生态合作大会，与电信终端产业协会、GSMA 及终端、芯片、平台等领域近 50 家产业链核心合作伙伴，成立中国移动 eSIM 终端生态联盟。 IT之家获悉，相应生态联盟主要设立能力支撑、eSIM 技术、终端创新、行业拓展四个执委会，体系化、专业化推进 eSIM 终端工作。旨在持续优化用户业务办理体验，筑牢产业安全发展屏障，加速终端产品创新迭代与市场推广落地。 联盟同步启动“X-eSIM 启航”行动，布局“构建合作体系、赋能产业发展、加速标准落地、优化营销服务”四项核心举措。并公布《中国移动新 ...",
+   "published": "2026-05-31T23:37:53+00:00",
+   "age_label": "22分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "多家PCB上市公司发布扩产计划",
+   "url": "https://36kr.com/newsflashes/3833804428306050?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近期，多家PCB上市公司发布扩产计划，引发市场关注。多家PCB概念股接受机构密集调研，从调研的内容看，机构普遍对上市公司产能利用率情况、未来布局等内容较为关心。从PCB相关上市公司业绩看，在AI算力需求的强劲驱动下，PCB产业链在2026年一季度展现了较高的景气度。（中证报）",
+   "published": "2026-05-31T23:35:24+00:00",
+   "age_label": "25分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华泰证券A股策略：配置上沿再平衡线索展开，科技成长仍是中期主线",
+   "url": "https://36kr.com/newsflashes/3833827864602244?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，华泰证券研报表示，当前强结构行情进入歇脚期。仓位上，重心在于结构再平衡。配置沿三条线索展开：其一，科技成长仍是中期主线，AI算力链产业趋势并未被破坏，其中，海外算力链受益于英伟达等海外龙头AI资本开支的持续强化，可作为逢低加仓的重点方向；其二，关注一季报中呈现供需双向改善、且估值相对合理的补涨品种，如锂电池、电网设备、光伏设备、商用车、消费电子、小金属、装修建材等。其三，建议关注铁路公路、煤炭等高股息方向。",
+   "published": "2026-05-31T23:31:22+00:00",
+   "age_label": "29分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "券商：A股6月将延续高位震荡，科技主线或内部聚焦",
+   "url": "https://36kr.com/newsflashes/3833803349108352?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "上周A股市场高位震荡，盘面呈现显著的高低切换格局：前期领涨的AI主线出现资金获利了结，而年初以来持续调整的白酒、地产等板块修复回升。对此，券商策略展望报告认为，近期的市场分化是对前期极致结构化行情的消化，而非基本面趋势逆转。总的来看，高风险偏好资金的情绪演绎与仓位博弈已趋于充分，6月指数或延续高位盘整。风格演绎上，科技赛道的中期产业趋势并未改变，后续科技主线或进一步向具备盈利兑现的方向聚焦，但不会出现成长向价值的全面切换。（上证报）",
+   "published": "2026-05-31T23:30:18+00:00",
+   "age_label": "30分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "成都卡诺普机器人技术股份有限公司向港交所提交上市申请书",
+   "url": "https://36kr.com/newsflashes/3833801704269443?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，据港交所文件，成都卡诺普机器人技术股份有限公司向港交所提交上市申请书，独家保荐人为国泰海通。",
+   "published": "2026-05-31T23:22:40+00:00",
+   "age_label": "37分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Dell's new XPS 13 is a MacBook Neo rival that costs $599 and retains premium features",
+   "url": "https://www.zdnet.com/article/dell-xps-13-2026-macbook-neo-competitor/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Announced at Computex, Dell's new XPS 13 takes aim at the MacBook Neo with a touchscreen display and backlit keyboard.",
+   "published": "2026-05-31T23:01:08+00:00",
+   "age_label": "59分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Dell XPS 13 (2026) vs. MacBook Neo: I compared both budget laptops, here's which one I'd buy",
+   "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Dell just announced its new 13-inch XPS for $599 with student pricing, making it a direct competitor to the Neo.",
+   "published": "2026-05-31T23:00:57+00:00",
+   "age_label": "59分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果更轻薄的 Vision Air 头显预计 2028 年末或 2029 年发布",
+   "url": "https://www.ithome.com/0/957/907.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 1 日消息，此前有报道称，苹果基本搁置了 Vision Air 的研发工作，转而推进人工智能眼镜项目，但目前看来，苹果再度投入资源重启了这款产品的开发。据马克 · 古尔曼透露，苹果这款更轻薄的 Vision Pro 新品，预计将于 2028 年末或 2029 年正式亮相。 古尔曼称，“苹果同时也在研发一款更纤薄、轻便的头显，作为售价 3499 美元的初代 Vision Pro 的迭代产品。不过我认为这款新品最早也要到 2028 年末或 2029 年才会发布。苹果需要解决让初代 Vision Pro 遭遇滑铁卢的设计和定价问题，而该品类在那之前基本会处于停滞状态。” 2029 ...",
+   "published": "2026-05-31T23:00:10+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Erin Brockovich takes aim at data center secrecy",
+   "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Environmental activist Erin Brockovich has a new mission.",
+   "published": "2026-05-31T21:05:14+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "data centers",
+    "erin brockovich"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Asus vs. Acer: I've reviewed laptops from both brands for years, and here's my pick",
+   "url": "https://www.zdnet.com/article/acer-vs-asus-laptops/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Acer and Asus both have tried and tested PC options, but they excel in different areas. Let's break down the major differences.",
+   "published": "2026-05-31T16:00:42+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "微星 Claw 8 EX AI+ 掌机 6 月 23 日发售：搭载英特尔 Arc G3 Extreme 售 1500 美元",
+   "url": "https://www.ithome.com/0/957/899.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，微星确认 Claw 8 EX AI+ 掌机将于 6 月 23 日在全球主要市场正式发售。 根据 ZDNET 的报道，配备 Arc G3 Extreme 芯片、32GB LPDDR5X 内存和 1TB SSD 的版本定价为 1500 美元（IT之家注：现汇率约合 10180 元人民币），其他配置还包括 8 英寸 1920×1200 分辨率 120Hz 触摸屏以及 80Wh 电池。 英特尔 Arc G3 Extreme 芯片基于 Panther Lake 架构，拥有 14 个 CPU 核心，包括 2 个 P 核、8 个 E 核和 4 个 LP E 核，同时集成 Ar...",
+   "published": "2026-05-31T15:31:06+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Making sense of the debate over AI psychosis",
+   "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+   "published": "2026-05-31T15:30:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Startups",
+    "AI",
+    "Google",
+    "Aaron Levie",
+    "DuckDuckGo"
+   ],
+   "image": ""
+  },
+  {
+   "title": "全球首款自带 Agentic AI 伴侣的游戏台式机：微星 MEG Vision X2 AI+ 发布，正面配备全息显示器",
+   "url": "https://www.ithome.com/0/957/895.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，微星今天宣布推出 MEG Vision X2 AI+ 台式整机， 号称是“全球首款自带 Agentic AI 伴侣的游戏台式机” 。 IT之家在此援引官方新闻稿，MEG Vision X2 AI+ 引入了微星自研 Agentic AI（代理式人工智能）助手“LuckyClaw”，让用户能够通过自然语言语音指令，完成切换性能模式、调整显示器设置、控制 RGB 灯效等操作。官方将在未来不断更新 Skill，提供更加丰富的体验。 同时， 这款台式机的正面还带有 AI Holostage 全息显示器 ， 可将数字助理 、 桌宠和第三方 AI 虚拟形象 ， 以更具沉浸感的...",
+   "published": "2026-05-31T15:09:52+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This model is not a real person: how AI is changing online shopping up – video",
+   "url": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "From digital twins to models ‘sculpted’ by programmers, generative AI has been popping up all over the fashion industry. When an Australian e-commerce retailer started using AI-generated models to sell products, lifestyle editor Alyx Gorman had to see if the garments were more than mere pixels. The ...",
+   "published": "2026-05-31T15:00:51+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Fashion",
+    "AI (artificial intelligence)",
+    "Australian fashion",
+    "Australian lifestyle"
+   ],
+   "image": "https://i.guim.co.uk/img/media/9eb0b6765b917b1edd413ad9d56b248c91d8641a/964_0_4556_3647/master/4556.jpg?width=140&quality=85&auto=format&fit=max&s=a11e1bb86038dac3b635e11d1ce10dd3"
+  },
+  {
+   "title": "Linux 7.1-rc6 内核将支持华硕 ROG 雷切 2、小鸡 Nova 2 Lite 手柄",
+   "url": "https://www.ithome.com/0/957/894.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，据科技媒体 Phoronix 今天报道，一批输入子系统修复补丁已提交到 Linux 7.1-rc6 内核，增添多款手柄支持。 据报道，本次更新中的 XPad 通用控制器驱动将新增华硕 ROG 雷切 2（IT之家注：Raikiri II）手柄支持。该手柄定价 160 美元（现汇率约合 1086 元人民币），配备 TMR 摇杆、双模式扳机键、微动按键，支持 USB-C、蓝牙、2.4G 三模连。提供实体开关，可在 PC 和 Xbox 模式之间切换。 同时，本次 XPad 更新还新增了小鸡 Nova 2 Lite 支持，该产品是一款无线手柄，售价约 30-35 美元（现...",
+   "published": "2026-05-31T15:00:19+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：全新 Apple TV 和 HomePod mini 预计今秋发布，Siri 遥控器或迎来更新",
+   "url": "https://www.ithome.com/0/957/893.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，彭博社记者马克 · 古尔曼今天在最新一期《Power On》通讯透露，苹果准备在今年秋季推出新一代 Apple TV 和 HomePod mini，两款设备将升级芯片， 不过 Apple TV 可能还会配备新版 Siri Remote 遥控器 。 古尔曼表示，全新 Apple TV 和 HomePod mini 已经推迟很久，根本原因在于，两款设备原本是为了配合新版 Siri 和 Apple 智能（IT之家注：Apple Intelligence）一同发布而设计。经历多次延期后，这些软件预计将在今年秋季推出。 虽然报道中没有明确指出新产品将采用哪些芯片，但外界普...",
+   "published": "2026-05-31T14:48:35+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "单核 1243 分、多核 3569 分，天玑 7500 芯片现身 Geekbench",
+   "url": "https://www.ithome.com/0/957/891.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，搭载天玑 7500 芯片的 vivo S60 元气版手机（型号 V2572A）前天现身 Geekbench 跑分数据库，测得单核 1243 分、多核 3569 分成绩。 据博主 @体验more 分享，官方宣称该芯片相比天玑 7400，CPU 单核性能提升 24%，多核性能提升 21%。跑分虽然没完全发挥出官方宣称的值，“但已经很不错了”。 作为参考， vivo S60 系列手机发布于 5 月 29 日 ，由田曦薇代言。机身厚度 7.92mm，重量轻至 199g，包含星星海、初夏绿、仲夏夜三种颜色可选。正面配备一块 6.59 英寸 1260p 144Hz 直屏，前...",
+   "published": "2026-05-31T14:31:16+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DDIM之父宋佳铭，宣布离职",
+   "url": "https://www.qbitai.com/2026/05/427104.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "新的浪潮，还在继续往前推",
+   "published": "2026-05-31T14:30:16+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "别光给Agent加Tool了，它根本选不明白！复旦×通义提出全新CUA训练范式",
+   "url": "https://www.qbitai.com/2026/05/427005.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "下一代CUA训练范式",
+   "published": "2026-05-31T14:25:18+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
+   "url": "https://www.qbitai.com/2026/05/426991.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "我们需要一台「印刷机」",
+   "published": "2026-05-31T14:17:43+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "索尼 IMX681 + 第一代骁龙 AR1：雷鸟 V3 智能眼镜 1799 → 973 元新低",
+   "url": "https://www.ithome.com/0/957/888.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "【京东活动可能随时变更，需以实付款为准】 雷鸟 V3 AI 拍摄眼镜发布于 2025 年 1 月 7 日，标准版官方定价 1799 元。 京东 618 大促期间，按下方步骤下单，叠加 15% 国补后仅需 973.86 元： 领 9 折消费券： 点此查看 。 限时立打 9.6 折。 京东 雷鸟 V3 AI 拍摄眼镜 送 QQ 音乐月卡 国补后 973.86 元 直达链接 京东无门槛红包至高 26618 元，支持即领即用： 点此抽取 。 雷鸟 V3 搭载 9mm×20mm 单元；三颗矩阵独立麦克风，支持降噪算法、抗风噪算法、空间收音算法。 雷鸟 V3 搭载与 TCL 联合调教的“猎鹰影像”，采用 ...",
+   "published": "2026-05-31T14:15:48+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I've used Android Auto with Gemini for 2 months now - it's transformed my drives in 4 ways",
+   "url": "https://www.zdnet.com/article/how-gemini-in-android-auto-is-changing-my-daily-drive/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Gemini has made voice control in my car fun and useful, and I'm still discovering new ways to use it.",
+   "published": "2026-05-31T14:00:43+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "MiniMax 拟发行人民币股份，并评估科创板上市",
+   "url": "https://www.ithome.com/0/957/881.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，人工智能公司 MiniMax Group Inc.（稀宇科技）今日于香港联交所发布公告，拟发行人民币股份，并评估科创板上市。 MiniMax 董事会在公告中宣布， 已决议探究发行人民币股份的初步建议 ，当中可能涉及寻求专业顾问订立协议、与相关证券或其他监管机构进行咨询或磋商。该事宜的进展将取决于市场状况及必要的监管批准。 IT之家在此援引公告内容，MiniMax 在香港联交所上市成功后，持续评估资本市场。 目前正对上海证券交易所科创板上市计划进行评估 。公司已聘请专业顾问就科创板上市进行咨询，并签订辅导协议。 相关阅读： 《 MiniMax 签署辅导协议，正式启...",
+   "published": "2026-05-31T13:30:01+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "政补价 2609.1 元：汉王 N10 Pro 第三代电纸书上市，10.3 英寸 300PPI 屏幕、八核处理器",
+   "url": "https://www.ithome.com/0/957/879.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，汉王 N10 Pro 第三代电纸书现已上市，新品主打减层屏设计，搭载 10.3 英寸 300PPI 屏幕， 政补后到手价约 2609.1 元 。 据介绍，这款电纸书采用减层屏设计，通过去除导光板 / 触控层让透光率成倍增加，屏层厚度降低 31%，PPI 可达 300。应用全新微光银配色方案，左侧按键从 9 键简化为 5 键，操作更加简洁。自带手写笔采用无电池设计，可提供 8192 级压感。 规格方面，这款电纸书配备四麦克风阵列，可从不同角度收声。支持 51 种外语识别，配备一键断网开关。接入 DeepSeek、通义千问、豆包等 AI 大模型，支持日报、邮件、故事...",
+   "published": "2026-05-31T13:14:31+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How I turned my old Android phone into a Wi-Fi extender - and fixed dead spots at home",
+   "url": "https://www.zdnet.com/article/how-to-turn-android-phone-into-wifi-extender-for-free/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The process is free, easy to set up, and doesn't use mobile data while helping you avoid upgrading to a mesh network.",
+   "published": "2026-05-31T13:00:37+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This DIY Bipedal Robot Used Pneumatic “Air-Muscles” Instead of Motors",
+   "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "In 1987, Richard Greenhill , a British photographer who was fascinated by (but had no actual training in) robotics, decided he wanted to build a life-size humanoid that could do useful things, like carrying luggage. He was working at a startup called Intergalactic Robots, but he couldn’t convince an...",
+   "published": "2026-05-31T13:00:01+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "Past-forward",
+    "Type-departments",
+    "Humanoid-robots",
+    "Shadow-robot",
+    "Walking-robots"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/two-photos-of-a-prototype-humanoid-robot-with-a-wooden-frame-and-wires-and-other-components-strung-on-its-body.jpg?id=66825613&width=980"
+  },
+  {
+   "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought ev...",
+   "published": "2026-05-31T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "郭明錤分析英伟达 N1X/N1 前景：瞄准端侧 AI 重度用户、出货量仍取决于 Windows",
+   "url": "https://www.ithome.com/0/957/874.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，天风国际证券分析师郭明錤今天在 X 平台发文，分析英伟达 N1/N1X 芯片的市场前景。 供应链调查显示，配备 N1X/N1 芯片的设备未来两年出货量大约为 1000 万台。面向小众市场，瞄准对端侧 AI 算力有需求的重度使用者。除开售价因素，未来出货量能否上修（IT之家注：向上调升）， 仍取决于 Windows 是否能提供真正调度端侧 AI 算力的应用与工作流 。 郭明錤认为，目前 PC 市场主流 AI 应用仍在“用浏览器上大语言模型网站”和“通过 API 消耗云端 LLM 算力 / Token”。核心都是使用云端 AI 算力，而非端侧模型。 并且 2026 ...",
+   "published": "2026-05-31T12:59:54+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "25kPa 大吸力 + 95℃ 高温自清洁：石头洗地机 A30 Pro 2.0 国补后 1785 元",
+   "url": "https://www.ithome.com/0/957/871.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "【京东活动可能随时变更，需以实付款为准】 石头 A30 Pro 2.0 洗地机发售于 2026 年 3 月，该产品提供 25000Pa 吸力，首发价 2399 元。 京东 618 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 1784.57 元： 点击下方卡片，可领 9 折券。 加入购物车时选择“ 以旧换新 ”补贴 50 元（可选“电动牙刷”），京东回收不看旧物品相，老、旧、坏电器皆可回收。 京东 石头 A30 Pro 2.0 洗地机 AI 全向助力 25kPa 吸力 以旧换新后 1784.57 元 领 9 折券 购机赠价值 199 元配件礼包（滤网 + 滚刷 + 2...",
+   "published": "2026-05-31T12:49:05+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英特尔发布 32.0.101.8826 显卡驱动：修复帧生成开启后画面可能撕裂问题",
+   "url": "https://www.ithome.com/0/957/870.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，英特尔本周中刚刚通过 32.0.101.8824 版本 Arc Graphics - Windows 显卡驱动程序为《007 初露锋芒》了 Game On 支持。而在本周末（30 日），该企业又发布了最新的 8826 驱动。 IT之家注意到，32.0.101.8826 驱动 旨在修复帧生成开启后画面可能出现撕裂的问题 ，这一情况影响到了除 \"Wildcat Lake\" 核显以外所有得到该驱动支持的 GPU。 此外，英特尔注意到其多个架构的显卡在《失落星船：马拉松》《Apex 英雄》《夺宝奇兵：古老之圈》《无主之地 4》中存在问题，此外第 3 代酷睿 Ultra ...",
+   "published": "2026-05-31T12:42:09+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华硕推出 BTF 版 TUF Gaming RTX 5080 显卡，尺寸与原版一致",
+   "url": "https://www.ithome.com/0/957/867.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，华硕 (ASUS) 近日为其 TUF Gaming GeForce RTX 5080 16GB GDDR7 显卡新增 BTF 版本，在保留 12V-2×6 供电接口的同时 添加了可承受 1000W 的可拆卸 GC-HPWR“金手指”供电适配器 。 此次推出的 BTF 版本与原版外部规格保持一致， 三维依旧是 348×146×72 (mm) ，GPU 核心频率也保持在标准款 2640/2617 MHz 和超频 (OC) 款 2730/2700 MHz 的水平。 总的来说，华硕凭借 TUF Gaming GeForce RTX 5080 16GB GDDR7 BTF...",
+   "published": "2026-05-31T12:29:56+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小米汽车：YU7 标准版交付即搭载最新的「小米 XLA 认知大模型」",
+   "url": "https://www.ithome.com/0/957/866.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，小米汽车官方今日继续发布答网友问（第 251 集）。本次问答重点针对小米 YU7 标准版车型配置的疑问进行了解答，包括 YU7 标准版 HAD 辅助驾驶是否搭载 XLA 大模型，以及该车实际续航情况如何等。 IT之家附本集答网友问重点内容如下： 新 YU7 标准版的小米 HAD 辅助驾驶是 XLA 大模型吗？ 是的， YU7 标准版交付即搭载最新的「小米 XLA 认知大模型」 。 此外，YU7 标准版同样搭载高规格辅助驾驶硬件，包括：700TOPS 算力 Thor 芯片、激光雷达、4D 毫米波雷达等，为后续 OTA 升级提供坚实的硬件基础。 新的 YU7 标准版...",
+   "published": "2026-05-31T12:19:40+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "联芸科技：首款 UFS 3.1 主控已导入国内核心客户，企业级 PCIe 5.0 主控进入量产测试阶段",
+   "url": "https://www.ithome.com/0/957/861.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，联芸科技在接受调研时披露，公司自主研发的首款 UFS 3.1 嵌入式主控芯片已成功导入国内核心客户，并在多家主流终端手机厂商处完成测试，进展顺利，预计将于 2026 年起正式贡献量产营收，同时公司正积极拓展更多终端手机厂商客户。 联芸科技方面明确表示，公司将嵌入式 UFS 主控芯片定位为继 SSD 主控后数据存储主控领域的第二增长曲线，依托 SSD 主控的技术积累与客户渠道，打造独立第三方嵌入式存储主控的核心竞争力。 此前在 4 月底的机构调研中，公司即透露该款 UFS 3.1 嵌入式主控芯片已量产出货。与此同时，UFS 2.2 与 UFS 4.1 产品的研发也...",
+   "published": "2026-05-31T11:54:20+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "复古工业风格：Levelplay 发布 Newtro 系列水冷 / 风冷散热器",
+   "url": "https://www.ithome.com/0/957/859.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，PC 冷却品牌 Levelplay（锐玩）本月 29 日在 COMPUTEX（台北国际电脑展）前夕宣布推出多款新品，包括遵循橙色复古工业风格的 Newtro 系列处理器水冷 / 风冷散热器。 正如其名， Newtro 系列结合现代硬件设计与早期 PC DIY 行业的韵味 ，金属亮色的风扇外箍粗犷又不失精致。其中风冷产品采用五热管单塔单风扇结构，具备 250W 标称解热能力；水冷 TDP 则达 350W，用户 可通过冷头顶部的物理旋钮直接调整风扇转速 。 除 Newtro 系列外，Levelplay 同期发布了五热管单塔单风扇数显风冷 Digital Air 5、...",
+   "published": "2026-05-31T11:37:32+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "399 元起，徕芬手持折叠小风扇 AirFold 开售",
+   "url": "https://www.ithome.com/0/957/857.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，徕芬手持折叠小风扇 AirFold 将于今日 20:00 开售，各大电商平台同步上新，常规版售价 399 元，透明探索版售价 459 元。 IT之家从商品页面获悉，AirFold 创新风罩采用可折叠结构， 折叠状态比展开状态体积减少 79.5% ，采用旋转直径 11 厘米的螺旋桨式大尺寸扇叶，搭配纤细不锈钢骨架。AirFold 采用自研轴向磁通电机，结构呈扁平盘状。 新品支持 4 挡风力，点按两次按钮，切换风力挡位；快速点按三次按钮，进入 Turbo 挡。此外，新品还配备 LED 电量指示灯、快拆扇叶等配置。 续航方面，新品定制 21700 动力电池，容量达到 ...",
+   "published": "2026-05-31T11:30:20+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "宏碁 Predator Atlas 8 掌机上手体验：英特尔 Arc G3（Extreme）芯片，三季度发售",
+   "url": "https://www.ithome.com/0/957/854.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，据科技媒体 Computer Base 今天报道，宏碁现已在台北电脑展 2026 展示 Predator Atlas 8 掌机，新品率先搭载英特尔 Arc G3（Extreme）芯片，预计将在今年第三季度发售。 ▲ 图源：Computer Base，下同 IT之家在此援引 Computer Base，Predator Atlas 8 是一款 8 英寸的游戏掌机，提供英特尔 Arc G3/Arc G3 Extreme 两种配置。 两者之间的差异主要在 CPU 主频、GPU 规格 。后者搭载 Arc B390 核显，具备 12 个 Xe 核心，前者则是 Arc B3...",
+   "published": "2026-05-31T11:12:37+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Your TV's RS-232 port is a versatile automation tool - how to unlock its full potential",
+   "url": "https://www.zdnet.com/article/what-is-the-tvs-rss232-serial-port-and-what-it-can-do/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The RS-232 serial port on your smart TV isn't just for professional diagnostics. Here's how to use it for more advanced programming.",
+   "published": "2026-05-31T11:00:41+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "专为 12V-2×6 显卡设计，暴力熊展示猫头鹰联名版 WireView Pro II GPU 电源监视器",
+   "url": "https://www.ithome.com/0/957/853.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 5 月 31 日消息，据科技媒体 Videocardz 今天报道，暴力熊创始人、知名超频玩家 Roman Hartung（网名 Der8auer）现身台北电脑展 2026，亲自展示猫头鹰联名版 WireView Pro II GPU 电源监视器。 据报道，WireView Pro II 本质上是一款安装在显卡和电源线之间的检测设备，用于监测 12V-2×6 电源接口的工作状态，并提供每个针脚的电流、电压、温度及总功耗， 帮助用户尽早发现接触不良 、 负载分配异常等风险 。 而本次即将推出的 WireView Pro II 联名版配备猫头鹰（IT之家注：Noctua）风扇，可降低监测模...",
+   "published": "2026-05-31T10:52:20+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
+   "url": "https://www.qbitai.com/2026/05/426984.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "半年斩获5轮融资",
+   "published": "2026-05-31T10:13:21+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "世界动作模型",
+    "复旦",
+    "时空一体"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+   "url": "https://www.qbitai.com/2026/05/426970.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "让世界模型迈向多智能体交互仿真",
+   "published": "2026-05-31T10:03:40+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "Agent",
+    "亚马逊",
+    "龙虾"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Quantum computing looms, and your security is nowhere near ready",
+   "url": "https://www.zdnet.com/article/as-quantum-computing-emerges-some-hard-deadlines-loom/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Quantum is coming soon to an enterprise near you. But that shift brings significant security concerns.",
+   "published": "2026-05-31T10:00:49+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This hidden FaceTime feature is incredibly useful - and surprised my own family",
+   "url": "https://www.zdnet.com/article/facetime-voicemail-feature-incredibly-useful-surprised-family/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "If someone missed your FaceTime call, try leaving them a video message. Here's how.",
+   "published": "2026-05-31T10:00:36+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "网易智企 IM 研发多智能体中心建设与实践：从单点 Agent 到研发基础设施｜AICon上海",
+   "url": "https://www.infoq.cn/article/GlN4vSis105MkMajCcJz?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-05-31T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "风华高科：不涉及英伟达认证及暂停接单传闻不实",
+   "url": "https://36kr.com/newsflashes/3832892582553221?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，风华高公告，经核查，公司关注到近期有媒体提及公司“针对代理商0402、0603芯片电阻、MLCC全线暂停接单”，经核查，以上信息不属实，为做好部分数字系统升级及产品结构调整，公司执行部分产品暂缓接单，截至公告日，公司已恢复接单。公司关注到近期有媒体提及公司为“国内唯一通过英伟达全系列MLCC认证的企业”，经核查，以上信息不属实，截至公告日，英伟达未对公司开展任何产品认证。",
+   "published": "2026-05-31T09:01:50+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How Turkey Hacked the Hair Transplant Industry",
+   "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
+   "published": "2026-05-31T09:00:00+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "Science",
+    "Science / Health",
+    "medicine",
+    "health",
+    "machine learning"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Why I switched to MyRadar as my main Android Auto weather app for road trip storm tracking",
+   "url": "https://www.zdnet.com/article/best-android-auto-weather-apps/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "There aren't many weather apps for Android Auto, but there's one that easily rises above the rest.",
+   "published": "2026-05-31T09:00:00+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "τ0-WM：最大规模预训练的开源具身世界模型来了",
+   "url": "https://www.qbitai.com/2026/05/426832.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "17800小时的真机数据",
+   "published": "2026-05-31T07:38:43+00:00",
+   "age_label": "16小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "上海创智学院",
+    "具身智能",
+    "数据"
+   ],
+   "image": ""
+  },
+  {
+   "title": "This Trump-linked startup plans to put humanoid robots in the military",
+   "url": "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
+   "published": "2026-05-31T06:12:28+00:00",
+   "age_label": "17小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+   "url": "https://www.qbitai.com/2026/05/426819.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "CLI更像是Agent的母语",
+   "published": "2026-05-31T03:54:27+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "Agent",
+    "AIGC产业峰会",
+    "黄超"
+   ],
+   "image": ""
+  },
+  {
+   "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
+   "url": "https://www.qbitai.com/2026/05/426793.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "与其焦虑AI，不如加入AI",
+   "published": "2026-05-31T01:29:42+00:00",
+   "age_label": "22小时前",
+   "tags": [
+    "资讯",
+    "MiniMax"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I'm an iPhone user who switches to Gemini with Android Auto in the car - why I don't regret it",
+   "url": "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Gemini can help with a variety of tasks when behind the wheel. All you need is an Android phone and a car with Android Auto.",
+   "published": "2026-05-31T00:00:41+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+   "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+   "published": "2026-05-30T21:45:00+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Venture",
+    "AI",
+    "Government & Policy",
+    "Softbank"
+   ],
+   "image": ""
+  },
+  {
+   "title": "An industry targeting Australia’s ageing population is growing, but can AI deliver more humanity in aged care?",
+   "url": "https://www.theguardian.com/australia-news/2026/may/31/ai-companion-robots-in-aged-care-australia-ageing-population-humanity",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "While companion robots are being introduced and virtual experiences hope to ‘take loneliness away’, one expert agrees tech should never replace the human element Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast “You’ll never get rid ...",
+   "published": "2026-05-30T20:00:30+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Aged care",
+    "AI (artificial intelligence)",
+    "Technology",
+    "Australia news"
+   ],
+   "image": "https://i.guim.co.uk/img/media/f17d8d1bc3f034e93cb1f15703a813dcf38cdc2a/590_0_5363_4293/master/5363.jpg?width=140&quality=85&auto=format&fit=max&s=8aa117a053afc96087f5352892803f49"
+  },
+  {
+   "title": "260亿美元，“全华班”撑起全球AI 编程估值最高公司",
+   "url": "https://36kr.com/p/3832666443276289",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "阿里“上货”，字节“练功”",
+   "url": "https://36kr.com/p/3832960755507456",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "开源编程语言Zig，向AI代码说「不」",
+   "url": "https://36kr.com/p/3832633186952833",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "宇树上会，机器人会成为半导体下一个超级终端吗？",
+   "url": "https://36kr.com/p/3832629304780423",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "4月AI月报：全球原生AI下载3.65亿，豆包、即梦等大陆市场下载量全面收缩",
+   "url": "https://36kr.com/p/3832446191462021",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "翻倍又闪崩！AI故事讲不下去了？",
+   "url": "https://36kr.com/p/3832898367170185",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华尔街最火00后",
+   "url": "https://36kr.com/p/3832884398598024",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“中国最会烧钱的4个男人，坐上了同一张牌桌”",
+   "url": "https://36kr.com/p/3831900268865157",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "复旦学姐，估值1000亿",
+   "url": "https://36kr.com/p/3831510606473090",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克「夸下的海口」，值2万亿美元吗？",
+   "url": "https://36kr.com/p/3831272431593093",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "王小川和李开复，领着六小虎“AI的迫降”",
+   "url": "https://36kr.com/p/3831204618477824",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "机器人不像人，还算“赛博物种”吗？",
+   "url": "https://36kr.com/p/3831238496167808",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果用AI重新发明了图像压缩：同样画质，文件只要三分之一",
+   "url": "https://36kr.com/p/3831176819124103",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "700亿融资赶紧到位吧，DeepSeek 开始限制重生、修改次数了",
+   "url": "https://36kr.com/p/3831137120395271",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "上海大模型龙头，启动A股上市",
+   "url": "https://36kr.com/p/3831159799834249",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
