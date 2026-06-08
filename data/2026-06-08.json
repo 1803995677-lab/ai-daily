@@ -1,0 +1,912 @@
+{
+ "date": "2026-06-08",
+ "generated_at": "2026-06-08 08:00",
+ "total": 73,
+ "sources": [
+  "量子位",
+  "36氪",
+  "少数派",
+  "NVIDIA Blog",
+  "IT之家",
+  "TechCrunch AI",
+  "InfoQ 中文",
+  "The Verge AI",
+  "36氪 AI",
+  "ZDNet AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 73 篇 AI 相关资讯（国内 29 篇，海外 44 篇）。热门话题集中在：AI 硬件与芯片、大模型发布、人事变动、AI 监管与政策。最受关注：「NAVER与英伟达合作扩建自主AI基础设施，目标推进至吉瓦级...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** NAVER与英伟达合作扩建自主AI基础设施，目标推进至吉瓦级算力规模 — 韩国互联网巨头NAVER与英伟达6月8日宣布，NAVER将基于英伟达DSX平台扩展自主AI基础设施，首期以世宗GAK数据中心55兆瓦规模启动，并计划逐步扩展至吉瓦级规模，为韩国企业、制造业、政府机构及全球AI云客户提供服务。在模型层面，NAVER将利用英伟达全栈AI平台推进下一代HyperCLOVA"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 苹果折叠屏 iPhone Fold 机模高清细节图曝光，或仅推出白色版本 — IT之家 6 月 8 日消息，爆料人 Sonny Dickson 今日放出了一组折叠屏 iPhone（或名为 iPhone Fold）机模的高清细节图，该机外观设计看似已基本定型。消息同时透露，这款折叠机型或将仅推出白色版本。 机模主要用于线下展示，也供配件厂商参考。配件商需要高度还原机身尺寸，才能"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 万亿美元AI公司，面试时禁止使用AI"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 量子计算公司本源量子完成近 30 亿元融资，投前估值超 200 亿元 — IT之家 6 月 7 日消息，据投资机构华民投消息，量子计算公司本源量子近日完成以央企系投资机构为领投方的近 30 亿元新一轮融资，投前估值超 200 亿元，成为国内估值最高的量子计算企业之一。 IT之家获悉，本轮完全市场化募集的资金， 将主要用于对标 IBM，建设千比特、万比特、12 寸量子芯片中"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** AI ‘content creators’ are getting harder to spot — This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Ste"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[NVIDIA Blog]** NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs — At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the hee"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[IT之家]** IT早报 0608：今年全国高考新增“AI 监考员”；央视曝光手机高价回收骗局；曝淘宝闪购将加大投入零售业务；华为余承东科普电视“频闪”为何伤眼... — “IT早报”时间，大家好，现在是 2026 年 6 月 8 日星期一，今天的重要科技资讯有： 1、2026 年全国高考 6 月 7 日开考，多地启用 AI 智能巡查系统严防考试作弊 今年高考安检再升级，多地考场启用 AI 智能巡查系统，可自动识别交头接耳等作弊行为并标记录像。同时，智能眼镜被明确禁止"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 世嘉经典 IP 归来，游戏《疯狂出租车：极速环游》明年发售 — IT之家 6 月 8 日消息，世嘉在今天的 Xbox 发布会中官宣重启经典 IP《疯狂出租车》，公布了全新作品《疯狂出租车：极速环游（Crazy Taxi：World Tour）》，本作将于明年发售，目前游戏已在 Steam 平台上架，IT之家附商品页（ https://store.steampow"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕AI 硬件与芯片、大模型发布、人事变动展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 73 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "中信建投：算力板块当前尚未达到中期大级别切换的标准，主要是短期再平衡的需求",
+   "url": "https://36kr.com/newsflashes/3843744872811010?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信建投指出，近两周算力板块主升但波动加大，监管加强、资金止盈及美韩AI产业链大幅调整导致市场疑虑是否会出现趋势性调整，资金全面切向低位板块。中信建投认为算力板块波动加剧的核心矛盾源于行业基本面具备绝对优势与交易结构绝对拥挤。从基本面、估值、交易结构整体来看，当前尚未达到中期大级别切换的标准，主要是短期再平衡的需求。后续行情拐点取决于估值中枢变动与基本面收敛信号，一是算力自身基本面增速放缓，二是其他行业基本面显著修复。短期市场可能大幅低开后快速企稳，总体呈现“科技跌、防御涨”的轮动特征。中期看海外科技股企稳后可继续布局算力环节内部轮动，其他景气线索关注煤炭和工业金属。",
+   "published": "2026-06-07T23:55:33+00:00",
+   "age_label": "4分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "分析师：CDPR 正为《赛博朋克 2077》开发全新资料片",
+   "url": "https://www.ithome.com/0/961/211.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 8 日消息，在游戏行业中，CD Projekt Red 手握的待发新作阵容，可以说是最令人期待的。除了《巫师 4》和《赛博朋克 2》之外，这家波兰工作室还在为《巫师 3》打造全新资料片，定名为 Songs of the Past。 这款资料片距离原作发售已时隔 12 年，它的公布也进一步拉高了玩家对系列续作的期待。另有消息称，CD Projekt Red 还在秘密开发多款《赛博朋克 2077》全新拓展内容。 《赛博朋克 2077》的续作仍遥遥无期，因此为这款游戏持续更新内容、扩充剧情，对这家波兰厂商而言具备十足的商业价值。 波兰券商 Erste Brokerage 公司表示，...",
+   "published": "2026-06-07T23:47:40+00:00",
+   "age_label": "12分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "算力引爆MLCC超级周期，“电子工业大米”或结构性缺货",
+   "url": "https://36kr.com/newsflashes/3843739015907847?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "在AI需求持续加大的刺激下，A股MLCC（多层陶瓷电容器）板块近期开启了一轮上涨行情。高盛最新研报认为，AI驱动的MLCC超级周期才刚刚开始。MLCC已成为AI服务器继GPU和内存之后的第三大成本项，预计2025年至2030年市场规模将增长约4.3倍。记者调研获悉，当前，MLCC行业正呈现“高端缺货，低端缺产能”的结构性紧张格局。因AI服务器、新能源汽车带动高端MLCC需求大幅增长，叠加高端产线建设周期长、短期产能难以快速释放，高端型号供需缺口显著。MLCC素有“电子工业大米”之称。从功能作用看，它类似于电子设备里的“电压稳定器”或“电荷水库”。所有芯片在工作时，电流都会忽大忽小；MLCC的作...",
+   "published": "2026-06-07T23:46:36+00:00",
+   "age_label": "13分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "新AI平台助力阿尔茨海默病早期筛查",
+   "url": "https://36kr.com/newsflashes/3843740386035972?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "记者7日从哈尔滨医科大学获悉，该校周钦、崔飞云教授科研团队将人工智能（AI）融入表面增强拉曼光谱检测与血液代谢分析技术，研发出全新血液代谢分子解析检测平台，为阿尔茨海默病微创血液筛查开辟了新技术路径。相关研究成果发表于国际期刊《分析化学学报》。（科技日报）",
+   "published": "2026-06-07T23:43:01+00:00",
+   "age_label": "17分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NAVER与英伟达合作扩建自主AI基础设施，目标推进至吉瓦级算力规模",
+   "url": "https://36kr.com/newsflashes/3843739724728836?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "韩国互联网巨头NAVER与英伟达6月8日宣布，NAVER将基于英伟达DSX平台扩展自主AI基础设施，首期以世宗GAK数据中心55兆瓦规模启动，并计划逐步扩展至吉瓦级规模，为韩国企业、制造业、政府机构及全球AI云客户提供服务。在模型层面，NAVER将利用英伟达全栈AI平台推进下一代HyperCLOVA X模型研发，并基于英伟达Nemotron 3 Ultra开源模型进行微调，打造面向韩语及全球企业市场的本地化模型。NAVER同时成为首家加入英伟达Nemotron联盟的韩国企业，并计划于下半年在韩国推出AI智能体平台。（界面）",
+   "published": "2026-06-07T23:40:21+00:00",
+   "age_label": "19分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中文文字语意不通，《剑星：血雨》预告片被指使用 AI 生成劣质素材",
+   "url": "https://www.ithome.com/0/961/209.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 8 日消息，昨日，Shift Up 娱乐公司在夏日游戏节上放出了《剑星》续作的精彩预告短片，同时揭晓了一位全新主角。尽管片中呈现的游戏世界画面精美，但不少玩家发现这支预告里存在 AI 生成的劣质素材。 眼尖的玩家留意到，《剑星：血雨》的预告片中，背景部分多处画面疑似由 AI 生成，不仅建筑细节存在违和问题，片中出现的中文文字也语意不通、无法解读。 玩家指出，《剑星：血雨》预告的多处场景都能看到 AI 生成痕迹。这类内容主要用来填充建筑细节，而最明显的破绽便是片中的中文文字。这些文字杂乱无章、毫无实际含义，这也是判断内容出自生成式 AI 的重要依据。 IT之家注意到，目前该游戏...",
+   "published": "2026-06-07T23:38:30+00:00",
+   "age_label": "21分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达与 SK 海力士宣布多年期技术合作，共同开发下一代 AI 内存",
+   "url": "https://www.ithome.com/0/961/208.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 8 日消息，英伟达与 SK 海力士今日宣布建立多年期技术合作伙伴关系，围绕全球 AI 工厂建设所需的 下一代内存展开联合研发 ，并将 AI 技术应用于半导体芯片设计与制造。 根据协议，SK 海力士将为英伟达 Vera Rubin AI 超级计算机、Vera CPU、RTX Spark PC 及 Jetson Thor 机器人计算平台协同开发专用内存，由此进入英伟达正在开拓的 AI 基础设施、个人 AI 及物理 AI 等新市场。 IT之家从公告获悉，该多年期协议支持供应以 满足高端内存延长开发周期 的需求。随着 AI 工厂在全球规模化，这一战略合作使内存供应能够跟上英伟达的基础...",
+   "published": "2026-06-07T23:38:05+00:00",
+   "age_label": "22分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "思必驰推出办公本 Turbo 阅读器：配 8.4 英寸面板、4500mAh 电池，4299 元",
+   "url": "https://www.ithome.com/0/961/207.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 8 日消息，思必驰现已在京东上架一款办公本 Turbo 阅读器，该产品配备一块 8.4 英寸面板，支持 4G 网络， 定价为 4299 元 ，部分地区国补后低至 3799 元。 京东 思必驰办公本 Turbo 电纸书 4299 元 直达链接 该机整体厚度 6.7mm，重量 345g，配备一块 1920x1200 分辨率“护眼类纸屏（并非墨水屏）”，支持 4096 级压感手写。 该机搭载“8 核 2.2GHz 处理器”，匹配 6GB RAM 和 128GB 存储空间，内置四麦克风阵列，搭载 4500mAh 电池，使用安卓 13 系统，提供多种 AI 功能。 IT之家附产品参数：...",
+   "published": "2026-06-07T23:37:08+00:00",
+   "age_label": "23分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "数字“超级大脑”大幅提升光学材料筛选速度",
+   "url": "https://36kr.com/newsflashes/3843726272039428?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "瑞典查尔姆斯理工大学研究团队开发出一种融入物理定律的数字“超级大脑”，即一款“懂物理”的神经网络模型。与传统AI相比，它将筛选纳米光学材料所需训练时间降低至1/10，有望加速量子计算、先进光学器件等领域的技术研发。相关研究发表于最新一期《激光与光子学评论》杂志。（科技日报）",
+   "published": "2026-06-07T23:32:40+00:00",
+   "age_label": "27分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0608：今年全国高考新增“AI 监考员”；央视曝光手机高价回收骗局；曝淘宝闪购将加大投入零售业务；华为余承东科普电视“频闪”为何伤眼...",
+   "url": "https://www.ithome.com/0/961/206.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 8 日星期一，今天的重要科技资讯有： 1、2026 年全国高考 6 月 7 日开考，多地启用 AI 智能巡查系统严防考试作弊 今年高考安检再升级，多地考场启用 AI 智能巡查系统，可自动识别交头接耳等作弊行为并标记录像。同时，智能眼镜被明确禁止携带入场，考生须在监控下摘下眼镜接受专项检查。科技手段正全力守护考试公平。>> 查看详情 2、不交 980 检测费就不退手机，高价回收二手手机骗局曝光 骗子以高价回收为诱饵，收到手机后却以故障为由大幅压价，甚至索要高额检测费才肯退还手机。山东菏泽李先生的遭遇并非个例，该诈骗团伙已覆盖全国，上千人上当...",
+   "published": "2026-06-07T23:30:15+00:00",
+   "age_label": "29分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "尽管内存短缺，微软 Xbox 新掌门夏尔马承诺 Project Helix 主机将定价亲民",
+   "url": "https://www.ithome.com/0/961/205.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 8 日消息，自今年阿莎 · 夏尔马接手 Xbox 业务以来，外界对这家游戏主机品牌的舆论风向意外地一片向好。这位新任首席执行官下调了 Game Pass 的售价，搭建了专门收集玩家反馈的沟通渠道，同时还考虑让独占游戏重新回归 Xbox 平台。 不过，即将推出的 Project Helix 才是对这位 Xbox 掌舵人的真正考验。据消息称，这款主机将成为 Xbox 迄今为止研发成本最高的一代产品。但阿莎 · 夏尔马表示，即便当下存储芯片供应紧张，她也会力争让这款新主机做到亲民定价。 在接受彭博科技频道采访时，阿莎 · 夏尔马坦言，自己上任的目标就是推动 Xbox 创新，让 Pr...",
+   "published": "2026-06-07T23:29:37+00:00",
+   "age_label": "30分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "科技“老登”重上AI牌桌，AI产业演进趋势重新定价",
+   "url": "https://36kr.com/newsflashes/3843720545110277?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近期，以戴尔、联想集团为代表的公司“老树发新芽”，不少传统公司正重回行情与投资的“C位”，并频频现身权益类基金的核心重仓名单。有分析指出，科技“老登”重上AI牌桌，这绝非一次简单的高低切炒作，而是机构投资者在深思熟虑后，对AI产业演进趋势的重新定价。多位公募基金人士表示，随着AI建设需求向更多细分领域深度转移，科技投资正逐步从主题驱动转向业绩驱动。在这个去伪存真的过程中，拥有坚实基本面兑现能力、能切实受益于产业生态重塑的“老面孔”，正迎来中长期估值体系的系统性抬升。（证券时报）",
+   "published": "2026-06-07T23:23:49+00:00",
+   "age_label": "36分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "安克 35W 半导体风冷三合一无线充电器发售：配 1.62 英寸触控彩屏，首发价 1199 元",
+   "url": "https://www.ithome.com/0/961/201.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 8 日消息，安克旗下 35W 半导体风冷三合一无线充电器将于今天 10 点发售，该产品最大的特点是其底座部分提供了一块触控屏幕，首发价为 1199 元。 京东 安克 35W 半导体风冷三合一无线充电器 1199 元 直达链接 该产品采用安克家族式深空灰配色，尺寸为 169 x 125 x 138 毫米，重量 620 克，可以为苹果 iPhone、Apple Watch、AirPods 同时充电，其底部配备一块 1.62 英寸面板，支持显示充电功率 / 温度信息，支持选择三种充电模式。 该散热器内置 TEC 风冷散热技术，可以帮助手机在充电时降温，还支持通过 App 查看充电信...",
+   "published": "2026-06-07T23:22:42+00:00",
+   "age_label": "37分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "SK电讯计划在韩国利用英伟达技术构建吉瓦级AI云设施",
+   "url": "https://36kr.com/newsflashes/3843724760566280?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "SK电讯计划在韩国利用英伟达技术构建吉瓦级AI云设施。首个人工智能工厂计划于2027年投产。（财联社）",
+   "published": "2026-06-07T23:19:01+00:00",
+   "age_label": "41分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "世嘉经典 IP 归来，游戏《疯狂出租车：极速环游》明年发售",
+   "url": "https://www.ithome.com/0/961/200.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 8 日消息，世嘉在今天的 Xbox 发布会中官宣重启经典 IP《疯狂出租车》，公布了全新作品《疯狂出租车：极速环游（Crazy Taxi：World Tour）》，本作将于明年发售，目前游戏已在 Steam 平台上架，IT之家附商品页（ https://store.steampowered.com/app/2924540/_/ ）。 不过这款游戏很快因为“生成式 AI”问题引发玩家争议，由于其 Steam 商品页披露游戏使用了 AI，因此玩家们担忧本作可能存在大量 AI 生成素材。 《疯狂出租车：极速环游》在开发过程中使用了生成式人工智能（AI）作为开发辅助工具。本作中涉及演...",
+   "published": "2026-06-07T23:15:35+00:00",
+   "age_label": "44分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达与SK海力士宣布多年期技术合作，共同开发下一代AI内存",
+   "url": "https://36kr.com/newsflashes/3843718455216390?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "英伟达与SK海力士6月8日宣布建立多年期技术合作伙伴关系，围绕全球AI工厂建设所需的下一代内存展开联合研发，并将AI技术应用于半导体芯片设计与制造。根据协议，SK海力士将为英伟达Vera Rubin AI超级计算机、Vera CPU、RTX Spark PC及Jetson Thor机器人计算平台协同开发专用内存，由此进入英伟达正在开拓的AI基础设施、个人AI及物理AI等新市场。在半导体制造领域，SK海力士将采用英伟达CUDA-X库及PhysicsNeMo框架加速芯片仿真和光刻计算工作流；同时借助英伟达Omniverse和cuOpt构建晶圆厂数字孪生，推动工厂自主化运营。（界面）",
+   "published": "2026-06-07T23:12:36+00:00",
+   "age_label": "47分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s fu...",
+   "published": "2026-06-07T23:00:36+00:00",
+   "age_label": "59分钟前",
+   "tags": [
+    "AI Infrastructure",
+    "Robotics",
+    "Agentic AI",
+    "AI Factory",
+    "Artificial Intelligence"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-blog-doosan-robotics-1920x1080-noncredit.jpg"
+  },
+  {
+   "title": "派早报：乘用车越造越重，12 年增重近 400 公斤",
+   "url": "https://sspai.com/post/110847",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "乘用车越造越重，12 年增重近 400 公斤 iFixit 拆解华强北山寨苹果产品 Cloudflare 收购 Vite 背后公司 rsync 疑因 AI 参与维护出现 bug，引发争议 OpenAI 与美国政府商讨捐赠股权 美国平均上路车龄达到 13 年 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-06-07T22:52:23+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果折叠屏 iPhone Fold 机模高清细节图曝光，或仅推出白色版本",
+   "url": "https://www.ithome.com/0/961/193.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 8 日消息，爆料人 Sonny Dickson 今日放出了一组折叠屏 iPhone（或名为 iPhone Fold）机模的高清细节图，该机外观设计看似已基本定型。消息同时透露，这款折叠机型或将仅推出白色版本。 机模主要用于线下展示，也供配件厂商参考。配件商需要高度还原机身尺寸，才能在新机正式发布前，批量生产手机壳等周边配件。今年 4 月，迪克森就曾同步曝光过折叠屏 iPhone、iPhone 18 Pro 以及 iPhone 18 Pro Max 的早期工程模型，首次直观证实这款折叠手机采用护照式翻盖造型。 此次曝光的折叠屏 iPhone 机模，细节远比此前流传的版本丰富，能...",
+   "published": "2026-06-07T22:49:24+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Amazon is selling a 2TB Samsung SSD for almost 40% off - and it's seriously fast for PC",
+   "url": "https://www.zdnet.com/article/samsung-990-pro-ssd-deal-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Samsung's flagship 990 Pro SSD just dropped to a near-record low price. Here's the breakdown.",
+   "published": "2026-06-07T21:31:00+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple WWDC live blog: Everything we're expecting, from iOS 27 to Siri to smart glasses",
+   "url": "https://www.zdnet.com/article/apple-wwdc-live-blog-06-07-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "ZDNET is on the ground at Apple Park to cover the company's annual developer conference live. Stay tuned for the latest news.",
+   "published": "2026-06-07T21:16:00+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Is this the dawn of the Tokenpocalypse?",
+   "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+   "published": "2026-06-07T20:26:13+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Equity podcast",
+    "Microsoft"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I never use a new iPhone until I change these settings - why they're such a big deal",
+   "url": "https://www.zdnet.com/article/new-iphone-settings-i-immediately-change-why/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "A new iPhone works great out of the box. It's even better once you adjust the default settings and enable a few features.",
+   "published": "2026-06-07T20:24:04+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I drove with Apple CarPlay for over 25,000 miles last year - these apps were the most essential",
+   "url": "https://www.zdnet.com/article/carplay-best-apps-after-25000-miles-last-year/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I spend a lot of time driving. These are the CarPlay apps that make every ride easy.",
+   "published": "2026-06-07T19:49:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Notion restores access to Anthropic after service disruption",
+   "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+   "published": "2026-06-07T17:56:22+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Notion"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI is still working on that ‘super app’",
+   "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+   "published": "2026-06-07T16:23:22+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "ChatGPT",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果高层曾在去年年初召开重大会议，重塑 AI、Siri 战略就此发生大转弯",
+   "url": "https://www.ithome.com/0/961/190.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，彭博社记者马克 · 古尔曼于今天最新一期的《Power On》通讯中谈到，Apple 智能与 Siri 重建工作的重大转折点，源于苹果高层一次重大会议。这场会议最终推动了公司 AI 业务大规模重组，并改变该司未来数年的 AI 战略方向。 据悉，后天举行的 WWDC 26 预计将重点展示 iOS 27 及更多 AI 功能。这场大会也可能标志着，苹果过去两年的“AI 动荡期”彻底结束。 古尔曼透露，2025 年初时， 整个 AI 行业正在高速发展 ， 而苹果的脚步明显落后于竞争对手 。公司高管为了寻求解决方案，决定在软件工程部门附近召开紧急会议。蒂姆 · 库克（Tim...",
+   "published": "2026-06-07T15:51:31+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达 CEO 黄仁勋明日会见三星电子副会长全永铉，HBM、机器人合作计划成焦点",
+   "url": "https://www.ithome.com/0/961/189.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，据韩媒《阿视亚经济》报道，英伟达 CEO 黄仁勋今天在首尔与崔泰源等 SK 集团高管共进晚餐期间确认， 他明天将与三星电子副会长全永铉会面 。 被问到“是否会与三星电子会长李在镕会面”时，黄仁勋回复道：“他最近来加州看过我，我们一起共进了一次非常愉快的晚餐”。同时， 李在镕目前正在海外出差 ， 因此无法与黄仁勋会面 。 IT之家从原报道获悉，黄仁勋与全永铉会面时，预计将讨论 HBM、下一代存储器技术等合作议题，并探讨机器人等未来技术。 黄仁勋明天的行程安排颇为紧凑，他起身后的第一件事是前往 SK 集团总部，与崔泰源相谈。随后前往汝矣岛的 LG 双子塔，与 LG 集...",
+   "published": "2026-06-07T15:16:58+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "量子计算公司本源量子完成近 30 亿元融资，投前估值超 200 亿元",
+   "url": "https://www.ithome.com/0/961/188.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，据投资机构华民投消息，量子计算公司本源量子近日完成以央企系投资机构为领投方的近 30 亿元新一轮融资，投前估值超 200 亿元，成为国内估值最高的量子计算企业之一。 IT之家获悉，本轮完全市场化募集的资金， 将主要用于对标 IBM，建设千比特、万比特、12 寸量子芯片中试线，以及新一代超导量子计算机整机的软硬件研发与产业化生产 ，加速中国自主量子计算技术的规模化落地。 今年 5 月， 我国第四代自主超导量子计算机“本源悟空-180”已上线运行 ， 开始接收全球量子计算任务 。 “本源悟空-180”搭载单核 180 个计算比特超导量子芯片，在单片架构上实现百比特级量...",
+   "published": "2026-06-07T15:16:42+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达黄仁勋：新款 Vera 芯片将采用 SK 海力士的内存产品",
+   "url": "https://www.ithome.com/0/961/187.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，据彭博社今日报道，英伟达公司首席执行官黄仁勋表示，随着两家公司准备在未来一年开展更多业务， 其全新的 Vera CPU 将使用 SK 海力士公司的内存芯片 。 黄仁勋周日在首尔一家餐厅外告诉记者，“今年我们与 SK 海力士度过了非常重大的一年，我们正在为非常、非常重大的下半年和明年做准备。” 当晚，黄仁勋在该餐厅与 SK 集团董事长崔泰源（Chey Tae-won）、SK 海力士 CEO 郭鲁正（Kwak Noh-Jung）以及 SK 电讯公司的高管们共进了晚餐。黄仁勋表示，“我们推出了 Vera CPU，这是一款革命性的 CPU， 它也将使用 SK 海力士的 D...",
+   "published": "2026-06-07T15:00:56+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高考首日机器人现身考场：穿大红旗袍跳舞、与考生碰拳花式助考",
+   "url": "https://www.ithome.com/0/961/186.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，2026 年全国统一高考今天开考，今日的考试科目有语文、数学。不过，各地的考点外出现了一批新鲜面孔，一些特地赶来的人形机器人们以各种不同的姿势， 为考生加油助威 。 据海客新闻消息， 杭州十四中考点外今天出现了几台穿着大红旗袍的人形机器人 ，踩着明快的步伐为考生跳起舞蹈，祝愿考生“旗开得胜”。它们的姿态忍俊不禁，路过的考生们都忍不住被逗笑。 而在深圳的多个考点外，均有交警人形机器人护考， 考生在进入考场前可与其碰拳互动 ，机器人还会送上一句“旗开得胜”祝福。 此外，东南大学也在南京市第九中学外带来了智能机器人， 两台机器人在考场门口翻跟头 、 举牌助威 ，为考生循...",
+   "published": "2026-06-07T15:00:00+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "支持调用 Deepseek、Kimi 等模型，Agentic 华为云入口“智果园”发布",
+   "url": "https://www.ithome.com/0/961/185.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，华为云现已针对 Agentic AI 时代发布全新云入口“智果园”，新产品支持云码道 CodeArts 代码智能体、华为云 OfficeAce 办公智能体和 WorkAgent 文档智能体。 据介绍，智果园拥有开发、办公等多种关键行业的智能体，可通过智果 AgentArts 平台打造更加实用的智能体，并通过 Skills、AI Shell 自定义，快速使用华为云能力。 IT之家注意到，智果园支持一键调用 DeepSeek-V4-Pro、智谱 GLM-5.1、月之暗面 Kimi-K2.6 和千问 Qwen-Image 等主流大模型。拥有全新 Token Plan 订...",
+   "published": "2026-06-07T14:37:32+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英国政府计划采购本土 AI 芯片和半导体设备，防止企业流向美国",
+   "url": "https://www.ithome.com/0/961/184.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，据电讯报当地时间 6 月 7 日消息，英国政府部长们正提议从英国科技公司购买人工智能（AI）芯片，以试图阻止它们流向美国。 技术大臣莉兹 · 肯德尔（Liz Kendall）将在本周的伦敦科技周上概述从总部位于英国的公司进行“战略性采购”半导体设备的计划。 政府担心初创企业会放弃英国而前往硅谷，希望此举能够鼓励初创企业留在英国。该计划还旨在确保对人工智能产业部分领域的“主权”， 并避免英国过度依赖美国科技巨头 。 英国已投资数亿英镑来建设人工智能研究资源，该资源让初创企业能够免费使用相关算力。然而该资源绝大部分是使用来自英伟达和英特尔的美国芯片建造的。 英国政府表...",
+   "published": "2026-06-07T14:21:11+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AMD AIB 合作伙伴预测：下代独立显卡至少要等一年",
+   "url": "https://www.ithome.com/0/961/183.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，荷兰媒体 Tweakers 当地时间 6 日表示，根据其本周在 COMPUTEX 2026 上与 AMD AIB 合作伙伴的交流， 多家显卡制造商认为 AMD 的下代独立显卡至少要等一年 。 其中一家 AIB 的代表预计首批 AMD \"RDNA 5\" GPU 将于 2027 年的 Q2~Q3 面世（发布时间可能落在当年的台北国际电脑展）；另一家 AIB 则认为 \"RDNA 5\" 更可能在 2027 年底甚至 2028 年初到来。 根据此前爆料，\"RDNA 5\" 将包括 96CU、40CU、24CU、12CU 等多个规格的 GPU，显示 AMD 下代游戏显卡仍将聚焦...",
+   "published": "2026-06-07T14:19:57+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Bitspower 台北展示新一代分体式水冷组件与“液氮炮”",
+   "url": "https://www.ithome.com/0/961/177.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，知名 PC 分体式水冷厂商 Bitspower（超昱）在本年度的 COMPUTEX 台北国际电脑展公开展示了一系列的新品。 在处理器散热方面，Bitspower 带来了 PRIME NEO 系列冷头。其针对处理器的热点调整水流，重新设计流道以增强水冷均匀性， 冷板单元模块化 ；而在外观上，其拥有可更换的顶盖装饰件设计，提供黑色铝制、灰色铝制、磨砂亚克力等版本。 对于显卡，Bitspower 展出了多款支持 NVIDIA 和 AMD 最新世代显卡的冷头，包括适配微星 RTX 5090 32G LIGHTNING“闪电”机箱显卡的型号（见下图绿框处）。其 NEBULA...",
+   "published": "2026-06-07T13:32:18+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "RYVNTEC 展示通用型机箱贯流风机 Airjet 360，内置 2 个风扇单元",
+   "url": "https://www.ithome.com/0/961/175.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，散热品牌 RYVNTEC（睿温）近日公布了 机箱用“通用型”贯流风机 Airjet 360 。从命名上来看其应兼容机箱的 3×120mm 风扇位或 360 冷排位。 RYVNTEC 官网宣称 Airjet 360 面向 1U / 2U 高度的服务器系统；不过从两侧的 RGB 灯效来看， 其电竞属性更为明显 。该贯流风机内置一对风扇单元，采用 12V DC 供电，支持 PWM 调控。 IT之家注意到，贯流风机此前已被个别机箱采用，不过都是以预装配件的形式供应；通用型 PC 贯流风机的市场潜力值得关注。",
+   "published": "2026-06-07T13:12:16+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "三星 Galaxy S26 FE 真机曝光，搭载 Exynos 2500 芯片",
+   "url": "https://www.ithome.com/0/961/174.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，据 9to5Google 昨日消息，型号为 SM-S741 的 Galaxy S26 FE 手机因通过 WPC（无线充电联盟）的认证而曝光。 从外观来看，该机与今年早些时候发布的标准版 Galaxy S26 风格高度相近，沿用三星 2026 年度设计语言，配备凸起的后置摄像模组、平直机身中框。 IT之家注意到， 这款机型此前已现身 GeekBench 跑分库 ，6.2.2 版本单核成绩为 2426 分，多核成绩为 8004 分。页面显示该机采用 Exynos 2500 芯片，配备 8GB 内存。 另据韩媒 The Elec 报道，由于业界内存涨价潮，三星为了控制旗...",
+   "published": "2026-06-07T13:06:59+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Use Android Auto? Don't make these 5 common mistakes that can hinder your ride",
+   "url": "https://www.zdnet.com/article/android-auto-mistakes-youre-probably-making/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "There's a good chance you're missing out on some cool Android Auto features by making these all-too-common mistakes.",
+   "published": "2026-06-07T13:00:37+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "多款既有产品迎改款 / 迭代，TRYX 参展 2026 台北国际电脑展",
+   "url": "https://www.ithome.com/0/961/172.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，TRYX（创氪星系）作为一家主打创意的 PC DIY 组件品牌，在 COMPUTEX 2026 台北国际电脑展上对既有产品线进行了升级，多款新品也正式面世。 液冷 处理器 AIO 液冷散热器是 TRYX 的标志性产品线。该企业在该领域不仅展示了近期新品 STAGE 和 HOLO，还公布了“当家花旦”展域系列 PANORAMA 和 PANORAMA SE 的二代版本。 PANORAMA V2 和 PANORAMA SE V2 水泵平台分别升级到 Asetek Gen 10 和 Asetek Gen 9 ，散热能力进一步提升的同时也更为静音。这一对产品结构得到优化， ...",
+   "published": "2026-06-07T13:00:08+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "有余凯不投的地平线离职创业员工吗？",
+   "url": "https://www.qbitai.com/2026/06/431931.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "「放任」人才外流的反常操作，只是格局使然吗？",
+   "published": "2026-06-07T12:43:08+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "资讯",
+    "余凯",
+    "地平线"
+   ],
+   "image": ""
+  },
+  {
+   "title": "18999 元，机械革命苍龙 16 Ultra 笔记本 R9-9955HX+RTX5080 配置开售",
+   "url": "https://www.ithome.com/0/961/166.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，机械革命苍龙 16 Ultra 笔记本 R9-9955HX+RTX5080 配置现已开售，新品支持外接水冷散热，拥有 32GB 内存、2TB 固态硬盘， 售价 18999 元 。 IT之家从商品页面获悉，这款笔记本配备 AMD 锐龙 9 9955HX 处理器，采用 16 核心 32 线程设计，单核主频最高可达 5.4GHz，L2+L3 缓存可达 80MB，单烤功耗最高可达 125W。拥有英伟达 RTX 5080 16GB 显卡，AI 算力可达 1334TOPS，功耗可达 175W。 同时，这款笔记本搭配冰河水冷机使用时，功耗可达 285W。机身采用三风扇 + 五热...",
+   "published": "2026-06-07T12:22:16+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达与 SK 集团明日公布合作计划，黄仁勋称内存短缺问题将持续",
+   "url": "https://www.ithome.com/0/961/165.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，据路透社今日报道，英伟达和韩国 SK 集团预计将于周一公布两家公司之间的合作计划。黄仁勋表示， 当前存储芯片供应紧张的局面还将持续好几年 （quite a few years）。 SK 海力士的一位发言人表示，集团董事长崔泰源（Chey Tae-won）和英伟达首席执行官黄仁勋计划于周一上午向媒体简要介绍该计划。 黄仁勋另外表示，英伟达可能会在周一与 SK 集团一同发布公告。“我们的合作覆盖多个领域，包括 AI 超级计算机、CPU、新型 PC 和机器人技术。此次会面就是为敲定相关规划，明日或将公布具体内容。” IT之家注意到，黄仁勋还表示他没有看到内存短缺结束的迹...",
+   "published": "2026-06-07T12:20:21+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "我国自主研发：全球首款量产智能终端用硅基氮化镓射频芯片交付超五百万颗",
+   "url": "https://www.ithome.com/0/961/164.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，综合中国电科和科技日报消息， 中国电科 55 所自主研发的全球首款量产智能终端用硅基氮化镓射频芯片产品已交付超五百万颗 。这是全球率先实现硅基氮化镓射频芯片在智能终端规模化商用，将为空天地一体化信息网络的全域覆盖、高速互联提供支撑。 ▲ 图：射频硅基氮化镓晶圆 据介绍，空天地一体化信息网络是支撑未来 6G 通信、商业航天、低空经济及应急通信的核心底座，而低成本高性能功率放大器（PA）芯片则是这一网络核心， 直接决定通信系统的传输速率、覆盖范围与稳定性 。当前，我国商业航天、低空经济、6G 研发及信息通信产业正加速发展，对低成本高性能射频芯片的需求呈爆发式增长。 科...",
+   "published": "2026-06-07T12:18:42+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
+   "url": "https://www.qbitai.com/2026/06/431694.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "人类历史最大规模的IPO招股开始了！",
+   "published": "2026-06-07T12:13:16+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "资讯",
+    "SpaceX",
+    "马斯克"
+   ],
+   "image": ""
+  },
+  {
+   "title": "为服务器设计，富士康展示液冷版 RTX Pro 6000 Server Edition GPU",
+   "url": "https://www.ithome.com/0/961/163.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 7 日消息，据 X 平台博主 UNIKO's Hardware 本周（6 月 4 日）发文，富士康在台北电脑展 2026 期间展示 RTX Pro 6000 Server Edition GPU。 IT之家了解到，这款产品主要面向服务器、数据中心等场景打造，而非传统 PC 平台。RTX Pro 6000 是英伟达目前最高端的 Blackwell GPU， 拥有 96GB GDDR7 显存 ，可运行 AI 大模型、复杂仿真任务及专业图形任务。 值得注意的是，这款 RTX Pro 6000 GPU 似乎采用单槽设计，卡身全面覆盖液冷散热模块，没有使用标准的 12V-2x6 电源接...",
+   "published": "2026-06-07T12:13:05+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
+   "url": "https://www.qbitai.com/2026/06/431499.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "帮OpenAI从零造出第一颗芯片的人，转投Anthropic了",
+   "published": "2026-06-07T12:07:44+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "资讯",
+    "Anthropic",
+    "OpenAI",
+    "芯片"
+   ],
+   "image": ""
+  },
+  {
+   "title": "What e-reader tablets do published authors use? My survey found results beyond the Kindle",
+   "url": "https://www.zdnet.com/article/we-asked-published-authors-what-their-favorite-e-readers-are/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Authors share their top picks of the best e-readers for reading novels, magazines, comics, and more - with some surprise picks.",
+   "published": "2026-06-07T12:00:40+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI ‘content creators’ are getting harder to spot",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started At first, AI influencers were relatively easy to ide...",
+   "published": "2026-06-07T12:00:00+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "AI",
+    "Social Media",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The feature Apple needs to make HomePod stand out isn't audio-related",
+   "url": "https://www.zdnet.com/article/the-feature-apple-needs-to-make-homepod-stand-out-isnt-audio-related/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Few smart speakers have assistants with as much potential as Siri. A meaningful upgrade would make the HomePod my first choice.",
+   "published": "2026-06-07T11:35:41+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "MacBook Neo vs. Dell XPS 13 (2026): I've used both budget laptops - this one wins for now",
+   "url": "https://www.zdnet.com/article/dell-xps-13-2026-vs-macbook-neo/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Dell's new 13-inch XPS starts at just $599 with student pricing, making it a direct competitor to the Neo. But is it any better?",
+   "published": "2026-06-07T11:00:39+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I saw the Surface Laptop Ultra at Computex and it's clear: Microsoft has gone beastmode",
+   "url": "https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The flagship laptop announced at Computex 2026 will feature Nvidia's new RTX Spark chip with up to 128GB of unified memory.",
+   "published": "2026-06-07T10:30:38+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "得物推荐 AI Harness：从“狂野代码”到“按目标生产”｜AICon上海",
+   "url": "https://www.infoq.cn/article/pOwoNlmEL9zV0aodLVB9?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-07T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Android Auto is way more customizable than you might realize - 6 tricks to try ASAP",
+   "url": "https://www.zdnet.com/article/android-auto-6-ways-to-customize/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "You can change Android Auto to make the platform unique to you. Here's how.",
+   "published": "2026-06-07T09:00:50+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
+   "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming co...",
+   "published": "2026-06-07T07:00:15+00:00",
+   "age_label": "16小时前",
+   "tags": [
+    "Gaming",
+    "Artificial Intelligence",
+    "Esports",
+    "Game Development",
+    "GeForce"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/jhh-t1-group-photo-1920x1080-1.jpg"
+  },
+  {
+   "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+   "url": "https://www.qbitai.com/2026/06/431487.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "花旗美银都是客户",
+   "published": "2026-06-07T03:10:13+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Years of emergency prep taught me how to storm-proof my solar generators",
+   "url": "https://www.zdnet.com/article/how-to-prep-solar-power-stations-for-emergencies/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "With severe weather becoming more common, you need a plan before the lights go out. Here's my approach.",
+   "published": "2026-06-07T02:02:02+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+   "url": "https://www.qbitai.com/2026/06/431401.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "高一致性、低延迟、实时超分全梭哈",
+   "published": "2026-06-07T01:13:21+00:00",
+   "age_label": "22小时前",
+   "tags": [
+    "资讯",
+    "首页轮播"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+   "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+   "published": "2026-06-06T20:32:24+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Security",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "万亿美元AI公司，面试时禁止使用AI",
+   "url": "https://36kr.com/p/3842590079912448",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "突发：OpenAI芯片元老加入Anthropic",
+   "url": "https://36kr.com/p/3842475940268552",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "用了 AI 之后，公司好像更穷了",
+   "url": "https://36kr.com/p/3841823029447170",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "视频模型巨大的“隐形成本”，没人告诉你",
+   "url": "https://36kr.com/p/3841529149311488",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "比亚迪的机器人还没打算卖",
+   "url": "https://36kr.com/p/3841123811133705",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "DeepSeek V4做数学证明，500倍成本优势：智能体系统刷新多项纪录",
+   "url": "https://36kr.com/p/3841174468151553",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克要造百万台机器人，经济学人说关键在宁波",
+   "url": "https://36kr.com/p/3839639104571655",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从可灵到 Gemini，AI 视频集体告别“抽卡模式”：导演模型要火？",
+   "url": "https://36kr.com/p/3839968025705096",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "人形机器人5万块一车甩卖，三年前还要60万",
+   "url": "https://36kr.com/p/3840171074357766",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "让AI自我构建的RSI火了，Google泼冷水，DeepSeek们摸到了边",
+   "url": "https://36kr.com/p/3838267106966404",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic全球警告，OpenAI已跨“可靠性阈值”：AI自我加速启动",
+   "url": "https://36kr.com/p/3840170228910594",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Spring 创始人重回一线做 AI 框架，却说：这是人类亲自选择的最后一代框架",
+   "url": "https://36kr.com/p/3836956769236360",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI超连接时代：AI向“光”飞奔？",
+   "url": "https://36kr.com/p/3837341207213186",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "最恐怖的 AI 实验： 没有法律的虚拟城镇，几十个 Agent 互砍成《西部世界》",
+   "url": "https://36kr.com/p/3841175573088513",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "70%民众反对AI，美国人希望美国输掉人工智能战争",
+   "url": "https://36kr.com/p/3836910405530757",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
