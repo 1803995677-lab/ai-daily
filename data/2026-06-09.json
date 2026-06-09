@@ -1,0 +1,1805 @@
+{
+ "date": "2026-06-09",
+ "generated_at": "2026-06-09 08:00",
+ "total": 140,
+ "sources": [
+  "IT之家",
+  "The Verge AI",
+  "NVIDIA Blog",
+  "36氪",
+  "ZDNet AI",
+  "36氪 AI",
+  "CNBC Tech",
+  "MIT Tech Review",
+  "Ars Technica",
+  "TechCrunch AI",
+  "量子位",
+  "InfoQ 中文",
+  "少数派",
+  "Wired AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 140 篇 AI 相关资讯（国内 52 篇，海外 88 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、AI 应用与商业化、人事变动。最受关注：「OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信号 — IT之家 6 月 9 日消息，OpenAI 公司今天（6 月 9 日）发布博文， 宣布已经向美国证券交易委员会递交保密版 S-1 注册草案，为未来上市预留通道。 IT之家注：S-1 是企业向美国证券交易委员会提交的注册声明文件，常见于首次公开募股前。 S-1 文件通常包含公司业务、风险、财务与发行相"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 完善 Mac 游戏生态：苹果更新工具，借助 AI 加速游戏移植 — IT之家 6 月 9 日消息，科技媒体 AppleInsider 今天（6 月 9 日）发布博文，报道称在 2026 年全球开发者大会（WWDC）主题演讲结束后，苹果针对 Mac 游戏生态， 推出 Game Porting Toolkit 4 工具包。 IT之家注：Game Porting Tool"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 中信建投：低轨卫星组网加速，Computex多款新品发布 — 36氪获悉，中信建投研报指出，千帆星座一周三次组网发射，在轨卫星达到200颗。6月文昌计划5次发射任务，近期多款民营火箭首飞在即，火箭供给端逐步丰富叠加发射服务保障能力完善，商业航天产业进程有望加速。SpaceX上市在即，有望快速纳入纳指，板块有望迎来价值重估。Computex多款新品重磅发布，云端"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[ZDNet AI]** The iPadOS 27 developer beta is here - how to download it — Apple has released the first iPadOS 27 beta, offering early access to an upgraded Siri, new Safari features, and more."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Apple announces Siri AI and its next generation of Apple Intelligence — Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new "
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources — Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** SpaceX、OpenAI、Anthropic相继推进上市进程，全球超级IPO潮或重塑市场预期 — 2026年，全球资本市场迎来一轮空前的科技超级IPO潮，中美硬核科技企业集中上市，百亿级、千亿级募资项目密集落地，持续刷新全球融资纪录。美股方面，SpaceX、OpenAI、Anthropic三大科技巨头密集推进上市进程，合计募资规模或超过2000亿美元；A股方面，长鑫科技以295亿元的拟募资额位列"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 从“画饼”到实机展示，苹果 WWDC26 改变 AI 功能演示方式 — IT之家 6 月 9 日消息，2026 年苹果全球开发者大会（WWDC）主题演讲并未推出令人眼前一亮的全新产品，而是主要介绍了一系列优化：修复去年推出的液态玻璃设计问题、全面改版体验糟糕的搜索功能、升级 Playground 功能等等。 其中最受关注的当属智能语音助手 Siri。苹果两年前就承诺推出"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、AI 应用与商业化展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 140 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "马斯克谈SpaceX未来规划，展示AI数据中心卫星更多细节",
+   "url": "https://36kr.com/newsflashes/3845178784434688?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "当地时间6月8日，马斯克在SpaceX社媒平台X账号分享的一段30分钟视频中谈及SpaceX的未来规划，内容涵盖星舰的后续研发，以及SpaceX与特斯拉在美国联合建设的超级芯片工厂。马斯克展示了名为AI1的卫星渲染图及相关规格，称AI1卫星将配备翼展70米的巨型光伏面板，可支持120千瓦的平均计算载荷，峰值可达150千瓦。SpaceX计划组建约100万颗AI卫星网络，在地球轨道上执行复杂的人工智能计算任务。（界面）",
+   "published": "2026-06-08T23:58:07+00:00",
+   "age_label": "2分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从电力管家到散热高手，碳化硅全产业链供需两旺",
+   "url": "https://36kr.com/newsflashes/3845177527585285?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "自2025年第四季度以来，碳化硅行业新增晶圆产能扩张节奏有所放缓，而汽车、光储、充电桩等三大主力应用市场均持续处于高景气运行周期，对国产SiC MOSFET器件的需求持续快速增长；同时，消费电子、AI等新兴应用场景需求集中爆发，叠加半导体行业整体涨价预期，拉高终端厂商的备库存需求，共同推动碳化硅行业景气度持续上升。前瞻产业发展趋势，头部碳化硅衬底片、外延片厂商开启新一轮扩产，给上游设备厂商带来可观的新增订单。（上证报）",
+   "published": "2026-06-08T23:56:51+00:00",
+   "age_label": "3分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信证券：汽车智驾渗透率高增，产业链盈利向上",
+   "url": "https://36kr.com/newsflashes/3845176795203844?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信证券指出，回顾2025年，智驾平权趋势持续演进，我们测算2025年城市/高速NOA在国内乘用车市场的渗透率分别为14%/15%，带动中大算力智驾芯片、激光雷达、智驾域控等产品出货量高增，头部公司相关收入大幅增长。另一方面，L4自动驾驶商业化加速，多家公司已在标杆项目中兑现经济效益，正致力于扩大业务规模、拓展商业模式。展望2026年，产业链各环节料将进一步推进技术研发和产品投放，汽车智能化产业链有望受益。",
+   "published": "2026-06-08T23:56:06+00:00",
+   "age_label": "4分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "投票：苹果 iOS 27 正式公布，你尝鲜了吗？还满意吗？",
+   "url": "https://www.ithome.com/0/961/735.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，苹果今日举行 WWDC26 主题演讲， 正式公布了 iOS 27 系统更新 ，带来 Siri AI 和新一代 Apple 智能，并对系统性能进行了大幅优化和可靠性改进。 看完发布会的IT之家小伙伴一定有一个感受，那就是 iOS 27 在“求稳”，兑现了拖延已久的手机 AI 功能，并且优化了液态玻璃，也很良心地支持了 iPhone 11。 此外，iOS 27 对中国用户也有特别照顾， 终于补足了中国大陆节假日调休闹钟 ， 并且中文输入法也进行了优化 。 不过，作为发布重点的 Siri AI 和新一代 Apple 智能 暂不在中国大陆提供 ，让不少熬夜等候的小伙伴有一...",
+   "published": "2026-06-08T23:55:27+00:00",
+   "age_label": "4分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信证券：宏观经济维度看好央国企、能源板块",
+   "url": "https://36kr.com/newsflashes/3845171920325124?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信证券指出，我们自建三维宏观状态监测体系，并以每个指数在各类宏观状态的历史表现作为未来表现预期，迭代构建行业主题ETF轮动策略。当前策略较此前方案收益与稳定性均有明显改善，自2020年以来历史年化15.6%，今年以来累计收益22%。截至2026年5月31日，最新自建高频宏观因子显示增长与通胀因子边际回落，金融环境延续边际利好，最新模型推荐转向兼具成长弹性与红利防御特征的方向，其中宏观经济维度看好央国企、能源板块，宏观金融与国际金融维度指向传媒、云计算、通信板块。",
+   "published": "2026-06-08T23:51:08+00:00",
+   "age_label": "9分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "升级 \"Twin Lake\"：GPD 推出 N350 版 MicroPC 2 迷你掌上笔记本电脑",
+   "url": "https://www.ithome.com/0/961/733.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，GPD（中软赢科）本月 4 日宣布， 其迷你掌上笔记本电脑 MicroPC 2 现已可选英特尔酷睿 3 N350 这款八核 \"Twin Lake\" 处理器 。相较 2025 年 8 月推出的 i3-N300 版本，酷睿 3 N350 版本在 CPU 与 GPU 频率上均有 0.1GHz 的提升。 MicroPC 2 三维 171.2 × 110.8 × 23.5 (mm)，内置 27.5Wh 电池，质量约为 490g；板载 16GB LPDDR5 内存，提供 M.2 2280 NVMe 盘位；配备 7\" FHD 60Hz 500nits 可翻转十点触控屏幕；具备 ...",
+   "published": "2026-06-08T23:50:10+00:00",
+   "age_label": "10分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "3 new MacOS 27 features make it worth upgrading right away for me - Siri included",
+   "url": "https://www.zdnet.com/article/macos-27-best-new-features/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Apple's upcoming MacOS 27 Golden Gate is light on new features, focusing instead on a reworked Siri.",
+   "published": "2026-06-08T23:50:00+00:00",
+   "age_label": "10分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "SpaceX、OpenAI、Anthropic相继推进上市进程，全球超级IPO潮或重塑市场预期",
+   "url": "https://36kr.com/newsflashes/3845169671850247?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "2026年，全球资本市场迎来一轮空前的科技超级IPO潮，中美硬核科技企业集中上市，百亿级、千亿级募资项目密集落地，持续刷新全球融资纪录。美股方面，SpaceX、OpenAI、Anthropic三大科技巨头密集推进上市进程，合计募资规模或超过2000亿美元；A股方面，长鑫科技以295亿元的拟募资额位列科创板史上第二大IPO，长江存储也已完成IPO辅导备案。（上证报）",
+   "published": "2026-06-08T23:48:51+00:00",
+   "age_label": "11分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华泰证券策略：关注AI通胀与资源通胀",
+   "url": "https://36kr.com/newsflashes/3845166909835785?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，华泰证券策略指出，5月全行业景气指数小幅回落，与PMI回落相印证，或反映当前需求仍待改善。分板块看，近3个月中游材料、上游资源、TMT景气改善幅度居前。行业层面，景气改善的线索较上个月更聚焦：AI通胀下算力端光通信、存储、MLCC景气爬坡，此外端侧消费电子、应用端游戏景气亦改善；涨价链景气改善斜率居前，如煤炭、钢铁、装修建材、部分化工品、小金属、工业金属、航运港口等；以新能源为代表的中游制造景气上行，如电池、通用设备、航海装备、农业机械等。",
+   "published": "2026-06-08T23:46:03+00:00",
+   "age_label": "14分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信建投：低轨卫星组网加速，Computex多款新品发布",
+   "url": "https://36kr.com/newsflashes/3845162610002178?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信建投研报指出，千帆星座一周三次组网发射，在轨卫星达到200颗。6月文昌计划5次发射任务，近期多款民营火箭首飞在即，火箭供给端逐步丰富叠加发射服务保障能力完善，商业航天产业进程有望加速。SpaceX上市在即，有望快速纳入纳指，板块有望迎来价值重估。Computex多款新品重磅发布，云端向机柜级发展，同时端侧落地进一步加速。英伟达、英特尔机柜级产品推出；英伟达端侧发布AIPC芯片以及物理AI多项更新，围绕自动驾驶和具身智能应用全面扩散。",
+   "published": "2026-06-08T23:41:40+00:00",
+   "age_label": "18分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "停车可观影，苹果 iOS 27 为 CarPlay 带来视频播放功能",
+   "url": "https://www.ithome.com/0/961/731.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，早在 2025 年苹果全球开发者大会（WWDC）上，苹果就宣布计划让车载互联系统 CarPlay 用户在车辆静止状态下，通过 AirPlay 在车内观看视频，但这项功能的具体细节直到现在才正式公布。 在 2026 年 WWDC 面向开发者的讲解视频中，苹果表示，CarPlay 视频功能仅适配支持该功能的新款车辆。当你在支持 AirPlay 视频投屏的 iPhone 应用内播放视频时，可在 iOS 系统的 AirPlay 菜单中选择车载屏幕，即可在适配车辆的显示屏上观看视频。 IT之家注意到，iOS 27 新增功能中，苹果允许开发者打造具备视频浏览功能的 CarPl...",
+   "published": "2026-06-08T23:33:57+00:00",
+   "age_label": "26分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信建投：市场成交处于高位，盈利韧性与估值低位支撑非银投资价值",
+   "url": "https://36kr.com/newsflashes/3845149647620361?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信建投研报指出，本周股票成交额环比出现回落，但继续维持高位，市场交投情绪仍在较高水平。当前保险板块估值具有较高配置价值，当前股价过度反映较高基数带来的潜在业绩增速压力，资产端回暖有望带动二季度利润增速和股价修复。港股非银板块在低估值特征与盈利改善预期共振下中长期配置价值凸显。监管逻辑趋稳、促消费导向明确、AI技术提效的背景下，消费金融行业处于政策红利与技术红利的双重驱动期。",
+   "published": "2026-06-08T23:28:29+00:00",
+   "age_label": "31分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "主观策略股票私募加快引入AI，打破“AI只适配量化投资”固有观念",
+   "url": "https://36kr.com/newsflashes/3845149412018434?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "当前，人工智能（AI）正深度融入资本市场投资环节，是私募行业转型升级的核心动力。从业内获悉，以往依靠深度调研、经验判断开展操作的主观策略股票私募，如今正加快引入AI技术，提升基金经理的资金管理半径与研究覆盖边界。不少主观策略私募已经打破“AI只适配量化投资”的固有观念。业内人士认为，AI在主观策略私募领域的渗透比例还会持续走高，既能赋能传统私募机构，甚至还将孕育出全新形态的私募主体。（证券时报）",
+   "published": "2026-06-08T23:28:15+00:00",
+   "age_label": "32分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0609：华为余承东官宣尊界 V800；库克 WWDC 收官演讲苹果 iOS 27 发布；腾讯 QQ 回应为何不显示华为 5A 在线状态；总台曝光小作坊翻新牙刷...",
+   "url": "https://www.ithome.com/0/961/730.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 9 日星期二，今天的重要科技资讯有： 1、华为余承东官宣尊界 V800，定位“超高端 MPV” 华为余承东官宣尊界 V800，定位“超高端 MPV”，新车已在工信部完成申报。车身尺寸庞大，轴距达 3430mm，搭载 1.5T 增程器及前后双电机。其设计延续了尊界 S800 的豪华语言，并提供多种配置选择。>> 查看详情 2、苹果 WWDC26 主题演讲一文汇总：iOS 27 等新系统发布、Siri AI 登场，库克迎来生涯“最后一舞” 苹果 WWDC26 主题演讲已结束，库克完成 CEO 任内“最后一舞”。新一代 iOS 27、macOS...",
+   "published": "2026-06-08T23:27:17+00:00",
+   "age_label": "33分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "As a parent, I'm beyond excited about iOS 27's child safety features - how they're better now",
+   "url": "https://www.zdnet.com/article/apple-ios-27-ipados-macos-wwdc-2026-parental-controls/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "From stronger controls over web browsing and shortcuts to limit screen time, Apple just announced much-needed child-safety features for its OS.",
+   "published": "2026-06-08T23:24:00+00:00",
+   "age_label": "36分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The AirPods getting a custom equalizer with iOS 27 is a bigger deal than you think",
+   "url": "https://www.zdnet.com/article/airpods-custom-eq-news/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Despite flying under the radar during the WWDC keynote, a custom EQ for AirPods is a feature I'm most excited for this fall.",
+   "published": "2026-06-08T23:19:00+00:00",
+   "age_label": "41分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How to download the iOS 27 developer beta right now (and which models support it)",
+   "url": "https://www.zdnet.com/article/how-to-download-ios-27-developer-beta/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Apple's WWDC 2026 was full of updates for the daily iPhone user experience -  here's how you can try iOS 27 early for free.",
+   "published": "2026-06-08T23:14:00+00:00",
+   "age_label": "46分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从“画饼”到实机展示，苹果 WWDC26 改变 AI 功能演示方式",
+   "url": "https://www.ithome.com/0/961/727.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，2026 年苹果全球开发者大会（WWDC）主题演讲并未推出令人眼前一亮的全新产品，而是主要介绍了一系列优化：修复去年推出的液态玻璃设计问题、全面改版体验糟糕的搜索功能、升级 Playground 功能等等。 其中最受关注的当属智能语音助手 Siri。苹果两年前就承诺推出升级版智能 Siri，却迟迟未能落地，如今终于正式展示了这款经过全面革新的 AI 语音助手。 不过，最耐人寻味的并非苹果发布了哪些新内容，而是其展示产品的方式。在多项 Apple Intelligence 功能演示中，画面里总有工作人员手持手机，现场点击按键或下达语音指令，同时另一路镜头同步展示手机...",
+   "published": "2026-06-08T23:13:53+00:00",
+   "age_label": "46分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "赛力斯“赛豆科技”全新品牌 AIVA 官宣：车标样式曝光，全系标配豆包大模型智能座舱",
+   "url": "https://www.ithome.com/0/961/726.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，赛豆科技品牌发布会定档 6 月 9 日 19:00-20:00 举行。根据官方直播页面，这一新汽车品牌定名 AIVA 。 根据此前爆料信息， 赛力斯正在推进一个全新汽车品牌的筹备工作 ，其法律主体正是刚刚完成工商变更的“赛豆科技”；新品牌定位年轻、运动， 首款车型预计今年内推出 。 爆料还称，赛力斯将与字节跳动旗下的云服务平台火山引擎展开深度合作，火山引擎在此次合作中的介入深度将超过此前与上汽荣威的“联合定义、联合开发”模式。 IT之家注意到， AIVA 品牌的车标已经曝光 ，出现在了微博广告页面。海报中可以看到 AIVA 首款车的尾部设计，采用红色车标样式，简洁...",
+   "published": "2026-06-08T23:13:44+00:00",
+   "age_label": "46分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "街未觉醒带来 LS5 迷你主机：前进后出风道，内部推拉结构",
+   "url": "https://www.ithome.com/0/961/725.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，街未觉醒 (JWAWAKEN) 近日在官网正式上线了 LS5 迷你主机。该型号采用 前进后出风道 散热设计，内部则是 托盘式推拉结构 ，卸下四颗螺丝即可调整存储器配置。 LS5 三维 142×135×50 (mm)， 目前可选 AMD 锐龙 7 H 255 / 锐龙 AI 9 HX 470 处理器 。其内部提供 2 个 DDR5 SO-DIMM 内存插槽和 2 个 PCIe Gen4 ×4 的 M.2 2280 SSD 存储盘位，配备 Wi-Fi 6E & 蓝牙 5.4 无线网卡。 外部 I/O 方面，其正面提供 USB-C 3.2、USB-A 10Gbps、3....",
+   "published": "2026-06-08T23:10:31+00:00",
+   "age_label": "49分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Jim Cramer says sovereign AI is Nvidia's powerful new growth driver",
+   "url": "https://www.cnbc.com/2026/06/08/jim-cramer-says-sovereign-ai-is-nvidias-powerful-new-growth-driver.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC's Jim Cramer said Nvidia's growing sovereign AI business could help reduce the company's dependence on hyperscalers.",
+   "published": "2026-06-08T23:00:01+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta 智能眼镜暗藏人脸识别代码，曝光仅一天后被紧急移除",
+   "url": "https://www.ithome.com/0/961/724.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，据《连线》杂志报道，就在有人在 Meta 智能眼镜配套应用中发现一段疑似人脸识别算法的休眠代码仅一天后，Meta 便推送更新移除了这段代码。该媒体在核查一款负责智能眼镜部分核心功能的 Meta 人工智能应用代码时，首次发现了这段可疑代码。Meta 内部将其命名为“姓名标签”。简单来说，这款用于通过蓝牙将智能眼镜与手机配对的必备应用，原本还具备一项功能：用户佩戴眼镜时，自动采集沿途所有人的面部影像。 IT之家注意到，《连线》于 6 月 4 日发现了这款处于休眠状态的工具。其内置算法可将人脸照片转化为存储在设备本地的生物特征标识，并会对每一次新的面部扫描信息进行交叉比...",
+   "published": "2026-06-08T22:57:19+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "三星电子全永铉：正与英伟达商讨下一代 Groq LPU 合作事宜",
+   "url": "https://www.ithome.com/0/961/723.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，据韩媒 Sedaily 消息，三星电子副董事长兼 CEO、设备解决方案部（半导体业务）负责人全永铉昨日在与 NVIDIA（英伟达）联合创始人、总裁兼首席执行官黄仁勋会面后的记者采访中提到， 两家企业正就下代 Groq LPU 系列 AI 加速器芯片上的合作进行商讨 。 IT之家注意到，三星晶圆代工是 NVIDIA 在 4nm 的 Groq 3 (LP30) LPU 芯片上的合同制造合作伙伴。NVIDIA 后续还规划了 Rubin 世代晚些时候的 LP35 LPU 和 Feyman 世代的 LP40 LPU。 台积电董事长兼总裁魏哲家此前在今年 4 月表示，台积电“...",
+   "published": "2026-06-08T22:53:09+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果 WWDC26 主题演讲一文汇总：iOS 27 等新系统发布、Siri AI 登场，库克迎来生涯“最后一舞”",
+   "url": "https://www.ithome.com/0/961/722.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "Good morning！又是一年 WWDC，但这应当是咱们最后一次看到蒂姆 · 库克在发布会中发来早安问候了。 就在今天（北京时间 6 月 9 日）凌晨 1 点，苹果 WWDC26 全球开发者大会主题演讲如期而至，这是库克作为主讲人的“最后一舞”。 苹果此前已经官宣，自今年 9 月 1 日起，库克将出任苹果董事会执行董事长，CEO 的位置由约翰 · 特努斯接任。 既然是 WWDC，那重头戏自然是操作系统， iOS、iPadOS、watchOS、tvOS、visionOS、macOS 新一代版本迎来发布。 根据克雷格 · 费德里吉的介绍，苹果今年将新系统的重点放在了三方面： 提升了各个平台的响...",
+   "published": "2026-06-08T22:50:57+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
+   "url": "https://www.ithome.com/0/961/721.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，自 OpenAI 推出聊天机器人 ChatGPT、将人工智能带入大众视野至今已有三年半。该公司首席执行官兼联合创始人山姆 · 奥尔特曼表示，企业如今已迈入第三发展阶段：让人工智能普及化、易用化且安全可靠。 IT之家注意到，当地时间本周一，奥尔特曼与 OpenAI 首席科学家雅各布 · 帕霍茨基联合发布博客文章，阐述公司未来发展规划。二人称，OpenAI 第一阶段聚焦通用人工智能的技术研发；第二阶段则面向全球推出产品，并研究用户的实际使用场景。 他们在文中写道：“如今我们正式进入第三阶段。经济格局正围绕人工智能迎来重塑。当下的核心问题是，如何让先进人工智能技术变得供...",
+   "published": "2026-06-08T22:50:42+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果 iOS 27 引入 4×6 超大号小组件",
+   "url": "https://www.ithome.com/0/961/720.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，科技媒体 9to5Mac 今天（6 月 9 日）发布博文，报道称在 iOS 27 系统中，苹果公司在引入 Siri AI、搜索改进外， 还加入“超大号小组件”。 IT之家注：在 iPhone 17 等机型上，苹果 iOS 小组件提供 3 种尺寸：小号为 2×2、中号为 4×2、大号为 4×4。 而在 iOS 27 系统中，苹果引入了 4×6 的超大号小组件，在主屏幕与今日视图上扩展显示面积，针对天气、日程、提醒、新闻摘要或数据看板这类信息型应用，提高读取效率。 不过，现阶段支持范围还比较有限。报道提到，当前只有少数苹果原生小组件已支持超大号尺寸，第三方应用仍需等待...",
+   "published": "2026-06-08T22:49:20+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "首期聚焦 Intel 14A：Cadence 扩大与英特尔代工 DTCO 合作",
+   "url": "https://www.ithome.com/0/961/719.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，Cadence（楷登）美国当地时间 8 日宣布扩大与英特尔代工的合作， 从 Intel 14A 开始推进针对英特尔先进制程的 DTCO （IT之家注：设计技术协同优化），同时面向 HPC 和移动端低功耗设计。 Cadence 表示，DTCO 合作的重点在于优化工具、流程、方法论，以实现业界领先的 PPA（IT之家注：性能、功耗、面积）。双方将紧密合作，优化 Intel 14A 工艺以提供可投入量产的 PDK。此次合作还将利用 Cadence 的代理式 AI 流程和核心产品，以加快产品上市速度并降低设计风险。 Cadence 总裁兼首席执行官 Anirudh Dev...",
+   "published": "2026-06-08T22:43:55+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+   "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+   "published": "2026-06-08T22:41:45+00:00",
+   "age_label": "1小时前",
+   "tags": [
+    "AI",
+    "TC"
+   ],
+   "image": ""
+  },
+  {
+   "title": "苹果回应“套壳 Gemini”猜测：iOS 27 版 Siri AI AFM 自研打造",
+   "url": "https://www.ithome.com/0/961/718.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，科技媒体 Appleinsider 今天（6 月 9 日）发布博文，报道称在 2026 年全球开发者大会（WWDC）主题演讲结束后，几位苹果高管接受媒体采访， 强调 Apple Foundation Models 模型并非“Gemini 套壳”，而是完全自主控制。 苹果公司表示 Apple Foundation Models 模型虽借助 Google Gemini 技术蒸馏与训练，但最终交付的是完全由苹果代码、苹果技术和苹果数据体系构成的模型，并非 Gemini 的“套壳版”。 IT之家援引博文介绍，苹果表示 Apple Foundation Models 体系目...",
+   "published": "2026-06-08T22:41:39+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+   "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+   "published": "2026-06-08T22:39:57+00:00",
+   "age_label": "1小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Gadgets",
+    "TC",
+    "apple intellignce"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Jim Cramer warns key pillars of the bull market are beginning to crumble",
+   "url": "https://www.cnbc.com/2026/06/08/jim-cramer-key-pillars-of-bull-market-beginning-to-crumble.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC's Jim Cramer said that he's becoming more cautious on stocks after several pillars of his bullish outlook have come under pressure.",
+   "published": "2026-06-08T22:18:39+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The iPadOS 27 developer beta is here - how to download it",
+   "url": "https://www.zdnet.com/article/how-to-download-ipados-27-developer-beta/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Apple has released the first iPadOS 27 beta, offering early access to an upgraded Siri, new Safari features, and more.",
+   "published": "2026-06-08T22:18:08+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple is using AI to fix Safari’s extension problem",
+   "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements from Apple. But now, Apple is inviting users to essentially vibe-code their own extensions. In a dem...",
+   "published": "2026-06-08T22:14:17+00:00",
+   "age_label": "1小时前",
+   "tags": [
+    "AI",
+    "Apple",
+    "News",
+    "Tech",
+    "Web"
+   ],
+   "image": ""
+  },
+  {
+   "title": "OpenAI 已提交 S-1 草案，释放潜在 IPO 上市信号",
+   "url": "https://www.ithome.com/0/961/714.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，OpenAI 公司今天（6 月 9 日）发布博文， 宣布已经向美国证券交易委员会递交保密版 S-1 注册草案，为未来上市预留通道。 IT之家注：S-1 是企业向美国证券交易委员会提交的注册声明文件，常见于首次公开募股前。 S-1 文件通常包含公司业务、风险、财务与发行相关信息，提交 S-1 不等于马上上市，但说明企业已为进入公开资本市场做准备。 OpenAI 在博文中坦言，公司提交的这份 S-1 文件迟早会泄露，因此不如大大方方地主动发布消息。 在时间安排上，OpenAI 强调尚未作出上市决定，而且“可能还要一段时间”。 IT之家曾于 6 月 2 日报道，Open...",
+   "published": "2026-06-08T21:57:25+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果 iOS 27 大改 Genmoji 自定义表情功能，可微调描述语言",
+   "url": "https://www.ithome.com/0/961/713.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，苹果今日正式公布了 iOS 27 系统更新，除了发布会上提到的重要内容，还包括一系列细节改进。 比如， iOS 27 包含了全新改造的 Genmoji 自定义表情体验 。界面更新后，Genmoji 可以根据用户的描述来创建表情符号，可以从现有表情改造，或者从照片中选择图片、选择人物。 上传图片或使用文本短语创建 Genmoji 后， 现在有一个“描述变更”界面，用于微调已创建的表情包 。用户可以不断迭代设计，修改 Genmoji 的具体元素，调整颜色和物体。 IT之家注意到，这个功能有点像大家常用的 AI 修图，用户可以垫一张底图，然后每次更改都基于旧的图片实现。...",
+   "published": "2026-06-08T21:48:25+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果 iOS 27 升级钱包应用：支持 AI 导入票证",
+   "url": "https://www.ithome.com/0/961/712.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，科技媒体 9to5Mac 今天（6 月 9 日）发布博文，报道称在 iOS 27 系统中，苹果升级钱包（Apple Wallet）应用， 引入创建票证和用 Apple Cash 分摊账单功能。 创建票证方面，用户在 iOS 27 的 Wallet 应用内点击“＋”按钮后，可以通过以下 2 种方式创建： 通过 iPhone 相机扫描实体票证，再借助视觉智能导入； 手动从零创建数字票证。其中苹果提供了 3 种类型，分别是标准、会员和活动。 另一个功能就是“用 Apple Cash 分摊账单”，用户在相机应用的新 Siri 模式中扫描收据后，系统会提供分摊账单选项。 在...",
+   "published": "2026-06-08T21:47:21+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "These 2 iOS 27 upgrades will solve more of my daily problems than Siri AI ever will",
+   "url": "https://www.zdnet.com/article/ios-27-connectivity-upgrades/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Enhancements to foundational technologies are always welcomed - and potentially more useful - than the flashier ones.",
+   "published": "2026-06-08T21:42:26+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
+   "url": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "OpenAI's confidential filing lands days before SpaceX is set to go public and a week after Anthropic announced its confidential disclosure with the SEC.",
+   "published": "2026-06-08T21:39:02+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI files for IPO, following Anthropic",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the ...",
+   "published": "2026-06-08T21:38:29+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "News",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Silicon Valley’s new buyout playbook is hitting Wall Street",
+   "url": "https://www.cnbc.com/2026/06/08/silicon-valleys-new-buyout-playbook-is-hitting-wall-street.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Instead of selling AI tools to companies, venture firms are buying legacy companies outright and rebuilding them around AI from the inside.",
+   "published": "2026-06-08T21:32:38+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+   "url": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+   "published": "2026-06-08T21:31:58+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "OpenAI",
+    "IPOs",
+    "ChatGPT"
+   ],
+   "image": ""
+  },
+  {
+   "title": "苹果 iOS 27 的 Siri AI 语音助手可自定义声音节奏、表现力",
+   "url": "https://www.ithome.com/0/961/710.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，苹果今日宣布，Siri AI 将提供“全新的语音体验”， 让用户可以自定义语音助手的声音 。 在支持苹果最新端侧模型的设备上，Siri AI 将带来更具表现力的声音，同时系统范围内的语音输入准确度也会显著提升。 从截图可以看到， 用户可以通过带有滑块的新界面，根据个人喜好调整 Siri 语音的表现力和节奏 。而在 iOS 27 开发者预览版 Beta 1 中，该功能仅限美国用户使用。 此外，自定义 Siri AI 语音助手的能力并非所有机型都有，以下是 Siri AI 语音自定义功能的最低硬件要求： iPhone Air、iPhone 17 Pro、配备 M4 及...",
+   "published": "2026-06-08T21:30:32+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI files confidentially for IPO, following Anthropic",
+   "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+   "published": "2026-06-08T21:29:57+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "IPO",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "完善 Mac 游戏生态：苹果更新工具，借助 AI 加速游戏移植",
+   "url": "https://www.ithome.com/0/961/709.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，科技媒体 AppleInsider 今天（6 月 9 日）发布博文，报道称在 2026 年全球开发者大会（WWDC）主题演讲结束后，苹果针对 Mac 游戏生态， 推出 Game Porting Toolkit 4 工具包。 IT之家注：Game Porting Toolkit 是苹果面向开发者提供的游戏移植工具包，主要用途是加速游戏适配 Mac。该工具包减少适配、调试和性能优化的工作量，适合游戏工作室与技术团队使用。 Game Porting Toolkit 4 工具包最大的变化，在于新版工具配套上线了 GitHub 配套代码仓库，集中提供开源智能体技能与示例代码...",
+   "published": "2026-06-08T21:24:27+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果：WWDC26 主题演讲全部演讲者、场地和航拍素材均由 iPhone 拍摄",
+   "url": "https://www.ithome.com/0/961/708.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，苹果今日举行 WWDC26 主题演讲活动，正式公布了 iOS 27、Siri AI 等新内容。 根据苹果官方直播页面， 本次主题演讲使用 iPhone 拍摄，在 Mac 上剪辑制作 。全部演讲者、场地和航拍素材均由 iPhone 拍摄。 IT之家注意到，WWDC26 主题演讲的直播中出现了多处慢动作、航拍镜头，用来在不同的演讲内容间进行过渡，同时也是对 iPhone 拍摄能力的一种炫技。",
+   "published": "2026-06-08T21:18:31+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple plays catch-up at WWDC",
+   "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+   "published": "2026-06-08T21:15:42+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "TC",
+    "Apple",
+    "wwdc"
+   ],
+   "image": ""
+  },
+  {
+   "title": "苹果 iOS 27 版日历 / 提醒事项新增 AI 技能：支持自然语言创建事件",
+   "url": "https://www.ithome.com/0/961/707.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果在 iOS 27 系统中为日历（Calendar）与提醒事项（Reminders）加入多项 AI 功能。 科技媒体 MacRumors 在体验后指出，苹果正把日历和提醒事项从“手动填写”推向“自然输入”，用户点按日历应用的“＋”按钮后，可直接输入类似“周四晚上 8 点和女友 Sarah 看电影”的文字， 系统会自动识别时间、日期和事件内容，生成对应安排，省去逐项填写的步骤。 用户不必先跳到某一天再新建事件，只需要在输入过程中，直接点按系统给出的日期和时间建议即可完成创建。 若文字中包含“...",
+   "published": "2026-06-08T21:13:01+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I quit Safari for Chrome, but these new MacOS 27 features could pull me back",
+   "url": "https://www.zdnet.com/article/i-quit-safari-for-chrome-but-these-new-macos-27-features-could-pull-me-back/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Safari is getting a glow-up with Apple Intelligence, and I'm all set to make it my default browser, again.",
+   "published": "2026-06-08T21:12:50+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple partnering with Google and Nvidia for most advanced AI model",
+   "url": "https://www.cnbc.com/2026/06/08/apple-google-nvidia-ai-chips.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Apple's artificial intelligence strategy took center stage at its Worldwide Developers Conference in Cupertino, Calif.",
+   "published": "2026-06-08T21:12:45+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple WWDC 2026 live: Biggest news on Siri AI, Tim Cook, iOS 27 developer beta, more",
+   "url": "https://www.zdnet.com/article/apple-wwdc-live-blog-06-08-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "We're reporting live from Apple Park to cover the company's annual developer conference. Here is the latest news.",
+   "published": "2026-06-08T21:12:00+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果 iOS 27 版 Apple Music 升级歌手页面：播放按钮更醒目",
+   "url": "https://www.ithome.com/0/961/706.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果公司升级 iOS 27 版 Apple Music 应用， 优化界面、播放衔接、性能与语音交互。 界面上，iOS 27 新版 Apple Music 针对歌手页面，加入更醒目的随机播放按钮，并调整歌手名称展示方式，整体排版更偏向突出入口与信息层级。IT之家附上相关图片如下： 功能方面，iOS 27 版 Apple Music 升级 AutoMix（自动混音）。这项功能原本就会借助 AI 分析歌曲的调性与节奏，在切歌时更自然。 在 iOS 27，苹果进一步更新相关算法，用来生成新的过渡方式...",
+   "published": "2026-06-08T21:00:17+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang declines Senate testimony on AI, China and exports",
+   "url": "https://www.cnbc.com/2026/06/08/nvidia-jensen-huang-senate-elizabeth-warren-ai-china-export-controls.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Sen. Elizabeth Warren said Nvidia’s CEO should answer questions publicly as lawmakers scrutinize AI chip sales to China and export controls.",
+   "published": "2026-06-08T20:54:34+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple bets cheaper AI will woo small developers",
+   "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+   "published": "2026-06-08T20:53:55+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Apple",
+    "developers",
+    "wwdc"
+   ],
+   "image": ""
+  },
+  {
+   "title": "WatchOS 27 has arrived: How to download the developer beta now",
+   "url": "https://www.zdnet.com/article/how-to-download-watch0s-27-developer-beta/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Apple's WWDC event just elevated every basic user's experience - even on your smartwatch. Here's how to get WatchOS 27 early.",
+   "published": "2026-06-08T20:46:34+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果升级 iOS 27 版信息 / 电话：AI 理解用户操作意图，回复贴合用户风格",
+   "url": "https://www.ithome.com/0/961/705.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上，苹果向通信场景， 为信息（Messages）和电话（Phone）应用整合 Apple Intelligence 功能。 在信息应用中，新功能会根据聊天内容给出建议。若联系人索要照片，系统可直接提示搜索图库，并依据关键词、地点和人物筛选更匹配的内容。 IT之家援引博文介绍，苹果公司希望缩短分享路径，把“理解对话意图”和“快速执行动作”连在一起，从而加速用户回复信息。 Messages 还可在对话内提示创建提醒或备忘录，意味着用户不再需要手动操作，就能处理聊天里提到的待办事项。 苹果还升级 Me...",
+   "published": "2026-06-08T20:45:57+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Corning strikes another multibillion-dollar AI deal. What the new Amazon pact means for the stock",
+   "url": "https://www.cnbc.com/2026/06/08/corning-strikes-another-big-ai-deal-what-the-new-amazon-pact-means-for-the-stock.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Amazon joins the laundry list of partnerships Corning has secured in 2026, which includes Meta Platforms and Nvidia.",
+   "published": "2026-06-08T20:33:32+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "iOS 27's Shortcuts upgrade makes automations easy to build - and will save me so much time",
+   "url": "https://www.zdnet.com/article/ios-27-shortcuts-upgrade-makes-automations-easy/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Apple announced several updates to iOS 27 at WWDC, including an AI feature that will greatly improve the Shortcuts app experience.",
+   "published": "2026-06-08T20:32:00+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "MacOS 27 is almost here: How to download the developer beta now",
+   "url": "https://www.zdnet.com/article/macos-27-macbook-how-to-update-wwdc-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "MacOS 27 will go live with the new MacBooks this fall, but you can opt into the Developer Beta now. Here's how.",
+   "published": "2026-06-08T20:31:11+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "初探苹果 iPadOS 27：应用启动提速 30%、引入全新 Siri AI",
+   "url": "https://www.ithome.com/0/961/703.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，在今天（6 月 9 日）召开的 2026 年全球开发者大会（WWDC）上， 苹果公开展示 iPadOS 27 系统，聚焦提升系统稳定性与速度。 性能方面，苹果表示 iPadOS 27 大幅改善多任务、文件管理和日常效率场景性能，iPhone 和 iPad 应用启动速度最高提升 30%。IT之家附上相关截图如下： 文件浏览与从 iPad 传输到外接硬盘的速度最高提升 5 倍，苹果称这一体验已接近 Mac 上的 Finder。 界面方面，iPadOS 27 继续完善 Liquid Glass（液态玻璃）设计语言，主要新增专用透明度滑块，让用户自行调节显示效果。 AI ...",
+   "published": "2026-06-08T20:22:16+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The new Siri AI could cost you - here's why",
+   "url": "https://www.zdnet.com/article/the-new-siri-ai-could-cost-you-heres-why/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Apple unveiled a revamped Siri at WWDC on Monday, but is it enough to put the company back in the AI race?",
+   "published": "2026-06-08T20:20:57+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "WWDC 2026: Apple makes its big Siri AI reveal, changes Liquid Glass and more",
+   "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Follow Apple WWDC 2026 live updates as the keynote spotlights AI, software, Siri and developer tools.",
+   "published": "2026-06-08T20:18:43+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "苹果 iOS 27 状态栏显示优化：图标更加圆润、电量改用无边框设计",
+   "url": "https://www.ithome.com/0/961/702.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 9 日消息，苹果 iOS 27 系统已于今早正式发布，带来了全新 Siri AI、相机 Siri 模式、家长控制等功能。 IT之家注意到，iOS 此次还带来了视觉方面的优化。除了 WWDC26 上已公开的图标重绘外，新版本还优化了状态栏的图标： WiFi、蜂窝信号更加圆润，电量图标则改用无边框设计 。iOS 26 与 iOS 27 状态栏对比如下： 除此之外，iOS 27 也优化了液态玻璃显示效果，折射更均匀，对比度也得到了提升。全新的滑块让可以自定义液态玻璃的外观，从极致清晰到完全着色均可调节。",
+   "published": "2026-06-08T20:14:26+00:00",
+   "age_label": "3小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+   "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+   "published": "2026-06-08T19:41:32+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "Apple",
+    "siri",
+    "wwdc"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Every iPhone model that supports the iOS 27 update (and which older ones don't)",
+   "url": "https://www.zdnet.com/article/which-iphone-model-supports-ios-27-update/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Here's a breakdown of which iPhone models will support the next iOS update - and which ones Apple is leaving behind.",
+   "published": "2026-06-08T19:41:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple shares reverse lower after big Siri news. Why we're not bothered",
+   "url": "https://www.cnbc.com/2026/06/08/apple-shares-reverse-lower-after-big-siri-news-why-were-not-bothered.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Apple delivered on what Wall Street was expecting: a complete artificial intelligence overhaul.",
+   "published": "2026-06-08T19:27:00+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+   "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+   "published": "2026-06-08T18:48:45+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Apple",
+    "Apple Intelligence",
+    "wwdc"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+   "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+   "published": "2026-06-08T18:45:12+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Apple",
+    "Shortcuts",
+    "wwdc"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Apple’s Image Playground doesn’t suck anymore",
+   "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+   "published": "2026-06-08T18:38:07+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Apple",
+    "image playground",
+    "wwdc"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Apple’s Photos app is getting new AI editing features",
+   "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+   "published": "2026-06-08T18:36:04+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Apple",
+    "wwdc",
+    "WWDC 2026"
+   ],
+   "image": ""
+  },
+  {
+   "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+   "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+   "source": "Ars Technica",
+   "platform": "arstechnica",
+   "summary": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+   "published": "2026-06-08T18:34:23+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Biz & IT",
+    "Security",
+    "GitHub",
+    "microsoft"
+   ],
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg"
+  },
+  {
+   "title": "蚂蚁国际推出移动智能体协议AMP，海外AI支付迈向统一标准",
+   "url": "https://www.infoq.cn/article/gSR7FTxv2trGQjSIMkmp?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T18:29:19+00:00",
+   "age_label": "5小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+   "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+   "published": "2026-06-08T18:23:04+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Gadgets",
+    "TC",
+    "Apple"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Apple’s New Siri AI Is Ready to Get Personal",
+   "url": "https://www.wired.com/story/apples-new-siri-ai-is-ready-to-get-personal/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "From a stand-alone app to a Google Gemini partnership, here’s everything you need to know from WWDC 2026 about Apple’s upcoming overhaul of Siri.",
+   "published": "2026-06-08T18:17:44+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "Gear",
+    "Gear / Gear News and Events",
+    "Siri",
+    "apple",
+    "WWDC"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Notion 封禁 Anthropic，并用模型降智把 Opus 4.8 送上热搜！12小时后紧急澄清系笔误",
+   "url": "https://www.infoq.cn/article/UOpVfBKh0JNk6Hse9XR0?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T18:00:00+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+   "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+   "published": "2026-06-08T17:56:21+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Apple",
+    "siri",
+    "siri ai"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Amazon is launching AI-generated custom merch",
+   "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to generate images that are then printed onto blanks for sale on Amazon. They can then share the link to the...",
+   "published": "2026-06-08T17:52:51+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Amazon",
+    "Amazon Alexa",
+    "News",
+    "Online Shopping"
+   ],
+   "image": ""
+  },
+  {
+   "title": "不卷Token总量，华为云改卷token生产力：Agentic Infra背后，AI云竞争进入下半场",
+   "url": "https://www.infoq.cn/article/QHSuhmxx4CsdUHl0348D?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T17:48:00+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The UK Is Betting on a Billion-Dollar AI Supercomputer to Kick Its Addiction to US Tech",
+   "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The British government thinks a state-backed infrastructure initiative will help supercharge homegrown chip startups.",
+   "published": "2026-06-08T17:44:28+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "artificial intelligence",
+    "UK",
+    "chips"
+   ],
+   "image": ""
+  },
+  {
+   "title": "After 30 years using Linux, I have only 4 complaints - and 2 send me back to my MacBook",
+   "url": "https://www.zdnet.com/article/after-30-years-using-linux-i-have-few-complaints/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "For decades, I've recommended the open-source OS to new and experienced computer users alike. But hey, I'm not oblivious to its handful of faults.",
+   "published": "2026-06-08T17:41:16+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Token日生成数百万亿，传统负载均衡不够用了：F5 开始做Token级调度",
+   "url": "https://www.infoq.cn/article/uMwuLAA4BmHlN9YhFgIT?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T17:35:16+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+   "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalized Siri. Apple calls Siri AI an \"entirely new version of Siri\" and says it's both more conversational...",
+   "published": "2026-06-08T17:34:24+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "AI",
+    "Apple",
+    "Apple Event",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Meta Deletes Face-Recognition System From Its Smart Glasses App After WIRED Report",
+   "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The code WIRED identified is gone from the latest version of Meta AI, the companion app for the company’s smart glasses. Meta won’t say why or whether it’s coming back.",
+   "published": "2026-06-08T17:31:11+00:00",
+   "age_label": "6小时前",
+   "tags": [
+    "Security",
+    "Security / Privacy",
+    "Security / Security News",
+    "Business / Big Tech",
+    "Business / Social Media"
+   ],
+   "image": ""
+  },
+  {
+   "title": "全球近1.8万人参赛，科研智能体同台竞技，第四届世界科学智能大赛初赛收官、复赛开启",
+   "url": "https://www.infoq.cn/article/WMUg5jeYhWrOXVpA2b0N?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T17:07:56+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "云知声U2，重新计算通用大模型的商业价值",
+   "url": "https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T16:43:44+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "“英伟达也缺算力！”顶尖AI研究员转投xAI内幕：谁GPU管够，就去哪里",
+   "url": "https://www.infoq.cn/article/E1oMvU7A5EH9hDMcAJLE?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T16:34:49+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "腾讯内部宣布调整 token额度；宇树回应牵手英伟达；阿里员工7万字离职帖引爆内网｜AI周报",
+   "url": "https://www.infoq.cn/article/trQR8xPTugwC9YuT3gkw?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T16:20:52+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+   "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to int...",
+   "published": "2026-06-08T16:00:00+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Google",
+    "News",
+    "Tech"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Claude Code 引入动态工作流，用于并行代理协调",
+   "url": "https://www.infoq.cn/article/koMjEQrRMBV6TuJqASLH?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T15:56:00+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Amazon now lets you design custom merch using AI",
+   "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+   "published": "2026-06-08T15:49:12+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Commerce",
+    "Alexa",
+    "Amazon",
+    "commerce"
+   ],
+   "image": ""
+  },
+  {
+   "title": "How ChatGPT's new Lockdown mode protects you from data theft (and what else it does)",
+   "url": "https://www.zdnet.com/article/chatgpt-lockdown-mode-data-theft-prompt-injection/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The goal is to protect you against attackers who try to steal your personal data through prompt injection. But it does limit your ability to access the web.",
+   "published": "2026-06-08T14:36:38+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This free Android launcher made my phone and tablet look like Windows 11 - here's how",
+   "url": "https://www.zdnet.com/article/hyperdroid-android-launcher-made-phone-tablet-look-like-windows-11/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I don't like the Windows UI, but I made my Pixel 9 Pro and Nubia Pad Pro look like it anyway with HyperDroid. Here's the result.",
+   "published": "2026-06-08T14:32:19+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Corning shares jump 4% after company strikes deal to power Amazon AI data centers in U.S.",
+   "url": "https://www.cnbc.com/2026/06/08/amazon-taps-corning-for-op.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Amazon is the latest megacap company to announce a massive deal with Corning, which is rapidly becoming a critical player in the AI buildout.",
+   "published": "2026-06-08T14:25:05+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+   "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training...",
+   "published": "2026-06-08T14:00:00+00:00",
+   "age_label": "10小时前",
+   "tags": [
+    "AI",
+    "Business",
+    "Decoder",
+    "Microsoft",
+    "Microsoft Build"
+   ],
+   "image": ""
+  },
+  {
+   "title": "在美国硅谷深度考察一周后，我看清了中国 AI 该怎么走",
+   "url": "https://www.infoq.cn/article/7AscwbNxN3u4SwY1FUFq?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T14:00:00+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "奇遇团在硅谷: 7位到50位技术领袖集结SVAI - 深度拆解 Snowflake Summit 26",
+   "url": "https://www.infoq.cn/article/RGDB7CQSi4E0rvOXzWMC?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T13:57:57+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "参加完硅谷华人 AI Meet-Up，我最大的感受不是技术",
+   "url": "https://www.infoq.cn/article/i4XGAvp4JhLkxElYrJew?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T13:55:14+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Marvell Technology jumps 10% after news it will join the S&P 500 index",
+   "url": "https://www.cnbc.com/2026/06/08/marvell-sp500-index-addition.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Marvell stock jumped after S&P Global said the AI chipmaker would join the S&P 500 on June 22.",
+   "published": "2026-06-08T13:34:10+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+   "url": "https://36kr.com/p/3844559758936582?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "大公司： 热门中概股美股盘前多数上涨，哔哩哔哩涨超5% 36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。 天娱数科：目前无物理AI业务，未形成相关业务收入 36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。经公司自查并向第一大股东核实，公司前期披露信息无需更正补充，未发现可能对股价产生较大影响的未公开重大信息，生产经营活动正常，第一大股东在异常波动期间未买卖公司股票。公司关...",
+   "published": "2026-06-08T13:29:53+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "ChatGPT's new memory upgrade is powerful - and could poison every answer it gives you",
+   "url": "https://www.zdnet.com/article/chatgpts-new-memory-upgrade-is-powerful-and-could-poison-every-answer-it-gives-you/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "OpenAI says ChatGPT's memory is getting better. But my tests show outdated assumptions, personal profiling, and wrong details that could quietly distort future answers.",
+   "published": "2026-06-08T13:18:34+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "测试自动化中的 AI 生产力悖论：从结构验证迈向感知与意图",
+   "url": "https://www.infoq.cn/article/bDD6lTmWitaj0FtIVmm4?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T13:11:00+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+   "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+   "source": "MIT Tech Review",
+   "platform": "mit",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
+   "published": "2026-06-08T12:10:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "The Download"
+   ],
+   "image": ""
+  },
+  {
+   "title": "汤道生对谈姚顺雨：AI下半场，腾讯比什么？",
+   "url": "https://www.infoq.cn/article/xpNN4PdosoOVt5FtQUJw?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-08T10:50:38+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+   "url": "https://www.qbitai.com/2026/06/432587.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "协助用户与商家判断智能体可信赖程度",
+   "published": "2026-06-08T10:40:55+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "蚂蚁支付宝"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+   "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
+   "published": "2026-06-08T10:30:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Culture",
+    "Culture / Digital Culture",
+    "parenting",
+    "artificial intelligence",
+    "kids"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I switched my solid-state portable battery with this graphene heat dissipation one - here's why",
+   "url": "https://www.zdnet.com/article/momax-q-mag-x-magsafe-power-bank-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The Momax Q.Mag X is one of the more reliable wireless battery packs I've tried, thanks to its enhanced heat management.",
+   "published": "2026-06-08T10:00:39+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
+   "url": "https://36kr.com/p/3844018911889924?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "文｜王毓婵 编辑｜张雨忻 6月5日，腾讯云AI产业应用大会最受外界关注的是什么？ 毫无疑问，是汤道生与姚顺雨的对话。 在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。 腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI Infra负责人姚顺雨，“很多人说腾讯在AI上慢了，你觉得我们真的慢了吗？” 姚顺雨回答说：“感觉应该是我问你的问题。” 姚顺雨随后提到了两个判断标准—— 1.AI是一个短期游戏还是长期游戏？2.它会是一个线...",
+   "published": "2026-06-08T09:01:03+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+   "url": "https://www.qbitai.com/2026/06/432489.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "ABot-Earth0.5正式开放内测",
+   "published": "2026-06-08T09:00:20+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "高德地图"
+   ],
+   "image": ""
+  },
+  {
+   "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+   "url": "https://www.qbitai.com/2026/06/432425.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "豆包硬刚ChatGPT",
+   "published": "2026-06-08T08:28:48+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "ChatGPT",
+    "豆包",
+    "高考数学"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+   "url": "https://www.qbitai.com/2026/06/432581.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "",
+   "published": "2026-06-08T08:09:25+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "资讯",
+    "网易"
+   ],
+   "image": ""
+  },
+  {
+   "title": "改变全球速度的AI，付款却卡在上一个时代",
+   "url": "https://36kr.com/p/3844199957236227?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "2026年，全球平均每小时就有一家新的AI公司诞生。 AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。 但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅地流动起来？ 当AI企业的采购清单越来越全球化，支付链路的每一个断点，都意味着实实在在的成本损耗和效率内耗。而当产品开始面向全球用户变现，跨币种结算的汇损、本地支付方式的碎片化与计费模式的复杂性，又在收款侧筑起了另一道门槛。进...",
+   "published": "2026-06-08T07:30:56+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+   "url": "https://www.qbitai.com/2026/06/432417.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "轻视它就会错过整个时代",
+   "published": "2026-06-08T06:30:23+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "Coding",
+    "picking",
+    "具身智能"
+   ],
+   "image": ""
+  },
+  {
+   "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+   "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker.  At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’...",
+   "published": "2026-06-08T06:00:57+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "AI",
+    "Agentic AI",
+    "Artificial Intelligence",
+    "Cloud Services",
+    "CUDA"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/london-tech-week-2026-key-visual.jpeg"
+  },
+  {
+   "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+   "url": "https://www.qbitai.com/2026/06/432084.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "最值得看的不是火箭是AI",
+   "published": "2026-06-08T05:02:40+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "资讯",
+    "IPO",
+    "SpaceX",
+    "马斯克"
+   ],
+   "image": ""
+  },
+  {
+   "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
+   "url": "https://www.qbitai.com/2026/06/432062.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "黄仁勋要算一万步，这家公司的芯片只需一步",
+   "published": "2026-06-08T04:36:03+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "CPU",
+    "GPU",
+    "模拟计算"
+   ],
+   "image": ""
+  },
+  {
+   "title": "产品观察 | 小米创始员工范典创业AI硬件，做了台“无摩擦”的睡眠床头灯",
+   "url": "https://36kr.com/p/3844006775360002?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者 | 邱晓芬 编辑 | 袁斯来 「格物科技」的创始人范典，是当下智能硬件赛道的一个“异类”。 作为喝过小米粥的小米创始员工，范典曾任曾小米物联网平台部总经理、AIoT战略委员会主席。以大厂高管履历拿笔钱，以最短时间做出款硬件上众筹，依托媒体造势，再滚动更多融资是这两年硬件赛道创业很常见的打法。 但范典做第一款产品用了三年。 2024年，智能硬件还是很冷僻的赛道，范典的选择更是小众中的小众。 他没做当时已被市场验证过的AI可穿戴设备、AI床垫，转而做起一个 全新的品类—— AI睡眠床头灯（Sleepal AI Lamp）。 很少人清楚这三年发生了什么。范典几乎不接受采访，也鲜少见投资人。低调...",
+   "published": "2026-06-08T04:07:08+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高通点赞广汽埃安N60智驾大赛获亚军，文远知行WRD 3.0亮相高通峰会",
+   "url": "https://www.qbitai.com/2026/06/432055.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "文远知行携L2++ 一段式端到端方案WRD 3.0参展",
+   "published": "2026-06-08T03:17:35+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "资讯",
+    "文远知行",
+    "智驾"
+   ],
+   "image": ""
+  },
+  {
+   "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, valida...",
+   "published": "2026-06-08T03:00:50+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "AI Infrastructure",
+    "Robotics",
+    "Agentic AI",
+    "AI Factory",
+    "Artificial Intelligence"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-lg-group-1920x1080-no-credit.png"
+  },
+  {
+   "title": "大语言模型正在变成大编程模型",
+   "url": "https://sspai.com/post/110746",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "大语言模型的语言能力，好像并没有随着基础模型的迭代而提升？ 查看全文",
+   "published": "2026-06-08T02:45:45+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I tried the Surface Laptop Ultra at Computex, and it's clear: Microsoft means business",
+   "url": "https://www.zdnet.com/article/hands-on-with-the-microsoft-surface-ultra/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The flagship laptop announced at Computex 2026 will feature Nvidia's new RTX Spark chip with up to 128GB of unified memory.",
+   "published": "2026-06-08T02:00:43+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I've used adaptive chargers with my iPhone and Android for a year - but should you?",
+   "url": "https://www.zdnet.com/article/i-converted-to-adaptive-chargers-and-already-feel-safer/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Adaptive charging aims to reduce battery wear by keeping speeds low, but are the optimizations worth it? Here's my verdict.",
+   "published": "2026-06-08T01:00:43+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发",
+   "url": "https://36kr.com/p/3841459663030532?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。 华超神控于2025年创立，创始人李昕是中国科学院与德国弗劳恩霍夫IGD研究所联合培养生物医学工程博士，曾任GE医疗全球科研中心中国区负责人，并连续创立创新科技及医疗公司，在医疗影像、AI、脑机接口与产业转化方面拥有深厚积累。 公司核心团队汇聚了来自清华大学、上海交通大学、帝国理工等海内外高校的人才，覆盖神经科学、声学、医学影...",
+   "published": "2026-06-08T00:30:00+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像",
+   "url": "https://36kr.com/p/3843764238174729?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "今日热点导览 AI等机器网络请求量首超人类 瑞幸咖啡回应拿铁去冰仅半杯 宗馥莉自有品牌KELLYONE回归 多家低成本航空公司对登机箱登机收费 黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案 TOP3大新闻 八家上市公司集中公告“补税” 6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税款公告。这八家公司合计补缴税款及滞纳金约4亿元。其中，苹果中国最大授权经销商爱施德（002416.SZ）一家补缴3.08亿元，占八家总额的近八成，该公司披露，仅滞纳金就达1.23亿元。对部分公司而言，这笔补缴金额已接近甚至超过去年一整年的利润。如电子材料企业宏昌电子（603002.SH）需补缴4041...",
+   "published": "2026-06-08T00:01:39+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
+   "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s fu...",
+   "published": "2026-06-07T23:00:36+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI Infrastructure",
+    "Robotics",
+    "Agentic AI",
+    "AI Factory",
+    "Artificial Intelligence"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-blog-doosan-robotics-1920x1080-noncredit.jpg"
+  },
+  {
+   "title": "派早报：乘用车越造越重，12 年增重近 400 公斤",
+   "url": "https://sspai.com/post/110847",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "乘用车越造越重，12 年增重近 400 公斤 iFixit 拆解华强北山寨苹果产品 Cloudflare 收购 Vite 背后公司 rsync 疑因 AI 参与维护出现 bug，引发争议 OpenAI 与美国政府商讨捐赠股权 美国平均上路车龄达到 13 年 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+   "published": "2026-06-07T22:52:23+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Is this the dawn of the Tokenpocalypse?",
+   "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+   "published": "2026-06-07T20:26:13+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Equity podcast",
+    "Microsoft"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Agent自进化新范式：孙立超团队提出OpenSkill，刷新多项基准SOTA",
+   "url": "https://36kr.com/p/3844303111031040",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "vivo、荣耀接连入场，戳破了具身智能的AI叙事",
+   "url": "https://36kr.com/p/3844291402021767",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "9天Claude Code重写100万行代码、6755次提交，Bun完成史上最大AI重构后，开发者质疑：99.8%测试通过率，真的代表安全？",
+   "url": "https://36kr.com/p/3844285021047304",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国具身智能“超级融资周期”，能否复制“新能源车时刻”？",
+   "url": "https://36kr.com/p/3844275317082628",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Kimi Work不是中国版Codex",
+   "url": "https://36kr.com/p/3844257852885256",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "GPT-5作者复盘：趁OpenAI沉迷ChatGPT，Anthropic死磕代码，这是一场教科书级的“偷家”",
+   "url": "https://36kr.com/p/3844470724708617",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "八十三岁，他决定和AI死磕一下",
+   "url": "https://36kr.com/p/3844440491870466",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "拆解25笔超5000万A轮融资，AI最聪明的钱正在押注这三个方向",
+   "url": "https://36kr.com/p/3844470639036680",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "算力网，普通人用得起吗？",
+   "url": "https://36kr.com/p/3844242728667398",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "在AI原住民眼中，80后和90后已经是老人了？",
+   "url": "https://36kr.com/p/3844452671801862",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Token「免费」时代来了？对话Agnes AI创始人，全模态免费的生意与野心",
+   "url": "https://36kr.com/p/3844370853284356",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "「Token末日」来了，AI正迎来一场定价海啸",
+   "url": "https://36kr.com/p/3844305103718660",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Mythos 5颠覆性能曝光：训练代码52倍加速碾压人类",
+   "url": "https://36kr.com/p/3844411514391049",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "赶在kimi们A股上市前，智谱要拿到更多“救命钱”",
+   "url": "https://36kr.com/p/3844369007475587",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic 80%代码AI自己写，人类刹车来得及么？",
+   "url": "https://36kr.com/p/3844411705985540",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
