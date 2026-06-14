@@ -1,0 +1,1098 @@
+{
+ "date": "2026-06-14",
+ "generated_at": "2026-06-14 08:00",
+ "total": 82,
+ "sources": [
+  "量子位",
+  "InfoQ 中文",
+  "CNBC Tech",
+  "少数派",
+  "NVIDIA Blog",
+  "TechCrunch AI",
+  "The Verge AI",
+  "36氪",
+  "ZDNet AI",
+  "36氪 AI",
+  "Hacker News",
+  "The Guardian Tech",
+  "Wired AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 82 篇 AI 相关资讯（国内 34 篇，海外 48 篇）。热门话题集中在：大模型发布、开源与社区、AI 监管与政策、AI 硬件与芯片。最受关注：「9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍 — 今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 新通教育与36氪联合发布《AI时代留学就业白皮书》，首次系统性定义AI时代留学生就业能力框架"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[The Verge AI]** Amazon security research reportedly led to the White House’s Anthropic Fable ban — According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in p"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[TechCrunch AI]** Amazon CEO reportedly raised Anthropic model concerns before government crackdown — Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** SpaceX业务呈现“一极盈利、两极亏损”格局 — SpaceX上市首个交易日，进入市场流通的股份仅占总股本的4.2%，筹码供不应求，认购热情高涨，股价短期冲高并不意外。但公司市销率已超过112倍，远超特斯拉的15倍和芯片巨头英伟达的近20倍。简单来讲，SpaceX的业务呈现“一极盈利、两极亏损”的格局。星链是当之无愧的“现金牛”。据招股书披露，这项"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Verge AI]** Apple’s new AI photo editing tools mostly work, for better and worse — The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI "
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Guardian Tech]** UK sets out AI infrastructure push at London Tech Week – how does it stack up? — Government announces plans to invest billions, but questions linger over how its proposals on chips, social media and more will work Ownership of the "
+   },
+   {
+    "tag": "🟠",
+    "text": "**[36氪]** 首尔禁止中小学生戴AI眼镜参加期末考试 — 韩国首都首尔市教育厅12日说，已于前一日向该市中小学校及辖区教育部门下发通知，禁止考生戴AI智能眼镜参加期末考试。据韩国《中央日报》报道，首尔市教育厅担心学生利用AI眼镜在期末考试中作弊，因此将其列入考场违禁物品清单。这份通知要求学校提前告知学生及家长，如携带这类眼镜进入考场，将一律按作弊处理。 （"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、开源与社区、AI 监管与政策展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 82 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon...",
+   "published": "2026-06-13T21:39:26+00:00",
+   "age_label": "2小时前",
+   "tags": [
+    "AI",
+    "Amazon",
+    "Anthropic",
+    "News",
+    "Policy"
+   ],
+   "image": ""
+  },
+  {
+   "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+   "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+   "published": "2026-06-13T20:42:31+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "kpmg"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+   "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661 Comments URL: https://news.ycombinator.com/item?id=48520807 Points: 170 # Comments: 65",
+   "published": "2026-06-13T19:54:55+00:00",
+   "age_label": "4小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+   "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+   "published": "2026-06-13T19:11:41+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "Security",
+    "Amazon",
+    "Andy Jassy"
+   ],
+   "image": ""
+  },
+  {
+   "title": "PwC Report: AI Making Medical Bills Higher",
+   "url": "https://fortune.com/2026/06/12/ai-making-medical-bills-higher/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/ Comments URL: https://news.ycombinator.com/item?id=48519519 Points: 64 # Comments: 15",
+   "published": "2026-06-13T17:39:14+00:00",
+   "age_label": "6小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI faces investigation from state attorneys general",
+   "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+   "published": "2026-06-13T16:47:18+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI coding at home without going broke",
+   "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/ Comments URL: https://news.ycombinator.com/item?id=48518969 Points: 216 # Comments: 197",
+   "published": "2026-06-13T16:45:03+00:00",
+   "age_label": "7小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I read the fine print on at-home DNA and health tests - watch out for these risks",
+   "url": "https://www.zdnet.com/article/what-are-biggest-risks-in-at-home-dna-tests/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "What's really in that DNA kit? It turns out, it's not just a spit tube, but a whole lot of fine print.",
+   "published": "2026-06-13T14:00:36+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The wearable health boom is creating a data overload for doctors - what happens next",
+   "url": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Patients have never had more information about their health, but much of it is unusable. Here's why.",
+   "published": "2026-06-13T13:00:58+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I switched to Alpine Linux, and it's a crazy-fast distro with only one caveat",
+   "url": "https://www.zdnet.com/article/alpine-linux-crazy-fast-distro-for-your-desktop/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "While known primarily for containers and servers, this lightweight distro could easily be your daily driver. Here's why.",
+   "published": "2026-06-13T13:00:43+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "My yard is dying, so I made an app for that",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird […]",
+   "published": "2026-06-13T13:00:00+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the ...",
+   "published": "2026-06-13T12:55:49+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "News",
+    "Policy",
+    "Politics"
+   ],
+   "image": ""
+  },
+  {
+   "title": "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？",
+   "url": "https://www.qbitai.com/2026/06/435483.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "模型参数量只有1B",
+   "published": "2026-06-13T12:40:30+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "推理模型"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic to disable its most advanced AI models after US order limiting foreign access",
+   "url": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilities Anthropic said it will “abruptly disable” its most advanced AI models for all users after the US government ordered it to suspend access to the models for foreign nationals, citing na...",
+   "published": "2026-06-13T12:37:12+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Trump administration",
+    "Technology",
+    "US news"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ca24866ee13adb777b4a3136d8af62b284abe999/470_0_4630_3707/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=91fd3ab4b282e08e4b735dfab059efc9"
+  },
+  {
+   "title": "SpaceX业务呈现“一极盈利、两极亏损”格局",
+   "url": "https://36kr.com/newsflashes/3851534097896712?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "SpaceX上市首个交易日，进入市场流通的股份仅占总股本的4.2%，筹码供不应求，认购热情高涨，股价短期冲高并不意外。但公司市销率已超过112倍，远超特斯拉的15倍和芯片巨头英伟达的近20倍。简单来讲，SpaceX的业务呈现“一极盈利、两极亏损”的格局。星链是当之无愧的“现金牛”。据招股书披露，这项卫星互联网业务去年营收达113.9亿美元，占SpaceX总营收的61%，截至2025年底已服务超1000万用户。火箭发射业务凭借复用技术在全球商业火箭发射市场占据约80%份额，但去年仍亏损6.57亿美元，且星舰若要实现载人登陆火星，仍需大量资金投入、推动技术迭代。xAI及未来的太空算力业务则被视为“...",
+   "published": "2026-06-13T12:18:55+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+   "url": "https://github.com/tensorzero/tensorzero",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://github.com/tensorzero/tensorzero Comments URL: https://news.ycombinator.com/item?id=48516504 Points: 234 # Comments: 151",
+   "published": "2026-06-13T12:10:47+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "鲸鸿动能系统拆解“主动式营销”框架，助广告主实现确定性增长",
+   "url": "https://36kr.com/newsflashes/3851524397536515?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "在HDC 2026鸿蒙生态商业化峰会及面向多行业的系列分论坛上，鲸鸿动能围绕主动式营销框架展开系统拆解，该框架通过数据科学洞察广告主痛点，聚合全场景生态资源，构建AI加持的行业及客户解决方案，实现广告主的确定性增长，已在汽车、金融、文旅、快消、大健康等五大行业形成差异化解决方案。",
+   "published": "2026-06-13T12:09:59+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Our favorite health trackers are disappearing - and that's the point",
+   "url": "https://www.zdnet.com/article/health-trackers-are-disappearing-thats-the-point/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Tech companies are evolving their health trackers to make them smaller, thinner, and near-invisible. Here's why.",
+   "published": "2026-06-13T12:00:43+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+   "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But […]",
+   "published": "2026-06-13T12:00:00+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "AI",
+    "Apple",
+    "iPhone",
+    "Tech",
+    "WWDC 2026"
+   ],
+   "image": ""
+  },
+  {
+   "title": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?",
+   "url": "https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Government announces plans to invest billions, but questions linger over how its proposals on chips, social media and more will work Ownership of the commanding heights of the AI economy is a political talking point around the world, as countries seek to assert some control of a technology dominated...",
+   "published": "2026-06-13T11:01:12+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Technology sector",
+    "Technology",
+    "Business",
+    "Computing"
+   ],
+   "image": "https://i.guim.co.uk/img/media/571ac47b1baf13ad655d8c2be5d25da424d398fc/452_0_4975_3980/master/4975.jpg?width=140&quality=85&auto=format&fit=max&s=29b585cd75929b8de0bf96c8cb0eabb9"
+  },
+  {
+   "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
+   "url": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Other projects include developing tools to help visually impaired people navigate video games Parents are constantly being told to limit their children’s screen time. But when it comes to deciphering which films or TV shows are best suited to developing minds, the guidance remains largely one-size-f...",
+   "published": "2026-06-13T11:00:13+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Children",
+    "Television & radio",
+    "AI (artificial intelligence)",
+    "Computing",
+    "Culture"
+   ],
+   "image": "https://i.guim.co.uk/img/media/771af72e4610d0b12aa1a96202ad70538f50959e/642_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=b651a65f69a06e300e51d140a320685e"
+  },
+  {
+   "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of ch...",
+   "published": "2026-06-13T11:00:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "AI",
+    "Entertainment",
+    "Film",
+    "Google",
+    "OpenAI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "I always keep 3 devices connected to a power station - here's why",
+   "url": "https://www.zdnet.com/article/3-things-i-keep-permanently-connected-to-a-power-station-and-why/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Using a portable power station to its full potential is ideal for getting your money's worth and enjoying uninterrupted power.",
+   "published": "2026-06-13T10:01:10+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "面壁智能开源社区负责人井晨哲将在AICon上海站，分享高效端侧大模型的技术趋势与产业应用观察",
+   "url": "https://www.infoq.cn/article/sMxf71RUtLYgI0BsQhKw?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-13T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI驱动的网络钓鱼：技术演变与实施方式",
+   "url": "https://www.infoq.cn/article/U140AaPLg0t5dXxE8x7q?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-13T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+   "url": "https://github.com/Paca-AI/paca",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it...",
+   "published": "2026-06-13T09:44:25+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "江丰电子：公司生产的先端存储芯片用高纯300mm硅靶已批量供货",
+   "url": "https://36kr.com/newsflashes/3851370635334919?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，江丰电子在互动平台表示，公司是全球少数几家同时具备技术领先优势与规模化供应能力的高纯金属溅射靶材制造商。公司生产的先端存储芯片用高纯300mm硅靶已批量供货，超高纯钨靶、铜锰合金靶等高端品类已应用于先进存储芯片制造中，目前只有公司及头部跨国企业掌握了生产上述产品的核心技术。",
+   "published": "2026-06-13T09:12:37+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "The best VPN routers of 2026: Expert tested and reviewed",
+   "url": "https://www.zdnet.com/article/best-vpn-router/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Our guide lists the top routers on the market that provide VPN coverage throughout your entire home. We've ranked them based on speed, security, and reliability.",
+   "published": "2026-06-13T09:01:02+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Visa is handling AI-prompted transactions for OpenAI - but can you trust it?",
+   "url": "https://www.zdnet.com/article/openai-and-visa-aim-to-secure-agentic-transactions-how-theyll-work/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "A new partnership between Visa and OpenAI takes the next step in AI-led purchasing. Here's what an expert wants you to know.",
+   "published": "2026-06-13T09:00:55+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I usually avoid on-ear headphones, but Marshall has me seriously reconsidering",
+   "url": "https://www.zdnet.com/article/marshall-milton-anc-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Marshall revamped its midrange headphones with stellar comfort, repairability, and a marathon battery life.",
+   "published": "2026-06-13T09:00:54+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Phone battery draining fast? Malware is one of 8 possible factors - how to tell for sure",
+   "url": "https://www.zdnet.com/article/phone-battery-draining-fast-malware-is-one-of-8-possible-factors-how-to-tell-for-sure/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "No battery lasts forever. But it's often in your power to extend its life. Here's our checklist for identifying the causes of battery degradation - and how to fix each one.",
+   "published": "2026-06-13T09:00:38+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+   "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
+   "published": "2026-06-13T09:00:00+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "Business",
+    "Business / Big Tech",
+    "artificial intelligence",
+    "Google",
+    "Europe"
+   ],
+   "image": ""
+  },
+  {
+   "title": "分析的未来是多模态的，一切都关乎 Vibe ｜ 技术趋势",
+   "url": "https://www.infoq.cn/article/v3lCjatWKZaTu7DhgoLq?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-13T09:00:00+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
+   "url": "https://36kr.com/newsflashes/3851265277220103?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "韩国首都首尔市教育厅12日说，已于前一日向该市中小学校及辖区教育部门下发通知，禁止考生戴AI智能眼镜参加期末考试。据韩国《中央日报》报道，首尔市教育厅担心学生利用AI眼镜在期末考试中作弊，因此将其列入考场违禁物品清单。这份通知要求学校提前告知学生及家长，如携带这类眼镜进入考场，将一律按作弊处理。 （新华社）",
+   "published": "2026-06-13T08:56:33+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "曼联，要被卖了",
+   "url": "https://36kr.com/p/3851350342325504?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "图片来源：视觉中国 作者/余梦莹 报道/投资界PEdaily 史上最盛大世界杯正在上演。 48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。 赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息， 掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。 绰号“红魔”，这是英格兰足球史上最富盛名的豪门。最初只是铁路工人组建的业余球队，2005年被美国格雷泽家族全面控股。历经辉煌也走过低谷，“红色旗帜永不落幕”。 红魔 这一幕颇为感慨。足球这门生意实在赚钱，越来越多俱乐部被摆上了货架，浸泡在资...",
+   "published": "2026-06-13T08:37:21+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+   "url": "https://www.qbitai.com/2026/06/435455.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "一起构建下一代物理世界的智能系统",
+   "published": "2026-06-13T08:11:07+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "资讯",
+    "华为云"
+   ],
+   "image": ""
+  },
+  {
+   "title": "讯灵智能与腾讯云达成战略合作",
+   "url": "https://36kr.com/newsflashes/3851266881344521?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，据腾讯云消息，近日，深圳市讯灵智能技术科技有限公司与腾讯云计算（北京）有限责任公司正式签署战略合作协议。双方将围绕技术底座共建、AI营销一体化方案、智能办公协同、行业生态与标准建设四大领域展开深度协作。",
+   "published": "2026-06-13T08:10:10+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "科大讯飞发布星火多模态大模型X2-VL",
+   "url": "https://36kr.com/newsflashes/3851320295166976?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，据无锡发布，6月11日，在锡举行的2026长三角机器人及自动化展览会暨无锡具身智能机器人产业链伙伴大会上，科大讯飞发布星火多模态大模型X2-VL。这款国产多模态大模型，将为无锡具身智能产业搭载硬核“AI大脑”。",
+   "published": "2026-06-13T08:05:35+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "美格智能：存储芯片价格上涨成本在合理、有序向下游客户传导",
+   "url": "https://36kr.com/newsflashes/3851282375971842?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，美格智能6月11日接受机构调研时表示，公司目前存货金额较大，其中很大部分是存储芯片备货。在存储芯片涨价早期，公司根据研发项目、订单情况，及对存储芯片行情预测，为保证客户订单顺利交付，进行了较大金额的战略备货，对后续产品利润有正面影响。存储芯片价格上涨成本，我们在合理、有序向下游客户传导，比如车载产品、海外运营商5G产品等，都进行了价格调整。",
+   "published": "2026-06-13T07:45:57+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "智谱：GLM-5.2将面向GLM Coding Plan全量用户开放",
+   "url": "https://36kr.com/newsflashes/3851264775804160?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，据智谱消息，今晚5:21，GLM-5.2将面向GLM Coding Plan全量用户开放，覆盖Lite/Pro/Max/团队版。GLM-5.2 API将于下周上线，模型下周正式开源，遵循MIT协议。",
+   "published": "2026-06-13T07:30:04+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+   "url": "https://36kr.com/p/3846972367866119?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。 从“向外破局”到“向内扎根”：中国...",
+   "published": "2026-06-13T06:00:00+00:00",
+   "age_label": "18小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+   "url": "https://www.qbitai.com/2026/06/435394.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "",
+   "published": "2026-06-13T05:19:13+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "资讯",
+    "智源研究院"
+   ],
+   "image": ""
+  },
+  {
+   "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+   "url": "https://www.qbitai.com/2026/06/435339.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "马斯克成人类历史首位万亿美金富豪",
+   "published": "2026-06-13T04:05:19+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "马斯克"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Dutch far-right party pays damages to court artist after changing image with AI",
+   "url": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Geert Wilders’ PVV altered sketch of jailed Syrian brothers to make them look more menacing A Dutch court artist has received damages after an MP for the far-right Party for Freedom (PVV) used one of her drawings without permission and manipulated it with AI to make the subjects look more menacing. ...",
+   "published": "2026-06-13T04:00:04+00:00",
+   "age_label": "20小时前",
+   "tags": [
+    "Netherlands",
+    "AI (artificial intelligence)",
+    "The far right",
+    "Geert Wilders",
+    "Syria"
+   ],
+   "image": "https://i.guim.co.uk/img/media/ba3aa2b9b11a8ec2f237fb2a45e646c3da4d2bad/469_0_2655_2126/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=2f589f95b1fe080d09c7bf8fc95bae31"
+  },
+  {
+   "title": "突发！Anthropic全球停用Claude 5",
+   "url": "https://36kr.com/p/3851015329027336?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "究竟为何，Anthropic突然下线了地表最强Claude？ 【导读】上线72小时，最强Claude Fable 5被一纸禁令全球下架，连Anthropic自家外籍员工都不许碰。 太突然了！ 就在刚刚，Anthropic官宣—— 全球禁用外籍人士对Claude Fable 5和Mythos 5的所有访问权限。 无论是在美国境内还是境外，就连Anthropic的外籍员工，全都不可用。 上线才3天的Claude Fable 5，一瞬间就没了。 全球禁用外籍人士对Claude Fable 5和Mythos 5的所有访问权限 一时间，全网都坐不住了。AI圈大佬们纷纷震惊，表示不解。 网友评论 网友评论...",
+   "published": "2026-06-13T03:00:16+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "具透 | 除了 AI，iOS 27 首个开发者测试版中你不能错过的新功能",
+   "url": "https://sspai.com/post/110973",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "少数派在体验了新版系统之后，帮你整理了 iOS 27 中值得关注的新功能和新特性，希望帮你能了解新版系统的方方面面。 查看全文",
+   "published": "2026-06-13T02:37:12+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+   "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+   "published": "2026-06-13T02:26:30+00:00",
+   "age_label": "21小时前",
+   "tags": [
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+   "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
+   "published": "2026-06-13T02:26:10+00:00",
+   "age_label": "21小时前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Donald Trump",
+    "politics",
+    "Regulation"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Open source AI must win",
+   "url": "https://opensourceaimustwin.com/?share=v2",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://opensourceaimustwin.com/?share=v2 Comments URL: https://news.ycombinator.com/item?id=48511908 Points: 1504 # Comments: 463",
+   "published": "2026-06-13T02:14:24+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic disables access to Fable 5 and Mythos 5 to comply with government directive",
+   "url": "https://www.cnbc.com/2026/06/12/anthropic-disables-access-to-fable-5-and-mythos-5-to-comply-with-government-directive.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Anthropic said it disabled access to its Fable 5 and Mythos 5 models to comply with an export control directive from the U.S. government.",
+   "published": "2026-06-13T01:36:34+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+   "url": "https://36kr.com/p/3850898430989577?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "今日热点导览 Kimi与一国有银行合作，全球首张AI原生信用卡开放预约 韩美半导体将使用500亿韩元投资于SpaceX SK海力士回应本月发生第二起火灾 杭州小龙虾降价超50% 金价连跌，批发商集中补货 TOP3大新闻 SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍 当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来规模最大的IPO，发行价定为135美元，对应市值达1.77万亿美元。该股开盘价150美元，午盘涨幅一度突破30%触及176.53美元，随后股价震荡回落收盘报160.99美元，涨幅19.22%，跻身美国市值第六大企业，...",
+   "published": "2026-06-13T01:01:24+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI says it's engaging 'constructively' with state AGs about concerns",
+   "url": "https://www.cnbc.com/2026/06/12/openai-says-its-engaging-constructively-with-state-ags-.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "The Wall Street Journal reported that a coalition of state attorneys general have opened an investigation into OpenAI.",
+   "published": "2026-06-13T00:29:18+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Watching sports at home? I'd change these 4 soundbar settings for the most optimal audio",
+   "url": "https://www.zdnet.com/article/soundbar-settings-sports-tips/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Some of your favorite soundbar settings for music and movies aren't compatible with live sports broadcasts.",
+   "published": "2026-06-13T00:00:46+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
+   "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
+   "published": "2026-06-12T23:45:26+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Meta",
+    "Facebook",
+    "Mark Zuckerberg"
+   ],
+   "image": ""
+  },
+  {
+   "title": "SpaceX IPO: Live updates on everything you need to know",
+   "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+   "published": "2026-06-12T23:15:14+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Space",
+    "Transportation",
+    "Elon Musk",
+    "IPO"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Jim Cramer says it's not too late to buy SpaceX — under one condition",
+   "url": "https://www.cnbc.com/2026/06/12/jim-cramer-not-too-late-to-buy-spacex-one-condition.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC's Jim Cramer said it's not too late to buy SpaceX if investors view the company as a long-term bet on space exploration.",
+   "published": "2026-06-12T23:04:29+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+   "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+   "published": "2026-06-12T23:00:54+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Social",
+    "Meta"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Jim Cramer says SpaceX’s blockbuster IPO could have major implications for the week ahead",
+   "url": "https://www.cnbc.com/2026/06/12/jim-cramer-spacex-ipo-implications-week-ahead.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "CNBC’s Jim Cramer said the successful debut of SpaceX could pave the way for more AI-related offerings and help create a more constructive backdrop for stocks.",
+   "published": "2026-06-12T22:28:39+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
+   "url": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI.",
+   "published": "2026-06-12T21:56:52+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "‘Tell Him He’s a Piece of Shit’: Meta’s New AI Unit Is a Total Mess",
+   "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Executives and employees alike are struggling with Meta’s chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+   "published": "2026-06-12T21:16:25+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "Business",
+    "Business / Artificial Intelligence",
+    "Meta",
+    "Mark Zuckerberg",
+    "artificial intelligence"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Top House Republican’s family investment poised to benefit from SpaceX IPO",
+   "url": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Republican Rep. Lisa McClain’s husband bought up to $250,000 in Elon Musk’s xAI before it was folded into SpaceX ahead of its IPO.",
+   "published": "2026-06-12T21:15:28+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+   "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+   "source": "NVIDIA Blog",
+   "platform": "nvidia",
+   "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance acr...",
+   "published": "2026-06-12T21:00:08+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI Infrastructure",
+    "Hardware",
+    "Networking",
+    "Software",
+    "Agentic AI"
+   ],
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/dgx-social-gb300-2048x2048-1-1.jpg"
+  },
+  {
+   "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+   "url": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.",
+   "published": "2026-06-12T20:42:19+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+   "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+   "published": "2026-06-12T20:38:09+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Security",
+    "Android",
+    "cybercrime",
+    "cybersecurity"
+   ],
+   "image": ""
+  },
+  {
+   "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
+   "url": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Initial public offering for aerospace and AI company made Musk the world’s first trillionaire as share prices jumped Share your views on SpaceX’s stock market debut SpaceX made the biggest stock market debut in history on Friday after nearly two and a half decades as a private company. Public tradin...",
+   "published": "2026-06-12T20:36:41+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "SpaceX",
+    "Technology",
+    "Elon Musk",
+    "Stock markets",
+    "Business"
+   ],
+   "image": "https://i.guim.co.uk/img/media/16dc5a1aa8616c5301ccdcda329741cfb959c55b/448_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=b4ab65c72d07acfac78565c714c4e2d3"
+  },
+  {
+   "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
+   "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+   "published": "2026-06-12T20:33:52+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Derbyshire police officer investigated over AI-generated ‘evidential material’",
+   "url": "https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Unidentified officer removed from frontline duties in the first known case of its kind in the UK A police officer is under criminal investigation over the alleged use of artificial intelligence and has been removed from frontline duties in the first known case of its kind in the UK. The officer, who...",
+   "published": "2026-06-12T20:12:51+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Police",
+    "UK news",
+    "Crown Prosecution Service",
+    "Derbyshire"
+   ],
+   "image": "https://i.guim.co.uk/img/media/c14300c7d738b35051666d33d3d2c067ba26ad35/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=831a0482b3b27efd9b6b69730ecb3266"
+  },
+  {
+   "title": "月之暗面们重写估值游戏规则",
+   "url": "https://36kr.com/p/3851306638621313",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "新通教育与36氪联合发布《AI时代留学就业白皮书》，首次系统性定义AI时代留学生就业能力框架",
+   "url": "https://36kr.com/p/3851195290326275",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "通义团队再失核心？阿里首席科学家周靖人被曝离职",
+   "url": "https://36kr.com/p/3850978776759176",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "人类首个万亿富豪诞生：SpaceX的2万亿，到底值不值？",
+   "url": "https://36kr.com/p/3851139471031173",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+   "url": "https://36kr.com/p/3851073239372809",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "钉钉的“旧洞”，90后新帅能补上么？",
+   "url": "https://36kr.com/p/3850171792309122",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "突发！Anthropic全球停用Claude 5",
+   "url": "https://36kr.com/p/3851015329027336",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+   "url": "https://36kr.com/p/3850898430989577",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "志愿填报Agent：腾讯克制，阿里激进",
+   "url": "https://36kr.com/p/3850060424484105",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "把提示词刻在墓碑上，这届开发者用AI封装自己，死了都能接单干活？",
+   "url": "https://36kr.com/p/3850104991044614",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Claude Fable 5「发疯」，高数算网络攻击，问癌症直接封号？",
+   "url": "https://36kr.com/p/3850107616678918",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小云雀vs万镜一刻，聊聊字节与阿里的内容Agent一番战",
+   "url": "https://36kr.com/p/3850041320543490",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "MiniMax暴跌65%，AI泡沫破裂了？",
+   "url": "https://36kr.com/p/3850027312698628",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI世代，警惕一场静悄悄发生的“认知投降”",
+   "url": "https://36kr.com/p/3849962764063752",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "5人2周肝出5.1k星，小米 MiMo Code开源但bug不断，开发者炸锅",
+   "url": "https://36kr.com/p/3849833227572226",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
