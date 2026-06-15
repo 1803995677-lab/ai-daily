@@ -1,0 +1,806 @@
+{
+ "date": "2026-06-15",
+ "generated_at": "2026-06-15 08:00",
+ "total": 64,
+ "sources": [
+  "36氪 AI",
+  "CNBC Tech",
+  "The Verge AI",
+  "TechCrunch AI",
+  "ZDNet AI",
+  "IT之家",
+  "The Guardian Tech",
+  "36氪",
+  "InfoQ 中文",
+  "少数派"
+ ],
+ "summary": {
+  "overview": "今日共采集 64 篇 AI 相关资讯（国内 22 篇，海外 42 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、人事变动、AI 应用与商业化。最受关注：「小马智行第七代 Robotaxi 亮相 2026 重庆国际车...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 小马智行第七代 Robotaxi 亮相 2026 重庆国际车展 — IT之家 6 月 14 日消息，据小马智行官方公众号，小马智行第七代 Robotaxi 及无人驾驶科技展区于 6 月 13 日至 6 月 16 日召开的 2026 重庆国际车展中首次亮相。 IT之家注意到，小马智行在今年 4 月的 2026 北京车展中宣布 2027 版 Robotaxi 整车总成本"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** Anthropic 并非先例：回顾 1999 年苹果 Power Mac G4 电脑被美国政府禁止出口 — IT之家 6 月 14 日消息，众所周知，Anthropic 前天因为美国政府出口管制禁令，紧急暂停供应了 Mythos 5/Fable 5 模型。 但 Anthropic 并非第一个撞上枪口的人 ，苹果公司早在 1999 年就因为 Power Mac G4 电脑性能太过强大，遭到美国政府限制出口。"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[TechCrunch AI]** Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand — Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 富国银行：亚马逊 AWS 为降低 AI 推理成本，有望采购高通 AI200 芯片 — IT之家 6 月 14 日消息，据 Wccftech 报道，富国银行 (Wells Fargo) 的最新研究报告指出，高通有望深化与亚马逊旗下 AWS 部门在人工智能芯片领域的合作关系， 为亚马逊 AWS 提供 AI200 等新一代 AI 芯片产品 。 报告称这项合作符合 AWS 通过自研或第三方定"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发 — 作者｜黄楠 编辑｜袁斯来 硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。 SoulX隶属于深圳市弘火智能科技"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 新通教育与36氪联合发布《AI时代留学就业白皮书》，首次系统性定义AI时代留学生就业能力框架"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 古尔曼：苹果仍在筹备三个尚未发布的 iOS 27 新功能 — IT之家 6 月 15 日消息，苹果在 2026 年全球开发者大会（WWDC）主题演讲中公布了未来一年旗下各类软件的重磅新功能，人工智能版 Siri 与系统稳定性优化成为本次发布会的焦点。不过据彭博社记者马克・古尔曼透露，还有部分新功能仍在开发中，预计会在今年 9 月正式推出。 简约版模块化极致表盘"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 华为鸿蒙商用台式机官宣 9 月登场 — IT之家 6 月 14 日消息，华为终端平板与 PC 产品线总裁朱懂东昨天在华为开发者大会 HDC 2026 的「鸿蒙办公」分论坛上宣布， 鸿蒙商用台式机将在 9 月登场 。 朱懂东预告，华为鸿蒙商用台式机在大概 7、8 月份会送测、试商用。 朱懂东还介绍了鸿蒙商用办公电脑，目前华为已推出擎云 HM"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、人事变动展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 64 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
+   "url": "https://36kr.com/p/3853670570743040?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "今日热点导览 加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回 TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，SpaceX上市让普通投资者被迫买单 据当地时间6月12日，诺贝尔经济学奖得主保罗·克鲁格曼发文“Elon Musk， Human Ponzi Scheme”，称世界首富埃隆·马斯克是庞氏骗局。 克鲁格曼认为，SpaceX的IPO完全建立在“庞氏骗局”之上，散户之所以会投资SpaceX，并不是因为他们认真评估了该公司的...",
+   "published": "2026-06-14T23:57:48+00:00",
+   "age_label": "2分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "三星集团成立能源业务特别工作组",
+   "url": "https://36kr.com/newsflashes/3853660937163781?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "三星集团已组建高管特别工作组，探讨将能源领域作为未来新业务板块，并协调三星旗下各子公司间的合作事宜。韩国《每日经济新闻》援引三星一位未具名高级管理人员的话报道了这一消息。该特别工作组还计划在能源领域寻找并购目标。三星电子、三星 SDS、三星 SDI、三星物产、三星工程建设及三星重工的高管将参与该特别工作组。特别工作组正研究整个能源行业价值链，涵盖能源供需、建设项目合同、发电、电网、核电站及人工智能数据中心等领域。（新浪财经）",
+   "published": "2026-06-14T23:46:37+00:00",
+   "age_label": "13分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "美国出口管制致 Anthropic 停供顶尖 AI 模型，欧盟评估影响并强调不应歧视",
+   "url": "https://www.ithome.com/0/964/203.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 15 日消息，据路透社报道，欧盟委员会当地时间上周日表示，正在评估美国一项出口管制指令带来的实际影响。该指令针对人工智能企业 Anthropic，欧委会同时强调相关措施不应对合作伙伴构成歧视。 IT之家注意到，Anthropic 公司上周五称，因美国政府以国家安全为由，要求其停止向外籍人士开放旗下顶尖人工智能模型 Mythos 5/Fable 5 的使用权限，公司将“突然禁用”面向所有用户的其最先进人工智能模型。 欧盟委员会发言人托马斯 · 勒尼耶在声明中表示：“如今新一代高性能人工智能模型陆续面市。这类模型能带来诸多益处，包括助力网络防御，但也引发了亟待解决的严峻网络安全风...",
+   "published": "2026-06-14T23:46:23+00:00",
+   "age_label": "14分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "公募加速布局量化“固收+”，知名量化基金经理相继入局",
+   "url": "https://36kr.com/newsflashes/3853660123632902?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近期权益市场波动加剧，尤其是AI、半导体等科技板块频繁出现高位震荡与快速轮动，令投资者对权益投资的信心受挫。在此背景下，资金开始重新审视风险与收益的平衡点，那些能够在控制回撤的同时还能提供长期稳健回报的产品，正获得越来越多关注。值得注意的是，今年以来，在“固收+”这一赛道，量化策略异军突起，凭借纪律化投资、多资产分散和系统化风控等优势，成为新增长点。据统计，目前全市场量化“固收+”产品规模已约1800亿元，头部基金公司纷纷布局，知名量化基金经理相继入局。展望后市，在低利率环境和资产再配置需求的推动下，叠加公募量化生态日趋成熟，量化“固收+”规模有望持续增长，为投资者提供波动可控、性价比更高的新...",
+   "published": "2026-06-14T23:45:47+00:00",
+   "age_label": "14分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "第 48 届世界技能大赛倒计时 100 天，东道主上海公布奖牌设计",
+   "url": "https://www.ithome.com/0/964/202.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 15 日消息，据新华社报道，6 月 14 日，第 48 届世界技能大赛迎来倒计时 100 天，主题活动在上海举办。活动上，本届大赛奖牌设计正式对外公布。 奖牌突破传统扁平圆形形制，以中国传统榫卯结构为核心视觉标识，采用不规则六边形造型；正面寓意精益求精、追求卓越的工匠精神，背面彰显上海开放、创新、包容的城市品格。 IT之家注意到，第 48 届世界技能大赛将于 9 月 22 日至 27 日在上海举办，世界技能大赛是由世界技能组织举办， 是全球最高层级的职业技能竞赛 ，每两年举办一届。世赛项目覆盖制造、交通、建筑、信息、创意、服务等 6 大类。既有 云计算、机器人系统集成 等代表...",
+   "published": "2026-06-14T23:44:34+00:00",
+   "age_label": "15分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果仍在筹备三个尚未发布的 iOS 27 新功能",
+   "url": "https://www.ithome.com/0/964/201.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 15 日消息，苹果在 2026 年全球开发者大会（WWDC）主题演讲中公布了未来一年旗下各类软件的重磅新功能，人工智能版 Siri 与系统稳定性优化成为本次发布会的焦点。不过据彭博社记者马克・古尔曼透露，还有部分新功能仍在开发中，预计会在今年 9 月正式推出。 简约版模块化极致表盘 有消息称，苹果为 Apple Watch Ultra 专属的热门表盘打造了一款简化版本。该表盘保留了模块化极致表盘（Modular Ultra）的大尺寸时钟样式，但取消了第二行功能组件。这项功能并未在本届 WWDC 上亮相，大概率会在 9 月新款 Apple Watch 发布时一同登场。 Siri...",
+   "published": "2026-06-14T23:35:16+00:00",
+   "age_label": "25分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "科大讯飞 AI 眼镜开启预售：支持 122 种语言翻译，4299 元",
+   "url": "https://www.ithome.com/0/964/200.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 15 日消息，科大讯飞旗下讯飞 AI 眼镜现已在京东开启预售，产品定位“眼前的超级 AI 助理”，将大模型能力深度融入日常佩戴场景， 定价为 4299 元（部分地区国补后低至 3369 元） ，同时提供了多种近视镜片供用户选择。 京东 科大讯飞 AI 眼镜 4299 元 直达链接 IT之家注意到，讯飞 AI 眼镜采用经典眼镜形态设计，重量仅 40 克。产品基于万张头模数据打磨佩戴结构，获得 SGS 舒适度专业认证，确保不同脸型、头型用户均可获得贴合舒适的佩戴体验。镜片采用全贴合树脂材质，意外跌落不易产生碎片。 作为核心卖点，讯飞 AI 眼镜搭载讯飞端到端语音同传大模型，支持 ...",
+   "published": "2026-06-14T23:34:25+00:00",
+   "age_label": "26分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "IT早报 0615：小米回应 YU7 GT 极速 300km/h 意义；央视曝光违规改装新能源车废旧电池流入市场；曝蚂蚁集团正测试 AI 版支付宝；内存已成手机中最昂贵的组件...",
+   "url": "https://www.ithome.com/0/964/198.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 15 日星期一，今天的重要科技资讯有： 1、小米汽车回应“YU7 GT 极速 300km/h 的意义”：带来更高的工程冗余，在日常行驶中有更高可靠性和稳定性 小米汽车称极速测试是整车综合技术实力的体现，能带来更高工程冗余，让日常行驶更可靠稳定，同时回应了赛道测试、AEB 纸箱测试等相关疑问。>> 查看详情 2、央视曝光违规电池地下工厂，部分新能源汽车废旧电池被违规改装流入市场 全品类电动自行车火灾中，约 33% 的车辆起火由非法改装电池引发；起火改装电池中，约 80% 电芯来自新能源车废旧动力电池。>> 查看详情 3、外媒曝蚂蚁集团正秘密...",
+   "published": "2026-06-14T23:25:25+00:00",
+   "age_label": "35分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "由激光写入的磁存储材料切换数据提速千倍",
+   "url": "https://36kr.com/newsflashes/3853623109866496?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "据最新一期《应用物理快报》报道，日本量子科学技术研究开发机构研究团队开发出可由激光直接写入的新型磁性存储材料，其数据切换速度可达传统电流驱动磁存储器的约1000倍，有望用于未来AI芯片和高速信息系统，同时可降低数据中心能耗。（科技日报）",
+   "published": "2026-06-14T23:17:04+00:00",
+   "age_label": "43分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌 CEO 皮查伊斯坦福毕业演讲避谈 AI，鼓励毕业生“选择乐观”",
+   "url": "https://www.ithome.com/0/964/193.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 15 日消息，谷歌是引领人工智能变革的企业之一。然而，谷歌首席执行官桑达尔・皮查伊当地时间周日在斯坦福大学毕业典礼上发表演讲时，对此只字未提，而他这么做也情有可原。 就在上个月，谷歌前首席执行官埃里克・施密特在亚利桑那大学的毕业典礼上畅谈人工智能的发展前景时，遭到学生们此起彼伏的嘘声。乡村音乐大厂 Big Machine Records 公司首席执行官斯科特・博尔切塔在中田纳西州立大学谈及人工智能时，同样被学生喝倒彩。 皮查伊对毕业生们说道：“我知道今天本该为大家送上寄语，但不少人也一直在叮嘱我该讲些什么。说来有趣，所有人的建议都大同小异，核心都是劝我别提某些话题。” IT之...",
+   "published": "2026-06-14T23:00:27+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "《生化危机：代号维罗妮卡》重制版 Steam 页面暗藏“摩托车”标签，暗示游戏有望引入载具玩法",
+   "url": "https://www.ithome.com/0/964/190.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 15 日消息，卡普空在本月初的 2026 夏日游戏节正式公布了 《生化危机：代号 维罗妮卡》 重制版，同步上线游戏 Steam 页面。 综合外媒 gamegpu 报道，有玩家发现本作 Steam 页面存在一项名为“Motorcycle”（摩托车）的标签，相应标签实由卡普空官方直接添加，因此许多玩家推测重制版有望将加入可操作的载具内容。 IT之家注意到，事实上此前消息源 Dusk Golem 曾透露《生化危机 ：代号 维罗妮卡》 重制版将对原作中的岩堡岛进行大规模重构，引入近似半开放世界的探索模式。玩家可以在岛屿各区域之间自由穿行，而女主角克莱尔有机会修复一辆废弃摩托车，借助它...",
+   "published": "2026-06-14T22:40:52+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Trump heads to G7 summit in France after reaching deal to end war with Iran",
+   "url": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "The G7 is likely to address the Iran peace deal, as well as Russia's war against Ukraine, which continues to rage in eastern Europe.",
+   "published": "2026-06-14T22:30:57+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
+   "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+   "published": "2026-06-14T21:32:00+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "China may have accessed Mythos",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious na...",
+   "published": "2026-06-14T18:27:55+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "News",
+    "Policy",
+    "Politics"
+   ],
+   "image": ""
+  },
+  {
+   "title": "As AI companies race to go public, who else is along for the ride?",
+   "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+   "published": "2026-06-14T16:38:09+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "Fundraising",
+    "Space",
+    "Startups",
+    "Anthropic"
+   ],
+   "image": ""
+  },
+  {
+   "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+   "url": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
+   "published": "2026-06-14T15:02:35+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Anthropic 并非先例：回顾 1999 年苹果 Power Mac G4 电脑被美国政府禁止出口",
+   "url": "https://www.ithome.com/0/964/186.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，众所周知，Anthropic 前天因为美国政府出口管制禁令，紧急暂停供应了 Mythos 5/Fable 5 模型。 但 Anthropic 并非第一个撞上枪口的人 ，苹果公司早在 1999 年就因为 Power Mac G4 电脑性能太过强大，遭到美国政府限制出口。 1999 年夏天，美国政府对苹果刚刚发布的 Power Mac G4 台式电脑施加出口管制。主要原因是该电脑宣称拥有“每秒超 10 亿次计算能力”， 达到“超级计算机”定义标准 ，因此禁止向全球约 50 个国家 / 地区销售。 苹果自然希望美国政府取消这些限制，但根据当时媒体的报道，时任苹果临时 ...",
+   "published": "2026-06-14T14:57:02+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "28000Pa 吸力 + 越障高度 40mm：小米米家扫拖机器人 6 上下水版 1888 元新低",
+   "url": "https://www.ithome.com/0/964/180.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "小米旗下米家扫拖机器人 6 标准版发售于 2026 年 4 月，该机器人提供 28000Pa 吸力。 其中水箱版本定价 2699 元，上下水版 3099 元。 京东 618 大促期间，两款国补后： 水箱版 1663 元，晒单返 20 元京豆 + 种草返 100 元后低至 1543 元。 上下水 2007 元，晒单返 20 元京豆 + 种草返 100 元后低至 1887 元。 下单时选择“以旧换新” → 个护健康 → 电动牙刷（无需回收）： 京东 小米 米家扫拖机器人 6 水箱版 以旧换新后 1633 元 直达链接 京东 小米 米家扫拖机器人 6 上下水版 超薄嵌入式 以旧换新后 2007 元 ...",
+   "published": "2026-06-14T14:08:06+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
+   "url": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable in the workforce.",
+   "published": "2026-06-14T14:03:30+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "微软 CEO 纳德拉：AGI 并非人类最后一项技术发明，光烧 Token 撑不起 AI 未来",
+   "url": "https://www.ithome.com/0/964/178.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，微软 CEO 萨蒂亚 · 纳德拉本周三出席《纽约时报》科技播客 Hard Fork，谈及当下大火的 AI 概念。 这名 58 岁的微软掌门人表示：“你无法否认，人们对 AI 的观感非常糟糕”。他承认，AI 发展确实可能导致部分人工岗位被机器取代，但 AI 蕴含的巨大能力还是能给人类社会带来诸多良机。 纳德拉认为，每个人都应该是 AI 的利益相关者。AI 不能只靠一两个前沿模型或几个头部公司驱动经济增长，必须构建整个经济体系都能用上的 AI 生态系统。 据悉，微软作为平台公司的目标是让每个国家的每个企业，都能走到前沿， 否则如果经济只增长 2% ， AI 这盘棋就...",
+   "published": "2026-06-14T13:53:28+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "韩国启动 5000 亿韩元研发计划，攻关下一代功率半导体",
+   "url": "https://www.ithome.com/0/964/175.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，据科技媒体 Wccftech 今天报道，韩国政府已启动“超级创新经济项目”，计划投资 5000 亿韩元（IT之家注：现汇率约合 22.3 亿元人民币）攻关下一代功率半导体（Power Semiconductors）。 据报道，功率半导体在 AI 数据中心中举足轻重，它能够提供稳定的供电网络、提高能源利用效率、降低电力损耗，支撑高密度 AI 设备稳定运行。 同时，功率半导体的应用范围远远不止 AI 数据中心，也可应用在能源系统、电动汽车、工业机器人和航空航天等领域。 当前最受关注的先进功率半导体材料包括 SiC（碳化硅） 、 GaN（氮化镓） ，这两种材料相比传统...",
+   "published": "2026-06-14T13:31:00+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为鸿蒙商用台式机官宣 9 月登场",
+   "url": "https://www.ithome.com/0/964/170.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，华为终端平板与 PC 产品线总裁朱懂东昨天在华为开发者大会 HDC 2026 的「鸿蒙办公」分论坛上宣布， 鸿蒙商用台式机将在 9 月登场 。 朱懂东预告，华为鸿蒙商用台式机在大概 7、8 月份会送测、试商用。 朱懂东还介绍了鸿蒙商用办公电脑，目前华为已推出擎云 HM740 和 HM940 两款设备，采用 To C 的机器 + To B 的操作系统。他强调，擎云鸿蒙电脑的操作系统和普通消费者的鸿蒙电脑是不一样的，同时接口也做了很多改造，加入了安全芯片。 ▲ 华为发布新一代鸿蒙电脑擎云 HM740 目前，华为鸿蒙商用台式机暂未公布更多信息，感兴趣的小伙伴可以关注I...",
+   "published": "2026-06-14T12:53:53+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英国一警官涉嫌使用 AI 伪造证据材料，警方已展开刑事调查",
+   "url": "https://www.ithome.com/0/964/167.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，据央视新闻援引英国方面 13 日消息，英国德比郡警方表示，当地一名警官涉嫌在多起案件中使用 AI 系统伪造证据素材，并把这些材料带进了刑事诉讼程序。 IT之家从原报道获悉， 该警官被控涉嫌妨碍司法公正 ，警方已展开刑事调查。据悉，这是英国首例此类案件。 德比郡警方表示， 涉事警官目前已被调离一线岗位 ，等待调查结果出炉，目前还没有人因该事件被捕。警方还计划与英国皇家检察院合作，处理任何可能受此影响的案件。",
+   "published": "2026-06-14T12:42:09+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
+   "url": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Health wearables are constantly collecting your personal information, but who owns that data, and what does it mean for your privacy?",
+   "published": "2026-06-14T12:30:48+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "为南极永久月面基地铺路，美国 NASA 选定新一代月球车“飞马”",
+   "url": "https://www.ithome.com/0/964/166.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，据外媒 New Atlas 昨天报道，美国 NASA 正加速建设月球南极永久基地，根据设想，NASA 未来的月球基地将覆盖数百平方英里范围。 目前，NASA 已选定新一代月球车“飞马（IT之家注：Pegasus）”，未来将与阿尔忒弥斯首批宇航员一起飞往月球。 据悉，“飞马”由美国航天公司 Lunar Outpost 开发， 具备自动驾驶 、 宇航员驾驶和地球远程操控三种模式 ，该公司联合创始人 AJ Gemer 表示：“飞马将以前所未有的方式，延长人类在月球表面活动的时间，这是阿波罗时代无法实现的事情”。 NASA 当前密切关切月球南极，因为那里终日不见阳光，存...",
+   "published": "2026-06-14T12:24:23+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为朱懂东再谈平板 / 电脑边界与融合：未来可能都是算力型设备，大家按需携带",
+   "url": "https://www.ithome.com/0/964/165.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，华为开发者大会 HDC 2026 的「鸿蒙办公」分论坛已于昨日举行，华为终端平板与 PC 产品线总裁朱懂东再次谈及了平板与电脑的边界。 据介绍，目前华为 MatePad 鸿蒙平板分为 Pro、Air、Mini 和无尾缀普通款四个系列。朱懂东表示，华为一直在做的，就是不刻意去强调这款产品到底是平板还是电脑，而其实两者的区别就在于用了什么功耗的芯片、搭载了什么样的操作系统。 他提到，华为根据芯片的功耗墙设计，正在把平板和电脑的操作系统尽可能去进行融合。朱懂东认为，用户未来用平板还是电脑，将从使用场景出发，用户认为哪台设备可以满足自己的需求，就带哪台设备出发， 因为未...",
+   "published": "2026-06-14T12:21:17+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "继三星之后，消息称 SK 海力士准备向主要客户提供 HBM4E 样品、最早本月发货",
+   "url": "https://www.ithome.com/0/964/164.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，据韩媒 inews24 消息，业内人士 12 日透露，SK 海力士目前正筹备向主要客户送样 HBM4E， 首批样品最快将于本月出货，最迟不超过下个月 。 业内分析指出，鉴于 HBM4E 计划于明年正式量产，今年下半年必须完成客户的测试验证与优化流程，因此目前的送样节点已十分紧迫。 HBM（高带宽内存）是 AI 加速芯片的核心配套部件，其带宽与容量直接决定 AI 训练与推理的效率，当前 HBM 市场由三星、SK 海力士和美光主导。 HBM4E 是第七代 HBM，预计 SK 海力士的 HBM4E 将被用于英伟达的下一代 AI 加速器“Rubin Ultra”中，Ru...",
+   "published": "2026-06-14T12:13:49+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "3 telltale signs someone is stealing your Wi-Fi - and how to stop them",
+   "url": "https://www.zdnet.com/article/signs-someone-is-using-your-wi-fi-how-to-kick-them-off/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "If you suspect someone may be on your Wi-Fi network without your permission, here's what you can do to get to the bottom of it.",
+   "published": "2026-06-14T12:01:03+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Most drivers overlook these 6 Android Auto apps - but off-roaders definitely shouldn't",
+   "url": "https://www.zdnet.com/article/6-android-auto-apps-let-explore-the-outdoors/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Android Auto isn't just for city streets anymore. Here are the apps that help me get more done when I'm off-road.",
+   "published": "2026-06-14T12:00:47+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小米新媒体高级工程师再谈大模型：希望这个赛道永远比的是代码质量、推理速度和开源贡献",
+   "url": "https://www.ithome.com/0/964/159.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，小米公司新媒体高级工程师 @小米_邹師傅 今日再度发文，谈起了自己关于大模型的真心话。 1、过去一年国内大模型最让我兴奋的事，不是谁又刷了榜单， 而是行业开始靠作品说话 —— 开源代码放 GitHub 上让人审、论文挂 arXiv 上让人查、模型丢给开发者让人用，算力芯片造福更多群体。 这才是技术该有的样子 。 2、大模型的核心评委只有一个：开发者。不是媒体，不是榜单，不是热搜。 你的模型好不好用，调两天 API 就知道了 ，藏不住。 3、 希望这个赛道永远比的是代码质量、推理速度和开源贡献 —— 而不是比嗓门、比预算、比谁的通稿多。 他表示，技术人最朴素的愿望...",
+   "published": "2026-06-14T11:04:37+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "After a month with a foldable phone, I can't justify buying an 'Ultra' model anymore",
+   "url": "https://www.zdnet.com/article/motorolas-razr-plus-is-heavily-underrated/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Motorola's Razr+ is not the awkward middle child of its series; it arguably offers the best balance of features, performance, and value.",
+   "published": "2026-06-14T11:00:10+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为朱懂东谈 MatePad Edge 被骂性能不行：平板性能当然不如电脑，主要是探索二者交融界限",
+   "url": "https://www.ithome.com/0/964/153.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，在昨天华为开发者大会 HDC 2026 的「鸿蒙办公」分论坛上，华为终端平板与 PC 产品线总裁朱懂东介绍了鸿蒙电脑这一年的发展情况。 朱懂东主动谈起了 MatePad Edge 二合一平板电脑被骂性能不行一事。他表示，产品名称已经表明其是一台 MatePad 了，虽然都搭载了麒麟 X90 芯片， 但平板性能当然不如电脑 。 朱懂东称，MatePad Edge 在形态上去突破创新，性能可能稍微弱一点， 主要是去探索平板和 PC 交融的界限到底在什么地方 。 据IT之家此前报道，在去年的 HDC 2025 上，朱懂东曾提到，电脑与平板正同时向移动轻薄化的方向演进。...",
+   "published": "2026-06-14T10:26:46+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "This is the most unique Bluetooth tracker I've tested by far - and it outlasts the AirTag",
+   "url": "https://www.zdnet.com/article/ugreen-finetrack-2-tracker-tag-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "The Ugreen FineTrack 2 has several unique features that make it stand out against Apple's AirTags.",
+   "published": "2026-06-14T10:15:52+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "富国银行：亚马逊 AWS 为降低 AI 推理成本，有望采购高通 AI200 芯片",
+   "url": "https://www.ithome.com/0/964/150.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，据 Wccftech 报道，富国银行 (Wells Fargo) 的最新研究报告指出，高通有望深化与亚马逊旗下 AWS 部门在人工智能芯片领域的合作关系， 为亚马逊 AWS 提供 AI200 等新一代 AI 芯片产品 。 报告称这项合作符合 AWS 通过自研或第三方定制化 AI 芯片来降低 AI 推理成本、提升运营利润率的战略方向。 据IT之家此前报道， 高通公司于 2025 年 10 月发布了 AI200 芯片 ， 单颗芯片可支持高达 768GB 的内存 。 高通还为 AI200 芯片推出了一款专为机架级 AI 推理设计的解决方案，用于大型语言和多模态模型（L...",
+   "published": "2026-06-14T10:01:16+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I found the most effortless way to clean your Android phone storage - and it's free to use",
+   "url": "https://www.zdnet.com/article/free-android-app-makes-deleting-photos-easy/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Clearing out your excess photos and videos is now just a swipe away with an easy-to-use app called Sponge.",
+   "published": "2026-06-14T10:00:49+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "蚂蚁数科企业级 AGI 研发体系重塑实战｜AICon上海",
+   "url": "https://www.infoq.cn/article/k890EiwhdA4ISuOu8IhH?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-14T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OpenAI GPT-5.5 与 Codex 正式登陆 Amazon Bedrock",
+   "url": "https://www.infoq.cn/article/FuhAEYbk8T0b0GQZyq4c?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-14T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "通用汽车高管斯特林・安德森：公司目前主攻乘用车自动驾驶技术，未来将用于无人驾驶网约车",
+   "url": "https://www.ithome.com/0/964/145.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，据智通财经今日消息，通用汽车虽然关停了专门负责自动驾驶出租车业务的子公司，但并未退出这场行业竞赛。 通用汽车首席产品官斯特林・安德森（IT之家注：Sterling Anderson）曾担任特斯拉自动辅助驾驶项目负责人。他在接受采访时表示，公司目前主攻乘用车自动驾驶技术，未来这套技术也可应用于无人驾驶网约车服务。 安德森介绍，通用汽车的研发思路是拆解驾驶场景，针对车主实际用车需求，分场景落地自动驾驶功能。团队计划先攻克长距离高速路段的自动驾驶， 之后再逐步拓展至主干道及城市核心区域 。 这位高管认为，未来，通用的自动驾驶系统将可在足够多区域稳定运行，届时推出具备商...",
+   "published": "2026-06-14T09:46:48+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "外媒曝蚂蚁集团正秘密测试 AI 版支付宝",
+   "url": "https://www.ithome.com/0/964/141.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，今天有外媒称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，可一键切入原生 AI 界面，实现从服务到资金管理的智能化。 目前消息称，新版支付宝上线时间未定。 蚂蚁集团拒绝发表评论 。 此外，有国内消息人士指出，AI 版支付宝或将于近期上线。另据 Tech 星球报道，极少量测试邀请码已低调发出，启动公测。“这将是支付宝史诗级的改版。”一位抢先体验测试版的人士如是说，新版支付宝颠覆原有用户交互界面。若消息属实， 支付宝有望成为首个 10 亿级用户的 AI 超级 App 。",
+   "published": "2026-06-14T09:20:07+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "小马智行第七代 Robotaxi 亮相 2026 重庆国际车展",
+   "url": "https://www.ithome.com/0/964/140.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，据小马智行官方公众号，小马智行第七代 Robotaxi 及无人驾驶科技展区于 6 月 13 日至 6 月 16 日召开的 2026 重庆国际车展中首次亮相。 IT之家注意到，小马智行在今年 4 月的 2026 北京车展中宣布 2027 版 Robotaxi 整车总成本下探至 23 万元内 ，官方将基于该车型推出海外版本，通过适配当地准入合规、基础设施与用户需求，推进海外市场的千台以上的部署。 据小马智行官方发布的 2026 年第一季度财报，总营收 2.36 亿元，同比增长 145.0%，环比增长 17.6%；Robotaxi 业务收入 5912 万元，同比增长 ...",
+   "published": "2026-06-14T09:17:54+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称游戏《星球大战：亡命之徒》续作开发计划已取消",
+   "url": "https://www.ithome.com/0/964/136.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 14 日消息，星战领域爆料人 FivesWalker 于当地时间 6 月 12 日在 X 平台透露，育碧与 Massive Entertainment 合作推出的《星球大战：亡命之徒（Star Wars Outlaws）》 续作开发计划已取消 。 IT之家注：《星球大战：亡命之徒》是一款开放世界游戏，于 2024 年 8 月 30 日登陆 PlayStation 5、Windows PC 与 Xbox Series X｜S 平台，任天堂 Switch 2 版本则于 2025 年 9 月 4 日推出。 FivesWalker 表示，《星球大战：亡命之徒》原本计划推出 6 款 D...",
+   "published": "2026-06-14T08:57:42+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "X accused of giving racists ‘impunity’ after refusing to bar N- and P-word posts",
+   "url": "https://www.theguardian.com/technology/2026/jun/14/x-racists-impunity-hate-posts",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Site takes no action over hate posts against UK politicians including Kemi Badenoch, Shabana Mahmood and Zia Yusuf X has refused to take down dozens of social media posts reported as “hate, abuse or harassment” in which prominent UK politicians, including Kemi Badenoch, have been racially abused. In...",
+   "published": "2026-06-14T07:00:36+00:00",
+   "age_label": "16小时前",
+   "tags": [
+    "X",
+    "Race",
+    "Elon Musk",
+    "Kemi Badenoch",
+    "Internet"
+   ],
+   "image": "https://i.guim.co.uk/img/media/2e56d5bc6d2d3add5c9544032a3f45161d3b219a/544_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=094a67f530e17d7c66ce64c09f484b7c"
+  },
+  {
+   "title": "‘I should know better’: tech expert lost £70,000 in one simple phone call",
+   "url": "https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "After falling for a scam call, ‘The Tech Chap’ host Tom Honeyands realised he’d given away vital details in social media posts When Tom Honeyands realised he had been defrauded out of £70,000 he was furious and embarrassed – and left wondering if he had given away too many details on his social medi...",
+   "published": "2026-06-14T06:00:36+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "Money",
+    "Scams",
+    "Technology",
+    "YouTube",
+    "Lloyds Banking Group"
+   ],
+   "image": "https://i.guim.co.uk/img/media/dc14a53e69a96c2850f369d929e38a4a9420b8e6/584_0_5888_4709/master/5888.jpg?width=140&quality=85&auto=format&fit=max&s=b7788b6124c35e520118997335206d26"
+  },
+  {
+   "title": "As Anthropic suspends access to new models, India debates its AI future",
+   "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+   "published": "2026-06-14T03:00:00+00:00",
+   "age_label": "21小时前",
+   "tags": [
+    "AI",
+    "Startups",
+    "Anthropic",
+    "india ai"
+   ],
+   "image": ""
+  },
+  {
+   "title": "TDS REVIEW｜韶音 OpenDots 2 / Air 耳夹式开放真无线耳机体验",
+   "url": "https://sspai.com/post/110761",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "一代上的好几处优势这次依然保持得不错。 查看全文",
+   "published": "2026-06-14T03:00:00+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+   "url": "https://36kr.com/p/3851572421432324?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。 SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。 家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双...",
+   "published": "2026-06-14T01:30:00+00:00",
+   "age_label": "22小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+   "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+   "published": "2026-06-14T00:03:49+00:00",
+   "age_label": "23小时前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "China",
+    "manus",
+    "Manus AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon...",
+   "published": "2026-06-13T21:39:26+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Amazon",
+    "Anthropic",
+    "News",
+    "Policy"
+   ],
+   "image": ""
+  },
+  {
+   "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+   "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+   "published": "2026-06-13T20:42:31+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "kpmg"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Claude Fable 5四日惊魂",
+   "url": "https://36kr.com/p/3852737616876550",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "最强Claude，卡在上市前夜",
+   "url": "https://36kr.com/p/3852759269980800",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华人AI工程师也搭上了SpaceX的财富火箭",
+   "url": "https://36kr.com/p/3852485841156997",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "大反转！Anthropic CEO拒修漏洞才被封，举报Claude新模型是自家大股东",
+   "url": "https://36kr.com/p/3852376401220868",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+   "url": "https://36kr.com/p/3852349905900544",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+   "url": "https://36kr.com/p/3851572421432324",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "月之暗面们重写估值游戏规则",
+   "url": "https://36kr.com/p/3851306638621313",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "新通教育与36氪联合发布《AI时代留学就业白皮书》，首次系统性定义AI时代留学生就业能力框架",
+   "url": "https://36kr.com/p/3851195290326275",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "通义团队再失核心？阿里首席科学家周靖人被曝离职",
+   "url": "https://36kr.com/p/3850978776759176",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "人类首个万亿富豪诞生：SpaceX的2万亿，到底值不值？",
+   "url": "https://36kr.com/p/3851139471031173",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+   "url": "https://36kr.com/p/3851073239372809",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "钉钉的“旧洞”，90后新帅能补上么？",
+   "url": "https://36kr.com/p/3850171792309122",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "突发！Anthropic全球停用Claude 5",
+   "url": "https://36kr.com/p/3851015329027336",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+   "url": "https://36kr.com/p/3850898430989577",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "志愿填报Agent：腾讯克制，阿里激进",
+   "url": "https://36kr.com/p/3850060424484105",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
