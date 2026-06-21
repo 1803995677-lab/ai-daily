@@ -1,0 +1,795 @@
+{
+ "date": "2026-06-21",
+ "generated_at": "2026-06-21 08:02",
+ "total": 60,
+ "sources": [
+  "ZDNet AI",
+  "The Verge AI",
+  "CNBC Tech",
+  "Wired AI",
+  "IT之家",
+  "量子位",
+  "IEEE Spectrum",
+  "InfoQ 中文",
+  "The Guardian Tech",
+  "36氪",
+  "36氪 AI",
+  "TechCrunch AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 60 篇 AI 相关资讯（国内 23 篇，海外 37 篇）。热门话题集中在：大模型发布、AI 硬件与芯片、开源与社区、AI 监管与政策。最受关注：「IT早报 0621：谷歌安卓 17 给 App 内存占用套上...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** IT早报 0621：谷歌安卓 17 给 App 内存占用套上“紧箍咒”；微信 AI 助手“小微”灰度上线；小米“寻天”SUV 原型车再曝光；微软官宣今秋上线 Win11 26H2 更新... — “IT早报”时间，大家好，现在是 2026 年 6 月 21 日星期日，今天的重要科技资讯有： 1、提升流畅度：谷歌安卓 17 给 App 内存占用套上“紧箍咒” 科技媒体 Android Authority 6 月 19 日发布博文，指出在安卓 17 系统更新中，谷歌为 Pixel 10 等设备带"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[The Guardian Tech]** Lloyds Banking Group to hire 300 tech experts to work on AI — Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to jobs cuts in future Lloyds Banking Group has launched "
+   },
+   {
+    "tag": "🟠",
+    "text": "**[36氪]** 挪威将禁止小学生使用生成式人工智能 — 挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 广东：将依托省开源鸿蒙适配中心，推进多行业示范应用和规模化适配 — IT之家 6 月 20 日消息，广东省人民政府于 6 月 19 日印发《广东省推进服务业扩能提质实施方案》，其中提到有关部门将进一步建设人工智能基础产业，打造具有国际竞争力的软件和信息技术服务业创新中心。 参考《方案》获悉，在软件和信息技术服务业方面，有关部门将促进各大公司深入实施核心软件攻关工程，"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** Valve 向所有用户推送 SteamOS 3.8.11 更新，修复桌面模式锁屏虚拟键盘问题 — IT之家 6 月 21 日消息，Valve 现已向所有 Steam Deck 用户正式推送 SteamOS 3.8.11 版本更新，本次更新为错误修复更新，仅调整了一项与虚拟键盘相关的问题。 通用更新 修复了桌面模式锁屏界面无法访问虚拟键盘的问题 本次更新已经推送给所有稳定版通道用户，Steam D"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[IT之家]** 谷歌 Gemini 联席负责人沙泽尔转投 OpenAI，奥尔特曼亲自发文欢迎 — IT之家 6 月 20 日消息，谷歌前工程副总裁、Gemini 技术联席负责人诺姆 · 沙泽尔宣布离职，转投 OpenAI。 IT之家获悉，当地时间 18 日，沙泽尔在 X 上宣布，离开谷歌是一个艰难决定，他为谷歌团队以及团队共同取得的成果感到自豪，“很高兴与大家分享，我将加入 OpenAI，也期待"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪]** 特朗普：不再将Anthropic视为国家安全威胁 — 在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国家安全威胁。 （财联社）"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型 — IT之家 6 月 20 日消息，在苹果 WWDC 2026 期间，LM Studio 与苹果合作在四台 Mac Studio 集群上成功运行起了月之暗面万亿参数大模型 Kimi K2.6，并通过 LM Link 实现从 MacBook Neo 和 iPhone 的安全远程访问。 IT之家此前报道，K"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 硬件与芯片、开源与社区展开。海外报道占比较大，国际 AI 动态值得密切关注。",
+  "raw_text": "[智能提取摘要] 基于 60 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "IT早报 0621：谷歌安卓 17 给 App 内存占用套上“紧箍咒”；微信 AI 助手“小微”灰度上线；小米“寻天”SUV 原型车再曝光；微软官宣今秋上线 Win11 26H2 更新...",
+   "url": "https://www.ithome.com/0/966/591.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 6 月 21 日星期日，今天的重要科技资讯有： 1、提升流畅度：谷歌安卓 17 给 App 内存占用套上“紧箍咒” 科技媒体 Android Authority 6 月 19 日发布博文，指出在安卓 17 系统更新中，谷歌为 Pixel 10 等设备带来 4 项隐藏改进，包括自动终止内存占用过高 App 等。>> 查看详情 2、微信 AI 助手“小微”灰度上线，可通过文字或语音对话操作微信原生功能 微信原生 AI 助手“小微”开始扩大灰度测试范围，支持通过对话操作微信功能、调起小程序，并实现“一句话生成小程序”。该功能旨在打通微信生态，为用户提供...",
+   "published": "2026-06-20T23:35:08+00:00",
+   "age_label": "27分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "台积电加速研发 CoPoS 封装以取代 CoWoS：玻璃核心基板可降低 30% 成本并将晶圆利用率提升至 90% 以上",
+   "url": "https://www.ithome.com/0/966/590.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，随着玻璃核心基板成为行业核心方案，台积电正全力研发面板级封装技术 CoPoS，用以替代现有 CoWoS 工艺，应对持续增长的算力需求。 IT之家注意到，人工智能与算力需求持续暴涨，市场亟需新一代先进封装技术。英特尔与台积电均在全力攻关相关方案，而玻璃核心基板将成为双方技术路线中的核心一环。 据台湾地区《工商时报》近期报道，台积电正大力推进 CoPoS（基板载面板覆芯片）技术，计划以此取代 CoWoS（基板载晶圆覆芯片）方案；玻璃核心基板是实现该技术路线的关键，这家台湾地区晶圆代工厂因此大幅提速该技术的研发与量产进程。 报道称，“台积电全力落地 CoPoS 技术，...",
+   "published": "2026-06-20T23:32:06+00:00",
+   "age_label": "30分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Valve 向所有用户推送 SteamOS 3.8.11 更新，修复桌面模式锁屏虚拟键盘问题",
+   "url": "https://www.ithome.com/0/966/581.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，Valve 现已向所有 Steam Deck 用户正式推送 SteamOS 3.8.11 版本更新，本次更新为错误修复更新，仅调整了一项与虚拟键盘相关的问题。 通用更新 修复了桌面模式锁屏界面无法访问虚拟键盘的问题 本次更新已经推送给所有稳定版通道用户，Steam Deck 掌机会自动完成版本更新。 本文由机器人发布，如果你发现了日志中未提及的更新点，欢迎发在评论区供大家参考 ~[微笑]",
+   "published": "2026-06-20T22:50:15+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+   "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+   "published": "2026-06-20T20:32:29+00:00",
+   "age_label": "3小时前",
+   "tags": [
+    "AI",
+    "Security",
+    "Meredith Whittaker",
+    "signal"
+   ],
+   "image": ""
+  },
+  {
+   "title": "In the Weights is your new AI-centric vanity search",
+   "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "So ... what's your In the Weights score?",
+   "published": "2026-06-20T19:41:11+00:00",
+   "age_label": "4小时前",
+   "tags": [
+    "AI",
+    "in th weights",
+    "Joey Flynn",
+    "thomas dimson"
+   ],
+   "image": ""
+  },
+  {
+   "title": "The Atlantic created a searchable database of the music used to train AI",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+   "source": "The Verge AI",
+   "platform": "theverge",
+   "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o...",
+   "published": "2026-06-20T18:46:48+00:00",
+   "age_label": "5小时前",
+   "tags": [
+    "AI",
+    "Entertainment",
+    "Music",
+    "News"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+   "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+   "published": "2026-06-20T16:39:57+00:00",
+   "age_label": "7小时前",
+   "tags": [
+    "AI",
+    "Anthropic",
+    "Google",
+    "John Jumper"
+   ],
+   "image": ""
+  },
+  {
+   "title": "SK 海力士大规模招聘引发行业巨震，中小规模芯片企业“深感不安”",
+   "url": "https://www.ithome.com/0/966/575.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，据韩媒 The Elec 昨天（19 日）报道，SK 海力士罕见地启动数百人规模的芯片设计工程师招聘，令韩国芯片设计行业感到不安。 业内消息人士透露，SK 海力士正通过面向新员工的滚动招聘项目招募 数百名设计工程师 ，申请将于 6 月 23 日截止。单独针对设计岗位展开如此大规模招聘，在业内 极为少见 。 业内担心，SK 海力士吸引的可能不只是应届毕业生，还包括已经在芯片设计公司 工作一至三年的年轻工程师 。半导体设计人才本就稀缺，通常需要多年培养才能独当一面。 一家芯片设计公司 CEO 担心，大型企业打着应届生招聘的名义招人，实际效果可能是吸走刚进入行业不久的...",
+   "published": "2026-06-20T15:17:47+00:00",
+   "age_label": "8小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "《幻兽帕鲁》发行主管：我们没必要使用生成式 AI，因为玩家不想要",
+   "url": "https://www.ithome.com/0/966/571.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，当地时间 18 日，据外媒 GamesRadar 报道，《幻兽帕鲁》开发商 Pocketpair 发行与传播负责人约翰 · 伯克利表示，玩家对生成式 AI 的反感，本身就是 游戏公司不去用 的充分理由。“如果玩家不想要，那大概就到此为止了，对吧？也没什么可讨论的。” 伯克利此前已经否认 Pocketpair 使用生成式 AI 制作《幻兽帕鲁》的生物或其他素材。这次，他进一步确认，Pocketpair 完全没有使用生成式 AI。 “我相信确实有人在用，但生成式 AI 不适合我们 。我个人无法想象生成式 AI 会变得多么主流。或许有些大公司正在用生成式 AI‘节省时...",
+   "published": "2026-06-20T14:42:00+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "NASA 测试新一代月球 / 火星探测车原型 ERNEST：含主动悬挂与 AI 强化学习系统，最高时速 1km/h 超出毅力号、好奇号一个数量级",
+   "url": "https://www.ithome.com/0/966/570.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，当地时间 6 月 18 日，NASA 公布了其四轮巡视器原型车的最新研发进展。 据介绍，这辆原型车于 2026 年 3 月在加州科罗拉多沙漠完成了一项野外测试，在工程师仅提供最低限度干预的情况下行驶了约 26 公里。 该原型车名为 ERNEST（Exploration Rover for Navigating Extreme Sloped Terrain，用于极端陡坡地形导航的探索巡视器），正在被 NASA 用来推进机器人自主能力和崎岖地形穿越能力的研发。 ERNEST 长 1.2 米，它采用了不同于“好奇号”与“毅力号”所使用六轮摇臂式（rocker-bogi...",
+   "published": "2026-06-20T14:36:02+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Take-Two 前 AI 负责人：我担心生成式 AI 会败坏整个 AI 领域的声誉",
+   "url": "https://www.ithome.com/0/966/565.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，当地时间 19 日，据外媒 Eurogamer 报道，Take-Two 曾设有专门研究 AI 如何帮助游戏开发的内部团队，负责人是卢克 · 迪肯博士。然而，Take-Two 据报已在今年 4 月裁撤整个 AI 研究团队。 在越来越多游戏公司公开或暗中把生成式 AI 纳入开发流程之际，Take-Two 的决定显得颇为意外。不过，被裁员工大多并不负责生成式 AI，而是在研究更广泛的 AI 技术。 据IT之家了解，团队最早于 2019 年在手游开发商 Zynga 内部成立。Take-Two 在 2022 年收购 Zynga 后，又把研究范围扩大到整个公司。 迪肯接受 ...",
+   "published": "2026-06-20T13:23:06+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
+   "url": "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship",
+   "source": "IEEE Spectrum",
+   "platform": "ieee",
+   "summary": "Salome Mikadze-Struk is no stranger to adversity. The daughter of refugees, she built a software-development business as an undergraduate at the height of the COVID-19 pandemic and kept it running despite the outbreak of war in her native Ukraine . Now, she’s drawing on her experiences to mentor tec...",
+   "published": "2026-06-20T13:00:01+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "Typedepartments",
+    "Ukraine",
+    "Startups",
+    "Resiliance",
+    "Entrepreneurship"
+   ],
+   "image": "https://spectrum.ieee.org/media-library/photo-of-woman-sitting-with-her-face-turned-toward-the-camera.jpg?id=66957341&width=980"
+  },
+  {
+   "title": "纽约大学金融学教授达摩达兰警告：AI 泡沫破裂后果恐比互联网泡沫更严重",
+   "url": "https://www.ithome.com/0/966/555.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，据外媒 The Decoder 今天（20 日）报道，纽约大学金融学教授阿斯沃斯 · 达摩达兰警告称，如果 AI 行业泡沫破裂，冲击可能比 2000 年前后的互联网泡沫更严重。 达摩达兰认为，AI 热潮与互联网泡沫存在一个 关键区别 ：AI 行业需要投入 巨额资金建设数据中心 等实体基础设施，而且相当一部分投资依靠举债完成。一旦市场大幅调整，损失不会仅由股东承担，还可能 向整个社会扩散 。 达摩达兰还怀疑，AI 商业模式 能否实现外界期待的规模效应 。他认为，AI 与传统软件不同，用户越多并不意味着单位成本会自然趋近于零。每增加一次使用，AI 都要消耗更多算力，...",
+   "published": "2026-06-20T12:56:05+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "育碧联合创始人 Claude Guillemot 飞机失事，享年 69 岁",
+   "url": "https://www.ithome.com/0/966/552.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，育碧联合创始人 Claude Guillemot 于当地时间 6 月 19 日傍晚在法国西部拉博勒附近遭遇飞机失事，不幸去世，享年 69 岁。 据大西洋卢瓦尔省消防部门通报，一架从雷恩起飞的双引擎塞斯纳 421 螺旋桨飞机在接近拉博勒机场时坠入一片田地，机上两名乘客全部遇难。事发时间约为 17 时 50 分，飞机在偏离降落轴线的位置坠毁，残骸起火，约 61 名消防员抵达现场后迅速控制住了火势。 Claude Guillemot 是这架飞机的所有者，同时也是拉博勒飞行俱乐部成员。法媒报道称，他在此次飞行中亲自操控飞机，同机另有一名来自雷恩的飞行教员。由于遗体识别工...",
+   "published": "2026-06-20T12:39:57+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "谷歌 Gemini 联席负责人沙泽尔转投 OpenAI，奥尔特曼亲自发文欢迎",
+   "url": "https://www.ithome.com/0/966/551.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，谷歌前工程副总裁、Gemini 技术联席负责人诺姆 · 沙泽尔宣布离职，转投 OpenAI。 IT之家获悉，当地时间 18 日，沙泽尔在 X 上宣布，离开谷歌是一个艰难决定，他为谷歌团队以及团队共同取得的成果感到自豪，“很高兴与大家分享，我将加入 OpenAI，也期待与那里的优秀团队共事。决定离开并不容易。我为谷歌出色的团队以及我们共同取得的一切成果感到无比自豪。能够参与其中，是我的荣幸，也是一段愉快的经历……” OpenAI CEO 萨姆 · 奥尔特曼随后发文欢迎沙泽尔加入：从 OpenAI 创立之初开始，沙泽尔 就是他最希望合作的人之一 。“只花了 10 年...",
+   "published": "2026-06-20T12:37:50+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "高通 CEO 安蒙：智能眼镜市场有望比肩手机",
+   "url": "https://www.ithome.com/0/966/548.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，当地时间 19 日，据美国 CNBC 报道，高通 CEO 安蒙认为，AI 智能体将改变人们使用应用和电子设备的方式。高通的芯片广泛用于各类消费电子设备，安蒙设想的未来入口之一，是 内置摄像头和显示屏的智能眼镜 。 比如，用户走在路上时突然想起需要预订餐厅，不必再拿出手机搜索推荐地点，只需告诉数字助理自己的需求。数字助理随后调用餐厅预订、支付和电子邮件等多个应用，完成预订并发送确认信息。 安蒙认为，AI 智能体可以协调不同应用完成整个流程。应用本身不会消失但会发生变化，智能体将成为新的应用。 多年来，智能手机不断进化，不仅出现折叠屏形态，摄像头性能也越来越强。不过...",
+   "published": "2026-06-20T12:11:52+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "英伟达开始搞机器人自己研究机器人那套了…",
+   "url": "https://www.qbitai.com/2026/06/437041.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "为了让你烧token，英伟达已经卷到机器人身上了",
+   "published": "2026-06-20T12:06:20+00:00",
+   "age_label": "11小时前",
+   "tags": [
+    "资讯",
+    "机器人",
+    "英伟达"
+   ],
+   "image": ""
+  },
+  {
+   "title": "4 easy tweaks you can make to your TV soundbar for more immersive audio",
+   "url": "https://www.zdnet.com/article/soundbar-settings-sports-tips/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Some of your favorite soundbar settings for music and movies aren't compatible with live sports broadcasts. Here's my fix.",
+   "published": "2026-06-20T12:00:41+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI buildout gives tech investors new reasons to watch bond market",
+   "url": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.",
+   "published": "2026-06-20T12:00:01+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+   "url": "https://www.qbitai.com/2026/06/437023.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "全球最聪明的人之一，成了AI最狂热的布道者",
+   "published": "2026-06-20T11:56:57+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "陶哲轩"
+   ],
+   "image": ""
+  },
+  {
+   "title": "英国科学家攻克量子传感器噪声难题，有助于探索暗物质与早期宇宙引力波",
+   "url": "https://www.ithome.com/0/966/546.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，据新华社今日报道，英国帝国理工学院牵头的一支科研团队首次在接近实际应用的实验条件下验证了一项新型量子传感技术，通过比较两台原子干涉仪的测量结果，有效消除了激光带来的背景噪声，即使单次测量信号被噪声淹没，系统仍能恢复出真实信号。 这项成果为未来建设大规模量子传感器奠定了技术基础，为捕捉极早期宇宙的引力波信号和难以探测的暗物质踪迹铺平了道路。 ▲ 在将原子冷却至接近绝对零度之前，对蓝色激光的偏振进行调整 该研究属于英国原子干涉仪观测站与网络（AION）计划的一部分，由英国帝国理工学院牵头，联合伯明翰大学、剑桥大学、利物浦国王学院、牛津大学以及英国科学技术设施委员会卢...",
+   "published": "2026-06-20T11:43:42+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I made 7 changes to my Android Auto setup for better functionality when I'm driving",
+   "url": "https://www.zdnet.com/article/android-auto-6-ways-to-customize/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "You can customize Android Auto to make it more tailored to your ideal driving experience - all in just minutes.",
+   "published": "2026-06-20T11:00:51+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+   "url": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to jobs cuts in future Lloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks before its chief executive, Charlie Nunn, unveils a strategic plan for the 261-year old lender. Th...",
+   "published": "2026-06-20T11:00:03+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Lloyds Banking Group",
+    "AI (artificial intelligence)",
+    "Banking",
+    "Technology sector",
+    "Business"
+   ],
+   "image": "https://i.guim.co.uk/img/media/56a9f6722e09f125f1ef23bce556074b0c16807c/438_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=53776728861d4aa1a17856fb09dbfc82"
+  },
+  {
+   "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+   "url": "https://www.qbitai.com/2026/06/436996.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "速度快7倍，成本只有Veo 3的1/2000",
+   "published": "2026-06-20T10:42:35+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AMD 锐龙 PRO 9965X3D 领衔：技嘉 AM5 主板新增支持五款商用桌面 CPU",
+   "url": "https://www.ithome.com/0/966/541.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，AMD 本月初在 COMPUTEX 2026 展前推出了 AMD 锐龙 9 PRO 9965X3D 处理器与锐龙 AI PRO 400 系列处理器，并宣布搭载该 CPU 的商用台式机将于今年第 3 季度上市。 锐龙 9 PRO 9965X3D 是首批集成 3D V-Cache 的 MSDT 级商用处理器，相对于消费端锐龙 9 9950X3D 仅降低了加速频率（5.7 GHz 降至 5.5 GHz）。 @unikoshardware 发现，技嘉旗下 X870、B850、B840、A620 等一系列 AM5 主板已经率先支持 9965X3D 等多款商用桌面处理器，包...",
+   "published": "2026-06-20T10:19:04+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+   "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+   "published": "2026-06-20T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "Gear",
+    "Gear / Gear News and Events",
+    "apple",
+    "iPhone",
+    "Apps"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AI 大模型驱动银行信贷业务的全链路变革｜AICon上海",
+   "url": "https://www.infoq.cn/article/TbCYkGW0XrYuhSK1NE2p?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-20T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+   "url": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Does a thought-experiment about US ascendancy in the technology say as much about AI jitters as it does about the reality? It’s 2031 and the US and China are about to tear Europe into pieces. The US ploughed vast sums into datacentres and the EU did not. China built robots and Europe did not. Americ...",
+   "published": "2026-06-20T09:59:12+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Technology",
+    "Trump administration",
+    "US politics",
+    "Silicon Valley"
+   ],
+   "image": "https://i.guim.co.uk/img/media/b3962d03da5e05ce790c02cf6de8f24dc3b59578/599_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=8336ba341e8bca9208af6edd22e89962"
+  },
+  {
+   "title": "特朗普：不再将Anthropic视为国家安全威胁",
+   "url": "https://36kr.com/newsflashes/3861259140764678?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "在6月19日发布的《阿克西奥斯秀》（《Axios Show》）访谈节目中，美国总统特朗普表示，他已经不再将美国人工智能公司安特罗匹克（Anthropic）视为国家安全威胁。 （财联社）",
+   "published": "2026-06-20T09:49:42+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+   "url": "https://www.qbitai.com/2026/06/436980.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "Gemini 3.5 Pro呢？",
+   "published": "2026-06-20T09:42:18+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "LM Studio 与苹果合作，成功用四台 Mac Studio 运行万亿参数 Kimi K2.6 大模型",
+   "url": "https://www.ithome.com/0/966/539.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，在苹果 WWDC 2026 期间，LM Studio 与苹果合作在四台 Mac Studio 集群上成功运行起了月之暗面万亿参数大模型 Kimi K2.6，并通过 LM Link 实现从 MacBook Neo 和 iPhone 的安全远程访问。 IT之家此前报道，Kimi K2.6 大模型总参数规模达到 1 万亿，采用 MoE 架构，激活参数为 320 亿，支持长上下文、多模态输入以及智能体任务处理。 据 LM Studio 官方介绍，在此次演示中，四台 Mac Studio 通过苹果的内存共享和互联技术形成集群，总统一内存容量达到约 1.5TB，能够承载这一...",
+   "published": "2026-06-20T09:37:07+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+   "url": "https://www.qbitai.com/2026/06/436966.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "抢人最猛的Meta，似乎先从内部裂开了",
+   "published": "2026-06-20T09:36:31+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "AI"
+   ],
+   "image": ""
+  },
+  {
+   "title": "挪威将禁止小学生使用生成式人工智能",
+   "url": "https://36kr.com/newsflashes/3861257682129921?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "挪威首相斯特勒6月19日表示，为防止对学习产生负面影响，挪威将禁止小学生使用生成式人工智能工具，同时限制人工智能工具在高年级学生教育中的使用。根据挪威政府公布的方案，6到13岁的小学生原则上不得使用人工智能工具；14到16岁的初中生可在教师的严密监管下谨慎使用此类工具。17到19岁的高中生应学习如何恰当地使用人工智能工具，以便为后续的高等教育和未来的职场环境做好准备。（央视新闻）",
+   "published": "2026-06-20T09:30:48+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Granta stops publishing short story award winners over AI controversy",
+   "url": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furore The prominent literary magazine Granta will no longer publish the winning entries of the annual Commonwealth short story prize after one of this year’s winners drew widespread accusations of...",
+   "published": "2026-06-20T09:00:04+00:00",
+   "age_label": "15小时前",
+   "tags": [
+    "Granta",
+    "Magazines",
+    "Short stories",
+    "Books",
+    "Culture"
+   ],
+   "image": "https://i.guim.co.uk/img/media/d6ddf787a88adcbf56f334c690a91ffc8eef637d/352_0_4014_3210/master/4014.jpg?width=140&quality=85&auto=format&fit=max&s=50db86e217ab68021570d7a3b774e142"
+  },
+  {
+   "title": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert",
+   "url": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
+   "source": "CNBC Tech",
+   "platform": "cnbc",
+   "summary": "Workers from tech industries receive bonus worth millions of won, prompting the Bank of Korea to warn of the upward pressure to inflation.",
+   "published": "2026-06-20T08:59:40+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "微信 AI 助手“小微”灰度上线，可通过文字或语音对话操作微信原生功能",
+   "url": "https://www.ithome.com/0/966/534.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，微信原生 AI 助手“小微”今日开始扩大灰度测试范围，多个平台上都出现了用户反馈。 腾讯客服回复IT之家称： “小微”目前仍处于测试阶段，支持通过文字或语音对话操作微信原生功能，例如调整设置、发送消息、拨打电话、点外卖、生成图片等 。客服同时表示，灰度测试覆盖多个系统，具体参与资格以实际页面显示为准 。 微信小微（智能助手）是微信团队在小范围内测的原生 AI 助手，您可以在微信主界面左上角点击「小微」标志进入。 目前该功能仍在小范围内测中，若未获得内测名额，建议您后续留意版本更新。 小微支持通过文字或语音对话操作微信原生功能，调起小程序提供日常服务，还能帮助您搜...",
+   "published": "2026-06-20T08:59:23+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国科学家提出“AI 语言”：人类难懂但模型能懂，文本压缩至 27.9% 仍保留 99.5% 语义",
+   "url": "https://www.ithome.com/0/966/529.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，上海交通大学、悉尼大学、合肥工业大学、西安交通大学、南京大学的研究人员于 6 月 18 日在预印本平台 arXiv 上发表了一项有趣的研究。 正如论文标题《大语言模型并不总是需要可读语言》，他们发现 AI 能够理解人类理解不了的精简语言，所以 AI 提示词中的大部分自然语言都属于浪费 Token 的冗余信息。 他们提出了一种名为“BabelTele”的文本压缩方法，能够生成让人类几乎无法直接阅读的内容，但大语言模型（LLM）却可以准确理解其中的含义。 其研究的核心思想是，当前大语言模型之间的交互普遍采用为人类设计的自然语言，这包含了大量冗余信息。BabelTel...",
+   "published": "2026-06-20T08:18:02+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 账单飙升？Netflix 工程师开源项目 Headroom 爆火，号称可节省 60%-95% 词元消耗量",
+   "url": "https://www.ithome.com/0/966/527.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，Netflix 高级工程师 Tejas Chopra 开发了一款名为 Headroom 的开源工具，旨在解决 AI 应用日益高昂的词元（Token）成本问题。 该项目于 2026 年 1 月开源，目前已更新至 v0.26.0 版本，但直到近日突然在海外以及国内 AI 圈内爆火，几乎能在各大平台看到推荐它的帖子。截至IT之家发稿，该项目在 GitHub 上已获得超过 3.96 万颗星标。 根据 Tejas Chopra 在开源峰会上的分享，Headroom 累计已帮助用户节省约 70 万美元（IT之家注：现汇率约合 474.9 万元人民币）的成本，并释放了超过 2...",
+   "published": "2026-06-20T07:54:01+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "我国量子通信新突破：潘建伟团队构建芯片化量子通信网络，突破 540km 光纤传输距离",
+   "url": "https://www.ithome.com/0/966/525.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，合肥国家实验室、中国科学技术大学的潘建伟、徐飞虎等研究人员，联合中山大学、上海交通大学等单位，成功实现了基于双场量子密钥分发（TF-QKD）协议的芯片化量子通信网络。 相关研究成果于 2026 年 6 月 19 日在线发表于国际学术期刊《自然 · 光子学》（Nature Photonics）。 图 1 氮化硅与薄膜铌酸锂混合集成光子芯片 量子密钥分发（QKD）技术能够为远距离用户之间提供具有信息论安全性的密钥，结合一次一密等加密方式，可在原理上实现无条件安全的通信。 双场量子密钥分发协议是近年来提出的重要方案，它能够突破传统 QKD 成码率的线性界限，显著拓展传...",
+   "published": "2026-06-20T07:51:31+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "环保账单量化：全球最富 10% 消费群体每年“欠”地球 1.7 至 5.7 万亿美元",
+   "url": "https://www.ithome.com/0/966/524.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，荷兰莱顿大学最新研究量化了环保代价， 指出全球最富有 10% 的消费群体每年对环境造成的经济损失达 1.7 至 5.7 万亿美元（IT之家注：现汇率约合 11.53 至 38.67 万亿元人民币）。 该项目由荷兰莱顿大学环境科学家 Inge Schrijver、Rutger Hoekstra 和 Paul Behrens 带领，相关成果于 6 月 18 日发表在《Communications Sustainability》上，用货币量化了这一群体的环境破坏账单。 研究基于 2017 年全球消费足迹数据，核算了最富 10% 消费者在二氧化碳排放、生物多样性损失、氮...",
+   "published": "2026-06-20T07:50:05+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Meta 员工士气低迷之际，马斯克 X 平台趁机挖人宣称“零食管够”",
+   "url": "https://www.ithome.com/0/966/523.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，据《商业内幕》20 日（今天）报道，Meta 和 X 最近又开辟了一个新的竞争领域：办公室零食福利。 Meta CTO 安德鲁 · 博斯沃思本月早些时候在内部备忘录中透露，在经历多轮裁员和 AI 战略调整后，Meta 将采取措施提振员工士气，包括 改善办公室茶水间供应的零食和饮料 。 随后，马斯克的 X 平台随即在零食福利上向 Meta 发起正面竞争。X 产品负责人尼基塔 · 比尔发文招揽 Meta 员工，“被忽视的 Meta 员工：X 正在招聘 Web 和数据工程师及科学家。我们会 匹配甚至超过任何零食预算报价 。” 比尔还要求求职者在申请软件工程岗位时 写下...",
+   "published": "2026-06-20T07:30:50+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "广东：将依托省开源鸿蒙适配中心，推进多行业示范应用和规模化适配",
+   "url": "https://www.ithome.com/0/966/519.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，广东省人民政府于 6 月 19 日印发《广东省推进服务业扩能提质实施方案》，其中提到有关部门将进一步建设人工智能基础产业，打造具有国际竞争力的软件和信息技术服务业创新中心。 参考《方案》获悉，在软件和信息技术服务业方面，有关部门将促进各大公司深入实施核心软件攻关工程，聚焦基础软件和重点领域工业软件，组织重大科技攻关，突破关键核心技术。加 快开源生态建设，依托省开源鸿蒙适配中心，推进多行业示范应用和规模化适配 ，在制造业、能源、交通、海洋、泛家居等领域落地示范应用。建设国内领先的人工智能开源社区。 IT之家注意到，今年 5 月 28 日，开源鸿蒙开发者大会 202...",
+   "published": "2026-06-20T07:14:01+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "马斯克 SpaceXAI 为微软 Word / Excel / PowerPoint 推 Grok 扩展，AI 提升生产力",
+   "url": "https://www.ithome.com/0/966/517.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 20 日消息，马斯克旗下 SpaceXAI 公司昨日（6 月 19 日）面向微软 Word、Excel 以及 PowerPoint 三款生产力工具，推出 Office 扩展。 用户安装扩展后，Office 应用右侧出现可对话的侧边栏，支持自然语言指令操控文档、表格和演示文稿。 在 Word 中，用户只需提供粗略草稿和格式要求，Grok 便能自动生成完整文档。它还能识别语法错误、提出表述建议，并允许用户逐项核对修改。 Grok 可调用 X 平台及互联网实时信息，为文章补充详细分析和数据，适合撰写报告、新闻稿等场景。 Excel 方面，用户可以调用 Grok 来分析选中区域的数据...",
+   "published": "2026-06-20T07:10:21+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+   "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+   "published": "2026-06-19T22:40:14+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Security",
+    "Anthropic",
+    "artificial intelligence",
+    "cybersecurity"
+   ],
+   "image": ""
+  },
+  {
+   "title": "This HP Omen gaming laptop is $700 off on Amazon - and it's a serious powerhouse",
+   "url": "https://www.zdnet.com/article/hp-omen-gaming-laptop-amazon-prime-day-deal-2026/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "HP's Omen gaming laptop has dropped to $1,599, making it a great early deal for gamers on a budget.",
+   "published": "2026-06-19T22:39:00+00:00",
+   "age_label": "1天前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "为AI芯片“续命”，中国人造钻石等来了大机会",
+   "url": "https://36kr.com/p/3859519082320898",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "他刚融了27亿，李飞飞也投钱了",
+   "url": "https://36kr.com/p/3861004391257094",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
+   "url": "https://36kr.com/p/3859419411534850",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "硅谷最抢手的新岗位出现了",
+   "url": "https://36kr.com/p/3859434968185734",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 成绩单背后，藏着一位华人“出题人”",
+   "url": "https://36kr.com/p/3859842727263113",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "都说AI好用，为什么人效还是一样？",
+   "url": "https://36kr.com/p/3860130092602628",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国机器人充当间谍，还操纵儿童？美国泼脏水背后是一门生意",
+   "url": "https://36kr.com/p/3860779263956226",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "刚刚，诺贝尔奖得主成Anthropic新员工",
+   "url": "https://36kr.com/p/3860814933660674",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "花钱雇AI当同事，我的生意怎么样了？",
+   "url": "https://36kr.com/p/3860798447686920",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
+   "url": "https://36kr.com/p/3859926114161665",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI越强，越要“杀死”过去的自己",
+   "url": "https://36kr.com/p/3859351868888068",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "美国AI狂飙，亚洲抢先吃饱",
+   "url": "https://36kr.com/p/3858605472617475",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "入局AI新风向，WAIC 2026全球开票！",
+   "url": "https://36kr.com/p/3858594101040389",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "今天起，Claude Design要把设计师和程序员变成同一种人了",
+   "url": "https://36kr.com/p/3858531433780228",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "开发者冲爆了，全球前十AI Lab无限免费，一周烧出3.12万亿Token",
+   "url": "https://36kr.com/p/3858531519288326",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
