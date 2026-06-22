@@ -1,0 +1,732 @@
+{
+ "date": "2026-06-22",
+ "generated_at": "2026-06-22 08:00",
+ "total": 56,
+ "sources": [
+  "The Guardian Tech",
+  "Wired AI",
+  "Hacker News",
+  "InfoQ 中文",
+  "36氪",
+  "IT之家",
+  "TechCrunch AI",
+  "36氪 AI",
+  "量子位",
+  "少数派",
+  "ZDNet AI"
+ ],
+ "summary": {
+  "overview": "今日共采集 56 篇 AI 相关资讯（国内 23 篇，海外 33 篇）。热门话题集中在：大模型发布、AI 应用与商业化、AI Agent、AI 硬件与芯片。最受关注：「Lloyds Banking Group to hire 3...」。",
+  "highlights": [
+   {
+    "tag": "🔴",
+    "text": "**[The Guardian Tech]** Lloyds Banking Group to hire 300 tech experts to work on AI — Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to job cuts in future Lloyds Banking Group has launched a"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[量子位]** 具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角 — 2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 9600亿AI独角兽，又要融资了"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[36氪]** 中信建投：国产模型加速迭代，算力景气度持续 — 36氪获悉，中信建投研报称，国内模型持续迭代，GLM-5.2、Kimi K2.7 Code强化1M上下文、长程Agent、Agentic Coding和真实工程交付能力，推动国产模型从通用问答转向开发者工具和企业级工作流。Kimi补强国际化运营能力，DeepSeek融资强化头部模型产业化预期，微信A"
+   },
+   {
+    "tag": "🟠",
+    "text": "**[36氪]** 中信建投：继续看好AI算力作为本轮行情中长期核心主线的后续表现 — 36氪获悉，中信建投研报称，市场短期呈现强劲反弹行情，但反弹完成后A股或将进入震荡期。继续看好AI算力作为本轮行情中长期核心主线的后续表现。陆家嘴金融论坛等国内政策红利有望继续推动双创板块上涨，预计创业板和科创板将继续保持强势。而估值高企和交易结构可能成为后续科技主线阶段性切换的主要原因。重点关注A"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[IT之家]** 韩国央行将三星 SK 海力士巨额奖金列为通胀风险因素 — IT之家 6 月 22 日消息，韩国央行将三星电子与 SK 海力士发放的绩效奖金列为该国通胀稳定的风险因素。该行在 6 月 17 日发布的物价稳定报告中警示，企业向每名员工发放数十万美元奖金，可能带动整体经济体薪资水平上行。 韩国央行调研发现，今年一季度信息技术行业专项奖金同比大涨 60.6%，而其"
+   },
+   {
+    "tag": "🔵",
+    "text": "**[TechCrunch AI]** When the Trump administration cracks down on Anthropic, who benefits? — On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for th"
+   },
+   {
+    "tag": "🔴",
+    "text": "**[36氪 AI]** 具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角"
+   }
+  ],
+  "trend": "今日 AI 资讯主要围绕大模型发布、AI 应用与商业化、AI Agent展开。海外报道占比较大，国际 AI 动态值得密切关注。AI Agent 相关话题热度持续走高，正在从概念验证走向规模化落地。",
+  "raw_text": "[智能提取摘要] 基于 56 篇文章的关键词分析和重要性排序自动生成。"
+ },
+ "items": [
+  {
+   "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
+   "url": "https://36kr.com/newsflashes/3863566715196672?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "近日，贝莱德、富达国际、景顺等全球资管巨头密集举办2026年年中投资展望会，研判下半年投资风向。在外资巨头的投资展望会上，AI毫无悬念地继续占据议题核心，被普遍视为当前全球市场最具确定性的结构性投资机会。与此同时，“中国”也成为被频频提及的关键词。凭借估值优势与商业化落地的巨大潜力，A股AI板块被共同定位为全球科技竞赛中难得的“价值洼地”。（上证报）",
+   "published": "2026-06-21T23:51:15+00:00",
+   "age_label": "9分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "A股科技板块有望与全球AI科技行情形成共振，机构：资金或持续向高景气方向缩圈",
+   "url": "https://36kr.com/newsflashes/3863539977295104?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "端午节前四个交易日，A股震荡上行，创业板指与科创50指数双双创下历史新高，科技板块表现出明显的相对优势。与此同时，传统价值板块持续回调，市场风格分化进一步加剧。展望后市，券商策略研报认为，外部扰动因素阶段性落地后，市场不确定性显著下降，行情有望继续向纵深演绎，结构上或逐步呈现扩散特征。后续，A股行情结构性分化，资金持续向高景气方向缩圈的特征仍将延续。（上证报）",
+   "published": "2026-06-21T23:37:53+00:00",
+   "age_label": "22分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信建投：国产模型加速迭代，算力景气度持续",
+   "url": "https://36kr.com/newsflashes/3863099932464386?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信建投研报称，国内模型持续迭代，GLM-5.2、Kimi K2.7 Code强化1M上下文、长程Agent、Agentic Coding和真实工程交付能力，推动国产模型从通用问答转向开发者工具和企业级工作流。Kimi补强国际化运营能力，DeepSeek融资强化头部模型产业化预期，微信AI灰度测试则显示AI入口正从独立App走向超级应用生态，有望提升模型调用频次和推理token消耗。海外方面，Anthropic收入、大客户数和融资规模继续上修，企业工作流和Agentic Coding需求仍处扩张通道。算力侧，AI云厂商backlog增长，GPU租赁价格上行，CPU、DRAM/NAN...",
+   "published": "2026-06-21T23:34:15+00:00",
+   "age_label": "26分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "私募备案高位分化，两类权益策略潜力可观",
+   "url": "https://36kr.com/newsflashes/3863511055143939?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "今年以来，A股市场震荡走强，以AI为代表的科技主线显现强劲的赚钱效应。这股暖流直接传导至产品发行端，证券私募行业的新产品备案表现出显著的高热态势。然而，总量的繁荣之下，行业竞争格局正在重塑。当头部机构凭借稳健收益大举跑马圈地时，不少中小机构的产品募资不尽如人意。股票策略与多资产策略成为今年新产品发行的两大主力军，多位业内人士表示，这两类策略下半年的新产品增长潜力预计较为可观。（中证网）",
+   "published": "2026-06-21T23:28:28+00:00",
+   "age_label": "31分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中信建投：继续看好AI算力作为本轮行情中长期核心主线的后续表现",
+   "url": "https://36kr.com/newsflashes/3863094039680258?f=rss",
+   "source": "36氪",
+   "platform": "36kr",
+   "summary": "36氪获悉，中信建投研报称，市场短期呈现强劲反弹行情，但反弹完成后A股或将进入震荡期。继续看好AI算力作为本轮行情中长期核心主线的后续表现。陆家嘴金融论坛等国内政策红利有望继续推动双创板块上涨，预计创业板和科创板将继续保持强势。而估值高企和交易结构可能成为后续科技主线阶段性切换的主要原因。重点关注AI算力、工业金属、石化、机械、新能源等，逢低布局：银行、非银、公用事业、煤炭等。",
+   "published": "2026-06-21T23:17:18+00:00",
+   "age_label": "43分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "微软将默认向符合条件 Win11 设备自动安装 Microsoft 365 Copilot",
+   "url": "https://www.ithome.com/0/966/741.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 22 日消息，据 Windows Latest 报道，尽管公众强烈反对，且微软此前在强制预装 Microsoft 365 Copilot 一事上看似流露过些许歉意，但如今这家企业又故态复萌。 根据用户设备上安装的 Office 版本不同，即便从未主动使用，Microsoft 365 Copilot 相关组件也正悄悄重新侵入用户的办公套件。 微软在管理后台的一则更新中悄悄证实：搭载 Microsoft 365 桌面客户端、且符合条件的 Windows 电脑，将自动安装 Microsoft 365 Copilot 应用。微软表示，如果企业管理员不希望旗下设备自动弹出这款智能助手应...",
+   "published": "2026-06-21T23:12:14+00:00",
+   "age_label": "48分钟前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+   "url": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to job cuts in future Lloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks before its chief executive, Charlie Nunn, announces a strategic plan for the 261-year-old lender. T...",
+   "published": "2026-06-21T23:02:43+00:00",
+   "age_label": "57分钟前",
+   "tags": [
+    "Lloyds Banking Group",
+    "AI (artificial intelligence)",
+    "Banking",
+    "Technology sector",
+    "Business"
+   ],
+   "image": "https://i.guim.co.uk/img/media/56a9f6722e09f125f1ef23bce556074b0c16807c/438_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=53776728861d4aa1a17856fb09dbfc82"
+  },
+  {
+   "title": "机型定位“降档”：消息称苹果 iPhone Air 2 手机仅采用 A20 标准版芯片",
+   "url": "https://www.ithome.com/0/966/738.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 22 日消息，消息源 yeux1122 透露，苹果 iPhone Air 2 将采用标准版 A20 芯片，而非 iPhone 18 Pro 系列 / iPhone Fold 的 A20 Pro 芯片，这与初代 iPhone Air 呈现鲜明区别。 作为比较，初代 iPhone Air 搭载了经过“阉割”后的 A19 Pro 芯片（5 核图形处理器），而 iPhone 17 Pro 搭载“满血版”A19 Pro（6 核图形处理器），考虑到苹果面临存储和内存成本上涨的困境，该公司或许是被迫做出这样的妥协。 如果消息属实，这代表苹果 iPhone Air 的定位在苹果产品线中进行了...",
+   "published": "2026-06-21T22:48:40+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "韩国央行将三星 SK 海力士巨额奖金列为通胀风险因素",
+   "url": "https://www.ithome.com/0/966/737.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 22 日消息，韩国央行将三星电子与 SK 海力士发放的绩效奖金列为该国通胀稳定的风险因素。该行在 6 月 17 日发布的物价稳定报告中警示，企业向每名员工发放数十万美元奖金，可能带动整体经济体薪资水平上行。 韩国央行调研发现，今年一季度信息技术行业专项奖金同比大涨 60.6%，而其他行业薪资涨幅仅 2.1%，二者差距悬殊，致使这两家芯片企业被纳入国家货币政策考量范畴。韩国央行 5 月将基准利率维持在 2.50% 不变，预测全年通胀率为 2.7%，高于 2% 的政策目标值。 去年 9 月，SK 海力士约定将 10% 的营业利润用于发放员工奖金；今年 5 月工会扬言开展为期 18...",
+   "published": "2026-06-21T22:47:58+00:00",
+   "age_label": "1小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Apertus – Open Foundation Model for Sovereign AI",
+   "url": "https://apertvs.ai/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 129 # Comments: 37",
+   "published": "2026-06-21T21:29:43+00:00",
+   "age_label": "2小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+   "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+   "published": "2026-06-21T15:28:17+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "AI",
+    "Government & Policy",
+    "Anthropic",
+    "Donald Trump",
+    "Equity podcast"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Thirsty and power hungry: Australia is in the middle of a datacentre boom – but are they good for the economy?",
+   "url": "https://www.theguardian.com/technology/2026/jun/22/australia-ai-datacentre-boom-environmental-impacts-climate-how-sustainable-is-it-artificial-intelligence",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "They’re a key part of the digital and AI economy but they come at a high environmental cost and offer few operational jobs Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast On Mamre Road, in Sydney’s outer western suburbs, there are p...",
+   "published": "2026-06-21T15:00:33+00:00",
+   "age_label": "8小时前",
+   "tags": [
+    "Technology",
+    "Technology sector",
+    "Australia news",
+    "New South Wales"
+   ],
+   "image": "https://i.guim.co.uk/img/media/fa773b86704c83641347ae3b01647f734b82d62f/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e38c74f639ce136bba4a640b8b801536"
+  },
+  {
+   "title": "华为自研 Wi-Fi 7+ 芯片级协同技术支持设备清单更新，MatePad Pro Max 平板确认在册",
+   "url": "https://www.ithome.com/0/966/735.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，华为官网更新了支持 Wi-Fi 7 / Wi-Fi 7+ 的华为手机 / 平板设备清单。可以确认的是，nova 16 全系支持 Wi-Fi 7 技术， MatePad Pro Max 平板在支持 Wi-Fi 7 的基础上，还支持 Wi-Fi 7+ 。 IT之家附支持 Wi-Fi 7 / Wi-Fi 7+ 的华为手机 / 平板设备清单如下（据介绍，Wi-Fi 7+ 是华为在 Wi-Fi 7 标准协议之上，自研的芯片级协同技术，能提升 Wi-Fi 信号较差场景下 Wi-Fi 性能和抗干扰能力，仅 HarmonyOS 6 及以上版本支持 Wi-Fi 7+）： 支持 W...",
+   "published": "2026-06-21T14:45:18+00:00",
+   "age_label": "9小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+   "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+   "published": "2026-06-21T14:40:28+00:00",
+   "age_label": "9小时前",
+   "tags": [
+    "AI",
+    "Apps",
+    "Hardware",
+    "Apple",
+    "Apple Intelligence"
+   ],
+   "image": ""
+  },
+  {
+   "title": "消息称今年 Q3-Q4 的安卓旗舰 SoC 机型起步价可能接近 6 开头",
+   "url": "https://www.ithome.com/0/966/731.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，博主 @RD观测 今日发文透露，按照目前的发展情况，今年 Q3-Q4 的安卓旗舰 SoC（2nm Pro）机型的 起步价可能会接近 6 开头（12G+256G 版本） 。 博主表示，自己指的是搭载下一代的旗舰芯，比如天玑 9600Pro / 骁龙 8Elite Gen 6 Pro（猜测）的机型。 不只是安卓阵营，据IT之家今日早些时候报道，苹果首席执行官蒂姆 · 库克（Tim Cook）本周在接受华尔街日报采访时，确认苹果公司为应对 AI 需求导致的存储芯片成本飙升， 计划上调产品售价 。彭博社马克 · 古尔曼（Mark Gurman）随后在 X 平台表示， 苹...",
+   "published": "2026-06-21T13:51:54+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "华为官网发布鸿蒙 HarmonyOS 7 (API 26) 新能力一览：空间化设计、新增多形态服务窗口等",
+   "url": "https://www.ithome.com/0/966/726.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，华为开发者官网已发布 HarmonyOS 7 (API 26) 新能力一览，系统性地展示了鸿蒙 7 的各项新功能，包括空间化设计、新增的多形态服务窗口等。 IT之家附鸿蒙 HarmonyOS 7 (API 26) 新能力一览如下： 智能化 Skill：Vibe Coding 能力助力 Skill 开发、调测、审核、上架，帮助应用功能被系统级智能入口调用。 Agent：系统能力和模型能力开放，支持 Agent 能力构建和已有 Agent 的 A2A 接入，使能应用 Agent 快速对接系统级智能入口。 视觉 AI 能力：提供视觉 AI 的基础能力和场景化控件，助力...",
+   "published": "2026-06-21T13:23:08+00:00",
+   "age_label": "10小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "OneXPlayer 壹号掌机 2026 夏季新品发布会定档 6 月 23 日，将有四款新品",
+   "url": "https://www.ithome.com/0/966/718.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，壹号掌机 (OneXPlayer) 今日正式宣布， 其 2026 夏季新品发布会将于 6 月 23 日 14:30 举行 ，宣传口号为“‘壹’机应变，‘本’领非凡”。 IT之家注意到，鉴于宣传图片中出现了英特尔的徽标， 壹号掌机此次预计将正式发布基于锐炫 G3 系列处理器的多款掌机设备 ，包括 OneXPlayer 3 (8.8\")、OneXPlayer X2 (10.95\")、OneXPlayer X2 Mini (8.8\") 和 OneXFly Apex Air (8\")。 相关阅读： 《 四种不同模具：OneXPlayer 展示多款锐炫 G3 Extrem...",
+   "published": "2026-06-21T12:09:35+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "How I set up this $17 solar panel to give my doorbell camera unlimited battery life",
+   "url": "https://www.zdnet.com/article/everexceed-5v-solar-panel-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "I didn't think that this would work, but the EverExceed 5V solar panel has done wonders for my security cameras.",
+   "published": "2026-06-21T12:00:59+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I always change these 7 phone privacy settings on every new device - here's why",
+   "url": "https://www.zdnet.com/article/phone-privacy-settings-to-disable-review-avoid-exposing-data/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Your phone holds a lot of personal information, from where you go to who you talk to every day. Here's how to limit who can access your data and when.",
+   "published": "2026-06-21T12:00:43+00:00",
+   "age_label": "11小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "消息称华为乾崑智驾 ADS 5 即将推送，鸿蒙智行旗舰车型优先搭载",
+   "url": "https://www.ithome.com/0/966/714.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，博主 @爱叨叨的Steven 今日发文透露， 华为乾崑智驾 ADS 5 即将推送 。博主表示，鸿蒙智行的几款旗舰车型优先搭载。 据IT之家此前报道， 在 4 月 23 日晚，华为乾崑智驾 ADS 5 正式发布 。算法层面，华为发布了面向自动驾驶的 AI 智能体 WEWA 2.0 架构。该架构在云端引入 Multi-Agent 博弈技术与在线强化学习机制；在车端应用了安全风险场技术进行实时安全评估，并通过 Driving Agent 模块完成出行任务的策略优化。 华为智能汽车解决方案 BU CEO 靳玉志表示， 华为乾崑智驾 ADS 5 为自动驾驶而来 。",
+   "published": "2026-06-21T11:23:48+00:00",
+   "age_label": "12小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "From pwned to kiting – an A to Z of the gaming terms you need to know",
+   "url": "https://www.theguardian.com/games/2026/jun/21/from-pwned-to-kiting-an-a-to-z-of-the-gaming-terms-you-need-to-know",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "As phrases like easter eggs and looksmaxxing enter everyday language, what other words from the world of video games might soon be mainstream? Twenty years ago, video games were seen as a niche hobby dominated by hardcore enthusiasts, tucked away in obscure online forums and gaming meet-ups. Back th...",
+   "published": "2026-06-21T11:00:29+00:00",
+   "age_label": "12小时前",
+   "tags": [
+    "Games",
+    "Culture"
+   ],
+   "image": "https://i.guim.co.uk/img/media/76bdd9f1ab909fd64cf236fa5abfbdba88d1f6d4/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3ddddcbfc6117094779ebb4f029d0f13"
+  },
+  {
+   "title": "Sennheiser just gave me a compelling reason to retire my Bose and Sony headphones",
+   "url": "https://www.zdnet.com/article/sennheiser-momentum-5-battery-repair/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "As audio quality reaches technological limits, brands are exploring alternative features.",
+   "published": "2026-06-21T11:00:09+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "古尔曼：苹果产品很快就会涨价、不会拖到秋季",
+   "url": "https://www.ithome.com/0/966/709.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，苹果首席执行官蒂姆 · 库克（Tim Cook）本周在接受华尔街日报采访时， 确认苹果公司为应对 AI 需求导致的存储芯片成本飙升，计划上调产品售价。 彭博社马克 · 古尔曼（Mark Gurman）随后在 X 平台表示，苹果产品涨价很快就会落地，不会拖到秋季。 关于苹果产品涨价一事，可以预见这一动作已经迫在眉睫。否则现在根本没有理由提前放出风声。 此外，苹果的返校季促销活动也即将开启。将涨价与促销活动结合起来，以此作为价格上涨的缓冲，这在逻辑上是完全说得通的。 无论如何，涨价很快就会落地，不会拖到秋季。 据IT之家此前报道，库克接受采访时表示，由于 AI 热潮...",
+   "published": "2026-06-21T10:34:31+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+   "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+   "source": "Wired AI",
+   "platform": "wired",
+   "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+   "published": "2026-06-21T10:30:00+00:00",
+   "age_label": "13小时前",
+   "tags": [
+    "Gear / How To and Advice",
+    "Gear",
+    "voice assistants",
+    "artificial intelligence",
+    "ChatGPT"
+   ],
+   "image": ""
+  },
+  {
+   "title": "刘强东称京东所有 AI 技术都会向海外各个国家所有伙伴开放：不希望任何企业或国家形成技术壁垒，这本质上是“剥削”",
+   "url": "https://www.ithome.com/0/966/690.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，据新浪科技消息，在今日举办的 2026 年 APEC 工商领导人中国论坛上，京东集团创始人、董事局主席刘强东宣布，从今天开始， 京东所有的 AI 技术都会向海外各个国家所有的伙伴进行开放 ，包括亚太地区。 “我们不希望任何企业或者任何一个国家，能够制造很多技术的壁垒。”刘强东表示，“ 技术壁垒本质上就是技术的剥削 ，他会掠夺其他国家的财富，只为一个国家或者一个企业提供服务，这不是我们想要的。” IT之家注意到，除了宣布京东自身的开放策略，刘强东还在现场向所有与会者发出呼吁。他呼吁与会的所有企业家、研究机构以及政府机构， 大家应该更早地对如何应对 AI 时代和机器...",
+   "published": "2026-06-21T10:15:24+00:00",
+   "age_label": "13小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "I tested the new modular ThinkPad, and it's the repairable future I've been hoping for",
+   "url": "https://www.zdnet.com/article/thinkpad-x1-carbon-gen-14-aura-edition-review/",
+   "source": "ZDNet AI",
+   "platform": "zdnet",
+   "summary": "Unveiled at CES, the 14th-gen Lenovo ThinkPad X1 Carbon Aura Edition features a redesigned double-sided motherboard and modular components.",
+   "published": "2026-06-21T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "从“机审+人审”到“AI-Native”：大模型与 Agent 驱动内容风控智能化升级｜AICon上海",
+   "url": "https://www.infoq.cn/article/qTF6xLMZmM5vJe0L9twb?utm_source=rss&utm_medium=article",
+   "source": "InfoQ 中文",
+   "platform": "infoq",
+   "summary": "点击查看原文>",
+   "published": "2026-06-21T10:00:00+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "传统玩具迎战电子产品：皮克斯动画电影《玩具总动员 5》上映 3 天总票房破 1 亿",
+   "url": "https://www.ithome.com/0/966/677.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，据猫眼专业版数据，皮克斯动画电影《玩具总动员 5》 上映 3 天， 总票房破 1 亿 。 据IT之家此前报道， 动画电影《玩具总动员 5》已于 6 月 19 日在中国内地上映 。作为《玩具总动员》系列时隔七年的回归之作，《玩具总动员 5》直击时代变迁的现实议题，讲述了在新的儿童生活场景中，传统玩具面临来自电子产品强有力的冲击与生存危机。 本片由皮克斯元老级导演安德鲁 · 斯坦顿执导，其代表作包括《机器人总动员》与《海底总动员》系列。在解释回归动机时，导演坦言该系列需要直面“玩具体验的迁移”，故事不应凝固在过去。 IT 之家小伙伴记得用 最会买购买电影票 ，享受折...",
+   "published": "2026-06-21T09:26:46+00:00",
+   "age_label": "14小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+   "url": "https://www.qbitai.com/2026/06/437198.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑”。",
+   "published": "2026-06-21T09:18:12+00:00",
+   "age_label": "14小时前",
+   "tags": [
+    "资讯",
+    "首页轮播",
+    "具身智能"
+   ],
+   "image": ""
+  },
+  {
+   "title": "AMD CEO 苏姿丰签名同款极摩客 EVO-X3 4T 机皇版曝光，126TOPS 算力第三代桌面 AI 超算中心",
+   "url": "https://www.ithome.com/0/966/662.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，近日，极摩客（GMKtec）预热了旗下全新旗舰产品 —— EVO-X3 4T AMD AI 395 机皇版，新品定位「第三代桌面 AI 超算中心」。 据极摩客官方介绍，该机也是 AMD 开发者大会上由 AMD CEO 苏姿丰亲笔签名认证的同款机型，搭载锐龙 AI Max+ 395 旗舰处理器， 内置的专用 NPU 单元可提供 126TOPS 的 AI 算力 ，是目前端侧设备中的第一梯队水准。 另外，该机无需依赖云端， 可在本地最高运行 235B 参数级别的大语言模型 ，数据全程本地存储，规避云端隐私泄露风险。除 AI 推理外，处理器的通用计算性能可覆盖办公生产力...",
+   "published": "2026-06-21T08:43:08+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "京东刘强东称将来根本不需要快递员：希望送 70 万蓝领兄弟去培训，以应对 AI 和技术发展带来的冲击",
+   "url": "https://www.ithome.com/0/966/657.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，据新浪科技报道，今日举办的 2026 年 APEC 工商领导人中国论坛上，京东集团创始人、董事局主席刘强东透露，近期，京东内部提出了“涅槃计划”， 希望把京东已有的 70 万快递员等蓝领工人，送到学校做技术培训，以应对 AI 和技术发展带来的冲击 。 将来都是机器人送货了，根本不需要快递员，一定是机器人送货，但是我并不需要我们 70 万兄弟没有饭吃、没有工作。 刘强东表示，京东因此在全国签了 120 所学校，把他们送去学校做培训，以后可以给机器人做维修、做保养。 机器都可能出故障，故障了还得人去修，这样我们把蓝领工作人员白领了，让他们住在办公室里面，不用再风里来...",
+   "published": "2026-06-21T08:11:15+00:00",
+   "age_label": "15小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "辅助驾驶≠自动驾驶：驾驶员开“智驾”转头拿饮料，不小心带偏方向盘直接撞护栏",
+   "url": "https://www.ithome.com/0/966/654.htm",
+   "source": "IT之家",
+   "platform": "ithome",
+   "summary": "IT之家 6 月 21 日消息，据贵阳交通广播分享，本月早些时候，福银高速江西南昌境内，一辆小车在行驶中忽然偏离车道撞上中央护栏， 幸无人员受伤 。 经查，驾驶人在开车时开启了车辆“智驾”功能，便没有全神留意观察路况，在转头伸手去拿饮料时， 不小心带偏方向盘 ，从而导致事故。 IT之家提醒： 辅助驾驶不等于自动驾驶 ，即使开启相关功能，驾驶员也绝不能放松警惕，驾驶人才是最终的责任主体， 开车时使用“智驾”，仍需驾驶人全程保持专注 ，时刻留意路况车况，不能分心、疲劳驾驶。 另外，根据汽车驾驶自动化分级的国家标准，驾驶自动化等级分为 0-5 级： L0 为应急辅助 L1 为部分驾驶辅助 L2 为组...",
+   "published": "2026-06-21T07:58:03+00:00",
+   "age_label": "16小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Brands using AI-generated influencers to promote products on social media",
+   "url": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency Brands promoting their products online are quietly deploying AI-generated influencers on social media, an investigation has found, prompting calls for greater transparency. The findings s...",
+   "published": "2026-06-21T06:00:23+00:00",
+   "age_label": "17小时前",
+   "tags": [
+    "AI (artificial intelligence)",
+    "Instagram",
+    "Technology",
+    "Meta",
+    "Computing"
+   ],
+   "image": "https://i.guim.co.uk/img/media/0efbcd2c58af0d916dfd83a4ac24070c42423ea1/0_694_750_600/master/750.jpg?width=140&quality=85&auto=format&fit=max&s=105b305212ddc52230786aa7fcc7d208"
+  },
+  {
+   "title": "The 100k whys of AI",
+   "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://lcamtuf.substack.com/p/the-100000-whys-of-ai Comments URL: https://news.ycombinator.com/item?id=48616017 Points: 164 # Comments: 97",
+   "published": "2026-06-21T05:45:21+00:00",
+   "age_label": "18小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "To the tablet and beyond: does Toy Story 5 go hard enough on technology?",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/21/toy-story-5-go-hard-enough-on-technology",
+   "source": "The Guardian Tech",
+   "platform": "guardian",
+   "summary": "The animated sequel sets up a tug-of-war between physical and digital play for children but is still eager not to be an anti-tech screed For more than 30 years, Pixar’s signature Toy Story series has been entertaining children while giving voice to their parents’ anxieties. This is especially pronou...",
+   "published": "2026-06-21T05:00:21+00:00",
+   "age_label": "18小时前",
+   "tags": [
+    "Toy Story 5",
+    "Animation in film",
+    "Pixar",
+    "Technology",
+    "Film"
+   ],
+   "image": "https://i.guim.co.uk/img/media/59e5ad2259b960f9308eca69d95b1dc233775e9c/183_0_2016_1614/master/2016.jpg?width=140&quality=85&auto=format&fit=max&s=ccdb04d27ed441fb0f38ec229ea76bb4"
+  },
+  {
+   "title": "Don’t use AI to write things that you present as your own work",
+   "url": "https://www.satisfice.com/blog/archives/488148",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://www.satisfice.com/blog/archives/488148 Comments URL: https://news.ycombinator.com/item?id=48615776 Points: 68 # Comments: 64",
+   "published": "2026-06-21T04:50:46+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+   "url": "https://www.qbitai.com/2026/06/437141.html",
+   "source": "量子位",
+   "platform": "qbitai",
+   "summary": "一个月只要340块",
+   "published": "2026-06-21T04:46:07+00:00",
+   "age_label": "19小时前",
+   "tags": [
+    "资讯",
+    "Deepseek",
+    "魔兽世界"
+   ],
+   "image": ""
+  },
+  {
+   "title": "Building reliable agentic AI systems",
+   "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://martinfowler.com/articles/reliable-llm-bayer.html Comments URL: https://news.ycombinator.com/item?id=48615680 Points: 177 # Comments: 46",
+   "published": "2026-06-21T04:28:39+00:00",
+   "age_label": "19小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 工作流实践：100% Vibe Coding 完成 Game Jam 游戏开发",
+   "url": "https://sspai.com/post/110972",
+   "source": "少数派",
+   "platform": "sspai",
+   "summary": "Agent 和人一样离不开闭环。 查看全文",
+   "published": "2026-06-21T02:30:10+00:00",
+   "age_label": "21小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "When I reject AI code even if it works",
+   "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+   "source": "Hacker News",
+   "platform": "hackernews",
+   "summary": "Article URL: https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/ Comments URL: https://news.ycombinator.com/item?id=48614631 Points: 217 # Comments: 151",
+   "published": "2026-06-21T00:58:13+00:00",
+   "age_label": "23小时前",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+   "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+   "source": "TechCrunch AI",
+   "platform": "techcrunch",
+   "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+   "published": "2026-06-20T20:32:29+00:00",
+   "age_label": "1天前",
+   "tags": [
+    "AI",
+    "Security",
+    "Meredith Whittaker",
+    "signal"
+   ],
+   "image": ""
+  },
+  {
+   "title": "经典之作PPO算法：曾被NeurIPS拒了",
+   "url": "https://36kr.com/p/3862709593887746",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "卖掉公司，50位员工实现财富自由",
+   "url": "https://36kr.com/p/3862619740853511",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "强化学习之父Sutton联手毁灭战士之父Carmack：让机器人进入真实世界打游戏",
+   "url": "https://36kr.com/p/3862459989988610",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+   "url": "https://36kr.com/p/3862527005693186",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI巨头的“Token补贴大战”，快打完了吗？",
+   "url": "https://36kr.com/p/3862408718423041",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "GRPO过时了吗？",
+   "url": "https://36kr.com/p/3862288768570377",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "芯片设备“铁律”，正在被打破",
+   "url": "https://36kr.com/p/3862257619293193",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "9600亿AI独角兽，又要融资了",
+   "url": "https://36kr.com/p/3861431890990089",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "为AI芯片“续命”，中国人造钻石等来了大机会",
+   "url": "https://36kr.com/p/3859519082320898",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "他刚融了27亿，李飞飞也投钱了",
+   "url": "https://36kr.com/p/3861004391257094",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "智谱创始人唐杰隔空对话马斯克：赶超Claude Fable 5不用等到2027年",
+   "url": "https://36kr.com/p/3859419411534850",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "硅谷最抢手的新岗位出现了",
+   "url": "https://36kr.com/p/3859434968185734",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "AI 成绩单背后，藏着一位华人“出题人”",
+   "url": "https://36kr.com/p/3859842727263113",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "都说AI好用，为什么人效还是一样？",
+   "url": "https://36kr.com/p/3860130092602628",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  },
+  {
+   "title": "中国机器人充当间谍，还操纵儿童？美国泼脏水背后是一门生意",
+   "url": "https://36kr.com/p/3860779263956226",
+   "source": "36氪 AI",
+   "platform": "36kr",
+   "summary": "",
+   "published": null,
+   "age_label": "",
+   "tags": [],
+   "image": ""
+  }
+ ]
+}
